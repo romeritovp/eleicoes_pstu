@@ -1,0 +1,783 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PSTU no Brasil — Resultados eleitorais por município</title>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,400..800&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+
+<style>
+  :root {
+    --fundo: #16181d;
+    --painel: #1e2128;
+    --traco: #2e323b;
+    --texto: #e8e6e1;
+    --texto-suave: #8b8f99;
+    --vermelho: #d92b2b;
+    --municipio-zero: #23262e;
+    --municipio-borda: #3a3f4b;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { height: 100%; }
+
+  body {
+    background: var(--fundo);
+    color: var(--texto);
+    font-family: 'Archivo', system-ui, sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+  }
+
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 0.9rem 1.5rem;
+    border-bottom: 1px solid var(--traco);
+    flex-wrap: wrap;
+  }
+
+  header h1 {
+    font-size: 1.05rem;
+    font-weight: 800;
+    font-stretch: 80%;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+  header h1 .destaque { color: var(--vermelho); }
+
+  .controles { display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; }
+
+  /* ---------- Dropdown de estado ---------- */
+  #seletor-uf {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.78rem;
+    color: var(--texto);
+    background: var(--painel);
+    border: 1px solid var(--traco);
+    border-left: 3px solid var(--vermelho);
+    padding: 0.45rem 0.7rem;
+    cursor: pointer;
+  }
+  #seletor-uf option:disabled { color: var(--texto-suave); }
+
+  /* ---------- Seletor de pleito (ano) ---------- */
+  #seletor-ano { display: flex; gap: 0.4rem; flex-wrap: wrap; }
+
+  #seletor-ano button {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.05em;
+    color: var(--texto-suave);
+    background: transparent;
+    border: 1px solid var(--traco);
+    border-bottom: 2px solid var(--traco);
+    padding: 0.45rem 0.7rem;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  #seletor-ano button:hover { color: var(--texto); border-color: var(--texto-suave); }
+  #seletor-ano button.ativo {
+    color: var(--texto);
+    border-bottom-color: var(--vermelho);
+    font-weight: 600;
+  }
+  #seletor-ano button.indisponivel { opacity: 0.35; cursor: not-allowed; }
+
+  /* ---------- Seletor de cargo ---------- */
+  #seletor-cargo { display: flex; gap: 0.4rem; flex-wrap: wrap; }
+  #seletor-cargo button {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--texto-suave);
+    background: transparent;
+    border: 1px solid var(--traco);
+    padding: 0.45rem 0.8rem;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  #seletor-cargo button:hover { color: var(--texto); border-color: var(--texto-suave); }
+  #seletor-cargo button.ativo {
+    color: #fff;
+    background: var(--vermelho);
+    border-color: var(--vermelho);
+  }
+
+  /* ---------- Área do mapa ---------- */
+  #mapa-wrap { position: relative; flex: 1; min-height: 60vh; }
+  #mapa { position: absolute; inset: 0; background: var(--fundo); outline: none; }
+  .leaflet-container { background: var(--fundo); font: inherit; }
+
+  /* ---------- Painel de informação ---------- */
+  #painel-info {
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+    z-index: 1000;
+    width: 250px;
+    background: var(--painel);
+    border: 1px solid var(--traco);
+    border-left: 3px solid var(--vermelho);
+    padding: 0.9rem 1rem;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.78rem;
+    line-height: 1.5;
+  }
+  #painel-info .rotulo {
+    color: var(--texto-suave);
+    text-transform: uppercase;
+    font-size: 0.62rem;
+    letter-spacing: 0.08em;
+    display: block;
+    margin-bottom: 0.2rem;
+  }
+  #painel-info .nome-municipio {
+    font-family: 'Archivo', sans-serif;
+    font-size: 1.05rem;
+    font-weight: 700;
+    margin-bottom: 0.4rem;
+  }
+  #painel-info table { width: 100%; border-collapse: collapse; }
+  #painel-info td { padding: 0.15rem 0; }
+  #painel-info td.votos { text-align: right; font-weight: 600; }
+  #painel-info tr.cargo-ativo td { color: var(--vermelho); }
+  #painel-info tr.linha-candidato td {
+    color: var(--texto-suave);
+    font-size: 0.7rem;
+    padding-left: 0.6rem;
+  }
+  #painel-info tr.linha-candidato td.votos { padding-left: 0; }
+
+  /* ---------- Legenda ---------- */
+  #legenda {
+    position: absolute;
+    left: 1rem;
+    bottom: 1rem;
+    z-index: 1000;
+    background: var(--painel);
+    border: 1px solid var(--traco);
+    padding: 0.7rem 0.9rem;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.65rem;
+    color: var(--texto-suave);
+  }
+  #legenda .titulo {
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.4rem;
+    display: block;
+  }
+  #legenda .faixa { display: flex; align-items: center; gap: 0.5rem; margin-top: 0.2rem; }
+  #legenda .cor { width: 14px; height: 14px; border: 1px solid var(--municipio-borda); }
+
+  /* ---------- Tabela de totais por ano ---------- */
+  #totais {
+    border-top: 1px solid var(--traco);
+    padding: 1.2rem 1.5rem 2rem;
+  }
+  #totais h2 {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--texto-suave);
+    margin-bottom: 0.8rem;
+    font-weight: 600;
+  }
+  #totais h2 span { color: var(--texto); }
+  #tabela-totais {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.78rem;
+  }
+  #tabela-totais th, #tabela-totais td {
+    text-align: right;
+    padding: 0.5rem 0.8rem;
+    border-bottom: 1px solid var(--traco);
+  }
+  #tabela-totais th:first-child, #tabela-totais td:first-child {
+    text-align: left;
+    color: var(--texto-suave);
+  }
+  #tabela-totais thead th {
+    color: var(--texto-suave);
+    text-transform: uppercase;
+    font-size: 0.62rem;
+    letter-spacing: 0.06em;
+    border-bottom: 1px solid var(--municipio-borda);
+  }
+  #tabela-totais td.cargo-ativo { color: var(--vermelho); font-weight: 600; }
+  #tabela-totais tr.linha-candidatos td {
+    border-top: 1px solid var(--municipio-borda);
+    color: var(--texto-suave);
+    font-style: italic;
+  }
+  #tabela-totais tr.linha-total td {
+    border-top: 2px solid var(--municipio-borda);
+    border-bottom: none;
+    font-weight: 700;
+    color: var(--texto);
+    padding-top: 0.7rem;
+  }
+  #tabela-totais td.vazio { color: var(--municipio-borda); }
+
+  #status {
+    position: absolute; inset: 0;
+    display: flex; align-items: center; justify-content: center;
+    z-index: 2000;
+    background: var(--fundo);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.8rem;
+    color: var(--texto-suave);
+    transition: opacity 0.4s;
+  }
+  #status.oculto { opacity: 0; pointer-events: none; }
+  #status .erro { color: var(--vermelho); text-align: center; max-width: 32rem; padding: 1rem; line-height: 1.6; }
+
+  footer {
+    padding: 0.5rem 1.5rem;
+    border-top: 1px solid var(--traco);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.65rem;
+    color: var(--texto-suave);
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  @media (max-width: 600px) {
+    /* No celular o mapa precisa ficar inteiro visível: as caixas saem
+       de cima dele. */
+    #mapa-wrap { min-height: 0; height: 56vh; flex: none; }
+
+    /* Painel de info deixa de flutuar e vira uma faixa abaixo do mapa.
+       O JS o move para fora de #mapa-wrap (que tem altura fixa) e o
+       coloca no fluxo da página, entre o mapa e a tabela de totais. */
+    #painel-info {
+      position: static;
+      width: auto;
+      border-left: none;
+      border-top: 3px solid var(--vermelho);
+      border-radius: 0;
+      display: none;            /* só aparece após o primeiro toque */
+    }
+    #painel-info.ativo { display: block; }
+
+    /* Legenda vira barra horizontal fina, ancorada no rodapé do mapa */
+    #legenda {
+      left: 0; right: 0; bottom: 0;
+      background: rgba(22, 24, 29, 0.92);
+      border: none;
+      border-top: 1px solid var(--traco);
+      padding: 0.4rem 0.7rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      overflow-x: auto;
+      white-space: nowrap;
+    }
+    #legenda .titulo { margin: 0; flex-shrink: 0; }
+    #legenda-faixas { display: flex; gap: 0.6rem; }
+    #legenda .faixa { margin-top: 0; flex-shrink: 0; }
+
+    /* Controles do topo empilham e ocupam a largura toda */
+    .controles { width: 100%; }
+    #seletor-uf { width: 100%; }
+    #seletor-ano, #seletor-cargo { width: 100%; }
+    #seletor-ano button, #seletor-cargo button { flex: 1; text-align: center; }
+
+    /* Tabela de totais com rolagem horizontal se não couber */
+    #totais { overflow-x: auto; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>PSTU <span class="destaque">·</span> <span id="titulo-uf">Brasil</span> <span class="destaque" id="titulo-ano">2022</span></h1>
+  <div class="controles">
+    <select id="seletor-uf" title="Escolha o estado"></select>
+    <nav id="seletor-ano"></nav>
+    <nav id="seletor-cargo"></nav>
+  </div>
+</header>
+
+<div id="mapa-wrap">
+  <div id="mapa"></div>
+
+  <aside id="painel-info">
+    <span class="rotulo">Município</span>
+    <div class="nome-municipio" id="info-nome">Toque num município</div>
+    <table id="info-votos"></table>
+  </aside>
+
+  <div id="legenda">
+    <span class="titulo">Votos <span id="legenda-cargo"></span></span>
+    <div id="legenda-faixas"></div>
+  </div>
+
+  <div id="status">carregando malha do IBGE e dados do TSE…</div>
+</div>
+
+<section id="totais">
+  <h2>Total de votos por pleito — <span id="totais-uf">—</span></h2>
+  <table id="tabela-totais"></table>
+</section>
+
+<footer>
+  <span>Malha: API do IBGE (v3) · Votos: TSE — Dados Abertos</span>
+  <span>Votos nominais por município, 1º turno</span>
+</footer>
+
+<script>
+/* =====================================================================
+   PSTU no Brasil — coroplético por UF, com seletor de estado, pleito
+   e cargo, e tabela de totais por ano.
+   Estrutura de dados esperada: data/<UF>/<ano>.json
+   ===================================================================== */
+
+// Código IBGE de cada UF — necessário para montar a URL da malha.
+const UFS = {
+  AC: { nome: 'Acre', ibge: 12 },             AL: { nome: 'Alagoas', ibge: 27 },
+  AP: { nome: 'Amapá', ibge: 16 },            AM: { nome: 'Amazonas', ibge: 13 },
+  BA: { nome: 'Bahia', ibge: 29 },            CE: { nome: 'Ceará', ibge: 23 },
+  DF: { nome: 'Distrito Federal', ibge: 53 }, ES: { nome: 'Espírito Santo', ibge: 32 },
+  GO: { nome: 'Goiás', ibge: 52 },            MA: { nome: 'Maranhão', ibge: 21 },
+  MT: { nome: 'Mato Grosso', ibge: 51 },      MS: { nome: 'Mato Grosso do Sul', ibge: 50 },
+  MG: { nome: 'Minas Gerais', ibge: 31 },     PA: { nome: 'Pará', ibge: 15 },
+  PB: { nome: 'Paraíba', ibge: 25 },          PR: { nome: 'Paraná', ibge: 41 },
+  PE: { nome: 'Pernambuco', ibge: 26 },       PI: { nome: 'Piauí', ibge: 22 },
+  RJ: { nome: 'Rio de Janeiro', ibge: 33 },   RN: { nome: 'Rio Grande do Norte', ibge: 24 },
+  RS: { nome: 'Rio Grande do Sul', ibge: 43 },RO: { nome: 'Rondônia', ibge: 11 },
+  RR: { nome: 'Roraima', ibge: 14 },          SC: { nome: 'Santa Catarina', ibge: 42 },
+  SP: { nome: 'São Paulo', ibge: 35 },        SE: { nome: 'Sergipe', ibge: 28 },
+  TO: { nome: 'Tocantins', ibge: 17 },
+};
+
+const ANOS = [2022, 2018, 2014];
+
+const malhaUrl = ibge =>
+  'https://servicodados.ibge.gov.br/api/v3/malhas/estados/' + ibge +
+  '?formato=application/vnd.geo+json&qualidade=intermediaria&intrarregiao=municipio';
+const nomesUrl = ibge =>
+  'https://servicodados.ibge.gov.br/api/v1/localidades/estados/' + ibge + '/municipios';
+const dadosUrl = (uf, ano) => 'data/' + uf + '/' + ano + '.json';
+
+const CORES = ['#4a2024', '#6e2225', '#932425', '#b82826', '#d92b2b', '#ff5c3d'];
+const COR_ZERO  = getComputedStyle(document.documentElement).getPropertyValue('--municipio-zero').trim();
+const COR_BORDA = getComputedStyle(document.documentElement).getPropertyValue('--municipio-borda').trim();
+
+const ORDEM_CARGOS = ['PRESIDENTE', 'GOVERNADOR', 'SENADOR', 'DEPUTADO FEDERAL',
+                      'DEPUTADO ESTADUAL', 'DEPUTADO DISTRITAL', 'PREFEITO', 'VEREADOR'];
+
+// ---------- Estado da aplicação ----------
+let ufAtiva = 'PE';
+let anoAtivo = 2022;
+let cargoAtivo = null;
+
+let dadosPSTU = {};            // dados do (uf, ano) ativo
+let nomePorCodigo = {};        // nomes dos municípios da UF ativa
+let cargos = [];
+let quebras = [];
+let camadaMunicipios = null;
+let geojsonAtual = null;
+let codigoSelecionado = null;
+
+// Cache em dois níveis: malha/nomes por UF, e dados por uf|ano
+const cacheMalha = {};         // { PE: {geojson, nomes} }
+const cacheDados = {};         // { "PE|2022": {...} }
+
+const mapa = L.map('mapa', { zoomControl: true, attributionControl: false });
+const elStatus = document.getElementById('status');
+const elNome   = document.getElementById('info-nome');
+const elVotos  = document.getElementById('info-votos');
+
+const elPainel = document.getElementById('painel-info');
+const elMapaWrap = document.getElementById('mapa-wrap');
+const elTotais = document.getElementById('totais');
+
+// No mobile, o painel precisa sair de #mapa-wrap (altura fixa) e entrar
+// no fluxo da página, antes da tabela de totais. No desktop, ele volta
+// para dentro do wrap para flutuar sobre o mapa.
+function posicionarPainel() {
+  const mobile = window.matchMedia('(max-width: 600px)').matches;
+  if (mobile && elPainel.parentElement === elMapaWrap) {
+    // tira de dentro do mapa e coloca antes da tabela de totais
+    elTotais.parentElement.insertBefore(elPainel, elTotais);
+  } else if (!mobile && elPainel.parentElement !== elMapaWrap) {
+    // devolve para dentro do mapa, onde flutua
+    elMapaWrap.appendChild(elPainel);
+  }
+}
+
+// ---------- Boot ----------
+function iniciar() {
+  posicionarPainel();
+  montarSeletorUF();
+  montarSeletorAnos();
+  carregarUF(ufAtiva);
+}
+
+// ---------- Carregamento de UF (malha + dados) ----------
+async function carregarUF(uf) {
+  mostrarStatus('carregando malha de ' + UFS[uf].nome + '…');
+  try {
+    if (!cacheMalha[uf]) {
+      const ibge = UFS[uf].ibge;
+      const [rMalha, rNomes] = await Promise.all([fetch(malhaUrl(ibge)), fetch(nomesUrl(ibge))]);
+      if (!rMalha.ok) throw new Error('malha IBGE ' + uf + ' (HTTP ' + rMalha.status + ')');
+      if (!rNomes.ok) throw new Error('nomes IBGE ' + uf + ' (HTTP ' + rNomes.status + ')');
+      const geojson = await rMalha.json();
+      const munic = await rNomes.json();
+      const nomes = {};
+      munic.forEach(m => { nomes[String(m.id)] = m.nome; });
+      cacheMalha[uf] = { geojson, nomes };
+    }
+
+    ufAtiva = uf;
+    geojsonAtual = cacheMalha[uf].geojson;
+    nomePorCodigo = cacheMalha[uf].nomes;
+    codigoSelecionado = null;
+
+    document.getElementById('titulo-uf').textContent = UFS[uf].nome;
+    document.getElementById('totais-uf').textContent = UFS[uf].nome;
+    document.getElementById('seletor-uf').value = uf;
+
+    desenharMunicipios(geojsonAtual);
+    await carregarAno(anoAtivo);
+    await montarTabelaTotais();   // varre todos os anos da UF
+    ocultarStatus();
+  } catch (erro) {
+    mostrarErro(erro.message);
+  }
+}
+
+// ---------- Carregamento de um pleito (uf|ano) ----------
+async function buscarDados(uf, ano) {
+  const chave = uf + '|' + ano;
+  if (cacheDados[chave] === undefined) {
+    try {
+      const resp = await fetch(dadosUrl(uf, ano));
+      cacheDados[chave] = resp.ok ? await resp.json() : null;  // null = pleito sem arquivo
+    } catch (_) {
+      cacheDados[chave] = null;
+    }
+  }
+  return cacheDados[chave];
+}
+
+async function carregarAno(ano) {
+  const dados = await buscarDados(ufAtiva, ano);
+  anoAtivo = ano;
+  document.getElementById('titulo-ano').textContent = ano;
+
+  document.querySelectorAll('#seletor-ano button').forEach(b =>
+    b.classList.toggle('ativo', Number(b.dataset.ano) === ano)
+  );
+
+  if (!dados) {
+    dadosPSTU = {};
+    cargos = [];
+    document.querySelectorAll('#seletor-ano button').forEach(b => {
+      if (Number(b.dataset.ano) === ano) b.classList.add('indisponivel');
+    });
+    elNome.textContent = 'Pleito ' + ano + ' indisponível em ' + ufAtiva;
+    elVotos.innerHTML = '';
+    montarSeletor();
+    if (camadaMunicipios) repintar();
+    return;
+  }
+
+  dadosPSTU = dados;
+  detectarCargos();
+  montarSeletor();
+  definirCargo(cargos.includes(cargoAtivo) ? cargoAtivo : cargos[0]);
+}
+
+async function trocarAno(ano) {
+  if (ano === anoAtivo) return;
+  await carregarAno(ano);
+  if (codigoSelecionado) mostrarInfo(codigoSelecionado);
+}
+
+// ---------- Detecção de cargos e escala ----------
+function votosDe(municipio, cargo) {
+  if (!municipio || municipio[cargo] == null) return 0;
+  const v = municipio[cargo];
+  return typeof v === 'object' ? (v.total || 0) : v;
+}
+function candidatosDe(municipio, cargo) {
+  if (!municipio || typeof municipio[cargo] !== 'object') return null;
+  return municipio[cargo].candidatos || null;
+}
+
+function detectarCargos() {
+  const conjunto = new Set();
+  Object.values(dadosPSTU).forEach(m =>
+    Object.keys(m).forEach(k => { if (k !== 'nome') conjunto.add(k); })
+  );
+  cargos = ORDEM_CARGOS.filter(c => conjunto.has(c))
+                       .concat([...conjunto].filter(c => !ORDEM_CARGOS.includes(c)));
+}
+
+function calcularQuebras(cargo) {
+  const valores = Object.values(dadosPSTU).map(m => votosDe(m, cargo)).filter(v => v > 0);
+  if (!valores.length) return [1, 2, 3, 4, 5];
+  const max = Math.max(...valores);
+  const razao = Math.pow(max, 1 / 6);
+  const arredondar = v => {
+    if (v < 10) return Math.round(v);
+    const mag = Math.pow(10, Math.floor(Math.log10(v)));
+    return Math.round(v / (mag / 2)) * (mag / 2);
+  };
+  const cortes = [];
+  for (let i = 1; i <= 5; i++) cortes.push(arredondar(Math.pow(razao, i)));
+  return [...new Set(cortes)].filter(c => c >= 1).sort((a, b) => a - b);
+}
+
+function corPara(votos) {
+  if (!votos) return COR_ZERO;
+  for (let i = 0; i < quebras.length; i++) if (votos <= quebras[i]) return CORES[i];
+  return CORES[CORES.length - 1];
+}
+
+// ---------- Seletores ----------
+function montarSeletorUF() {
+  const sel = document.getElementById('seletor-uf');
+  sel.innerHTML = '';
+  Object.keys(UFS).sort().forEach(uf => {
+    const opt = document.createElement('option');
+    opt.value = uf;
+    opt.textContent = uf + ' — ' + UFS[uf].nome;
+    sel.appendChild(opt);
+  });
+  sel.value = ufAtiva;
+  sel.addEventListener('change', e => carregarUF(e.target.value));
+}
+
+function montarSeletorAnos() {
+  const nav = document.getElementById('seletor-ano');
+  nav.innerHTML = '';
+  ANOS.forEach(ano => {
+    const btn = document.createElement('button');
+    btn.textContent = ano;
+    btn.dataset.ano = ano;
+    btn.addEventListener('click', () => trocarAno(ano));
+    nav.appendChild(btn);
+  });
+}
+
+function montarSeletor() {
+  const nav = document.getElementById('seletor-cargo');
+  nav.innerHTML = '';
+  cargos.forEach(cargo => {
+    const btn = document.createElement('button');
+    btn.textContent = cargo.toLowerCase();
+    btn.dataset.cargo = cargo;
+    btn.addEventListener('click', () => definirCargo(cargo));
+    nav.appendChild(btn);
+  });
+}
+
+function definirCargo(cargo) {
+  cargoAtivo = cargo;
+  quebras = calcularQuebras(cargo);
+  document.querySelectorAll('#seletor-cargo button').forEach(b =>
+    b.classList.toggle('ativo', b.dataset.cargo === cargo)
+  );
+  atualizarLegenda();
+  if (camadaMunicipios) repintar();
+  if (codigoSelecionado) mostrarInfo(codigoSelecionado);
+  marcarColunaAtiva();
+}
+
+function atualizarLegenda() {
+  if (!cargoAtivo) { document.getElementById('legenda-faixas').innerHTML = ''; return; }
+  document.getElementById('legenda-cargo').textContent = '· ' + cargoAtivo.toLowerCase();
+  const faixas = document.getElementById('legenda-faixas');
+  faixas.innerHTML = '<div class="faixa"><span class="cor" style="background:' + COR_ZERO + '"></span> 0</div>';
+  let anterior = 1;
+  quebras.forEach((corte, i) => {
+    faixas.innerHTML += '<div class="faixa"><span class="cor" style="background:' + CORES[i] +
+      '"></span> ' + anterior + '–' + corte + '</div>';
+    anterior = corte + 1;
+  });
+  faixas.innerHTML += '<div class="faixa"><span class="cor" style="background:' +
+    CORES[CORES.length - 1] + '"></span> ' + anterior + '+</div>';
+}
+
+// ---------- Mapa ----------
+function estiloDe(codigo) {
+  return { fillColor: corPara(votosDe(dadosPSTU[codigo], cargoAtivo)),
+           fillOpacity: 1, color: COR_BORDA, weight: 0.7 };
+}
+
+function desenharMunicipios(geojson) {
+  if (camadaMunicipios) { mapa.removeLayer(camadaMunicipios); camadaMunicipios = null; }
+  camadaMunicipios = L.geoJSON(geojson, {
+    style: f => estiloDe(String(f.properties.codarea)),
+    onEachFeature: (feature, layer) => {
+      const codigo = String(feature.properties.codarea);
+      layer.on('mouseover', () => { layer.setStyle({ color: '#fff', weight: 1.4 }); layer.bringToFront(); mostrarInfo(codigo); });
+      layer.on('mouseout', () => layer.setStyle({ color: COR_BORDA, weight: 0.7 }));
+      layer.on('click', () => mostrarInfo(codigo));
+    },
+  }).addTo(mapa);
+  // o container pode ter mudado de tamanho (troca de UF, layout mobile):
+  // força o Leaflet a recalcular as dimensões antes de enquadrar
+  mapa.invalidateSize();
+  mapa.fitBounds(camadaMunicipios.getBounds(), { padding: [20, 20] });
+}
+
+function repintar() {
+  if (!camadaMunicipios) return;
+  camadaMunicipios.eachLayer(layer =>
+    layer.setStyle(estiloDe(String(layer.feature.properties.codarea))));
+}
+
+function mostrarInfo(codigo) {
+  codigoSelecionado = codigo;
+  elPainel.classList.add('ativo');
+  const municipio = dadosPSTU[codigo];
+  elNome.textContent = (municipio && municipio.nome) || nomePorCodigo[codigo] || ('Município ' + codigo);
+
+  // No mobile o painel fica abaixo do mapa: mostra só o total do cargo
+  // ativo, para não ocupar espaço. No desktop, painel completo.
+  const mobile = window.matchMedia('(max-width: 600px)').matches;
+
+  if (mobile) {
+    if (!cargoAtivo) { elVotos.innerHTML = ''; return; }
+    elVotos.innerHTML =
+      '<tr><td>' + cargoAtivo.toLowerCase() + '</td>' +
+      '<td class="votos">' + votosDe(municipio, cargoAtivo).toLocaleString('pt-BR') + '</td></tr>';
+    return;
+  }
+
+  // ----- Desktop: lista todos os cargos + candidatos do cargo ativo -----
+  let html = '';
+  cargos.forEach(cargo => {
+    const ativo = cargo === cargoAtivo;
+    html += '<tr' + (ativo ? ' class="cargo-ativo"' : '') + '><td>' + cargo.toLowerCase() +
+            '</td><td class="votos">' + votosDe(municipio, cargo).toLocaleString('pt-BR') + '</td></tr>';
+    if (ativo) {
+      const cand = candidatosDe(municipio, cargo);
+      if (cand) Object.entries(cand).sort((a, b) => b[1] - a[1]).forEach(([nome, qt]) => {
+        html += '<tr class="linha-candidato"><td>↳ ' + nome + '</td><td class="votos">' +
+                qt.toLocaleString('pt-BR') + '</td></tr>';
+      });
+    }
+  });
+  elVotos.innerHTML = html || '<tr><td style="color:var(--texto-suave)">sem dados</td></tr>';
+}
+
+// ---------- Tabela de totais por ano ----------
+async function montarTabelaTotais() {
+  // Busca todos os anos da UF ativa (usa cache) e soma por cargo.
+  const porAno = {};                  // { 2022: { GOVERNADOR: 1745, ... }, ... }
+  const candAno = {};                 // { 2022: Set{nomes distintos}, ... }
+  const cargosVistos = new Set();
+
+  for (const ano of ANOS) {
+    const dados = await buscarDados(ufAtiva, ano);
+    if (!dados) { porAno[ano] = null; continue; }
+    const soma = {};
+    const nomes = new Set();          // candidatos únicos do ano (todos os cargos)
+    Object.values(dados).forEach(m => {
+      Object.keys(m).forEach(k => {
+        if (k === 'nome') return;
+        cargosVistos.add(k);
+        soma[k] = (soma[k] || 0) + votosDe(m, k);
+        // junta os nomes de candidatos sem duplicar entre municípios
+        const cand = candidatosDe(m, k);
+        if (cand) Object.keys(cand).forEach(n => nomes.add(k + '|' + n));
+      });
+    });
+    porAno[ano] = soma;
+    candAno[ano] = nomes;
+  }
+
+  const listaCargos = ORDEM_CARGOS.filter(c => cargosVistos.has(c))
+    .concat([...cargosVistos].filter(c => !ORDEM_CARGOS.includes(c)));
+
+  const tabela = document.getElementById('tabela-totais');
+  if (!listaCargos.length) {
+    tabela.innerHTML = '<tbody><tr><td style="color:var(--texto-suave)">Nenhum dado disponível para ' + UFS[ufAtiva].nome + '.</td></tr></tbody>';
+    return;
+  }
+
+  // Cabeçalho: Cargo | 2014 | 2016 | ... (só anos com dados)
+  const anosComDados = ANOS.filter(a => porAno[a]).sort((a, b) => a - b);
+  let thead = '<thead><tr><th>Cargo</th>';
+  anosComDados.forEach(a => thead += '<th data-ano="' + a + '">' + a + '</th>');
+  thead += '</tr></thead>';
+
+  let tbody = '<tbody>';
+  listaCargos.forEach(cargo => {
+    tbody += '<tr><td>' + cargo.toLowerCase() + '</td>';
+    anosComDados.forEach(a => {
+      const v = porAno[a][cargo];
+      tbody += '<td data-ano="' + a + '" data-cargo="' + cargo + '">' +
+               (v ? v.toLocaleString('pt-BR') : '<span class="vazio">—</span>') + '</td>';
+    });
+    tbody += '</tr>';
+  });
+
+  // Linha: nº de candidaturas distintas do PSTU por ano
+  tbody += '<tr class="linha-candidatos"><td>candidatos</td>';
+  anosComDados.forEach(a => {
+    tbody += '<td>' + (candAno[a] ? candAno[a].size.toLocaleString('pt-BR') : '—') + '</td>';
+  });
+  tbody += '</tr>';
+
+  // Linha de total geral por ano
+  tbody += '<tr class="linha-total"><td>total</td>';
+  anosComDados.forEach(a => {
+    const tot = Object.values(porAno[a]).reduce((s, v) => s + v, 0);
+    tbody += '<td>' + tot.toLocaleString('pt-BR') + '</td>';
+  });
+  tbody += '</tr></tbody>';
+
+  tabela.innerHTML = thead + tbody;
+  marcarColunaAtiva();
+}
+
+function marcarColunaAtiva() {
+  // Destaca a coluna do ano ativo e as células do cargo ativo
+  document.querySelectorAll('#tabela-totais td[data-cargo]').forEach(td => {
+    td.classList.toggle('cargo-ativo', td.dataset.cargo === cargoAtivo);
+  });
+}
+
+// ---------- Status ----------
+function mostrarStatus(msg) { elStatus.textContent = msg; elStatus.classList.remove('oculto'); }
+function ocultarStatus() { elStatus.classList.add('oculto'); }
+function mostrarErro(msg) {
+  elStatus.classList.remove('oculto');
+  elStatus.innerHTML = '<div class="erro">Não consegui carregar os dados.<br><br>Detalhe: ' +
+    msg + '<br><br>Dica: abrindo o arquivo direto (file://) o fetch é bloqueado. Rode um servidor local:' +
+    '<br>python3 -m http.server 8000<br>e acesse localhost:8000</div>';
+}
+
+// Ao cruzar o limite mobile/desktop (girar a tela, redimensionar),
+// re-renderiza o painel no formato certo se houver município selecionado.
+window.matchMedia('(max-width: 600px)').addEventListener('change', () => {
+  posicionarPainel();
+  if (codigoSelecionado) mostrarInfo(codigoSelecionado);
+  mapa.invalidateSize();
+});
+
+iniciar();
+</script>
+</body>
+</html>
