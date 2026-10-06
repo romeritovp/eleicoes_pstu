@@ -1,0 +1,475 @@
+  :root {
+      --fundo: #16181d;
+      --painel: #1e2128;
+      --traco: #2e323b;
+      --texto: #e8e6e1;
+      --texto-suave: #8b8f99;
+      --vermelho: #d92b2b;
+      --municipio-zero: #23262e;
+      --municipio-borda: #3a3f4b;
+      --divisa-uf: #8b8f99;
+  }
+
+  * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+  }
+
+  html,
+  body {
+      height: 100%;
+  }
+
+  body {
+      background: var(--fundo);
+      color: var(--texto);
+      font-family: 'Archivo', system-ui, sans-serif;
+      display: flex;
+      flex-direction: column;
+      min-height: 100%;
+  }
+
+  header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      padding: 0.9rem 1.5rem;
+      border-bottom: 1px solid var(--traco);
+      flex-wrap: wrap;
+  }
+
+  header h1 {
+      font-size: 1.05rem;
+      font-weight: 800;
+      font-stretch: 80%;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+  }
+
+  header h1 .destaque {
+      color: var(--vermelho);
+  }
+
+  .controles {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+      flex-wrap: wrap;
+  }
+
+  /* ---------- Dropdown de estado ---------- */
+  #seletor-uf {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.78rem;
+      color: var(--texto);
+      background: var(--painel);
+      border: 1px solid var(--traco);
+      border-left: 3px solid var(--vermelho);
+      padding: 0.45rem 0.7rem;
+      cursor: pointer;
+  }
+
+  #seletor-uf option:disabled {
+      color: var(--texto-suave);
+  }
+
+  /* ---------- Seletor de pleito (ano) ---------- */
+  #seletor-ano {
+      display: flex;
+      gap: 0.4rem;
+      flex-wrap: wrap;
+  }
+
+  #seletor-ano button {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.68rem;
+      letter-spacing: 0.05em;
+      color: var(--texto-suave);
+      background: transparent;
+      border: 1px solid var(--traco);
+      border-bottom: 2px solid var(--traco);
+      padding: 0.45rem 0.7rem;
+      cursor: pointer;
+      transition: all 0.15s;
+  }
+
+  #seletor-ano button:hover {
+      color: var(--texto);
+      border-color: var(--texto-suave);
+  }
+
+  #seletor-ano button.ativo {
+      color: var(--texto);
+      border-bottom-color: var(--vermelho);
+      font-weight: 600;
+  }
+
+  #seletor-ano button.indisponivel {
+      opacity: 0.35;
+      cursor: not-allowed;
+  }
+
+  /* ---------- Seletor de cargo ---------- */
+  #seletor-cargo {
+      display: flex;
+      gap: 0.4rem;
+      flex-wrap: wrap;
+  }
+
+  #seletor-cargo button {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.68rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      color: var(--texto-suave);
+      background: transparent;
+      border: 1px solid var(--traco);
+      padding: 0.45rem 0.8rem;
+      cursor: pointer;
+      transition: all 0.15s;
+  }
+
+  #seletor-cargo button:hover {
+      color: var(--texto);
+      border-color: var(--texto-suave);
+  }
+
+  #seletor-cargo button.ativo {
+      color: #fff;
+      background: var(--vermelho);
+      border-color: var(--vermelho);
+  }
+
+  /* ---------- Área do mapa ---------- */
+  #mapa-wrap {
+      position: relative;
+      flex: 1;
+      min-height: 60vh;
+  }
+
+  #mapa {
+      position: absolute;
+      inset: 0;
+      background: var(--fundo);
+      outline: none;
+  }
+
+  .leaflet-container {
+      background: var(--fundo);
+      font: inherit;
+  }
+
+  /* ---------- Painel de informação ---------- */
+  #painel-info {
+      position: absolute;
+      right: 1rem;
+      top: 1rem;
+      z-index: 1000;
+      width: 250px;
+      background: var(--painel);
+      border: 1px solid var(--traco);
+      border-left: 3px solid var(--vermelho);
+      padding: 0.9rem 1rem;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.78rem;
+      line-height: 1.5;
+  }
+
+  #painel-info .rotulo {
+      color: var(--texto-suave);
+      text-transform: uppercase;
+      font-size: 0.62rem;
+      letter-spacing: 0.08em;
+      display: block;
+      margin-bottom: 0.2rem;
+  }
+
+  #painel-info .nome-municipio {
+      font-family: 'Archivo', sans-serif;
+      font-size: 1.05rem;
+      font-weight: 700;
+      margin-bottom: 0.4rem;
+  }
+
+  #painel-info table {
+      width: 100%;
+      border-collapse: collapse;
+  }
+
+  #painel-info td {
+      padding: 0.15rem 0;
+  }
+
+  #painel-info td.votos {
+      text-align: right;
+      font-weight: 600;
+  }
+
+  #painel-info tr.cargo-ativo td {
+      color: var(--vermelho);
+  }
+
+  #painel-info tr.linha-candidato td {
+      color: var(--texto-suave);
+      font-size: 0.7rem;
+      padding-left: 0.6rem;
+  }
+
+  #painel-info tr.linha-candidato td.votos {
+      padding-left: 0;
+  }
+
+  /* ---------- Legenda ---------- */
+  #legenda {
+      position: absolute;
+      left: 1rem;
+      bottom: 1rem;
+      z-index: 1000;
+      background: var(--painel);
+      border: 1px solid var(--traco);
+      padding: 0.7rem 0.9rem;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.65rem;
+      color: var(--texto-suave);
+  }
+
+  #legenda .titulo {
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 0.4rem;
+      display: block;
+  }
+
+  #legenda .faixa {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-top: 0.2rem;
+  }
+
+  #legenda .cor {
+      width: 14px;
+      height: 14px;
+      border: 1px solid var(--municipio-borda);
+  }
+
+  /* ---------- Tabela de totais por ano ---------- */
+  #totais {
+      border-top: 1px solid var(--traco);
+      padding: 1.2rem 1.5rem 2rem;
+  }
+
+  #totais h2 {
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--texto-suave);
+      margin-bottom: 0.8rem;
+      font-weight: 600;
+  }
+
+  #totais h2 span {
+      color: var(--texto);
+  }
+
+  .tabela-pleitos {
+      width: 100%;
+      border-collapse: collapse;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.78rem;
+  }
+
+  .tabela-pleitos th,
+  .tabela-pleitos td {
+      text-align: right;
+      padding: 0.5rem 0.8rem;
+      border-bottom: 1px solid var(--traco);
+  }
+
+  .tabela-pleitos th:first-child,
+  .tabela-pleitos td:first-child {
+      text-align: left;
+      color: var(--texto-suave);
+  }
+
+  .tabela-pleitos thead th {
+      color: var(--texto-suave);
+      text-transform: uppercase;
+      font-size: 0.62rem;
+      letter-spacing: 0.06em;
+      border-bottom: 1px solid var(--municipio-borda);
+  }
+
+  .tabela-pleitos td.cargo-ativo {
+      color: var(--vermelho);
+      font-weight: 600;
+  }
+
+  .tabela-pleitos tr.linha-candidatos td {
+      border-top: 1px solid var(--municipio-borda);
+      color: var(--texto-suave);
+      font-style: italic;
+  }
+
+  .tabela-pleitos tr.linha-total td {
+      border-top: 2px solid var(--municipio-borda);
+      border-bottom: none;
+      font-weight: 700;
+      color: var(--texto);
+      padding-top: 0.7rem;
+  }
+
+  .tabela-pleitos td.vazio {
+      color: var(--municipio-borda);
+  }
+
+  /* ---------- Tabela de média e mediana ---------- */
+  #totais h2.segunda {
+      margin-top: 2rem;
+  }
+
+  /* Ano agrupa as colunas média | mediana */
+  .tabela-pleitos th.ano-grupo {
+      text-align: center;
+      border-bottom: 1px solid var(--traco);
+  }
+
+  /* Sub-cabeçalho: "média" é o 1º filho da linha, mas não é coluna de rótulo */
+  .tabela-pleitos th.sub,
+  .tabela-pleitos th.sub:first-child {
+      text-align: right;
+      text-transform: lowercase;
+      font-size: 0.6rem;
+  }
+
+  /* Separador vertical entre os anos */
+  .tabela-medias th.ano-grupo,
+  .tabela-medias th.sub:nth-child(odd),
+  .tabela-medias tbody td:nth-child(even) {
+      border-left: 1px solid var(--traco);
+  }
+
+  #status {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 2000;
+      background: var(--fundo);
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.8rem;
+      color: var(--texto-suave);
+      transition: opacity 0.4s;
+  }
+
+  #status.oculto {
+      opacity: 0;
+      pointer-events: none;
+  }
+
+  #status .erro {
+      color: var(--vermelho);
+      text-align: center;
+      max-width: 32rem;
+      padding: 1rem;
+      line-height: 1.6;
+  }
+
+  footer {
+      padding: 0.5rem 1.5rem;
+      border-top: 1px solid var(--traco);
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.65rem;
+      color: var(--texto-suave);
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      flex-wrap: wrap;
+  }
+
+  @media (max-width: 600px) {
+
+      /* No celular o mapa precisa ficar inteiro visível: as caixas saem
+       de cima dele. */
+      #mapa-wrap {
+          min-height: 0;
+          height: 56vh;
+          flex: none;
+      }
+
+      /* Painel de info deixa de flutuar e vira uma faixa abaixo do mapa.
+       O JS o move para fora de #mapa-wrap (que tem altura fixa) e o
+       coloca no fluxo da página, entre o mapa e a tabela de totais. */
+      #painel-info {
+          position: static;
+          width: auto;
+          border-left: none;
+          border-top: 3px solid var(--vermelho);
+          border-radius: 0;
+          display: none;
+          /* só aparece após o primeiro toque */
+      }
+
+      #painel-info.ativo {
+          display: block;
+      }
+
+      /* Legenda vira barra horizontal fina, ancorada no rodapé do mapa */
+      #legenda {
+          left: 0;
+          right: 0;
+          bottom: 0;
+          background: rgba(22, 24, 29, 0.92);
+          border: none;
+          border-top: 1px solid var(--traco);
+          padding: 0.4rem 0.7rem;
+          display: flex;
+          align-items: center;
+          gap: 0.5rem;
+          overflow-x: auto;
+          white-space: nowrap;
+      }
+
+      #legenda .titulo {
+          margin: 0;
+          flex-shrink: 0;
+      }
+
+      #legenda-faixas {
+          display: flex;
+          gap: 0.6rem;
+      }
+
+      #legenda .faixa {
+          margin-top: 0;
+          flex-shrink: 0;
+      }
+
+      /* Controles do topo empilham e ocupam a largura toda */
+      .controles {
+          width: 100%;
+      }
+
+      #seletor-uf {
+          width: 100%;
+      }
+
+      #seletor-ano,
+      #seletor-cargo {
+          width: 100%;
+      }
+
+      #seletor-ano button,
+      #seletor-cargo button {
+          flex: 1;
+          text-align: center;
+      }
+
+      /* Tabela de totais com rolagem horizontal se não couber */
+      #totais {
+          overflow-x: auto;
+      }
+  }
