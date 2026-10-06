@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PSTU no Brasil — Índice de influência eleitoral</title>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,400..800&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>PSTU <span class="highlight">·</span> Índice de influência eleitoral</h1>
+  <div class="controls">
+    <div class="toggle" id="view-mode-toggle">
+      <button type="button" data-view="map" class="active">mapa</button>
+      <button type="button" data-view="table">tabela</button>
+    </div>
+    <a class="nav-link" href="index.html">← mapa de votos</a>
+  </div>
+</header>
+
+<section id="filters">
+  <div class="filter-field">
+    <label for="influence-year-select">ano</label>
+    <select id="influence-year-select" class="select-input"></select>
+  </div>
+
+  <div class="filter-field">
+    <label>uf</label>
+    <div class="dropdown" id="influence-state-dropdown">
+      <button type="button" id="influence-state-dropdown-toggle" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false">
+        <span id="influence-state-dropdown-label">todas</span><span class="arrow">▾</span>
+      </button>
+      <div id="influence-state-dropdown-menu" class="dropdown-menu" hidden></div>
+    </div>
+  </div>
+
+  <div class="filter-field">
+    <label for="min-size-input">votos mínimos no município</label>
+    <input type="number" id="min-size-input" value="50000" min="0" step="1000">
+  </div>
+
+  <div class="filter-field">
+    <label for="top-n-input">top</label>
+    <input type="number" id="top-n-input" value="10" min="1" step="1">
+  </div>
+
+  <button type="button" id="apply-filters-button" class="filter-button">Filtrar</button>
+</section>
+
+<div id="map-wrap">
+  <div id="map"></div>
+
+  <div id="legend">
+    <span class="title">Índice</span>
+    <div id="legend-ranges"></div>
+  </div>
+
+  <div id="status">carregando malha do IBGE…</div>
+</div>
+
+<section id="ranking-table-wrap" hidden>
+  <table id="ranking-table" class="ranking-table"></table>
+</section>
+
+<footer>
+  <span>Malha: API do IBGE (v3) · Votos: TSE — Dados Abertos</span>
+  <span>Índice de influência: desempenho do PSTU no município ÷ média estadual, por cargo</span>
+</footer>
+
+<script type="module" src="js/influence-main.js"></script>
+
+</body>
+</html>

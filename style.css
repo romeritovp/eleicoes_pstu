@@ -1,13 +1,13 @@
   :root {
-      --fundo: #16181d;
-      --painel: #1e2128;
-      --traco: #2e323b;
-      --texto: #e8e6e1;
-      --texto-suave: #8b8f99;
-      --vermelho: #d92b2b;
-      --municipio-zero: #23262e;
-      --municipio-borda: #3a3f4b;
-      --divisa-uf: #8b8f99;
+      --background: #16181d;
+      --panel: #1e2128;
+      --border: #2e323b;
+      --text: #e8e6e1;
+      --text-muted: #8b8f99;
+      --red: #d92b2b;
+      --municipality-zero: #23262e;
+      --municipality-border: #3a3f4b;
+      --state-border: #8b8f99;
   }
 
   * {
@@ -22,8 +22,8 @@
   }
 
   body {
-      background: var(--fundo);
-      color: var(--texto);
+      background: var(--background);
+      color: var(--text);
       font-family: 'Archivo', system-ui, sans-serif;
       display: flex;
       flex-direction: column;
@@ -36,7 +36,7 @@
       justify-content: space-between;
       gap: 1rem;
       padding: 0.9rem 1.5rem;
-      border-bottom: 1px solid var(--traco);
+      border-bottom: 1px solid var(--border);
       flex-wrap: wrap;
   }
 
@@ -48,137 +48,330 @@
       text-transform: uppercase;
   }
 
-  header h1 .destaque {
-      color: var(--vermelho);
+  header h1 .highlight {
+      color: var(--red);
   }
 
-  .controles {
+  .controls {
       display: flex;
       gap: 1rem;
       align-items: center;
       flex-wrap: wrap;
   }
 
-  /* ---------- Dropdown de estado ---------- */
-  #seletor-uf {
+  .nav-link {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.68rem;
+      letter-spacing: 0.05em;
+      color: var(--text-muted);
+      text-decoration: none;
+      white-space: nowrap;
+  }
+
+  .nav-link:hover {
+      color: var(--text);
+      text-decoration: underline;
+  }
+
+  /* ---------- Select nativo (UF, ano...) ---------- */
+  .select-input {
       font-family: 'IBM Plex Mono', monospace;
       font-size: 0.78rem;
-      color: var(--texto);
-      background: var(--painel);
-      border: 1px solid var(--traco);
-      border-left: 3px solid var(--vermelho);
+      color: var(--text);
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--red);
       padding: 0.45rem 0.7rem;
       cursor: pointer;
   }
 
-  #seletor-uf option:disabled {
-      color: var(--texto-suave);
+  .select-input option:disabled {
+      color: var(--text-muted);
   }
 
   /* ---------- Seletor de pleito (ano) ---------- */
-  #seletor-ano {
+  #year-selector {
       display: flex;
       gap: 0.4rem;
       flex-wrap: wrap;
   }
 
-  #seletor-ano button {
+  #year-selector button {
       font-family: 'IBM Plex Mono', monospace;
       font-size: 0.68rem;
       letter-spacing: 0.05em;
-      color: var(--texto-suave);
+      color: var(--text-muted);
       background: transparent;
-      border: 1px solid var(--traco);
-      border-bottom: 2px solid var(--traco);
+      border: 1px solid var(--border);
+      border-bottom: 2px solid var(--border);
       padding: 0.45rem 0.7rem;
       cursor: pointer;
       transition: all 0.15s;
   }
 
-  #seletor-ano button:hover {
-      color: var(--texto);
-      border-color: var(--texto-suave);
+  #year-selector button:hover {
+      color: var(--text);
+      border-color: var(--text-muted);
   }
 
-  #seletor-ano button.ativo {
-      color: var(--texto);
-      border-bottom-color: var(--vermelho);
+  #year-selector button.active {
+      color: var(--text);
+      border-bottom-color: var(--red);
       font-weight: 600;
   }
 
-  #seletor-ano button.indisponivel {
+  #year-selector button.unavailable {
       opacity: 0.35;
       cursor: not-allowed;
   }
 
-  /* ---------- Seletor de cargo ---------- */
-  #seletor-cargo {
-      display: flex;
-      gap: 0.4rem;
-      flex-wrap: wrap;
+  /* ---------- Dropdown com checkboxes (cargo, UF...) ---------- */
+  .dropdown {
+      position: relative;
   }
 
-  #seletor-cargo button {
+  .dropdown-toggle {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
       font-family: 'IBM Plex Mono', monospace;
       font-size: 0.68rem;
       letter-spacing: 0.05em;
       text-transform: uppercase;
-      color: var(--texto-suave);
+      color: var(--text-muted);
       background: transparent;
-      border: 1px solid var(--traco);
+      border: 1px solid var(--border);
       padding: 0.45rem 0.8rem;
       cursor: pointer;
       transition: all 0.15s;
   }
 
-  #seletor-cargo button:hover {
-      color: var(--texto);
-      border-color: var(--texto-suave);
+  .dropdown-toggle .arrow {
+      font-size: 0.6rem;
   }
 
-  #seletor-cargo button.ativo {
+  .dropdown-toggle:hover,
+  .dropdown.open .dropdown-toggle {
+      color: var(--text);
+      border-color: var(--text-muted);
+  }
+
+  .dropdown.open .dropdown-toggle {
+      border-color: var(--red);
+  }
+
+  .dropdown-menu {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      margin-top: 0.3rem;
+      min-width: 220px;
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--red);
+      padding: 0.3rem 0;
+      z-index: 1500;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.72rem;
+      max-height: 60vh;
+      overflow-y: auto;
+  }
+
+  .dropdown-menu[hidden] {
+      display: none;
+  }
+
+  .dropdown-menu label {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      padding: 0.4rem 0.9rem;
+      cursor: pointer;
+      color: var(--text-muted);
+      text-transform: lowercase;
+  }
+
+  .dropdown-menu label:hover {
+      background: rgba(255, 255, 255, 0.04);
+      color: var(--text);
+  }
+
+  .dropdown-menu label.all-option {
+      text-transform: uppercase;
+      font-weight: 600;
+      color: var(--text);
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 0.2rem;
+      padding-bottom: 0.6rem;
+  }
+
+  .dropdown-menu input[type="checkbox"] {
+      accent-color: var(--red);
+  }
+
+  /* ---------- Toggle de duas opções (modo do mapa, visualização...) ---------- */
+  .toggle {
+      display: flex;
+      gap: 0.4rem;
+      flex-wrap: wrap;
+  }
+
+  .toggle button {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.68rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      background: transparent;
+      border: 1px solid var(--border);
+      padding: 0.45rem 0.8rem;
+      cursor: pointer;
+      transition: all 0.15s;
+  }
+
+  .toggle button:hover {
+      color: var(--text);
+      border-color: var(--text-muted);
+  }
+
+  .toggle button.active {
       color: #fff;
-      background: var(--vermelho);
-      border-color: var(--vermelho);
+      background: var(--red);
+      border-color: var(--red);
+  }
+
+  /* ---------- Filtros do índice de influência ---------- */
+  #filters {
+      display: flex;
+      align-items: flex-end;
+      gap: 1.2rem;
+      flex-wrap: wrap;
+      padding: 0.9rem 1.5rem;
+      border-bottom: 1px solid var(--border);
+  }
+
+  .filter-field {
+      display: flex;
+      flex-direction: column;
+      gap: 0.35rem;
+  }
+
+  .filter-field label {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.62rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--text-muted);
+  }
+
+  .filter-field input[type="number"] {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.78rem;
+      color: var(--text);
+      background: var(--panel);
+      border: 1px solid var(--border);
+      padding: 0.45rem 0.7rem;
+      width: 9rem;
+  }
+
+  .filter-button {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.72rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      font-weight: 600;
+      color: #fff;
+      background: var(--red);
+      border: 1px solid var(--red);
+      padding: 0.5rem 1.1rem;
+      cursor: pointer;
+      transition: opacity 0.15s;
+  }
+
+  .filter-button:hover {
+      opacity: 0.85;
+  }
+
+  /* ---------- Tabela do ranking de influência ---------- */
+  .ranking-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.78rem;
+  }
+
+  .ranking-table th,
+  .ranking-table td {
+      text-align: right;
+      padding: 0.5rem 0.8rem;
+      border-bottom: 1px solid var(--border);
+  }
+
+  .ranking-table thead th {
+      color: var(--text-muted);
+      text-transform: uppercase;
+      font-size: 0.62rem;
+      letter-spacing: 0.06em;
+      border-bottom: 1px solid var(--municipality-border);
+  }
+
+  /* Município (2ª coluna, depois da posição) é o rótulo da linha */
+  .ranking-table td:nth-child(2) {
+      text-align: left;
+      color: var(--text);
+  }
+
+  .ranking-table td.index-value {
+      color: var(--red);
+      font-weight: 600;
+  }
+
+  .ranking-table td.empty {
+      color: var(--municipality-border);
+  }
+
+  #ranking-table-wrap {
+      padding: 1.2rem 1.5rem 2rem;
+      overflow-x: auto;
   }
 
   /* ---------- Área do mapa ---------- */
-  #mapa-wrap {
+  #map-wrap {
       position: relative;
       flex: 1;
       min-height: 60vh;
   }
 
-  #mapa {
+  #map {
       position: absolute;
       inset: 0;
-      background: var(--fundo);
+      background: var(--background);
       outline: none;
   }
 
   .leaflet-container {
-      background: var(--fundo);
+      background: var(--background);
       font: inherit;
   }
 
   /* ---------- Painel de informação ---------- */
-  #painel-info {
+  #info-panel {
       position: absolute;
       right: 1rem;
       top: 1rem;
       z-index: 1000;
       width: 250px;
-      background: var(--painel);
-      border: 1px solid var(--traco);
-      border-left: 3px solid var(--vermelho);
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--red);
       padding: 0.9rem 1rem;
       font-family: 'IBM Plex Mono', monospace;
       font-size: 0.78rem;
       line-height: 1.5;
   }
 
-  #painel-info .rotulo {
-      color: var(--texto-suave);
+  #info-panel .label {
+      color: var(--text-muted);
       text-transform: uppercase;
       font-size: 0.62rem;
       letter-spacing: 0.08em;
@@ -186,169 +379,169 @@
       margin-bottom: 0.2rem;
   }
 
-  #painel-info .nome-municipio {
+  #info-panel .municipality-name {
       font-family: 'Archivo', sans-serif;
       font-size: 1.05rem;
       font-weight: 700;
       margin-bottom: 0.4rem;
   }
 
-  #painel-info table {
+  #info-panel table {
       width: 100%;
       border-collapse: collapse;
   }
 
-  #painel-info td {
+  #info-panel td {
       padding: 0.15rem 0;
   }
 
-  #painel-info td.votos {
+  #info-panel td.votes {
       text-align: right;
       font-weight: 600;
   }
 
-  #painel-info tr.cargo-ativo td {
-      color: var(--vermelho);
+  #info-panel tr.active-office td {
+      color: var(--red);
   }
 
-  #painel-info tr.linha-candidato td {
-      color: var(--texto-suave);
+  #info-panel tr.candidate-line td {
+      color: var(--text-muted);
       font-size: 0.7rem;
       padding-left: 0.6rem;
   }
 
-  #painel-info tr.linha-candidato td.votos {
+  #info-panel tr.candidate-line td.votes {
       padding-left: 0;
   }
 
   /* ---------- Legenda ---------- */
-  #legenda {
+  #legend {
       position: absolute;
       left: 1rem;
       bottom: 1rem;
       z-index: 1000;
-      background: var(--painel);
-      border: 1px solid var(--traco);
+      background: var(--panel);
+      border: 1px solid var(--border);
       padding: 0.7rem 0.9rem;
       font-family: 'IBM Plex Mono', monospace;
       font-size: 0.65rem;
-      color: var(--texto-suave);
+      color: var(--text-muted);
   }
 
-  #legenda .titulo {
+  #legend .title {
       text-transform: uppercase;
       letter-spacing: 0.08em;
       margin-bottom: 0.4rem;
       display: block;
   }
 
-  #legenda .faixa {
+  #legend .range {
       display: flex;
       align-items: center;
       gap: 0.5rem;
       margin-top: 0.2rem;
   }
 
-  #legenda .cor {
+  #legend .color {
       width: 14px;
       height: 14px;
-      border: 1px solid var(--municipio-borda);
+      border: 1px solid var(--municipality-border);
   }
 
   /* ---------- Tabela de totais por ano ---------- */
-  #totais {
-      border-top: 1px solid var(--traco);
+  #totals {
+      border-top: 1px solid var(--border);
       padding: 1.2rem 1.5rem 2rem;
   }
 
-  #totais h2 {
+  #totals h2 {
       font-size: 0.72rem;
       text-transform: uppercase;
       letter-spacing: 0.08em;
-      color: var(--texto-suave);
+      color: var(--text-muted);
       margin-bottom: 0.8rem;
       font-weight: 600;
   }
 
-  #totais h2 span {
-      color: var(--texto);
+  #totals h2 span {
+      color: var(--text);
   }
 
-  .tabela-pleitos {
+  .elections-table {
       width: 100%;
       border-collapse: collapse;
       font-family: 'IBM Plex Mono', monospace;
       font-size: 0.78rem;
   }
 
-  .tabela-pleitos th,
-  .tabela-pleitos td {
+  .elections-table th,
+  .elections-table td {
       text-align: right;
       padding: 0.5rem 0.8rem;
-      border-bottom: 1px solid var(--traco);
+      border-bottom: 1px solid var(--border);
   }
 
-  .tabela-pleitos th:first-child,
-  .tabela-pleitos td:first-child {
+  .elections-table th:first-child,
+  .elections-table td:first-child {
       text-align: left;
-      color: var(--texto-suave);
+      color: var(--text-muted);
   }
 
-  .tabela-pleitos thead th {
-      color: var(--texto-suave);
+  .elections-table thead th {
+      color: var(--text-muted);
       text-transform: uppercase;
       font-size: 0.62rem;
       letter-spacing: 0.06em;
-      border-bottom: 1px solid var(--municipio-borda);
+      border-bottom: 1px solid var(--municipality-border);
   }
 
-  .tabela-pleitos td.cargo-ativo {
-      color: var(--vermelho);
+  .elections-table td.active-office {
+      color: var(--red);
       font-weight: 600;
   }
 
-  .tabela-pleitos tr.linha-candidatos td {
-      border-top: 1px solid var(--municipio-borda);
-      color: var(--texto-suave);
+  .elections-table tr.candidates-row td {
+      border-top: 1px solid var(--municipality-border);
+      color: var(--text-muted);
       font-style: italic;
   }
 
-  .tabela-pleitos tr.linha-total td {
-      border-top: 2px solid var(--municipio-borda);
+  .elections-table tr.total-row td {
+      border-top: 2px solid var(--municipality-border);
       border-bottom: none;
       font-weight: 700;
-      color: var(--texto);
+      color: var(--text);
       padding-top: 0.7rem;
   }
 
-  .tabela-pleitos td.vazio {
-      color: var(--municipio-borda);
+  .elections-table td.empty {
+      color: var(--municipality-border);
   }
 
   /* ---------- Tabela de média e mediana ---------- */
-  #totais h2.segunda {
+  #totals h2.secondary {
       margin-top: 2rem;
   }
 
   /* Ano agrupa as colunas média | mediana */
-  .tabela-pleitos th.ano-grupo {
+  .elections-table th.year-group {
       text-align: center;
-      border-bottom: 1px solid var(--traco);
+      border-bottom: 1px solid var(--border);
   }
 
   /* Sub-cabeçalho: "média" é o 1º filho da linha, mas não é coluna de rótulo */
-  .tabela-pleitos th.sub,
-  .tabela-pleitos th.sub:first-child {
+  .elections-table th.sub,
+  .elections-table th.sub:first-child {
       text-align: right;
       text-transform: lowercase;
       font-size: 0.6rem;
   }
 
   /* Separador vertical entre os anos */
-  .tabela-medias th.ano-grupo,
-  .tabela-medias th.sub:nth-child(odd),
-  .tabela-medias tbody td:nth-child(even) {
-      border-left: 1px solid var(--traco);
+  .averages-table th.year-group,
+  .averages-table th.sub:nth-child(odd),
+  .averages-table tbody td:nth-child(even) {
+      border-left: 1px solid var(--border);
   }
 
   #status {
@@ -358,20 +551,20 @@
       align-items: center;
       justify-content: center;
       z-index: 2000;
-      background: var(--fundo);
+      background: var(--background);
       font-family: 'IBM Plex Mono', monospace;
       font-size: 0.8rem;
-      color: var(--texto-suave);
+      color: var(--text-muted);
       transition: opacity 0.4s;
   }
 
-  #status.oculto {
+  #status.hidden {
       opacity: 0;
       pointer-events: none;
   }
 
-  #status .erro {
-      color: var(--vermelho);
+  #status .error {
+      color: var(--red);
       text-align: center;
       max-width: 32rem;
       padding: 1rem;
@@ -380,10 +573,10 @@
 
   footer {
       padding: 0.5rem 1.5rem;
-      border-top: 1px solid var(--traco);
+      border-top: 1px solid var(--border);
       font-family: 'IBM Plex Mono', monospace;
       font-size: 0.65rem;
-      color: var(--texto-suave);
+      color: var(--text-muted);
       display: flex;
       justify-content: space-between;
       gap: 1rem;
@@ -394,37 +587,37 @@
 
       /* No celular o mapa precisa ficar inteiro visível: as caixas saem
        de cima dele. */
-      #mapa-wrap {
+      #map-wrap {
           min-height: 0;
           height: 56vh;
           flex: none;
       }
 
       /* Painel de info deixa de flutuar e vira uma faixa abaixo do mapa.
-       O JS o move para fora de #mapa-wrap (que tem altura fixa) e o
+       O JS o move para fora de #map-wrap (que tem altura fixa) e o
        coloca no fluxo da página, entre o mapa e a tabela de totais. */
-      #painel-info {
+      #info-panel {
           position: static;
           width: auto;
           border-left: none;
-          border-top: 3px solid var(--vermelho);
+          border-top: 3px solid var(--red);
           border-radius: 0;
           display: none;
           /* só aparece após o primeiro toque */
       }
 
-      #painel-info.ativo {
+      #info-panel.active {
           display: block;
       }
 
       /* Legenda vira barra horizontal fina, ancorada no rodapé do mapa */
-      #legenda {
+      #legend {
           left: 0;
           right: 0;
           bottom: 0;
           background: rgba(22, 24, 29, 0.92);
           border: none;
-          border-top: 1px solid var(--traco);
+          border-top: 1px solid var(--border);
           padding: 0.4rem 0.7rem;
           display: flex;
           align-items: center;
@@ -433,43 +626,76 @@
           white-space: nowrap;
       }
 
-      #legenda .titulo {
+      #legend .title {
           margin: 0;
           flex-shrink: 0;
       }
 
-      #legenda-faixas {
+      #legend-ranges {
           display: flex;
           gap: 0.6rem;
       }
 
-      #legenda .faixa {
+      #legend .range {
           margin-top: 0;
           flex-shrink: 0;
       }
 
       /* Controles do topo empilham e ocupam a largura toda */
-      .controles {
+      .controls {
           width: 100%;
       }
 
-      #seletor-uf {
+      .select-input {
           width: 100%;
       }
 
-      #seletor-ano,
-      #seletor-cargo {
+      #year-selector,
+      .dropdown {
           width: 100%;
       }
 
-      #seletor-ano button,
-      #seletor-cargo button {
+      #year-selector button {
+          flex: 1;
+          text-align: center;
+      }
+
+      .dropdown-toggle {
+          width: 100%;
+          justify-content: space-between;
+      }
+
+      .dropdown-menu {
+          left: 0;
+          right: 0;
+          min-width: auto;
+      }
+
+      .toggle {
+          width: 100%;
+      }
+
+      .toggle button {
           flex: 1;
           text-align: center;
       }
 
       /* Tabela de totais com rolagem horizontal se não couber */
-      #totais {
+      #totals {
           overflow-x: auto;
+      }
+
+      /* Filtros do índice de influência empilham e ocupam a largura toda */
+      #filters {
+          flex-direction: column;
+          align-items: stretch;
+      }
+
+      .filter-field input[type="number"] {
+          width: 100%;
+      }
+
+      .filter-button {
+          width: 100%;
       }
   }

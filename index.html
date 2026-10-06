@@ -15,40 +15,50 @@
 <body>
 
 <header>
-  <h1>PSTU <span class="destaque">·</span> <span id="titulo-uf">Brasil</span> <span class="destaque" id="titulo-ano">2022</span></h1>
-  <div class="controles">
-    <select id="seletor-uf" title="Escolha o estado"></select>
-    <nav id="seletor-ano"></nav>
-    <nav id="seletor-cargo"></nav>
+  <h1>PSTU <span class="highlight">·</span> <span id="state-title">Brasil</span> <span class="highlight" id="year-title">2022</span></h1>
+  <div class="controls">
+    <select id="state-selector" class="select-input" title="Escolha o estado"></select>
+    <nav id="year-selector"></nav>
+    <div class="dropdown" id="office-dropdown">
+      <button type="button" id="office-dropdown-toggle" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false">
+        <span id="office-dropdown-label">cargo</span><span class="arrow">▾</span>
+      </button>
+      <div id="office-dropdown-menu" class="dropdown-menu" hidden></div>
+    </div>
+    <div class="toggle" id="vote-mode-toggle">
+      <button type="button" data-mode="total" class="active">votos totais</button>
+      <button type="button" data-mode="relative">votos relativos</button>
+    </div>
+    <a class="nav-link" href="influencia.html">índice de influência →</a>
   </div>
 </header>
 
-<div id="mapa-wrap">
-  <div id="mapa"></div>
+<div id="map-wrap">
+  <div id="map"></div>
 
-  <aside id="painel-info">
-    <span class="rotulo">Município</span>
-    <div class="nome-municipio" id="info-nome">Toque num município</div>
-    <table id="info-votos"></table>
+  <aside id="info-panel">
+    <span class="label">Município</span>
+    <div class="municipality-name" id="info-name">Toque num município</div>
+    <table id="info-votes"></table>
   </aside>
 
-  <div id="legenda">
-    <span class="titulo">Votos <span id="legenda-cargo"></span></span>
-    <div id="legenda-faixas"></div>
+  <div id="legend">
+    <span class="title">Votos <span id="legend-office"></span></span>
+    <div id="legend-ranges"></div>
   </div>
 
   <div id="status">carregando malha do IBGE e dados do TSE…</div>
 </div>
 
-<section id="totais">
-  <h2>Total de votos por pleito — <span id="totais-uf">—</span></h2>
-  <table id="tabela-totais" class="tabela-pleitos"></table>
+<section id="totals">
+  <h2>Total de votos por pleito — <span id="totals-state">—</span></h2>
+  <table id="totals-table" class="elections-table"></table>
 
-  <h2 class="segunda">Média e mediana de votos por município — <span id="medias-uf">—</span></h2>
-  <table id="tabela-medias" class="tabela-pleitos tabela-medias"></table>
+  <h2 class="secondary">Média e mediana de votos por município — <span id="averages-state">—</span></h2>
+  <table id="averages-table" class="elections-table averages-table"></table>
 
-  <h2 class="segunda">Média e mediana de votos por candidato — <span id="medias-cand-uf">—</span></h2>
-  <table id="tabela-medias-candidato" class="tabela-pleitos tabela-medias"></table>
+  <h2 class="secondary">Média e mediana de votos por candidato — <span id="candidate-averages-state">—</span></h2>
+  <table id="candidate-averages-table" class="elections-table averages-table"></table>
 </section>
 
 <footer>
@@ -56,7 +66,7 @@
   <span>Votos nominais por município, 1º turno</span>
 </footer>
 
-<script src="function.js"></script>
+<script type="module" src="js/main.js"></script>
 
 </body>
 </html>
