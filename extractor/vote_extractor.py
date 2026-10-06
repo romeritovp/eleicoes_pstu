@@ -2,7 +2,7 @@ from pathlib import Path
 import pandas as pd
 import json
 
-root = Path('raw/2010')
+root = Path('raw')
 output = Path('../data')
 
 corresp = pd.read_csv('municipios_brasileiros_tse.csv')  # Brasil todo
