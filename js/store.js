@@ -2,7 +2,7 @@
 
 export const store = {
   activeState: 'BR',
-  activeYear: 2022,
+  activeYear: 2026,
   selectedOffices: new Set(),   // cargos marcados no dropdown; soma-se o voto de todos
   voteMode: 'total',            // 'total' (contagem) ou 'relative' (% dos votos válidos)
 

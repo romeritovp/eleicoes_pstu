@@ -1,0 +1,6626 @@
+{
+  "2300101": {
+    "nome": "Abaiara",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 5880,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.051
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 5597,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.018
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 9480,
+      "candidatos": {
+        "Reginaldo": 7
+      },
+      "percentual": 0.074
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5685,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2300150": {
+    "nome": "Acarape",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 10364,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 9908,
+      "candidatos": {
+        "Zé Batista": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 17872,
+      "candidatos": {
+        "Reginaldo": 2
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 10059,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2300200": {
+    "nome": "Acaraú",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 37609,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.019
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 36164,
+      "candidatos": {
+        "Zé Batista": 7
+      },
+      "percentual": 0.019
+    },
+    "SENADOR": {
+      "total": 13,
+      "total_municipio": 65015,
+      "candidatos": {
+        "Reginaldo": 13
+      },
+      "percentual": 0.02
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 36960,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "2300309": {
+    "nome": "Acopiara",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 30627,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.02
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 29559,
+      "candidatos": {
+        "Zé Batista": 6
+      },
+      "percentual": 0.02
+    },
+    "SENADOR": {
+      "total": 18,
+      "total_municipio": 51267,
+      "candidatos": {
+        "Reginaldo": 18
+      },
+      "percentual": 0.035
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 29862,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.003
+    }
+  },
+  "2300408": {
+    "nome": "Aiuaba",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 8639,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8368,
+      "candidatos": {
+        "Zé Batista": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 14988,
+      "candidatos": {
+        "Reginaldo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 8681,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.012
+    }
+  },
+  "2300507": {
+    "nome": "Alcântaras",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7722,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.013
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 7582,
+      "candidatos": {
+        "Zé Batista": 3
+      },
+      "percentual": 0.04
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 13445,
+      "candidatos": {
+        "Reginaldo": 1
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 7600,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "2300606": {
+    "nome": "Altaneira",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 5413,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.037
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 5215,
+      "candidatos": {
+        "Zé Batista": 4
+      },
+      "percentual": 0.077
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 9372,
+      "candidatos": {
+        "Reginaldo": 1
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5410,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2300705": {
+    "nome": "Alto Santo",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9771,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 9583,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.01
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 17343,
+      "candidatos": {
+        "Reginaldo": 9
+      },
+      "percentual": 0.052
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 9653,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.01
+    }
+  },
+  "2300754": {
+    "nome": "Amontada",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 28311,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 27496,
+      "candidatos": {
+        "Zé Batista": 5
+      },
+      "percentual": 0.018
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 50366,
+      "candidatos": {
+        "Reginaldo": 7
+      },
+      "percentual": 0.014
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 27996,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.011
+    }
+  },
+  "2300804": {
+    "nome": "Antonina Do Norte",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5198,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.019
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 5073,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.02
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 8816,
+      "candidatos": {
+        "Reginaldo": 1
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 5061,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.02
+    }
+  },
+  "2300903": {
+    "nome": "Apuiarés",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 10341,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.019
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 10075,
+      "candidatos": {
+        "Zé Batista": 3
+      },
+      "percentual": 0.03
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 18151,
+      "candidatos": {
+        "Reginaldo": 4
+      },
+      "percentual": 0.022
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 9988,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.02
+    }
+  },
+  "2301000": {
+    "nome": "Aquiraz",
+    "PRESIDENTE": {
+      "total": 15,
+      "total_municipio": 56565,
+      "candidatos": {
+        "Hertz Dias": 15
+      },
+      "percentual": 0.027
+    },
+    "GOVERNADOR": {
+      "total": 13,
+      "total_municipio": 53474,
+      "candidatos": {
+        "Zé Batista": 13
+      },
+      "percentual": 0.024
+    },
+    "SENADOR": {
+      "total": 48,
+      "total_municipio": 98059,
+      "candidatos": {
+        "Reginaldo": 48
+      },
+      "percentual": 0.049
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 7,
+      "total_municipio": 55408,
+      "candidatos": {
+        "Cibele": 2,
+        "Raimundo Bancada Operária": 1
+      },
+      "percentual": 0.013
+    }
+  },
+  "2301109": {
+    "nome": "Aracati",
+    "PRESIDENTE": {
+      "total": 14,
+      "total_municipio": 46341,
+      "candidatos": {
+        "Hertz Dias": 14
+      },
+      "percentual": 0.03
+    },
+    "GOVERNADOR": {
+      "total": 13,
+      "total_municipio": 43915,
+      "candidatos": {
+        "Zé Batista": 13
+      },
+      "percentual": 0.03
+    },
+    "SENADOR": {
+      "total": 66,
+      "total_municipio": 79170,
+      "candidatos": {
+        "Reginaldo": 66
+      },
+      "percentual": 0.083
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 10,
+      "total_municipio": 45121,
+      "candidatos": {
+        "Cibele": 2,
+        "Raimundo Bancada Operária": 3
+      },
+      "percentual": 0.022
+    }
+  },
+  "2301208": {
+    "nome": "Aracoiaba",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 20985,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.005
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 20360,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.01
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 37484,
+      "candidatos": {
+        "Reginaldo": 4
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 20806,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2301257": {
+    "nome": "Ararendá",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 7755,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.039
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 7506,
+      "candidatos": {
+        "Zé Batista": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 13875,
+      "candidatos": {
+        "Reginaldo": 4
+      },
+      "percentual": 0.029
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 7749,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.039
+    }
+  },
+  "2301307": {
+    "nome": "Araripe",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 13520,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 13064,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.008
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 23491,
+      "candidatos": {
+        "Reginaldo": 1
+      },
+      "percentual": 0.004
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 8,
+      "total_municipio": 13423,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.06
+    }
+  },
+  "2301406": {
+    "nome": "Aratuba",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9743,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 9462,
+      "candidatos": {
+        "Zé Batista": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 16760,
+      "candidatos": {
+        "Reginaldo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 9537,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2301505": {
+    "nome": "Arneiroz",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5264,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.019
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 5092,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.039
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 9198,
+      "candidatos": {
+        "Reginaldo": 1
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5243,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2301604": {
+    "nome": "Assaré",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 14261,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 13943,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.014
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 23647,
+      "candidatos": {
+        "Reginaldo": 3
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 13806,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 1
+      },
+      "percentual": 0.014
+    }
+  },
+  "2301703": {
+    "nome": "Aurora",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 15227,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 14663,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.014
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 25303,
+      "candidatos": {
+        "Reginaldo": 3
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 14895,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "2301802": {
+    "nome": "Baixio",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 4418,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.023
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4300,
+      "candidatos": {
+        "Zé Batista": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7888,
+      "candidatos": {
+        "Reginaldo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 4420,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2301851": {
+    "nome": "Banabuiú",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12727,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 12353,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.008
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 22673,
+      "candidatos": {
+        "Reginaldo": 2
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 12626,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2301901": {
+    "nome": "Barbalha",
+    "PRESIDENTE": {
+      "total": 9,
+      "total_municipio": 42422,
+      "candidatos": {
+        "Hertz Dias": 9
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 12,
+      "total_municipio": 40938,
+      "candidatos": {
+        "Zé Batista": 12
+      },
+      "percentual": 0.029
+    },
+    "SENADOR": {
+      "total": 19,
+      "total_municipio": 70730,
+      "candidatos": {
+        "Reginaldo": 19
+      },
+      "percentual": 0.027
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 40353,
+      "candidatos": {
+        "Cibele": 2,
+        "Raimundo Bancada Operária": 1
+      },
+      "percentual": 0.01
+    }
+  },
+  "2301950": {
+    "nome": "Barreira",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 16092,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.006
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 15506,
+      "candidatos": {
+        "Zé Batista": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 28775,
+      "candidatos": {
+        "Reginaldo": 9
+      },
+      "percentual": 0.031
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 16030,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.006
+    }
+  },
+  "2302008": {
+    "nome": "Barro",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 12457,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.032
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 11839,
+      "candidatos": {
+        "Zé Batista": 4
+      },
+      "percentual": 0.034
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 20502,
+      "candidatos": {
+        "Reginaldo": 4
+      },
+      "percentual": 0.02
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 12090,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2302057": {
+    "nome": "Barroquinha",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 11385,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 11034,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.018
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 20413,
+      "candidatos": {
+        "Reginaldo": 3
+      },
+      "percentual": 0.015
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 11492,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "2302107": {
+    "nome": "Baturité",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 22800,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.004
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 22232,
+      "candidatos": {
+        "Zé Batista": 4
+      },
+      "percentual": 0.018
+    },
+    "SENADOR": {
+      "total": 11,
+      "total_municipio": 39422,
+      "candidatos": {
+        "Reginaldo": 11
+      },
+      "percentual": 0.028
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 22095,
+      "candidatos": {
+        "Cibele": 1,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.018
+    }
+  },
+  "2302206": {
+    "nome": "Beberibe",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 38162,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.005
+    },
+    "GOVERNADOR": {
+      "total": 10,
+      "total_municipio": 36432,
+      "candidatos": {
+        "Zé Batista": 10
+      },
+      "percentual": 0.027
+    },
+    "SENADOR": {
+      "total": 33,
+      "total_municipio": 65651,
+      "candidatos": {
+        "Reginaldo": 33
+      },
+      "percentual": 0.05
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 37752,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.011
+    }
+  },
+  "2302305": {
+    "nome": "Bela Cruz",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 16627,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.024
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 15952,
+      "candidatos": {
+        "Zé Batista": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 15,
+      "total_municipio": 28577,
+      "candidatos": {
+        "Reginaldo": 15
+      },
+      "percentual": 0.052
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 16498,
+      "candidatos": {
+        "Cibele": 1,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.012
+    }
+  },
+  "2302404": {
+    "nome": "Boa Viagem",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 32751,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 9,
+      "total_municipio": 31861,
+      "candidatos": {
+        "Zé Batista": 9
+      },
+      "percentual": 0.028
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 56772,
+      "candidatos": {
+        "Reginaldo": 7
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 32968,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2302503": {
+    "nome": "Brejo Santo",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 29196,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.024
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 27871,
+      "candidatos": {
+        "Zé Batista": 4
+      },
+      "percentual": 0.014
+    },
+    "SENADOR": {
+      "total": 34,
+      "total_municipio": 49304,
+      "candidatos": {
+        "Reginaldo": 34
+      },
+      "percentual": 0.069
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 28320,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "2302602": {
+    "nome": "Camocim",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 39245,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 37798,
+      "candidatos": {
+        "Zé Batista": 8
+      },
+      "percentual": 0.021
+    },
+    "SENADOR": {
+      "total": 80,
+      "total_municipio": 68085,
+      "candidatos": {
+        "Reginaldo": 80
+      },
+      "percentual": 0.118
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 38772,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2302701": {
+    "nome": "Campos Sales",
+    "PRESIDENTE": {
+      "total": 8,
+      "total_municipio": 15769,
+      "candidatos": {
+        "Hertz Dias": 8
+      },
+      "percentual": 0.051
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 15140,
+      "candidatos": {
+        "Zé Batista": 5
+      },
+      "percentual": 0.033
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 26820,
+      "candidatos": {
+        "Reginaldo": 8
+      },
+      "percentual": 0.03
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 15414,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.039
+    }
+  },
+  "2302800": {
+    "nome": "Canindé",
+    "PRESIDENTE": {
+      "total": 9,
+      "total_municipio": 47726,
+      "candidatos": {
+        "Hertz Dias": 9
+      },
+      "percentual": 0.019
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 46209,
+      "candidatos": {
+        "Zé Batista": 6
+      },
+      "percentual": 0.013
+    },
+    "SENADOR": {
+      "total": 25,
+      "total_municipio": 83198,
+      "candidatos": {
+        "Reginaldo": 25
+      },
+      "percentual": 0.03
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 47509,
+      "candidatos": {
+        "Cibele": 2,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.011
+    }
+  },
+  "2302909": {
+    "nome": "Capistrano",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 13203,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 12795,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.016
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 22739,
+      "candidatos": {
+        "Reginaldo": 4
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 12960,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2303006": {
+    "nome": "Caridade",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 13984,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 13593,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.015
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 24299,
+      "candidatos": {
+        "Reginaldo": 6
+      },
+      "percentual": 0.025
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 13971,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.007
+    }
+  },
+  "2303204": {
+    "nome": "Caririaçu",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 19728,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.02
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 19226,
+      "candidatos": {
+        "Zé Batista": 3
+      },
+      "percentual": 0.016
+    },
+    "SENADOR": {
+      "total": 11,
+      "total_municipio": 35031,
+      "candidatos": {
+        "Reginaldo": 11
+      },
+      "percentual": 0.031
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 19791,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "2303105": {
+    "nome": "Cariré",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 11680,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.034
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 11455,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.017
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 20732,
+      "candidatos": {
+        "Reginaldo": 2
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 11631,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "2303303": {
+    "nome": "Cariús",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 12501,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 12054,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.008
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 21172,
+      "candidatos": {
+        "Reginaldo": 2
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 12173,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.025
+    }
+  },
+  "2303402": {
+    "nome": "Carnaubal",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 10678,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.019
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 10363,
+      "candidatos": {
+        "Zé Batista": 4
+      },
+      "percentual": 0.039
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 18254,
+      "candidatos": {
+        "Reginaldo": 5
+      },
+      "percentual": 0.027
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 10534,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2303501": {
+    "nome": "Cascavel",
+    "PRESIDENTE": {
+      "total": 20,
+      "total_municipio": 48388,
+      "candidatos": {
+        "Hertz Dias": 20
+      },
+      "percentual": 0.041
+    },
+    "GOVERNADOR": {
+      "total": 17,
+      "total_municipio": 45828,
+      "candidatos": {
+        "Zé Batista": 17
+      },
+      "percentual": 0.037
+    },
+    "SENADOR": {
+      "total": 46,
+      "total_municipio": 80831,
+      "candidatos": {
+        "Reginaldo": 46
+      },
+      "percentual": 0.057
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 47363,
+      "candidatos": {
+        "Cibele": 1,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "2303600": {
+    "nome": "Catarina",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7061,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 6854,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.029
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 12429,
+      "candidatos": {
+        "Reginaldo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 7019,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2303659": {
+    "nome": "Catunda",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7407,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 7250,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.028
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 13241,
+      "candidatos": {
+        "Reginaldo": 2
+      },
+      "percentual": 0.015
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 7376,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2303709": {
+    "nome": "Caucaia",
+    "PRESIDENTE": {
+      "total": 49,
+      "total_municipio": 203857,
+      "candidatos": {
+        "Hertz Dias": 49
+      },
+      "percentual": 0.024
+    },
+    "GOVERNADOR": {
+      "total": 107,
+      "total_municipio": 192123,
+      "candidatos": {
+        "Zé Batista": 107
+      },
+      "percentual": 0.056
+    },
+    "SENADOR": {
+      "total": 240,
+      "total_municipio": 344776,
+      "candidatos": {
+        "Reginaldo": 240
+      },
+      "percentual": 0.07
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 39,
+      "total_municipio": 194423,
+      "candidatos": {
+        "Cibele": 9,
+        "Raimundo Bancada Operária": 6
+      },
+      "percentual": 0.02
+    }
+  },
+  "2303808": {
+    "nome": "Cedro",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 15588,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.026
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 15079,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.007
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 26433,
+      "candidatos": {
+        "Reginaldo": 7
+      },
+      "percentual": 0.026
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 15299,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.02
+    }
+  },
+  "2303907": {
+    "nome": "Chaval",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 8171,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7823,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.013
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 14048,
+      "candidatos": {
+        "Reginaldo": 3
+      },
+      "percentual": 0.021
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 7995,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2303956": {
+    "nome": "Chorozinho",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 14898,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 14486,
+      "candidatos": {
+        "Zé Batista": 3
+      },
+      "percentual": 0.021
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 26163,
+      "candidatos": {
+        "Reginaldo": 3
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 14746,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.007
+    }
+  },
+  "2303931": {
+    "nome": "Choró",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9137,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 8753,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.011
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 15990,
+      "candidatos": {
+        "Reginaldo": 1
+      },
+      "percentual": 0.006
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 8953,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2304004": {
+    "nome": "Coreaú",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 15339,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 14961,
+      "candidatos": {
+        "Zé Batista": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 26684,
+      "candidatos": {
+        "Reginaldo": 6
+      },
+      "percentual": 0.022
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 15202,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2304103": {
+    "nome": "Crateús",
+    "PRESIDENTE": {
+      "total": 8,
+      "total_municipio": 47711,
+      "candidatos": {
+        "Hertz Dias": 8
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 46965,
+      "candidatos": {
+        "Zé Batista": 5
+      },
+      "percentual": 0.011
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 85101,
+      "candidatos": {
+        "Reginaldo": 9
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 47558,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.011
+    }
+  },
+  "2304202": {
+    "nome": "Crato",
+    "PRESIDENTE": {
+      "total": 19,
+      "total_municipio": 79347,
+      "candidatos": {
+        "Hertz Dias": 19
+      },
+      "percentual": 0.024
+    },
+    "GOVERNADOR": {
+      "total": 25,
+      "total_municipio": 76124,
+      "candidatos": {
+        "Zé Batista": 25
+      },
+      "percentual": 0.033
+    },
+    "SENADOR": {
+      "total": 79,
+      "total_municipio": 132880,
+      "candidatos": {
+        "Reginaldo": 79
+      },
+      "percentual": 0.059
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 14,
+      "total_municipio": 74560,
+      "candidatos": {
+        "Cibele": 2,
+        "Raimundo Bancada Operária": 1
+      },
+      "percentual": 0.019
+    }
+  },
+  "2304236": {
+    "nome": "Croatá",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 11243,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 10904,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.009
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 19300,
+      "candidatos": {
+        "Reginaldo": 2
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 11053,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "2304251": {
+    "nome": "Cruz",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 18422,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 17660,
+      "candidatos": {
+        "Zé Batista": 3
+      },
+      "percentual": 0.017
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 32204,
+      "candidatos": {
+        "Reginaldo": 4
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 18121,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2304269": {
+    "nome": "Deputado Irapuan Pinheiro",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5931,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5791,
+      "candidatos": {
+        "Zé Batista": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 10372,
+      "candidatos": {
+        "Reginaldo": 3
+      },
+      "percentual": 0.029
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5948,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2304277": {
+    "nome": "Ereré",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4389,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4315,
+      "candidatos": {
+        "Zé Batista": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 11,
+      "total_municipio": 7731,
+      "candidatos": {
+        "Reginaldo": 11
+      },
+      "percentual": 0.142
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 4333,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.023
+    }
+  },
+  "2304285": {
+    "nome": "Eusébio",
+    "PRESIDENTE": {
+      "total": 10,
+      "total_municipio": 48099,
+      "candidatos": {
+        "Hertz Dias": 10
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 31,
+      "total_municipio": 45943,
+      "candidatos": {
+        "Zé Batista": 31
+      },
+      "percentual": 0.067
+    },
+    "SENADOR": {
+      "total": 72,
+      "total_municipio": 85199,
+      "candidatos": {
+        "Reginaldo": 72
+      },
+      "percentual": 0.085
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 8,
+      "total_municipio": 47026,
+      "candidatos": {
+        "Cibele": 2,
+        "Raimundo Bancada Operária": 2
+      },
+      "percentual": 0.017
+    }
+  },
+  "2304301": {
+    "nome": "Farias Brito",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 14054,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 9,
+      "total_municipio": 13499,
+      "candidatos": {
+        "Zé Batista": 9
+      },
+      "percentual": 0.067
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 23653,
+      "candidatos": {
+        "Reginaldo": 10
+      },
+      "percentual": 0.042
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 13747,
+      "candidatos": {
+        "Cibele": 1,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.044
+    }
+  },
+  "2304350": {
+    "nome": "Forquilha",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 15877,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.019
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 15594,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.006
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 27298,
+      "candidatos": {
+        "Reginaldo": 3
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 15816,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2304400": {
+    "nome": "Fortaleza",
+    "PRESIDENTE": {
+      "total": 686,
+      "total_municipio": 1490374,
+      "candidatos": {
+        "Hertz Dias": 686
+      },
+      "percentual": 0.046
+    },
+    "GOVERNADOR": {
+      "total": 1095,
+      "total_municipio": 1432848,
+      "candidatos": {
+        "Zé Batista": 1095
+      },
+      "percentual": 0.076
+    },
+    "SENADOR": {
+      "total": 2976,
+      "total_municipio": 2615088,
+      "candidatos": {
+        "Reginaldo": 2976
+      },
+      "percentual": 0.114
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 442,
+      "total_municipio": 1420843,
+      "candidatos": {
+        "Cibele": 159,
+        "Raimundo Bancada Operária": 87
+      },
+      "percentual": 0.031
+    }
+  },
+  "2304459": {
+    "nome": "Fortim",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 14032,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 13336,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.015
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 24822,
+      "candidatos": {
+        "Reginaldo": 1
+      },
+      "percentual": 0.004
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 13906,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.022
+    }
+  },
+  "2304509": {
+    "nome": "Frecheirinha",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 10924,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.027
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 10492,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.019
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 18283,
+      "candidatos": {
+        "Reginaldo": 3
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 10785,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "2304608": {
+    "nome": "General Sampaio",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6494,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 6300,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.016
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 11713,
+      "candidatos": {
+        "Reginaldo": 1
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 6423,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2304707": {
+    "nome": "Granja",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 33051,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 31450,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.006
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 54641,
+      "candidatos": {
+        "Reginaldo": 8
+      },
+      "percentual": 0.015
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 31551,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.003
+    }
+  },
+  "2304806": {
+    "nome": "Granjeiro",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4983,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 4876,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.021
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 8937,
+      "candidatos": {
+        "Reginaldo": 2
+      },
+      "percentual": 0.022
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 4980,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.06
+    }
+  },
+  "2304657": {
+    "nome": "Graça",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 9939,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.02
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 9670,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.01
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 17218,
+      "candidatos": {
+        "Reginaldo": 5
+      },
+      "percentual": 0.029
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 10090,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2304905": {
+    "nome": "Groaíras",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 7408,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.067
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7196,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.014
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 12429,
+      "candidatos": {
+        "Reginaldo": 5
+      },
+      "percentual": 0.04
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 7225,
+      "candidatos": {
+        "Cibele": 1,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.028
+    }
+  },
+  "2304954": {
+    "nome": "Guaiúba",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 17297,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.035
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 16654,
+      "candidatos": {
+        "Zé Batista": 6
+      },
+      "percentual": 0.036
+    },
+    "SENADOR": {
+      "total": 14,
+      "total_municipio": 30426,
+      "candidatos": {
+        "Reginaldo": 14
+      },
+      "percentual": 0.046
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 17122,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 1
+      },
+      "percentual": 0.006
+    }
+  },
+  "2305001": {
+    "nome": "Guaraciaba Do Norte",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 25949,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.027
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 25200,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.008
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 43976,
+      "candidatos": {
+        "Reginaldo": 7
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 25179,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.012
+    }
+  },
+  "2305100": {
+    "nome": "Guaramiranga",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 5158,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.039
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 4972,
+      "candidatos": {
+        "Zé Batista": 6
+      },
+      "percentual": 0.121
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 8715,
+      "candidatos": {
+        "Reginaldo": 4
+      },
+      "percentual": 0.046
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 5003,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.02
+    }
+  },
+  "2305209": {
+    "nome": "Hidrolândia",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12852,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 12609,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.008
+    },
+    "SENADOR": {
+      "total": 37,
+      "total_municipio": 22936,
+      "candidatos": {
+        "Reginaldo": 37
+      },
+      "percentual": 0.161
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 12774,
+      "candidatos": {
+        "Cibele": 1,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.023
+    }
+  },
+  "2305233": {
+    "nome": "Horizonte",
+    "PRESIDENTE": {
+      "total": 18,
+      "total_municipio": 50478,
+      "candidatos": {
+        "Hertz Dias": 18
+      },
+      "percentual": 0.036
+    },
+    "GOVERNADOR": {
+      "total": 24,
+      "total_municipio": 48111,
+      "candidatos": {
+        "Zé Batista": 24
+      },
+      "percentual": 0.05
+    },
+    "SENADOR": {
+      "total": 38,
+      "total_municipio": 85456,
+      "candidatos": {
+        "Reginaldo": 38
+      },
+      "percentual": 0.044
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 49138,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 2
+      },
+      "percentual": 0.008
+    }
+  },
+  "2305266": {
+    "nome": "Ibaretama",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11009,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 10702,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.009
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 19606,
+      "candidatos": {
+        "Reginaldo": 1
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 11010,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "2305308": {
+    "nome": "Ibiapina",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 15044,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.02
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 14541,
+      "candidatos": {
+        "Zé Batista": 4
+      },
+      "percentual": 0.028
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 24843,
+      "candidatos": {
+        "Reginaldo": 8
+      },
+      "percentual": 0.032
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 14592,
+      "candidatos": {
+        "Cibele": 3,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.021
+    }
+  },
+  "2305332": {
+    "nome": "Ibicuitinga",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 10282,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 9975,
+      "candidatos": {
+        "Zé Batista": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 18109,
+      "candidatos": {
+        "Reginaldo": 4
+      },
+      "percentual": 0.022
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 10283,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2305357": {
+    "nome": "Icapuí",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 14403,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 13833,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.007
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 24637,
+      "candidatos": {
+        "Reginaldo": 5
+      },
+      "percentual": 0.02
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 14024,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.029
+    }
+  },
+  "2305407": {
+    "nome": "Icó",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 39064,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 37797,
+      "candidatos": {
+        "Zé Batista": 4
+      },
+      "percentual": 0.011
+    },
+    "SENADOR": {
+      "total": 16,
+      "total_municipio": 67862,
+      "candidatos": {
+        "Reginaldo": 16
+      },
+      "percentual": 0.024
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 38408,
+      "candidatos": {
+        "Cibele": 3,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.016
+    }
+  },
+  "2305506": {
+    "nome": "Iguatu",
+    "PRESIDENTE": {
+      "total": 15,
+      "total_municipio": 58085,
+      "candidatos": {
+        "Hertz Dias": 15
+      },
+      "percentual": 0.026
+    },
+    "GOVERNADOR": {
+      "total": 11,
+      "total_municipio": 56418,
+      "candidatos": {
+        "Zé Batista": 11
+      },
+      "percentual": 0.019
+    },
+    "SENADOR": {
+      "total": 46,
+      "total_municipio": 99542,
+      "candidatos": {
+        "Reginaldo": 46
+      },
+      "percentual": 0.046
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 7,
+      "total_municipio": 57220,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.012
+    }
+  },
+  "2305605": {
+    "nome": "Independência",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 16903,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 16528,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.006
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 30436,
+      "candidatos": {
+        "Reginaldo": 2
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 16999,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.018
+    }
+  },
+  "2305654": {
+    "nome": "Ipaporanga",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7874,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7638,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.013
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 13819,
+      "candidatos": {
+        "Reginaldo": 3
+      },
+      "percentual": 0.022
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 7860,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2305704": {
+    "nome": "Ipaumirim",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7552,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7327,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.014
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 12947,
+      "candidatos": {
+        "Reginaldo": 1
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 7393,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "2305803": {
+    "nome": "Ipu",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 26617,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 25830,
+      "candidatos": {
+        "Zé Batista": 4
+      },
+      "percentual": 0.015
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 44854,
+      "candidatos": {
+        "Reginaldo": 8
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 26086,
+      "candidatos": {
+        "Cibele": 1,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "2305902": {
+    "nome": "Ipueiras",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 22754,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.013
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 21829,
+      "candidatos": {
+        "Zé Batista": 6
+      },
+      "percentual": 0.027
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 39313,
+      "candidatos": {
+        "Reginaldo": 9
+      },
+      "percentual": 0.023
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 22814,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "2306009": {
+    "nome": "Iracema",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 9259,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.032
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 9102,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.011
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 16434,
+      "candidatos": {
+        "Reginaldo": 5
+      },
+      "percentual": 0.03
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 9144,
+      "candidatos": {
+        "Cibele": 1,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.022
+    }
+  },
+  "2306108": {
+    "nome": "Irauçuba",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 15746,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.013
+    },
+    "GOVERNADOR": {
+      "total": 10,
+      "total_municipio": 15323,
+      "candidatos": {
+        "Zé Batista": 10
+      },
+      "percentual": 0.065
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 28102,
+      "candidatos": {
+        "Reginaldo": 10
+      },
+      "percentual": 0.036
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 15594,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "2306256": {
+    "nome": "Itaitinga",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 31442,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.006
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 29948,
+      "candidatos": {
+        "Zé Batista": 8
+      },
+      "percentual": 0.027
+    },
+    "SENADOR": {
+      "total": 36,
+      "total_municipio": 54350,
+      "candidatos": {
+        "Reginaldo": 36
+      },
+      "percentual": 0.066
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 30342,
+      "candidatos": {
+        "Cibele": 1,
+        "Raimundo Bancada Operária": 1
+      },
+      "percentual": 0.013
+    }
+  },
+  "2306207": {
+    "nome": "Itaiçaba",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 5935,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.051
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5816,
+      "candidatos": {
+        "Zé Batista": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 10676,
+      "candidatos": {
+        "Reginaldo": 10
+      },
+      "percentual": 0.094
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 5917,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 1
+      },
+      "percentual": 0.017
+    }
+  },
+  "2306306": {
+    "nome": "Itapajé",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 32041,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.006
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 30866,
+      "candidatos": {
+        "Zé Batista": 5
+      },
+      "percentual": 0.016
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 55929,
+      "candidatos": {
+        "Reginaldo": 7
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 30859,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2306405": {
+    "nome": "Itapipoca",
+    "PRESIDENTE": {
+      "total": 8,
+      "total_municipio": 85581,
+      "candidatos": {
+        "Hertz Dias": 8
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 15,
+      "total_municipio": 83767,
+      "candidatos": {
+        "Zé Batista": 15
+      },
+      "percentual": 0.018
+    },
+    "SENADOR": {
+      "total": 47,
+      "total_municipio": 153745,
+      "candidatos": {
+        "Reginaldo": 47
+      },
+      "percentual": 0.031
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 14,
+      "total_municipio": 85371,
+      "candidatos": {
+        "Cibele": 2,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.016
+    }
+  },
+  "2306504": {
+    "nome": "Itapiúna",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12871,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 12454,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.016
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 22342,
+      "candidatos": {
+        "Reginaldo": 6
+      },
+      "percentual": 0.027
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 12717,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2306553": {
+    "nome": "Itarema",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 26628,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 25655,
+      "candidatos": {
+        "Zé Batista": 5
+      },
+      "percentual": 0.019
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 47350,
+      "candidatos": {
+        "Reginaldo": 8
+      },
+      "percentual": 0.017
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 26514,
+      "candidatos": {
+        "Cibele": 1,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.011
+    }
+  },
+  "2306603": {
+    "nome": "Itatira",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 14376,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 13944,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.007
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 25305,
+      "candidatos": {
+        "Reginaldo": 6
+      },
+      "percentual": 0.024
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 14365,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2306702": {
+    "nome": "Jaguaretama",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 12360,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 12042,
+      "candidatos": {
+        "Zé Batista": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 21680,
+      "candidatos": {
+        "Reginaldo": 5
+      },
+      "percentual": 0.023
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 12265,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2306801": {
+    "nome": "Jaguaribara",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7475,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 7329,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.027
+    },
+    "SENADOR": {
+      "total": 11,
+      "total_municipio": 13097,
+      "candidatos": {
+        "Reginaldo": 11
+      },
+      "percentual": 0.084
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 7263,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "2306900": {
+    "nome": "Jaguaribe",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 22791,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.013
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 22235,
+      "candidatos": {
+        "Zé Batista": 3
+      },
+      "percentual": 0.013
+    },
+    "SENADOR": {
+      "total": 18,
+      "total_municipio": 39847,
+      "candidatos": {
+        "Reginaldo": 18
+      },
+      "percentual": 0.045
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 22481,
+      "candidatos": {
+        "Cibele": 1,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "2307007": {
+    "nome": "Jaguaruana",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 22720,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 9,
+      "total_municipio": 21821,
+      "candidatos": {
+        "Zé Batista": 9
+      },
+      "percentual": 0.041
+    },
+    "SENADOR": {
+      "total": 25,
+      "total_municipio": 38168,
+      "candidatos": {
+        "Reginaldo": 25
+      },
+      "percentual": 0.065
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 22504,
+      "candidatos": {
+        "Cibele": 1,
+        "Raimundo Bancada Operária": 1
+      },
+      "percentual": 0.018
+    }
+  },
+  "2307106": {
+    "nome": "Jardim",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 16674,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 15979,
+      "candidatos": {
+        "Zé Batista": 3
+      },
+      "percentual": 0.019
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 28165,
+      "candidatos": {
+        "Reginaldo": 2
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 16333,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.024
+    }
+  },
+  "2307205": {
+    "nome": "Jati",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5345,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 5094,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.02
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 8811,
+      "candidatos": {
+        "Reginaldo": 5
+      },
+      "percentual": 0.057
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 5211,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 2
+      },
+      "percentual": 0.058
+    }
+  },
+  "2307254": {
+    "nome": "Jijoca De Jericoacoara",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 16722,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 15947,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.006
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 29210,
+      "candidatos": {
+        "Reginaldo": 5
+      },
+      "percentual": 0.017
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 16332,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2307304": {
+    "nome": "Juazeiro Do Norte",
+    "PRESIDENTE": {
+      "total": 36,
+      "total_municipio": 161821,
+      "candidatos": {
+        "Hertz Dias": 36
+      },
+      "percentual": 0.022
+    },
+    "GOVERNADOR": {
+      "total": 60,
+      "total_municipio": 153055,
+      "candidatos": {
+        "Zé Batista": 60
+      },
+      "percentual": 0.039
+    },
+    "SENADOR": {
+      "total": 229,
+      "total_municipio": 267540,
+      "candidatos": {
+        "Reginaldo": 229
+      },
+      "percentual": 0.086
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 46,
+      "total_municipio": 151061,
+      "candidatos": {
+        "Cibele": 7,
+        "Raimundo Bancada Operária": 2
+      },
+      "percentual": 0.03
+    }
+  },
+  "2307403": {
+    "nome": "Jucás",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 15020,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.04
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 14440,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.014
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 24890,
+      "candidatos": {
+        "Reginaldo": 3
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 14544,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2307502": {
+    "nome": "Lavras Da Mangabeira",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 18485,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.005
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 17746,
+      "candidatos": {
+        "Zé Batista": 6
+      },
+      "percentual": 0.034
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 31485,
+      "candidatos": {
+        "Reginaldo": 6
+      },
+      "percentual": 0.019
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 18267,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.011
+    }
+  },
+  "2307601": {
+    "nome": "Limoeiro Do Norte",
+    "PRESIDENTE": {
+      "total": 17,
+      "total_municipio": 38148,
+      "candidatos": {
+        "Hertz Dias": 17
+      },
+      "percentual": 0.045
+    },
+    "GOVERNADOR": {
+      "total": 20,
+      "total_municipio": 36914,
+      "candidatos": {
+        "Zé Batista": 20
+      },
+      "percentual": 0.054
+    },
+    "SENADOR": {
+      "total": 920,
+      "total_municipio": 65227,
+      "candidatos": {
+        "Reginaldo": 920
+      },
+      "percentual": 1.41
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 27,
+      "total_municipio": 36522,
+      "candidatos": {
+        "Cibele": 2,
+        "Raimundo Bancada Operária": 2
+      },
+      "percentual": 0.074
+    }
+  },
+  "2307635": {
+    "nome": "Madalena",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 11661,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.026
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 11315,
+      "candidatos": {
+        "Zé Batista": 4
+      },
+      "percentual": 0.035
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 20665,
+      "candidatos": {
+        "Reginaldo": 2
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 11647,
+      "candidatos": {
+        "Cibele": 2,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.034
+    }
+  },
+  "2307650": {
+    "nome": "Maracanaú",
+    "PRESIDENTE": {
+      "total": 47,
+      "total_municipio": 149704,
+      "candidatos": {
+        "Hertz Dias": 47
+      },
+      "percentual": 0.031
+    },
+    "GOVERNADOR": {
+      "total": 102,
+      "total_municipio": 141490,
+      "candidatos": {
+        "Zé Batista": 102
+      },
+      "percentual": 0.072
+    },
+    "SENADOR": {
+      "total": 208,
+      "total_municipio": 251479,
+      "candidatos": {
+        "Reginaldo": 208
+      },
+      "percentual": 0.083
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 55,
+      "total_municipio": 141107,
+      "candidatos": {
+        "Cibele": 32,
+        "Raimundo Bancada Operária": 8
+      },
+      "percentual": 0.039
+    }
+  },
+  "2307700": {
+    "nome": "Maranguape",
+    "PRESIDENTE": {
+      "total": 11,
+      "total_municipio": 69437,
+      "candidatos": {
+        "Hertz Dias": 11
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 17,
+      "total_municipio": 66428,
+      "candidatos": {
+        "Zé Batista": 17
+      },
+      "percentual": 0.026
+    },
+    "SENADOR": {
+      "total": 30,
+      "total_municipio": 121175,
+      "candidatos": {
+        "Reginaldo": 30
+      },
+      "percentual": 0.025
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 8,
+      "total_municipio": 67941,
+      "candidatos": {
+        "Cibele": 2,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.012
+    }
+  },
+  "2307809": {
+    "nome": "Marco",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 18710,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 17968,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.011
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 32645,
+      "candidatos": {
+        "Reginaldo": 2
+      },
+      "percentual": 0.006
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 18406,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.011
+    }
+  },
+  "2307908": {
+    "nome": "Martinópole",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8687,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8526,
+      "candidatos": {
+        "Zé Batista": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 15424,
+      "candidatos": {
+        "Reginaldo": 4
+      },
+      "percentual": 0.026
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 8742,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2308005": {
+    "nome": "Massapê",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 25832,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 25201,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.008
+    },
+    "SENADOR": {
+      "total": 11,
+      "total_municipio": 43858,
+      "candidatos": {
+        "Reginaldo": 11
+      },
+      "percentual": 0.025
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 25058,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2308104": {
+    "nome": "Mauriti",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 28940,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 28061,
+      "candidatos": {
+        "Zé Batista": 4
+      },
+      "percentual": 0.014
+    },
+    "SENADOR": {
+      "total": 12,
+      "total_municipio": 50201,
+      "candidatos": {
+        "Reginaldo": 12
+      },
+      "percentual": 0.024
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 28727,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.007
+    }
+  },
+  "2308203": {
+    "nome": "Meruoca",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 10530,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 10314,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.01
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 17805,
+      "candidatos": {
+        "Reginaldo": 4
+      },
+      "percentual": 0.022
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 10195,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.02
+    }
+  },
+  "2308302": {
+    "nome": "Milagres",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 17559,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 16985,
+      "candidatos": {
+        "Zé Batista": 3
+      },
+      "percentual": 0.018
+    },
+    "SENADOR": {
+      "total": 12,
+      "total_municipio": 31028,
+      "candidatos": {
+        "Reginaldo": 12
+      },
+      "percentual": 0.039
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 17429,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2308351": {
+    "nome": "Milhã",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9118,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8904,
+      "candidatos": {
+        "Zé Batista": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 16398,
+      "candidatos": {
+        "Reginaldo": 10
+      },
+      "percentual": 0.061
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 9121,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2308377": {
+    "nome": "Miraíma",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9736,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 9538,
+      "candidatos": {
+        "Zé Batista": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 17640,
+      "candidatos": {
+        "Reginaldo": 3
+      },
+      "percentual": 0.017
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 9742,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2308401": {
+    "nome": "Missão Velha",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 23585,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.03
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 22440,
+      "candidatos": {
+        "Zé Batista": 5
+      },
+      "percentual": 0.022
+    },
+    "SENADOR": {
+      "total": 13,
+      "total_municipio": 39987,
+      "candidatos": {
+        "Reginaldo": 13
+      },
+      "percentual": 0.033
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 23133,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.004
+    }
+  },
+  "2308500": {
+    "nome": "Mombaça",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 24198,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 23058,
+      "candidatos": {
+        "Zé Batista": 6
+      },
+      "percentual": 0.026
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 40208,
+      "candidatos": {
+        "Reginaldo": 5
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 7,
+      "total_municipio": 23766,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.029
+    }
+  },
+  "2308609": {
+    "nome": "Monsenhor Tabosa",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 11332,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.026
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 11044,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.009
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 20214,
+      "candidatos": {
+        "Reginaldo": 1
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 11444,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2308708": {
+    "nome": "Morada Nova",
+    "PRESIDENTE": {
+      "total": 11,
+      "total_municipio": 44772,
+      "candidatos": {
+        "Hertz Dias": 11
+      },
+      "percentual": 0.025
+    },
+    "GOVERNADOR": {
+      "total": 22,
+      "total_municipio": 43446,
+      "candidatos": {
+        "Zé Batista": 22
+      },
+      "percentual": 0.051
+    },
+    "SENADOR": {
+      "total": 112,
+      "total_municipio": 77197,
+      "candidatos": {
+        "Reginaldo": 112
+      },
+      "percentual": 0.145
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 11,
+      "total_municipio": 44195,
+      "candidatos": {
+        "Cibele": 1,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.025
+    }
+  },
+  "2308807": {
+    "nome": "Moraújo",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6384,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6227,
+      "candidatos": {
+        "Zé Batista": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 11189,
+      "candidatos": {
+        "Reginaldo": 5
+      },
+      "percentual": 0.045
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 6202,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2308906": {
+    "nome": "Morrinhos",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 15248,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.02
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 14843,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.013
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 27893,
+      "candidatos": {
+        "Reginaldo": 5
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 15348,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2309003": {
+    "nome": "Mucambo",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 9335,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 9158,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.022
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 16292,
+      "candidatos": {
+        "Reginaldo": 1
+      },
+      "percentual": 0.006
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 9433,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2309102": {
+    "nome": "Mulungu",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7721,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7488,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.013
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 13498,
+      "candidatos": {
+        "Reginaldo": 3
+      },
+      "percentual": 0.022
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 7561,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2309201": {
+    "nome": "Nova Olinda",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 10215,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 9783,
+      "candidatos": {
+        "Zé Batista": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 17389,
+      "candidatos": {
+        "Reginaldo": 2
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 9929,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.01
+    }
+  },
+  "2309300": {
+    "nome": "Nova Russas",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 19101,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.037
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 18452,
+      "candidatos": {
+        "Zé Batista": 8
+      },
+      "percentual": 0.043
+    },
+    "SENADOR": {
+      "total": 59,
+      "total_municipio": 33533,
+      "candidatos": {
+        "Reginaldo": 59
+      },
+      "percentual": 0.176
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 18629,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2309409": {
+    "nome": "Novo Oriente",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 16886,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.03
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 16289,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.012
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 28698,
+      "candidatos": {
+        "Reginaldo": 5
+      },
+      "percentual": 0.017
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 16441,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.012
+    }
+  },
+  "2309458": {
+    "nome": "Ocara",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 21417,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.019
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 20704,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.01
+    },
+    "SENADOR": {
+      "total": 12,
+      "total_municipio": 38296,
+      "candidatos": {
+        "Reginaldo": 12
+      },
+      "percentual": 0.031
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 21396,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "2309508": {
+    "nome": "Orós",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 13568,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.022
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 13008,
+      "candidatos": {
+        "Zé Batista": 4
+      },
+      "percentual": 0.031
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 23718,
+      "candidatos": {
+        "Reginaldo": 2
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 13523,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.007
+    }
+  },
+  "2309607": {
+    "nome": "Pacajus",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 44943,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.013
+    },
+    "GOVERNADOR": {
+      "total": 9,
+      "total_municipio": 43067,
+      "candidatos": {
+        "Zé Batista": 9
+      },
+      "percentual": 0.021
+    },
+    "SENADOR": {
+      "total": 27,
+      "total_municipio": 77683,
+      "candidatos": {
+        "Reginaldo": 27
+      },
+      "percentual": 0.035
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 7,
+      "total_municipio": 43989,
+      "candidatos": {
+        "Cibele": 1,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.016
+    }
+  },
+  "2309706": {
+    "nome": "Pacatuba",
+    "PRESIDENTE": {
+      "total": 10,
+      "total_municipio": 47197,
+      "candidatos": {
+        "Hertz Dias": 10
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 16,
+      "total_municipio": 44954,
+      "candidatos": {
+        "Zé Batista": 16
+      },
+      "percentual": 0.036
+    },
+    "SENADOR": {
+      "total": 58,
+      "total_municipio": 80817,
+      "candidatos": {
+        "Reginaldo": 58
+      },
+      "percentual": 0.072
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 45398,
+      "candidatos": {
+        "Cibele": 2,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "2309805": {
+    "nome": "Pacoti",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8498,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 8299,
+      "candidatos": {
+        "Zé Batista": 4
+      },
+      "percentual": 0.048
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 14721,
+      "candidatos": {
+        "Reginaldo": 4
+      },
+      "percentual": 0.027
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 8430,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2309904": {
+    "nome": "Pacujá",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5091,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.02
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4983,
+      "candidatos": {
+        "Zé Batista": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 9037,
+      "candidatos": {
+        "Reginaldo": 4
+      },
+      "percentual": 0.044
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5129,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2310001": {
+    "nome": "Palhano",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 8005,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.025
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7839,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.013
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 14483,
+      "candidatos": {
+        "Reginaldo": 7
+      },
+      "percentual": 0.048
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 7986,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "2310100": {
+    "nome": "Palmácia",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7892,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.013
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 7636,
+      "candidatos": {
+        "Zé Batista": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 13670,
+      "candidatos": {
+        "Reginaldo": 3
+      },
+      "percentual": 0.022
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 7799,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.026
+    }
+  },
+  "2310209": {
+    "nome": "Paracuru",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 26629,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.026
+    },
+    "GOVERNADOR": {
+      "total": 9,
+      "total_municipio": 25393,
+      "candidatos": {
+        "Zé Batista": 9
+      },
+      "percentual": 0.035
+    },
+    "SENADOR": {
+      "total": 31,
+      "total_municipio": 45263,
+      "candidatos": {
+        "Reginaldo": 31
+      },
+      "percentual": 0.068
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 25313,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2310258": {
+    "nome": "Paraipaba",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 22510,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.004
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 21441,
+      "candidatos": {
+        "Zé Batista": 6
+      },
+      "percentual": 0.028
+    },
+    "SENADOR": {
+      "total": 18,
+      "total_municipio": 39114,
+      "candidatos": {
+        "Reginaldo": 18
+      },
+      "percentual": 0.046
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 21836,
+      "candidatos": {
+        "Cibele": 1,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.018
+    }
+  },
+  "2310308": {
+    "nome": "Parambu",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 19334,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.005
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 18736,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.011
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 33713,
+      "candidatos": {
+        "Reginaldo": 1
+      },
+      "percentual": 0.003
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 19453,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2310407": {
+    "nome": "Paramoti",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8224,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7999,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.013
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 14526,
+      "candidatos": {
+        "Reginaldo": 3
+      },
+      "percentual": 0.021
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 8222,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 1
+      },
+      "percentual": 0.024
+    }
+  },
+  "2310506": {
+    "nome": "Pedra Branca",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 25523,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 24654,
+      "candidatos": {
+        "Zé Batista": 6
+      },
+      "percentual": 0.024
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 42931,
+      "candidatos": {
+        "Reginaldo": 9
+      },
+      "percentual": 0.021
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 25736,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2310605": {
+    "nome": "Penaforte",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6908,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 6548,
+      "candidatos": {
+        "Zé Batista": 3
+      },
+      "percentual": 0.046
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 11443,
+      "candidatos": {
+        "Reginaldo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 6755,
+      "candidatos": {
+        "Cibele": 1,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "2310704": {
+    "nome": "Pentecoste",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 26241,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 25519,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.008
+    },
+    "SENADOR": {
+      "total": 14,
+      "total_municipio": 46331,
+      "candidatos": {
+        "Reginaldo": 14
+      },
+      "percentual": 0.03
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 25718,
+      "candidatos": {
+        "Cibele": 1,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.004
+    }
+  },
+  "2310803": {
+    "nome": "Pereiro",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11059,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 10700,
+      "candidatos": {
+        "Zé Batista": 4
+      },
+      "percentual": 0.037
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 18912,
+      "candidatos": {
+        "Reginaldo": 3
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 10691,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.028
+    }
+  },
+  "2310852": {
+    "nome": "Pindoretama",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 17248,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 16479,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.012
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 30039,
+      "candidatos": {
+        "Reginaldo": 4
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 16924,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2310902": {
+    "nome": "Piquet Carneiro",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9392,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 9078,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.022
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 15568,
+      "candidatos": {
+        "Reginaldo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 9036,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2310951": {
+    "nome": "Pires Ferreira",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7180,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 7066,
+      "candidatos": {
+        "Zé Batista": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 13158,
+      "candidatos": {
+        "Reginaldo": 4
+      },
+      "percentual": 0.03
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 7308,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2311009": {
+    "nome": "Poranga",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7749,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.013
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 7557,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.026
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 13867,
+      "candidatos": {
+        "Reginaldo": 2
+      },
+      "percentual": 0.014
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 7828,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2311108": {
+    "nome": "Porteiras",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 11321,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 10987,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.009
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 20389,
+      "candidatos": {
+        "Reginaldo": 5
+      },
+      "percentual": 0.025
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 11369,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2311207": {
+    "nome": "Potengi",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6501,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 6282,
+      "candidatos": {
+        "Zé Batista": 5
+      },
+      "percentual": 0.08
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 10874,
+      "candidatos": {
+        "Reginaldo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 6324,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2311231": {
+    "nome": "Potiretama",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4959,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 4866,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.041
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 8961,
+      "candidatos": {
+        "Reginaldo": 6
+      },
+      "percentual": 0.067
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 4931,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2311264": {
+    "nome": "Quiterianópolis",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 13034,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 12562,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.016
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 22415,
+      "candidatos": {
+        "Reginaldo": 4
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 13024,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "2311306": {
+    "nome": "Quixadá",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 49451,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 47358,
+      "candidatos": {
+        "Zé Batista": 5
+      },
+      "percentual": 0.011
+    },
+    "SENADOR": {
+      "total": 22,
+      "total_municipio": 83856,
+      "candidatos": {
+        "Reginaldo": 22
+      },
+      "percentual": 0.026
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 48394,
+      "candidatos": {
+        "Cibele": 1,
+        "Raimundo Bancada Operária": 1
+      },
+      "percentual": 0.01
+    }
+  },
+  "2311355": {
+    "nome": "Quixelô",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 12282,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.024
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 11870,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.008
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 20847,
+      "candidatos": {
+        "Reginaldo": 1
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 12117,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2311405": {
+    "nome": "Quixeramobim",
+    "PRESIDENTE": {
+      "total": 10,
+      "total_municipio": 48438,
+      "candidatos": {
+        "Hertz Dias": 10
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 9,
+      "total_municipio": 47020,
+      "candidatos": {
+        "Zé Batista": 9
+      },
+      "percentual": 0.019
+    },
+    "SENADOR": {
+      "total": 14,
+      "total_municipio": 85162,
+      "candidatos": {
+        "Reginaldo": 14
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 48110,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 1
+      },
+      "percentual": 0.008
+    }
+  },
+  "2311504": {
+    "nome": "Quixeré",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 15026,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 14430,
+      "candidatos": {
+        "Zé Batista": 8
+      },
+      "percentual": 0.055
+    },
+    "SENADOR": {
+      "total": 65,
+      "total_municipio": 25912,
+      "candidatos": {
+        "Reginaldo": 65
+      },
+      "percentual": 0.251
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 14568,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.007
+    }
+  },
+  "2311603": {
+    "nome": "Redenção",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 19075,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 18080,
+      "candidatos": {
+        "Zé Batista": 6
+      },
+      "percentual": 0.033
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 32078,
+      "candidatos": {
+        "Reginaldo": 7
+      },
+      "percentual": 0.022
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 18492,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.016
+    }
+  },
+  "2311702": {
+    "nome": "Reriutaba",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12694,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 12415,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.008
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 22371,
+      "candidatos": {
+        "Reginaldo": 5
+      },
+      "percentual": 0.022
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 12455,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 1
+      },
+      "percentual": 0.008
+    }
+  },
+  "2311801": {
+    "nome": "Russas",
+    "PRESIDENTE": {
+      "total": 15,
+      "total_municipio": 47313,
+      "candidatos": {
+        "Hertz Dias": 15
+      },
+      "percentual": 0.032
+    },
+    "GOVERNADOR": {
+      "total": 14,
+      "total_municipio": 45767,
+      "candidatos": {
+        "Zé Batista": 14
+      },
+      "percentual": 0.031
+    },
+    "SENADOR": {
+      "total": 105,
+      "total_municipio": 82577,
+      "candidatos": {
+        "Reginaldo": 105
+      },
+      "percentual": 0.127
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 46178,
+      "candidatos": {
+        "Cibele": 2,
+        "Raimundo Bancada Operária": 2
+      },
+      "percentual": 0.013
+    }
+  },
+  "2311900": {
+    "nome": "Saboeiro",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9718,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 9457,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.011
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 16672,
+      "candidatos": {
+        "Reginaldo": 1
+      },
+      "percentual": 0.006
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 9579,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.01
+    }
+  },
+  "2311959": {
+    "nome": "Salitre",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11792,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 11371,
+      "candidatos": {
+        "Zé Batista": 3
+      },
+      "percentual": 0.026
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 20682,
+      "candidatos": {
+        "Reginaldo": 2
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 11729,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2312205": {
+    "nome": "Santa Quitéria",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 26599,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.019
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 25973,
+      "candidatos": {
+        "Zé Batista": 3
+      },
+      "percentual": 0.012
+    },
+    "SENADOR": {
+      "total": 11,
+      "total_municipio": 45221,
+      "candidatos": {
+        "Reginaldo": 11
+      },
+      "percentual": 0.024
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 26143,
+      "candidatos": {
+        "Cibele": 1,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.011
+    }
+  },
+  "2312007": {
+    "nome": "Santana Do Acaraú",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 20884,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.005
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 20230,
+      "candidatos": {
+        "Zé Batista": 6
+      },
+      "percentual": 0.03
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 36492,
+      "candidatos": {
+        "Reginaldo": 9
+      },
+      "percentual": 0.025
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 20394,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "2312106": {
+    "nome": "Santana Do Cariri",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 11017,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 10599,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.019
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 18972,
+      "candidatos": {
+        "Reginaldo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 10788,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2312700": {
+    "nome": "Senador Pompeu",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 16081,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 15690,
+      "candidatos": {
+        "Zé Batista": 4
+      },
+      "percentual": 0.025
+    },
+    "SENADOR": {
+      "total": 11,
+      "total_municipio": 27808,
+      "candidatos": {
+        "Reginaldo": 11
+      },
+      "percentual": 0.04
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 16143,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.006
+    }
+  },
+  "2312809": {
+    "nome": "Senador Sá",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5789,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 5652,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.035
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 10487,
+      "candidatos": {
+        "Reginaldo": 6
+      },
+      "percentual": 0.057
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 5850,
+      "candidatos": {
+        "Cibele": 1,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.017
+    }
+  },
+  "2312908": {
+    "nome": "Sobral",
+    "PRESIDENTE": {
+      "total": 41,
+      "total_municipio": 120038,
+      "candidatos": {
+        "Hertz Dias": 41
+      },
+      "percentual": 0.034
+    },
+    "GOVERNADOR": {
+      "total": 41,
+      "total_municipio": 117745,
+      "candidatos": {
+        "Zé Batista": 41
+      },
+      "percentual": 0.035
+    },
+    "SENADOR": {
+      "total": 88,
+      "total_municipio": 204496,
+      "candidatos": {
+        "Reginaldo": 88
+      },
+      "percentual": 0.043
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 9,
+      "total_municipio": 116081,
+      "candidatos": {
+        "Cibele": 4,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2313005": {
+    "nome": "Solonópole",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 11330,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.044
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 11079,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.018
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 20298,
+      "candidatos": {
+        "Reginaldo": 7
+      },
+      "percentual": 0.034
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 11295,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2312304": {
+    "nome": "São Benedito",
+    "PRESIDENTE": {
+      "total": 9,
+      "total_municipio": 27953,
+      "candidatos": {
+        "Hertz Dias": 9
+      },
+      "percentual": 0.032
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 26894,
+      "candidatos": {
+        "Zé Batista": 6
+      },
+      "percentual": 0.022
+    },
+    "SENADOR": {
+      "total": 11,
+      "total_municipio": 44853,
+      "candidatos": {
+        "Reginaldo": 11
+      },
+      "percentual": 0.025
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 26931,
+      "candidatos": {
+        "Cibele": 1,
+        "Raimundo Bancada Operária": 1
+      },
+      "percentual": 0.022
+    }
+  },
+  "2312403": {
+    "nome": "São Gonçalo Do Amarante",
+    "PRESIDENTE": {
+      "total": 13,
+      "total_municipio": 40721,
+      "candidatos": {
+        "Hertz Dias": 13
+      },
+      "percentual": 0.032
+    },
+    "GOVERNADOR": {
+      "total": 21,
+      "total_municipio": 38790,
+      "candidatos": {
+        "Zé Batista": 21
+      },
+      "percentual": 0.054
+    },
+    "SENADOR": {
+      "total": 49,
+      "total_municipio": 70036,
+      "candidatos": {
+        "Reginaldo": 49
+      },
+      "percentual": 0.07
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 39861,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 2
+      },
+      "percentual": 0.008
+    }
+  },
+  "2312502": {
+    "nome": "São João Do Jaguaribe",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4521,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 4422,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.045
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 7863,
+      "candidatos": {
+        "Reginaldo": 10
+      },
+      "percentual": 0.127
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 4430,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.068
+    }
+  },
+  "2312601": {
+    "nome": "São Luís Do Curu",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9915,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 9546,
+      "candidatos": {
+        "Zé Batista": 3
+      },
+      "percentual": 0.031
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 17318,
+      "candidatos": {
+        "Reginaldo": 7
+      },
+      "percentual": 0.04
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 9811,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.02
+    }
+  },
+  "2313104": {
+    "nome": "Tabuleiro Do Norte",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 20297,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.025
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 19656,
+      "candidatos": {
+        "Zé Batista": 8
+      },
+      "percentual": 0.041
+    },
+    "SENADOR": {
+      "total": 219,
+      "total_municipio": 35118,
+      "candidatos": {
+        "Reginaldo": 219
+      },
+      "percentual": 0.624
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 19708,
+      "candidatos": {
+        "Cibele": 5,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.025
+    }
+  },
+  "2313203": {
+    "nome": "Tamboril",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 16331,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.031
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 15824,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.013
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 28656,
+      "candidatos": {
+        "Reginaldo": 6
+      },
+      "percentual": 0.021
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 16509,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.006
+    }
+  },
+  "2313252": {
+    "nome": "Tarrafas",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5509,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5338,
+      "candidatos": {
+        "Zé Batista": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 9320,
+      "candidatos": {
+        "Reginaldo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5496,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2313302": {
+    "nome": "Tauá",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 35882,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 34340,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.006
+    },
+    "SENADOR": {
+      "total": 14,
+      "total_municipio": 61566,
+      "candidatos": {
+        "Reginaldo": 14
+      },
+      "percentual": 0.023
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 35745,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.003
+    }
+  },
+  "2313351": {
+    "nome": "Tejuçuoca",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12949,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 12620,
+      "candidatos": {
+        "Zé Batista": 2
+      },
+      "percentual": 0.016
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 23341,
+      "candidatos": {
+        "Reginaldo": 3
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 12950,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2313401": {
+    "nome": "Tianguá",
+    "PRESIDENTE": {
+      "total": 13,
+      "total_municipio": 47438,
+      "candidatos": {
+        "Hertz Dias": 13
+      },
+      "percentual": 0.027
+    },
+    "GOVERNADOR": {
+      "total": 13,
+      "total_municipio": 45202,
+      "candidatos": {
+        "Zé Batista": 13
+      },
+      "percentual": 0.029
+    },
+    "SENADOR": {
+      "total": 36,
+      "total_municipio": 78429,
+      "candidatos": {
+        "Reginaldo": 36
+      },
+      "percentual": 0.046
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 46901,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "2313500": {
+    "nome": "Trairi",
+    "PRESIDENTE": {
+      "total": 8,
+      "total_municipio": 40340,
+      "candidatos": {
+        "Hertz Dias": 8
+      },
+      "percentual": 0.02
+    },
+    "GOVERNADOR": {
+      "total": 11,
+      "total_municipio": 38533,
+      "candidatos": {
+        "Zé Batista": 11
+      },
+      "percentual": 0.029
+    },
+    "SENADOR": {
+      "total": 22,
+      "total_municipio": 69657,
+      "candidatos": {
+        "Reginaldo": 22
+      },
+      "percentual": 0.032
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 40083,
+      "candidatos": {
+        "Cibele": 1,
+        "Raimundo Bancada Operária": 3
+      },
+      "percentual": 0.015
+    }
+  },
+  "2313559": {
+    "nome": "Tururu",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 12815,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 12373,
+      "candidatos": {
+        "Zé Batista": 4
+      },
+      "percentual": 0.032
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 22540,
+      "candidatos": {
+        "Reginaldo": 4
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 12795,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2313609": {
+    "nome": "Ubajara",
+    "PRESIDENTE": {
+      "total": 8,
+      "total_municipio": 21778,
+      "candidatos": {
+        "Hertz Dias": 8
+      },
+      "percentual": 0.037
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 21004,
+      "candidatos": {
+        "Zé Batista": 3
+      },
+      "percentual": 0.014
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 36225,
+      "candidatos": {
+        "Reginaldo": 10
+      },
+      "percentual": 0.028
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 21102,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2313708": {
+    "nome": "Umari",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5164,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5013,
+      "candidatos": {
+        "Zé Batista": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 9072,
+      "candidatos": {
+        "Reginaldo": 2
+      },
+      "percentual": 0.022
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5081,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2313757": {
+    "nome": "Umirim",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 12618,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 12158,
+      "candidatos": {
+        "Zé Batista": 3
+      },
+      "percentual": 0.025
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 22155,
+      "candidatos": {
+        "Reginaldo": 4
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 12595,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2313807": {
+    "nome": "Uruburetama",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 14830,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 14147,
+      "candidatos": {
+        "Zé Batista": 4
+      },
+      "percentual": 0.028
+    },
+    "SENADOR": {
+      "total": 12,
+      "total_municipio": 25150,
+      "candidatos": {
+        "Reginaldo": 12
+      },
+      "percentual": 0.048
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 14303,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "2313906": {
+    "nome": "Uruoca",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 8985,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.022
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 8679,
+      "candidatos": {
+        "Zé Batista": 1
+      },
+      "percentual": 0.012
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 15831,
+      "candidatos": {
+        "Reginaldo": 4
+      },
+      "percentual": 0.025
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 8837,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 1
+      },
+      "percentual": 0.011
+    }
+  },
+  "2313955": {
+    "nome": "Varjota",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12706,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 12465,
+      "candidatos": {
+        "Zé Batista": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 22537,
+      "candidatos": {
+        "Reginaldo": 7
+      },
+      "percentual": 0.031
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 12653,
+      "candidatos": {
+        "Cibele": 1,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2314102": {
+    "nome": "Viçosa Do Ceará",
+    "PRESIDENTE": {
+      "total": 11,
+      "total_municipio": 37150,
+      "candidatos": {
+        "Hertz Dias": 11
+      },
+      "percentual": 0.03
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 36093,
+      "candidatos": {
+        "Zé Batista": 7
+      },
+      "percentual": 0.019
+    },
+    "SENADOR": {
+      "total": 11,
+      "total_municipio": 63312,
+      "candidatos": {
+        "Reginaldo": 11
+      },
+      "percentual": 0.017
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 36287,
+      "candidatos": {
+        "Cibele": 0,
+        "Raimundo Bancada Operária": 1
+      },
+      "percentual": 0.008
+    }
+  },
+  "2314003": {
+    "nome": "Várzea Alegre",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 25299,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.02
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 24336,
+      "candidatos": {
+        "Zé Batista": 6
+      },
+      "percentual": 0.025
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 42318,
+      "candidatos": {
+        "Reginaldo": 8
+      },
+      "percentual": 0.019
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 24670,
+      "candidatos": {
+        "Cibele": 1,
+        "Raimundo Bancada Operária": 0
+      },
+      "percentual": 0.02
+    }
+  }
+}

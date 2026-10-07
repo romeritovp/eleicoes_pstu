@@ -1,0 +1,2708 @@
+{
+  "5200050": {
+    "nome": "Abadia De Goiás",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 11337,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.018
+    }
+  },
+  "5200100": {
+    "nome": "Abadiânia",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9441,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.011
+    }
+  },
+  "5200134": {
+    "nome": "Acreúna",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12162,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    }
+  },
+  "5200159": {
+    "nome": "Adelândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2291,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5200308": {
+    "nome": "Alexânia",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 16699,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.012
+    }
+  },
+  "5200506": {
+    "nome": "Aloândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1658,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5200555": {
+    "nome": "Alto Horizonte",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 4578,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.087
+    }
+  },
+  "5200605": {
+    "nome": "Alto Paraíso De Goiás",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 5466,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.073
+    }
+  },
+  "5200803": {
+    "nome": "Alvorada Do Norte",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4956,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5200829": {
+    "nome": "Amaralina",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2126,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5200852": {
+    "nome": "Americano Do Brasil",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4328,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5200902": {
+    "nome": "Amorinópolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2954,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5201207": {
+    "nome": "Anhangüera",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1054,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5201306": {
+    "nome": "Anicuns",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 11714,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.026
+    }
+  },
+  "5201108": {
+    "nome": "Anápolis",
+    "PRESIDENTE": {
+      "total": 40,
+      "total_municipio": 215471,
+      "candidatos": {
+        "Hertz Dias": 40
+      },
+      "percentual": 0.019
+    }
+  },
+  "5201405": {
+    "nome": "Aparecida De Goiânia",
+    "PRESIDENTE": {
+      "total": 62,
+      "total_municipio": 258136,
+      "candidatos": {
+        "Hertz Dias": 62
+      },
+      "percentual": 0.024
+    }
+  },
+  "5201454": {
+    "nome": "Aparecida Do Rio Doce",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2421,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5201504": {
+    "nome": "Aporé",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2449,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5201702": {
+    "nome": "Aragarças",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 10350,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5201801": {
+    "nome": "Aragoiânia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7769,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5202155": {
+    "nome": "Araguapaz",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4520,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5201603": {
+    "nome": "Araçu",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3362,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5202353": {
+    "nome": "Arenópolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2745,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5202502": {
+    "nome": "Aruanã",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5025,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5202601": {
+    "nome": "Aurilândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2486,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5202809": {
+    "nome": "Avelinópolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3368,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5203104": {
+    "nome": "Baliza",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2418,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5203203": {
+    "nome": "Barro Alto",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7337,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.014
+    }
+  },
+  "5203302": {
+    "nome": "Bela Vista De Goiás",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 17872,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.011
+    }
+  },
+  "5203401": {
+    "nome": "Bom Jardim De Goiás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5714,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5203500": {
+    "nome": "Bom Jesus",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 13011,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.015
+    }
+  },
+  "5203559": {
+    "nome": "Bonfinópolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6086,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5203575": {
+    "nome": "Bonópolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2642,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5203609": {
+    "nome": "Brazabrantes",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2890,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5203807": {
+    "nome": "Britânia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3822,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5203906": {
+    "nome": "Buriti Alegre",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5974,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5203939": {
+    "nome": "Buriti De Goiás",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2665,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.038
+    }
+  },
+  "5203962": {
+    "nome": "Buritinópolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2486,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5204003": {
+    "nome": "Cabeceiras",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5578,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.018
+    }
+  },
+  "5204102": {
+    "nome": "Cachoeira Alta",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5474,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5204201": {
+    "nome": "Cachoeira De Goiás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1521,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5204250": {
+    "nome": "Cachoeira Dourada",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5321,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.019
+    }
+  },
+  "5204409": {
+    "nome": "Caiapônia",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 9784,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.02
+    }
+  },
+  "5204508": {
+    "nome": "Caldas Novas",
+    "PRESIDENTE": {
+      "total": 11,
+      "total_municipio": 49445,
+      "candidatos": {
+        "Hertz Dias": 11
+      },
+      "percentual": 0.022
+    }
+  },
+  "5204557": {
+    "nome": "Caldazinha",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 3183,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.063
+    }
+  },
+  "5204607": {
+    "nome": "Campestre De Goiás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2957,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5204656": {
+    "nome": "Campinaçu",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2673,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5204706": {
+    "nome": "Campinorte",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6900,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.014
+    }
+  },
+  "5204805": {
+    "nome": "Campo Alegre De Goiás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4502,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5204854": {
+    "nome": "Campo Limpo De Goiás",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5170,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.019
+    }
+  },
+  "5204904": {
+    "nome": "Campos Belos",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 10607,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5204953": {
+    "nome": "Campos Verdes",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3081,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5205000": {
+    "nome": "Carmo Do Rio Verde",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5475,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5205059": {
+    "nome": "Castelândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2851,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5205109": {
+    "nome": "Catalão",
+    "PRESIDENTE": {
+      "total": 13,
+      "total_municipio": 56341,
+      "candidatos": {
+        "Hertz Dias": 13
+      },
+      "percentual": 0.023
+    }
+  },
+  "5205208": {
+    "nome": "Caturaí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4037,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5205307": {
+    "nome": "Cavalcante",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 5411,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.037
+    }
+  },
+  "5204300": {
+    "nome": "Caçu",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 8000,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.013
+    }
+  },
+  "5205406": {
+    "nome": "Ceres",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 13168,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.023
+    }
+  },
+  "5205455": {
+    "nome": "Cezarina",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5735,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5205471": {
+    "nome": "Chapadão Do Céu",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7158,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5205497": {
+    "nome": "Cidade Ocidental",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 37820,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.008
+    }
+  },
+  "5205513": {
+    "nome": "Cocalzinho De Goiás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 12822,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5205521": {
+    "nome": "Colinas Do Sul",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2713,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.037
+    }
+  },
+  "5205901": {
+    "nome": "Corumbaíba",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5247,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.019
+    }
+  },
+  "5205802": {
+    "nome": "Corumbá De Goiás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5856,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5206206": {
+    "nome": "Cristalina",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 28934,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.007
+    }
+  },
+  "5206305": {
+    "nome": "Cristianópolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2983,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5206404": {
+    "nome": "Crixás",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9007,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.011
+    }
+  },
+  "5206503": {
+    "nome": "Cromínia",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 3187,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.063
+    }
+  },
+  "5206602": {
+    "nome": "Cumari",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1926,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5205703": {
+    "nome": "Córrego Do Ouro",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2450,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5206701": {
+    "nome": "Damianópolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2916,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5206800": {
+    "nome": "Damolândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2826,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5206909": {
+    "nome": "Davinópolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2880,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5207105": {
+    "nome": "Diorama",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 1924,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.052
+    }
+  },
+  "5208301": {
+    "nome": "Divinópolis De Goiás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3559,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5207253": {
+    "nome": "Doverlândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4426,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5207352": {
+    "nome": "Edealina",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3092,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5207402": {
+    "nome": "Edéia",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 7127,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.028
+    }
+  },
+  "5207501": {
+    "nome": "Estrela Do Norte",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2393,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5207535": {
+    "nome": "Faina",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4809,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5207600": {
+    "nome": "Fazenda Nova",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4287,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5207808": {
+    "nome": "Firminópolis",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 6873,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.044
+    }
+  },
+  "5207907": {
+    "nome": "Flores De Goiás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6018,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5208004": {
+    "nome": "Formosa",
+    "PRESIDENTE": {
+      "total": 10,
+      "total_municipio": 58674,
+      "candidatos": {
+        "Hertz Dias": 10
+      },
+      "percentual": 0.017
+    }
+  },
+  "5208103": {
+    "nome": "Formoso",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3379,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.03
+    }
+  },
+  "5208152": {
+    "nome": "Gameleira De Goiás",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2910,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.034
+    }
+  },
+  "5208509": {
+    "nome": "Goiandira",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3627,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5208806": {
+    "nome": "Goianira",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 34369,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.02
+    }
+  },
+  "5208400": {
+    "nome": "Goianápolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8349,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5208608": {
+    "nome": "Goianésia",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 44063,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.007
+    }
+  },
+  "5209101": {
+    "nome": "Goiatuba",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 21192,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.014
+    }
+  },
+  "5208905": {
+    "nome": "Goiás",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 13869,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.036
+    }
+  },
+  "5208707": {
+    "nome": "Goiânia",
+    "PRESIDENTE": {
+      "total": 208,
+      "total_municipio": 791095,
+      "candidatos": {
+        "Hertz Dias": 208
+      },
+      "percentual": 0.026
+    }
+  },
+  "5209150": {
+    "nome": "Gouvelândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2946,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5209200": {
+    "nome": "Guapó",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 10914,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.018
+    }
+  },
+  "5209408": {
+    "nome": "Guarani De Goiás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3807,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5209291": {
+    "nome": "Guaraíta",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2205,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5209457": {
+    "nome": "Guarinos",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2080,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5209606": {
+    "nome": "Heitoraí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3176,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5209804": {
+    "nome": "Hidrolina",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2985,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5209705": {
+    "nome": "Hidrolândia",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 17516,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.017
+    }
+  },
+  "5209903": {
+    "nome": "Iaciara",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6344,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5209937": {
+    "nome": "Inaciolândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3595,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5209952": {
+    "nome": "Indiara",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 9523,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.021
+    }
+  },
+  "5210000": {
+    "nome": "Inhumas",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 30644,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.013
+    }
+  },
+  "5210109": {
+    "nome": "Ipameri",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 15004,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.02
+    }
+  },
+  "5210158": {
+    "nome": "Ipiranga De Goiás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2423,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5210208": {
+    "nome": "Iporá",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 19787,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.01
+    }
+  },
+  "5210307": {
+    "nome": "Israelândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2180,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5210406": {
+    "nome": "Itaberaí",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 24447,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.004
+    }
+  },
+  "5210562": {
+    "nome": "Itaguari",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4095,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5210604": {
+    "nome": "Itaguaru",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 4252,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.024
+    }
+  },
+  "5210802": {
+    "nome": "Itajá",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2790,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5210901": {
+    "nome": "Itapaci",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 11395,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.018
+    }
+  },
+  "5211008": {
+    "nome": "Itapirapuã",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5089,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5211206": {
+    "nome": "Itapuranga",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 17051,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5211305": {
+    "nome": "Itarumã",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3396,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5211404": {
+    "nome": "Itauçu",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6113,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5211503": {
+    "nome": "Itumbiara",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 54976,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.011
+    }
+  },
+  "5211602": {
+    "nome": "Ivolândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2277,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5211701": {
+    "nome": "Jandaia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4726,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5211800": {
+    "nome": "Jaraguá",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 25426,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.008
+    }
+  },
+  "5211909": {
+    "nome": "Jataí",
+    "PRESIDENTE": {
+      "total": 10,
+      "total_municipio": 54913,
+      "candidatos": {
+        "Hertz Dias": 10
+      },
+      "percentual": 0.018
+    }
+  },
+  "5212006": {
+    "nome": "Jaupaci",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2325,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5212055": {
+    "nome": "Jesúpolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1978,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5212105": {
+    "nome": "Joviânia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4522,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5212204": {
+    "nome": "Jussara",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 11117,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5212253": {
+    "nome": "Lagoa Santa",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1249,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5212303": {
+    "nome": "Leopoldo De Bulhões",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 5523,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.036
+    }
+  },
+  "5212501": {
+    "nome": "Luziânia",
+    "PRESIDENTE": {
+      "total": 23,
+      "total_municipio": 102630,
+      "candidatos": {
+        "Hertz Dias": 23
+      },
+      "percentual": 0.022
+    }
+  },
+  "5212600": {
+    "nome": "Mairipotaba",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2662,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.038
+    }
+  },
+  "5212709": {
+    "nome": "Mambaí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4962,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5212808": {
+    "nome": "Mara Rosa",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6696,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.015
+    }
+  },
+  "5212907": {
+    "nome": "Marzagão",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2167,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5212956": {
+    "nome": "Matrinchã",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 2908,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.069
+    }
+  },
+  "5213004": {
+    "nome": "Maurilândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5750,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5213053": {
+    "nome": "Mimoso De Goiás",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2581,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.039
+    }
+  },
+  "5213087": {
+    "nome": "Minaçu",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 16026,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.019
+    }
+  },
+  "5213103": {
+    "nome": "Mineiros",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 37888,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.018
+    }
+  },
+  "5213400": {
+    "nome": "Moiporá",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1822,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5213509": {
+    "nome": "Monte Alegre De Goiás",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3954,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.025
+    }
+  },
+  "5213707": {
+    "nome": "Montes Claros De Goiás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5369,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5213756": {
+    "nome": "Montividiu",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7559,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5213772": {
+    "nome": "Montividiu Do Norte",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2727,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5213806": {
+    "nome": "Morrinhos",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 27892,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.022
+    }
+  },
+  "5213855": {
+    "nome": "Morro Agudo De Goiás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2453,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5213905": {
+    "nome": "Mossâmedes",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3478,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.029
+    }
+  },
+  "5214002": {
+    "nome": "Mozarlândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8569,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5214051": {
+    "nome": "Mundo Novo",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3854,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5214101": {
+    "nome": "Mutunópolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2822,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5214408": {
+    "nome": "Nazário",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5848,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5214507": {
+    "nome": "Nerópolis",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 18587,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.011
+    }
+  },
+  "5214606": {
+    "nome": "Niquelândia",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 19997,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.01
+    }
+  },
+  "5214705": {
+    "nome": "Nova América",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2204,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5214804": {
+    "nome": "Nova Aurora",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1809,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5214838": {
+    "nome": "Nova Crixás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6936,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5214861": {
+    "nome": "Nova Glória",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5300,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.019
+    }
+  },
+  "5214879": {
+    "nome": "Nova Iguaçu De Goiás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2042,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5214903": {
+    "nome": "Nova Roma",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2117,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5215009": {
+    "nome": "Nova Veneza",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6394,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5215207": {
+    "nome": "Novo Brasil",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2747,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5215231": {
+    "nome": "Novo Gama",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 44667,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.016
+    }
+  },
+  "5215256": {
+    "nome": "Novo Planalto",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3050,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.033
+    }
+  },
+  "5215306": {
+    "nome": "Orizona",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9333,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5215405": {
+    "nome": "Ouro Verde De Goiás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2962,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5215504": {
+    "nome": "Ouvidor",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7771,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.013
+    }
+  },
+  "5215603": {
+    "nome": "Padre Bernardo",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 15082,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    }
+  },
+  "5215652": {
+    "nome": "Palestina De Goiás",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2661,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.038
+    }
+  },
+  "5215702": {
+    "nome": "Palmeiras De Goiás",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 17529,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.006
+    }
+  },
+  "5215801": {
+    "nome": "Palmelo",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1762,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5215900": {
+    "nome": "Palminópolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3393,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5216007": {
+    "nome": "Panamá",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2270,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5216304": {
+    "nome": "Paranaiguara",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5317,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.019
+    }
+  },
+  "5216403": {
+    "nome": "Paraúna",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 6854,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.029
+    }
+  },
+  "5216452": {
+    "nome": "Perolândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2278,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5216809": {
+    "nome": "Petrolina De Goiás",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5852,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.017
+    }
+  },
+  "5216908": {
+    "nome": "Pilar De Goiás",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2670,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.037
+    }
+  },
+  "5217104": {
+    "nome": "Piracanjuba",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 13789,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.044
+    }
+  },
+  "5217203": {
+    "nome": "Piranhas",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6945,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5217302": {
+    "nome": "Pirenópolis",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 15619,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.013
+    }
+  },
+  "5217401": {
+    "nome": "Pires Do Rio",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 16043,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5217609": {
+    "nome": "Planaltina",
+    "PRESIDENTE": {
+      "total": 9,
+      "total_municipio": 48865,
+      "candidatos": {
+        "Hertz Dias": 9
+      },
+      "percentual": 0.018
+    }
+  },
+  "5217708": {
+    "nome": "Pontalina",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11093,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    }
+  },
+  "5218003": {
+    "nome": "Porangatu",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 22946,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.022
+    }
+  },
+  "5218052": {
+    "nome": "Porteirão",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2779,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5218102": {
+    "nome": "Portelândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2541,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5218300": {
+    "nome": "Posse",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 19415,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.015
+    }
+  },
+  "5218391": {
+    "nome": "Professor Jamil",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2740,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5218508": {
+    "nome": "Quirinópolis",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 26197,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.011
+    }
+  },
+  "5218607": {
+    "nome": "Rialma",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7188,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.014
+    }
+  },
+  "5218706": {
+    "nome": "Rianápolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2999,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5218789": {
+    "nome": "Rio Quente",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 3282,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.061
+    }
+  },
+  "5218805": {
+    "nome": "Rio Verde",
+    "PRESIDENTE": {
+      "total": 21,
+      "total_municipio": 117044,
+      "candidatos": {
+        "Hertz Dias": 21
+      },
+      "percentual": 0.018
+    }
+  },
+  "5218904": {
+    "nome": "Rubiataba",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11576,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    }
+  },
+  "5219001": {
+    "nome": "Sanclerlândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5609,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5219100": {
+    "nome": "Santa Bárbara De Goiás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4415,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5219209": {
+    "nome": "Santa Cruz De Goiás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2640,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5219258": {
+    "nome": "Santa Fé De Goiás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3066,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5219308": {
+    "nome": "Santa Helena De Goiás",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 22887,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.009
+    }
+  },
+  "5219357": {
+    "nome": "Santa Isabel",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2878,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5219407": {
+    "nome": "Santa Rita Do Araguaia",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3190,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.031
+    }
+  },
+  "5219456": {
+    "nome": "Santa Rita Do Novo Destino",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2313,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5219506": {
+    "nome": "Santa Rosa De Goiás",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2809,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.036
+    }
+  },
+  "5219605": {
+    "nome": "Santa Tereza De Goiás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2643,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5219704": {
+    "nome": "Santa Terezinha De Goiás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6041,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5219712": {
+    "nome": "Santo Antônio Da Barra",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3203,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5219738": {
+    "nome": "Santo Antônio De Goiás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6069,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5219753": {
+    "nome": "Santo Antônio Do Descoberto",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 34823,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.017
+    }
+  },
+  "5220454": {
+    "nome": "Senador Canedo",
+    "PRESIDENTE": {
+      "total": 18,
+      "total_municipio": 72040,
+      "candidatos": {
+        "Hertz Dias": 18
+      },
+      "percentual": 0.025
+    }
+  },
+  "5220504": {
+    "nome": "Serranópolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4728,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5220603": {
+    "nome": "Silvânia",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 12697,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.024
+    }
+  },
+  "5220686": {
+    "nome": "Simolândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4053,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5219803": {
+    "nome": "São Domingos",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5042,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5219902": {
+    "nome": "São Francisco De Goiás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3996,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5220009": {
+    "nome": "São João D'Aliança",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5860,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5220058": {
+    "nome": "São João Da Paraúna",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1588,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5220157": {
+    "nome": "São Luiz Do Norte",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3751,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5220108": {
+    "nome": "São Luís De Montes Belos",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 18830,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.021
+    }
+  },
+  "5220207": {
+    "nome": "São Miguel Do Araguaia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 13242,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5220264": {
+    "nome": "São Miguel Do Passa Quatro",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 3393,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.088
+    }
+  },
+  "5220280": {
+    "nome": "São Patrício",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1901,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5220405": {
+    "nome": "São Simão",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9487,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.011
+    }
+  },
+  "5220702": {
+    "nome": "Sítio D'Abadia",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2259,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.044
+    }
+  },
+  "5221007": {
+    "nome": "Taquaral De Goiás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3396,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5221080": {
+    "nome": "Teresina De Goiás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2205,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5221197": {
+    "nome": "Terezópolis De Goiás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5291,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5221403": {
+    "nome": "Trindade",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 72155,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.007
+    }
+  },
+  "5221452": {
+    "nome": "Trombas",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2199,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5221304": {
+    "nome": "Três Ranchos",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2822,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5221551": {
+    "nome": "Turvelândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3237,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5221502": {
+    "nome": "Turvânia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3517,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5221577": {
+    "nome": "Uirapuru",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2188,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5221700": {
+    "nome": "Uruana",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 8336,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.012
+    }
+  },
+  "5221601": {
+    "nome": "Uruaçu",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 22251,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.031
+    }
+  },
+  "5221809": {
+    "nome": "Urutaí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2948,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5221858": {
+    "nome": "Valparaíso De Goiás",
+    "PRESIDENTE": {
+      "total": 10,
+      "total_municipio": 76603,
+      "candidatos": {
+        "Hertz Dias": 10
+      },
+      "percentual": 0.013
+    }
+  },
+  "5221908": {
+    "nome": "Varjão",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3299,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5222005": {
+    "nome": "Vianópolis",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 8710,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.011
+    }
+  },
+  "5222054": {
+    "nome": "Vicentinópolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5541,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5222203": {
+    "nome": "Vila Boa",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2809,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5222302": {
+    "nome": "Vila Propício",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 4585,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.022
+    }
+  },
+  "5200175": {
+    "nome": "Água Fria De Goiás",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3754,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.027
+    }
+  },
+  "5200209": {
+    "nome": "Água Limpa",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1962,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "5200258": {
+    "nome": "Águas Lindas De Goiás",
+    "PRESIDENTE": {
+      "total": 23,
+      "total_municipio": 94754,
+      "candidatos": {
+        "Hertz Dias": 23
+      },
+      "percentual": 0.024
+    }
+  }
+}

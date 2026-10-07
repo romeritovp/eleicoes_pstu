@@ -1,0 +1,29 @@
+{
+  "5300108": {
+    "nome": "Brasília",
+    "PRESIDENTE": {
+      "total": 828,
+      "total_municipio": 1772808,
+      "candidatos": {
+        "Hertz Dias": 828
+      },
+      "percentual": 0.047
+    },
+    "GOVERNADOR": {
+      "total": 1640,
+      "total_municipio": 1651394,
+      "candidatos": {
+        "Professor Robson": 1640
+      },
+      "percentual": 0.099
+    },
+    "SENADOR": {
+      "total": 3572,
+      "total_municipio": 3226319,
+      "candidatos": {
+        "Zanata": 3572
+      },
+      "percentual": 0.111
+    }
+  }
+}

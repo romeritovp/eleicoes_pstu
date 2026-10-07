@@ -240,6 +240,19 @@
       border-color: var(--red);
   }
 
+  /* ---------- Explicação do índice de influência ---------- */
+  #about {
+      padding: 0.9rem 1.5rem;
+      border-bottom: 1px solid var(--border);
+  }
+
+  #about p {
+      max-width: 62rem;
+      font-size: 0.8rem;
+      line-height: 1.6;
+      color: var(--text-muted);
+  }
+
   /* ---------- Filtros do índice de influência ---------- */
   #filters {
       display: flex;

@@ -1,0 +1,574 @@
+{
+  "1100015": {
+    "nome": "Alta Floresta D'Oeste",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 14011,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.021
+    }
+  },
+  "1100379": {
+    "nome": "Alto Alegre Dos Parecis",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6888,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.015
+    }
+  },
+  "1100403": {
+    "nome": "Alto Paraíso",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9226,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.011
+    }
+  },
+  "1100346": {
+    "nome": "Alvorada Do Oeste",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 8481,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.035
+    }
+  },
+  "1100023": {
+    "nome": "Ariquemes",
+    "PRESIDENTE": {
+      "total": 11,
+      "total_municipio": 54592,
+      "candidatos": {
+        "Hertz Dias": 11
+      },
+      "percentual": 0.02
+    }
+  },
+  "1100452": {
+    "nome": "Buritis",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 17478,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.011
+    }
+  },
+  "1100031": {
+    "nome": "Cabixi",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3870,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1100601": {
+    "nome": "Cacaulândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3033,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1100049": {
+    "nome": "Cacoal",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 53814,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.013
+    }
+  },
+  "1100700": {
+    "nome": "Campo Novo De Rondônia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5825,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1100809": {
+    "nome": "Candeias Do Jamari",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 15196,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.02
+    }
+  },
+  "1100908": {
+    "nome": "Castanheiras",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2654,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1100056": {
+    "nome": "Cerejeiras",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 10235,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.01
+    }
+  },
+  "1100924": {
+    "nome": "Chupinguaia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5394,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1100064": {
+    "nome": "Colorado Do Oeste",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9864,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1100072": {
+    "nome": "Corumbiara",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4495,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1100080": {
+    "nome": "Costa Marques",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6905,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1100940": {
+    "nome": "Cujubim",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8453,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1100098": {
+    "nome": "Espigão Do Oeste",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 18023,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1101005": {
+    "nome": "Governador Jorge Teixeira",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5633,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1100106": {
+    "nome": "Guajará-Mirim",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 21449,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.009
+    }
+  },
+  "1101104": {
+    "nome": "Itapuã Do Oeste",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5336,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1100114": {
+    "nome": "Jaru",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 30964,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.016
+    }
+  },
+  "1100122": {
+    "nome": "Ji-Paraná",
+    "PRESIDENTE": {
+      "total": 9,
+      "total_municipio": 74096,
+      "candidatos": {
+        "Hertz Dias": 9
+      },
+      "percentual": 0.012
+    }
+  },
+  "1100130": {
+    "nome": "Machadinho D'Oeste",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 18214,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1101203": {
+    "nome": "Ministro Andreazza",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4812,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1101302": {
+    "nome": "Mirante Da Serra",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6495,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.015
+    }
+  },
+  "1101401": {
+    "nome": "Monte Negro",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7684,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1100148": {
+    "nome": "Nova Brasilândia D'Oeste",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 10820,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1100338": {
+    "nome": "Nova Mamoré",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 14990,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    }
+  },
+  "1101435": {
+    "nome": "Nova União",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4274,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1100502": {
+    "nome": "Novo Horizonte Do Oeste",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5715,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1100155": {
+    "nome": "Ouro Preto Do Oeste",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 21352,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.009
+    }
+  },
+  "1101450": {
+    "nome": "Parecis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2902,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1100189": {
+    "nome": "Pimenta Bueno",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 20790,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1101468": {
+    "nome": "Pimenteiras Do Oeste",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 1736,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.058
+    }
+  },
+  "1100205": {
+    "nome": "Porto Velho",
+    "PRESIDENTE": {
+      "total": 91,
+      "total_municipio": 286338,
+      "candidatos": {
+        "Hertz Dias": 91
+      },
+      "percentual": 0.032
+    }
+  },
+  "1100254": {
+    "nome": "Presidente Médici",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 11823,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.017
+    }
+  },
+  "1101476": {
+    "nome": "Primavera De Rondônia",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2436,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.041
+    }
+  },
+  "1100262": {
+    "nome": "Rio Crespo",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2629,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1100288": {
+    "nome": "Rolim De Moura",
+    "PRESIDENTE": {
+      "total": 9,
+      "total_municipio": 30524,
+      "candidatos": {
+        "Hertz Dias": 9
+      },
+      "percentual": 0.029
+    }
+  },
+  "1100296": {
+    "nome": "Santa Luzia D'Oeste",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5175,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.019
+    }
+  },
+  "1101500": {
+    "nome": "Seringueiras",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7732,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1101484": {
+    "nome": "São Felipe D'Oeste",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3509,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.028
+    }
+  },
+  "1101492": {
+    "nome": "São Francisco Do Guaporé",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9937,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1100320": {
+    "nome": "São Miguel Do Guaporé",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 13436,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1101559": {
+    "nome": "Teixeirópolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3105,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1101609": {
+    "nome": "Theobroma",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 5911,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.051
+    }
+  },
+  "1101708": {
+    "nome": "Urupá",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7142,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1101757": {
+    "nome": "Vale Do Anari",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5085,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1101807": {
+    "nome": "Vale Do Paraíso",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4323,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1100304": {
+    "nome": "Vilhena",
+    "PRESIDENTE": {
+      "total": 13,
+      "total_municipio": 53255,
+      "candidatos": {
+        "Hertz Dias": 13
+      },
+      "percentual": 0.024
+    }
+  }
+}

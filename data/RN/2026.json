@@ -1,0 +1,6181 @@
+{
+  "2400109": {
+    "nome": "Acari",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7120,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 6808,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.015
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 12800,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 7
+      },
+      "percentual": 0.062
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 6528,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 1
+      },
+      "percentual": 0.015
+    }
+  },
+  "2400307": {
+    "nome": "Afonso Bezerra",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8125,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7890,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.013
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 14550,
+      "candidatos": {
+        "Rosália Fernandes": 5,
+        "Luciana Mandu": 2
+      },
+      "percentual": 0.048
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 7913,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 1
+      },
+      "percentual": 0.013
+    }
+  },
+  "2400505": {
+    "nome": "Alexandria",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9094,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 8735,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.011
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 15447,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 5
+      },
+      "percentual": 0.039
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 8445,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2400604": {
+    "nome": "Almino Afonso",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 4169,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.072
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 4065,
+      "candidatos": {
+        "Dário Barbosa": 4
+      },
+      "percentual": 0.098
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 7306,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 4
+      },
+      "percentual": 0.055
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3971,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2400703": {
+    "nome": "Alto Do Rodrigues",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9181,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 8759,
+      "candidatos": {
+        "Dário Barbosa": 5
+      },
+      "percentual": 0.057
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 15919,
+      "candidatos": {
+        "Rosália Fernandes": 4,
+        "Luciana Mandu": 2
+      },
+      "percentual": 0.038
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 8462,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2400802": {
+    "nome": "Angicos",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8057,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 7779,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.026
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 14272,
+      "candidatos": {
+        "Rosália Fernandes": 2,
+        "Luciana Mandu": 6
+      },
+      "percentual": 0.056
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 7798,
+      "candidatos": {
+        "Professora Ana Celia": 1,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.026
+    }
+  },
+  "2400901": {
+    "nome": "Antônio Martins",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 4751,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.063
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 4685,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.021
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 8577,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.023
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 4615,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2401008": {
+    "nome": "Apodi",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 24663,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 12,
+      "total_municipio": 23320,
+      "candidatos": {
+        "Dário Barbosa": 12
+      },
+      "percentual": 0.051
+    },
+    "SENADOR": {
+      "total": 44,
+      "total_municipio": 41839,
+      "candidatos": {
+        "Rosália Fernandes": 33,
+        "Luciana Mandu": 11
+      },
+      "percentual": 0.105
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 23660,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.004
+    }
+  },
+  "2401107": {
+    "nome": "Areia Branca",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 16542,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.006
+    },
+    "GOVERNADOR": {
+      "total": 9,
+      "total_municipio": 15622,
+      "candidatos": {
+        "Dário Barbosa": 9
+      },
+      "percentual": 0.058
+    },
+    "SENADOR": {
+      "total": 38,
+      "total_municipio": 26952,
+      "candidatos": {
+        "Rosália Fernandes": 23,
+        "Luciana Mandu": 15
+      },
+      "percentual": 0.141
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 15382,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2401206": {
+    "nome": "Arez",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8714,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 8300,
+      "candidatos": {
+        "Dário Barbosa": 3
+      },
+      "percentual": 0.036
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 14137,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 7876,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2400208": {
+    "nome": "Assú",
+    "PRESIDENTE": {
+      "total": 14,
+      "total_municipio": 35339,
+      "candidatos": {
+        "Hertz Dias": 14
+      },
+      "percentual": 0.04
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 33658,
+      "candidatos": {
+        "Dário Barbosa": 7
+      },
+      "percentual": 0.021
+    },
+    "SENADOR": {
+      "total": 52,
+      "total_municipio": 61327,
+      "candidatos": {
+        "Rosália Fernandes": 26,
+        "Luciana Mandu": 26
+      },
+      "percentual": 0.085
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 10,
+      "total_municipio": 33882,
+      "candidatos": {
+        "Professora Ana Celia": 1,
+        "Tiago Silva": 6
+      },
+      "percentual": 0.03
+    }
+  },
+  "2401453": {
+    "nome": "Baraúna",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 17394,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 16682,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.012
+    },
+    "SENADOR": {
+      "total": 16,
+      "total_municipio": 29839,
+      "candidatos": {
+        "Rosália Fernandes": 7,
+        "Luciana Mandu": 9
+      },
+      "percentual": 0.054
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 16427,
+      "candidatos": {
+        "Professora Ana Celia": 2,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.024
+    }
+  },
+  "2401503": {
+    "nome": "Barcelona",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3709,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3646,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 6600,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 3
+      },
+      "percentual": 0.061
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 3542,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.056
+    }
+  },
+  "2401404": {
+    "nome": "Baía Formosa",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5651,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 5323,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.019
+    },
+    "SENADOR": {
+      "total": 11,
+      "total_municipio": 9486,
+      "candidatos": {
+        "Rosália Fernandes": 5,
+        "Luciana Mandu": 6
+      },
+      "percentual": 0.116
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5285,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2401602": {
+    "nome": "Bento Fernandes",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3989,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.025
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 3866,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.052
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 7187,
+      "candidatos": {
+        "Rosália Fernandes": 2,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.028
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3890,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2405306": {
+    "nome": "Boa Saúde",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 6177,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.049
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 6086,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.033
+    },
+    "SENADOR": {
+      "total": 41,
+      "total_municipio": 11190,
+      "candidatos": {
+        "Rosália Fernandes": 2,
+        "Luciana Mandu": 39
+      },
+      "percentual": 0.366
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 6019,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.017
+    }
+  },
+  "2401651": {
+    "nome": "Bodó",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2805,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2756,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 5137,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 3
+      },
+      "percentual": 0.058
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 2685,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2401701": {
+    "nome": "Bom Jesus",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 7162,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.028
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 6998,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.029
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 12987,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 6810,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "2401800": {
+    "nome": "Brejinho",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7529,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7170,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.014
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 13207,
+      "candidatos": {
+        "Rosália Fernandes": 3,
+        "Luciana Mandu": 3
+      },
+      "percentual": 0.045
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 6891,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "2402006": {
+    "nome": "Caicó",
+    "PRESIDENTE": {
+      "total": 10,
+      "total_municipio": 36284,
+      "candidatos": {
+        "Hertz Dias": 10
+      },
+      "percentual": 0.028
+    },
+    "GOVERNADOR": {
+      "total": 13,
+      "total_municipio": 34872,
+      "candidatos": {
+        "Dário Barbosa": 13
+      },
+      "percentual": 0.037
+    },
+    "SENADOR": {
+      "total": 66,
+      "total_municipio": 64668,
+      "candidatos": {
+        "Rosália Fernandes": 41,
+        "Luciana Mandu": 25
+      },
+      "percentual": 0.102
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 33893,
+      "candidatos": {
+        "Professora Ana Celia": 1,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "2401859": {
+    "nome": "Caiçara Do Norte",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 4216,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.024
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 4046,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.049
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 7317,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 3
+      },
+      "percentual": 0.055
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 4031,
+      "candidatos": {
+        "Professora Ana Celia": 2,
+        "Tiago Silva": 1
+      },
+      "percentual": 0.074
+    }
+  },
+  "2401909": {
+    "nome": "Caiçara Do Rio Do Vento",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3381,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3361,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 6243,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3271,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2401305": {
+    "nome": "Campo Grande",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 6898,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.029
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 6696,
+      "candidatos": {
+        "Dário Barbosa": 3
+      },
+      "percentual": 0.045
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 12098,
+      "candidatos": {
+        "Rosália Fernandes": 7,
+        "Luciana Mandu": 3
+      },
+      "percentual": 0.083
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 6550,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2402105": {
+    "nome": "Campo Redondo",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6692,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 6363,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.031
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 11799,
+      "candidatos": {
+        "Rosália Fernandes": 2,
+        "Luciana Mandu": 6
+      },
+      "percentual": 0.068
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 6270,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.016
+    }
+  },
+  "2402204": {
+    "nome": "Canguaretama",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 19158,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.005
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 17854,
+      "candidatos": {
+        "Dário Barbosa": 5
+      },
+      "percentual": 0.028
+    },
+    "SENADOR": {
+      "total": 25,
+      "total_municipio": 31520,
+      "candidatos": {
+        "Rosália Fernandes": 7,
+        "Luciana Mandu": 18
+      },
+      "percentual": 0.079
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 17607,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.028
+    }
+  },
+  "2402303": {
+    "nome": "Caraúbas",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 15076,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 14213,
+      "candidatos": {
+        "Dário Barbosa": 3
+      },
+      "percentual": 0.021
+    },
+    "SENADOR": {
+      "total": 19,
+      "total_municipio": 25456,
+      "candidatos": {
+        "Rosália Fernandes": 14,
+        "Luciana Mandu": 5
+      },
+      "percentual": 0.075
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 14209,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2402501": {
+    "nome": "Carnaubais",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 6760,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.03
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 6577,
+      "candidatos": {
+        "Dário Barbosa": 4
+      },
+      "percentual": 0.061
+    },
+    "SENADOR": {
+      "total": 11,
+      "total_municipio": 11625,
+      "candidatos": {
+        "Rosália Fernandes": 10,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.095
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 6342,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2402402": {
+    "nome": "Carnaúba Dos Dantas",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4933,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 4488,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.022
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 8370,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 4529,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2402600": {
+    "nome": "Ceará-Mirim",
+    "PRESIDENTE": {
+      "total": 16,
+      "total_municipio": 47119,
+      "candidatos": {
+        "Hertz Dias": 16
+      },
+      "percentual": 0.034
+    },
+    "GOVERNADOR": {
+      "total": 37,
+      "total_municipio": 43806,
+      "candidatos": {
+        "Dário Barbosa": 37
+      },
+      "percentual": 0.084
+    },
+    "SENADOR": {
+      "total": 937,
+      "total_municipio": 77887,
+      "candidatos": {
+        "Rosália Fernandes": 873,
+        "Luciana Mandu": 64
+      },
+      "percentual": 1.203
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 81,
+      "total_municipio": 44587,
+      "candidatos": {
+        "Professora Ana Celia": 46,
+        "Tiago Silva": 2
+      },
+      "percentual": 0.182
+    }
+  },
+  "2402709": {
+    "nome": "Cerro Corá",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7136,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 6958,
+      "candidatos": {
+        "Dário Barbosa": 3
+      },
+      "percentual": 0.043
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 12770,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 2
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 6677,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2402808": {
+    "nome": "Coronel Ezequiel",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 3832,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.052
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3753,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 6942,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 4
+      },
+      "percentual": 0.072
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 3667,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.055
+    }
+  },
+  "2402907": {
+    "nome": "Coronel João Pessoa",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3158,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2921,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 5248,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.019
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 2911,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2403004": {
+    "nome": "Cruzeta",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5398,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 5088,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.039
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 9486,
+      "candidatos": {
+        "Rosália Fernandes": 4,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.042
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 4893,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2403103": {
+    "nome": "Currais Novos",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 25175,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.024
+    },
+    "GOVERNADOR": {
+      "total": 17,
+      "total_municipio": 23416,
+      "candidatos": {
+        "Dário Barbosa": 17
+      },
+      "percentual": 0.073
+    },
+    "SENADOR": {
+      "total": 43,
+      "total_municipio": 44582,
+      "candidatos": {
+        "Rosália Fernandes": 20,
+        "Luciana Mandu": 23
+      },
+      "percentual": 0.096
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 23102,
+      "candidatos": {
+        "Professora Ana Celia": 1,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.017
+    }
+  },
+  "2403202": {
+    "nome": "Doutor Severiano",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5045,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4941,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 9360,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 2
+      },
+      "percentual": 0.021
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 4857,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2403301": {
+    "nome": "Encanto",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 4029,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.025
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 3850,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.052
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 6789,
+      "candidatos": {
+        "Rosália Fernandes": 5,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.088
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 3656,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 1
+      },
+      "percentual": 0.055
+    }
+  },
+  "2403400": {
+    "nome": "Equador",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3763,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 3444,
+      "candidatos": {
+        "Dário Barbosa": 3
+      },
+      "percentual": 0.087
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 6266,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 3
+      },
+      "percentual": 0.064
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3454,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2403509": {
+    "nome": "Espírito Santo",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 6035,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.083
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5874,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 10536,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 2
+      },
+      "percentual": 0.028
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5597,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2403608": {
+    "nome": "Extremoz",
+    "PRESIDENTE": {
+      "total": 15,
+      "total_municipio": 31333,
+      "candidatos": {
+        "Hertz Dias": 15
+      },
+      "percentual": 0.048
+    },
+    "GOVERNADOR": {
+      "total": 42,
+      "total_municipio": 29880,
+      "candidatos": {
+        "Dário Barbosa": 42
+      },
+      "percentual": 0.141
+    },
+    "SENADOR": {
+      "total": 112,
+      "total_municipio": 54175,
+      "candidatos": {
+        "Rosália Fernandes": 56,
+        "Luciana Mandu": 56
+      },
+      "percentual": 0.207
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 15,
+      "total_municipio": 29090,
+      "candidatos": {
+        "Professora Ana Celia": 11,
+        "Tiago Silva": 1
+      },
+      "percentual": 0.052
+    }
+  },
+  "2403707": {
+    "nome": "Felipe Guerra",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5774,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5507,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 9836,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.02
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 5386,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.019
+    }
+  },
+  "2403756": {
+    "nome": "Fernando Pedroza",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2717,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2649,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 4845,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.021
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 2641,
+      "candidatos": {
+        "Professora Ana Celia": 1,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.038
+    }
+  },
+  "2403806": {
+    "nome": "Florânia",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 6588,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.03
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 6294,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.032
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 11541,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 6081,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 1
+      },
+      "percentual": 0.033
+    }
+  },
+  "2403905": {
+    "nome": "Francisco Dantas",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2350,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.043
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2305,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 4244,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 2220,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2404002": {
+    "nome": "Frutuoso Gomes",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3416,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3366,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 6310,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3371,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2404101": {
+    "nome": "Galinhos",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2253,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2213,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 4188,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 2186,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2404200": {
+    "nome": "Goianinha",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 17335,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.006
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 16500,
+      "candidatos": {
+        "Dário Barbosa": 6
+      },
+      "percentual": 0.036
+    },
+    "SENADOR": {
+      "total": 19,
+      "total_municipio": 29254,
+      "candidatos": {
+        "Rosália Fernandes": 9,
+        "Luciana Mandu": 10
+      },
+      "percentual": 0.065
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 16002,
+      "candidatos": {
+        "Professora Ana Celia": 1,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.012
+    }
+  },
+  "2404309": {
+    "nome": "Governador Dix-Sept Rosado",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9450,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 8982,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.011
+    },
+    "SENADOR": {
+      "total": 16,
+      "total_municipio": 15111,
+      "candidatos": {
+        "Rosália Fernandes": 15,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.106
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 8326,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.012
+    }
+  },
+  "2404408": {
+    "nome": "Grossos",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7783,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7658,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.013
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 13852,
+      "candidatos": {
+        "Rosália Fernandes": 5,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.043
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 7358,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "2404507": {
+    "nome": "Guamaré",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11559,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 11262,
+      "candidatos": {
+        "Dário Barbosa": 8
+      },
+      "percentual": 0.071
+    },
+    "SENADOR": {
+      "total": 31,
+      "total_municipio": 20352,
+      "candidatos": {
+        "Rosália Fernandes": 20,
+        "Luciana Mandu": 11
+      },
+      "percentual": 0.152
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 10784,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.019
+    }
+  },
+  "2404606": {
+    "nome": "Ielmo Marinho",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 9419,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 9180,
+      "candidatos": {
+        "Dário Barbosa": 3
+      },
+      "percentual": 0.033
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 16908,
+      "candidatos": {
+        "Rosália Fernandes": 6,
+        "Luciana Mandu": 3
+      },
+      "percentual": 0.053
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 9011,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2404705": {
+    "nome": "Ipanguaçu",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 10080,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 9614,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.01
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 17353,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 9388,
+      "candidatos": {
+        "Professora Ana Celia": 1,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.043
+    }
+  },
+  "2404804": {
+    "nome": "Ipueira",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1790,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 1724,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 3292,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 9
+      },
+      "percentual": 0.304
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 1718,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2404853": {
+    "nome": "Itajá",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5775,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 5607,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.018
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 10322,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5508,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2404903": {
+    "nome": "Itaú",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 4101,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.049
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 4052,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.025
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7511,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3968,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2405108": {
+    "nome": "Jandaíra",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5104,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 5043,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.02
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 9098,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 2
+      },
+      "percentual": 0.033
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 4876,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.123
+    }
+  },
+  "2405207": {
+    "nome": "Janduís",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3594,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.028
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3517,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 6467,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.015
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 3491,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.029
+    }
+  },
+  "2405405": {
+    "nome": "Japi",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4528,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4434,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 8172,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.024
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 4419,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2405504": {
+    "nome": "Jardim De Angicos",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 2601,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.077
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 2561,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.078
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 4762,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.021
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 2533,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 2
+      },
+      "percentual": 0.079
+    }
+  },
+  "2405603": {
+    "nome": "Jardim De Piranhas",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 9178,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.033
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 8673,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.023
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 16005,
+      "candidatos": {
+        "Rosália Fernandes": 3,
+        "Luciana Mandu": 3
+      },
+      "percentual": 0.037
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 8424,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2405702": {
+    "nome": "Jardim Do Seridó",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 8145,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 7497,
+      "candidatos": {
+        "Dário Barbosa": 3
+      },
+      "percentual": 0.04
+    },
+    "SENADOR": {
+      "total": 14,
+      "total_municipio": 13777,
+      "candidatos": {
+        "Rosália Fernandes": 10,
+        "Luciana Mandu": 4
+      },
+      "percentual": 0.102
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 7397,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2405009": {
+    "nome": "Jaçanã",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 4992,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.12
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 4790,
+      "candidatos": {
+        "Dário Barbosa": 3
+      },
+      "percentual": 0.063
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 8793,
+      "candidatos": {
+        "Rosália Fernandes": 2,
+        "Luciana Mandu": 7
+      },
+      "percentual": 0.102
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 4739,
+      "candidatos": {
+        "Professora Ana Celia": 1,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.063
+    }
+  },
+  "2406007": {
+    "nome": "José Da Penha",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4079,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3889,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 6813,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 2
+      },
+      "percentual": 0.029
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3782,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2405801": {
+    "nome": "João Câmara",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 22029,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 21486,
+      "candidatos": {
+        "Dário Barbosa": 5
+      },
+      "percentual": 0.023
+    },
+    "SENADOR": {
+      "total": 21,
+      "total_municipio": 38511,
+      "candidatos": {
+        "Rosália Fernandes": 14,
+        "Luciana Mandu": 7
+      },
+      "percentual": 0.055
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 20632,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.01
+    }
+  },
+  "2405900": {
+    "nome": "João Dias",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2270,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.044
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 2210,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.045
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 3942,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.025
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 2127,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2406106": {
+    "nome": "Jucurutu",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 12385,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 11964,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 22068,
+      "candidatos": {
+        "Rosália Fernandes": 4,
+        "Luciana Mandu": 3
+      },
+      "percentual": 0.032
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 12024,
+      "candidatos": {
+        "Professora Ana Celia": 1,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2406155": {
+    "nome": "Jundiá",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 3724,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.054
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3662,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6927,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3567,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2406205": {
+    "nome": "Lagoa D'Anta",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4908,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 4757,
+      "candidatos": {
+        "Dário Barbosa": 3
+      },
+      "percentual": 0.063
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 8645,
+      "candidatos": {
+        "Rosália Fernandes": 2,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.035
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 4676,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.043
+    }
+  },
+  "2406304": {
+    "nome": "Lagoa De Pedras",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 6034,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.05
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 5903,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.034
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 10704,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5837,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2406403": {
+    "nome": "Lagoa De Velhos",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2636,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.038
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2554,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 4792,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 2497,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2406502": {
+    "nome": "Lagoa Nova",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 9613,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.042
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 9210,
+      "candidatos": {
+        "Dário Barbosa": 4
+      },
+      "percentual": 0.043
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 16917,
+      "candidatos": {
+        "Rosália Fernandes": 5,
+        "Luciana Mandu": 5
+      },
+      "percentual": 0.059
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 8843,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 1
+      },
+      "percentual": 0.011
+    }
+  },
+  "2406601": {
+    "nome": "Lagoa Salgada",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 7207,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.042
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 6956,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.029
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 12125,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 6
+      },
+      "percentual": 0.049
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 6729,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2406700": {
+    "nome": "Lajes",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7303,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7185,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.014
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 13327,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 8
+      },
+      "percentual": 0.06
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 7053,
+      "candidatos": {
+        "Professora Ana Celia": 1,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.043
+    }
+  },
+  "2406809": {
+    "nome": "Lajes Pintadas",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 4172,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.048
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 4074,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.049
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 7506,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 2
+      },
+      "percentual": 0.027
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3970,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2406908": {
+    "nome": "Lucrécia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2926,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2858,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5404,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 2830,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.035
+    }
+  },
+  "2407005": {
+    "nome": "Luís Gomes",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5348,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 5030,
+      "candidatos": {
+        "Dário Barbosa": 4
+      },
+      "percentual": 0.08
+    },
+    "SENADOR": {
+      "total": 14,
+      "total_municipio": 8841,
+      "candidatos": {
+        "Rosália Fernandes": 6,
+        "Luciana Mandu": 8
+      },
+      "percentual": 0.158
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 4941,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2407203": {
+    "nome": "Macau",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 16971,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.035
+    },
+    "GOVERNADOR": {
+      "total": 13,
+      "total_municipio": 16161,
+      "candidatos": {
+        "Dário Barbosa": 13
+      },
+      "percentual": 0.08
+    },
+    "SENADOR": {
+      "total": 78,
+      "total_municipio": 28217,
+      "candidatos": {
+        "Rosália Fernandes": 54,
+        "Luciana Mandu": 24
+      },
+      "percentual": 0.276
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 15872,
+      "candidatos": {
+        "Professora Ana Celia": 1,
+        "Tiago Silva": 1
+      },
+      "percentual": 0.019
+    }
+  },
+  "2407104": {
+    "nome": "Macaíba",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 42758,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 25,
+      "total_municipio": 41055,
+      "candidatos": {
+        "Dário Barbosa": 25
+      },
+      "percentual": 0.061
+    },
+    "SENADOR": {
+      "total": 55,
+      "total_municipio": 75025,
+      "candidatos": {
+        "Rosália Fernandes": 23,
+        "Luciana Mandu": 32
+      },
+      "percentual": 0.073
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 11,
+      "total_municipio": 39838,
+      "candidatos": {
+        "Professora Ana Celia": 1,
+        "Tiago Silva": 1
+      },
+      "percentual": 0.028
+    }
+  },
+  "2407252": {
+    "nome": "Major Sales",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2486,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2442,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 4491,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 7
+      },
+      "percentual": 0.156
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 2369,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2407302": {
+    "nome": "Marcelino Vieira",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5661,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5492,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 9779,
+      "candidatos": {
+        "Rosália Fernandes": 3,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.031
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 5244,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.019
+    }
+  },
+  "2407401": {
+    "nome": "Martins",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5971,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 5790,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.017
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 10519,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 4
+      },
+      "percentual": 0.048
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5679,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2407500": {
+    "nome": "Maxaranguape",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8148,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 7851,
+      "candidatos": {
+        "Dário Barbosa": 3
+      },
+      "percentual": 0.038
+    },
+    "SENADOR": {
+      "total": 20,
+      "total_municipio": 14528,
+      "candidatos": {
+        "Rosália Fernandes": 12,
+        "Luciana Mandu": 8
+      },
+      "percentual": 0.138
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 7983,
+      "candidatos": {
+        "Professora Ana Celia": 1,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "2407609": {
+    "nome": "Messias Targino",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3833,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 3709,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.027
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 6846,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 2
+      },
+      "percentual": 0.044
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 3689,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.027
+    }
+  },
+  "2407708": {
+    "nome": "Montanhas",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7303,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 6994,
+      "candidatos": {
+        "Dário Barbosa": 3
+      },
+      "percentual": 0.043
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 12869,
+      "candidatos": {
+        "Rosália Fernandes": 3,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.031
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 6844,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "2407807": {
+    "nome": "Monte Alegre",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 13399,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.022
+    },
+    "GOVERNADOR": {
+      "total": 9,
+      "total_municipio": 12876,
+      "candidatos": {
+        "Dário Barbosa": 9
+      },
+      "percentual": 0.07
+    },
+    "SENADOR": {
+      "total": 19,
+      "total_municipio": 22840,
+      "candidatos": {
+        "Rosália Fernandes": 9,
+        "Luciana Mandu": 10
+      },
+      "percentual": 0.083
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 12642,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.016
+    }
+  },
+  "2407906": {
+    "nome": "Monte Das Gameleiras",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2464,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.041
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 2433,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.082
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 4586,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 2
+      },
+      "percentual": 0.065
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 2386,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2408003": {
+    "nome": "Mossoró",
+    "PRESIDENTE": {
+      "total": 46,
+      "total_municipio": 150164,
+      "candidatos": {
+        "Hertz Dias": 46
+      },
+      "percentual": 0.031
+    },
+    "GOVERNADOR": {
+      "total": 67,
+      "total_municipio": 146541,
+      "candidatos": {
+        "Dário Barbosa": 67
+      },
+      "percentual": 0.046
+    },
+    "SENADOR": {
+      "total": 688,
+      "total_municipio": 257049,
+      "candidatos": {
+        "Rosália Fernandes": 544,
+        "Luciana Mandu": 144
+      },
+      "percentual": 0.268
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 35,
+      "total_municipio": 139495,
+      "candidatos": {
+        "Professora Ana Celia": 16,
+        "Tiago Silva": 4
+      },
+      "percentual": 0.025
+    }
+  },
+  "2408102": {
+    "nome": "Natal",
+    "PRESIDENTE": {
+      "total": 226,
+      "total_municipio": 436377,
+      "candidatos": {
+        "Hertz Dias": 226
+      },
+      "percentual": 0.052
+    },
+    "GOVERNADOR": {
+      "total": 690,
+      "total_municipio": 416219,
+      "candidatos": {
+        "Dário Barbosa": 690
+      },
+      "percentual": 0.166
+    },
+    "SENADOR": {
+      "total": 2359,
+      "total_municipio": 762387,
+      "candidatos": {
+        "Rosália Fernandes": 1192,
+        "Luciana Mandu": 1167
+      },
+      "percentual": 0.309
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 256,
+      "total_municipio": 402756,
+      "candidatos": {
+        "Professora Ana Celia": 118,
+        "Tiago Silva": 72
+      },
+      "percentual": 0.064
+    }
+  },
+  "2408300": {
+    "nome": "Nova Cruz",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 21272,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 19976,
+      "candidatos": {
+        "Dário Barbosa": 3
+      },
+      "percentual": 0.015
+    },
+    "SENADOR": {
+      "total": 29,
+      "total_municipio": 36757,
+      "candidatos": {
+        "Rosália Fernandes": 10,
+        "Luciana Mandu": 19
+      },
+      "percentual": 0.079
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 12,
+      "total_municipio": 19243,
+      "candidatos": {
+        "Professora Ana Celia": 1,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.062
+    }
+  },
+  "2408201": {
+    "nome": "Nísia Floresta",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 18629,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 18178,
+      "candidatos": {
+        "Dário Barbosa": 3
+      },
+      "percentual": 0.017
+    },
+    "SENADOR": {
+      "total": 25,
+      "total_municipio": 33411,
+      "candidatos": {
+        "Rosália Fernandes": 15,
+        "Luciana Mandu": 10
+      },
+      "percentual": 0.075
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 17984,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.006
+    }
+  },
+  "2408409": {
+    "nome": "Olho D'Água Do Borges",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3611,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 3509,
+      "candidatos": {
+        "Dário Barbosa": 4
+      },
+      "percentual": 0.114
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 6300,
+      "candidatos": {
+        "Rosália Fernandes": 5,
+        "Luciana Mandu": 3
+      },
+      "percentual": 0.127
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 3450,
+      "candidatos": {
+        "Professora Ana Celia": 2,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.087
+    }
+  },
+  "2408508": {
+    "nome": "Ouro Branco",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3568,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.028
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 3367,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.059
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 6005,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 2
+      },
+      "percentual": 0.033
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3360,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2408607": {
+    "nome": "Paraná",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3242,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3171,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 5835,
+      "candidatos": {
+        "Rosália Fernandes": 3,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.051
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 3126,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.032
+    }
+  },
+  "2408805": {
+    "nome": "Parazinho",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4352,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4272,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 7819,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 4
+      },
+      "percentual": 0.051
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 4148,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2408706": {
+    "nome": "Paraú",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3439,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3418,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6235,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3368,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2408904": {
+    "nome": "Parelhas",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 13645,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 14,
+      "total_municipio": 12410,
+      "candidatos": {
+        "Dário Barbosa": 14
+      },
+      "percentual": 0.113
+    },
+    "SENADOR": {
+      "total": 24,
+      "total_municipio": 23392,
+      "candidatos": {
+        "Rosália Fernandes": 14,
+        "Luciana Mandu": 10
+      },
+      "percentual": 0.103
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 12599,
+      "candidatos": {
+        "Professora Ana Celia": 2,
+        "Tiago Silva": 2
+      },
+      "percentual": 0.04
+    }
+  },
+  "2403251": {
+    "nome": "Parnamirim",
+    "PRESIDENTE": {
+      "total": 50,
+      "total_municipio": 116543,
+      "candidatos": {
+        "Hertz Dias": 50
+      },
+      "percentual": 0.043
+    },
+    "GOVERNADOR": {
+      "total": 121,
+      "total_municipio": 110987,
+      "candidatos": {
+        "Dário Barbosa": 121
+      },
+      "percentual": 0.109
+    },
+    "SENADOR": {
+      "total": 453,
+      "total_municipio": 203477,
+      "candidatos": {
+        "Rosália Fernandes": 251,
+        "Luciana Mandu": 202
+      },
+      "percentual": 0.223
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 45,
+      "total_municipio": 107468,
+      "candidatos": {
+        "Professora Ana Celia": 14,
+        "Tiago Silva": 14
+      },
+      "percentual": 0.042
+    }
+  },
+  "2409100": {
+    "nome": "Passa E Fica",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 7782,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.039
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 7531,
+      "candidatos": {
+        "Dário Barbosa": 3
+      },
+      "percentual": 0.04
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 13830,
+      "candidatos": {
+        "Rosália Fernandes": 4,
+        "Luciana Mandu": 4
+      },
+      "percentual": 0.058
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 7376,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2409209": {
+    "nome": "Passagem",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3640,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 3586,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.056
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 6808,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.015
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3606,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2409308": {
+    "nome": "Patu",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7962,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 7665,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 13570,
+      "candidatos": {
+        "Rosália Fernandes": 4,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.029
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 7442,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "2409407": {
+    "nome": "Pau Dos Ferros",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 16855,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.006
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 16220,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.012
+    },
+    "SENADOR": {
+      "total": 43,
+      "total_municipio": 28359,
+      "candidatos": {
+        "Rosália Fernandes": 26,
+        "Luciana Mandu": 17
+      },
+      "percentual": 0.152
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 15556,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 3
+      },
+      "percentual": 0.019
+    }
+  },
+  "2409506": {
+    "nome": "Pedra Grande",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3276,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.031
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3190,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 5830,
+      "candidatos": {
+        "Rosália Fernandes": 2,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.034
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3132,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2409605": {
+    "nome": "Pedra Preta",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2634,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2581,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 4772,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 9
+      },
+      "percentual": 0.21
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 2532,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2409704": {
+    "nome": "Pedro Avelino",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4734,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 4658,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.043
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 8505,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 4562,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.066
+    }
+  },
+  "2409803": {
+    "nome": "Pedro Velho",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9249,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 8709,
+      "candidatos": {
+        "Dário Barbosa": 7
+      },
+      "percentual": 0.08
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 15315,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 3
+      },
+      "percentual": 0.026
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 8881,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2409902": {
+    "nome": "Pendências",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 8244,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.024
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 7830,
+      "candidatos": {
+        "Dário Barbosa": 3
+      },
+      "percentual": 0.038
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 14040,
+      "candidatos": {
+        "Rosália Fernandes": 2,
+        "Luciana Mandu": 3
+      },
+      "percentual": 0.036
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 7694,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2410009": {
+    "nome": "Pilões",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2812,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 2739,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.037
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5011,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 2683,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.037
+    }
+  },
+  "2410207": {
+    "nome": "Portalegre",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5290,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5092,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 9373,
+      "candidatos": {
+        "Rosália Fernandes": 2,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.032
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 4986,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2410256": {
+    "nome": "Porto Do Mangue",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 4010,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.025
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3920,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 7102,
+      "candidatos": {
+        "Rosália Fernandes": 3,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.056
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3834,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2410108": {
+    "nome": "Poço Branco",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9133,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8754,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 15739,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 8533,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2410405": {
+    "nome": "Pureza",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6676,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 6537,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.015
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 12111,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 6330,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2410504": {
+    "nome": "Rafael Fernandes",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3910,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.026
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 3752,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.053
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 6615,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 3
+      },
+      "percentual": 0.045
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3550,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2410603": {
+    "nome": "Rafael Godeiro",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2937,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.034
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2905,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 5404,
+      "candidatos": {
+        "Rosália Fernandes": 2,
+        "Luciana Mandu": 2
+      },
+      "percentual": 0.074
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 2835,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.035
+    }
+  },
+  "2410702": {
+    "nome": "Riacho Da Cruz",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2278,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2270,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 4247,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.024
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 2222,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2410801": {
+    "nome": "Riacho De Santana",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3020,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2938,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 5357,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 3
+      },
+      "percentual": 0.056
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 2850,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2410900": {
+    "nome": "Riachuelo",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5566,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 5493,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.018
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 10226,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 5332,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.038
+    }
+  },
+  "2408953": {
+    "nome": "Rio Do Fogo",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8749,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 8417,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.024
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 15445,
+      "candidatos": {
+        "Rosália Fernandes": 2,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.019
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 8440,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 1
+      },
+      "percentual": 0.024
+    }
+  },
+  "2411007": {
+    "nome": "Rodolfo Fernandes",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3731,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 3632,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.028
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 6779,
+      "candidatos": {
+        "Rosália Fernandes": 4,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.059
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3613,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2411106": {
+    "nome": "Ruy Barbosa",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3252,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.031
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 3209,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.031
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 5949,
+      "candidatos": {
+        "Rosália Fernandes": 4,
+        "Luciana Mandu": 6
+      },
+      "percentual": 0.168
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 3108,
+      "candidatos": {
+        "Professora Ana Celia": 1,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.032
+    }
+  },
+  "2411205": {
+    "nome": "Santa Cruz",
+    "PRESIDENTE": {
+      "total": 8,
+      "total_municipio": 21722,
+      "candidatos": {
+        "Hertz Dias": 8
+      },
+      "percentual": 0.037
+    },
+    "GOVERNADOR": {
+      "total": 16,
+      "total_municipio": 20687,
+      "candidatos": {
+        "Dário Barbosa": 16
+      },
+      "percentual": 0.077
+    },
+    "SENADOR": {
+      "total": 36,
+      "total_municipio": 37858,
+      "candidatos": {
+        "Rosália Fernandes": 19,
+        "Luciana Mandu": 17
+      },
+      "percentual": 0.095
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 20681,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 2
+      },
+      "percentual": 0.015
+    }
+  },
+  "2409332": {
+    "nome": "Santa Maria",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4001,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 3907,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.026
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 7208,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.014
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3837,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2411403": {
+    "nome": "Santana Do Matos",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 8575,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.023
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 8303,
+      "candidatos": {
+        "Dário Barbosa": 4
+      },
+      "percentual": 0.048
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 15065,
+      "candidatos": {
+        "Rosália Fernandes": 2,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 8236,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.049
+    }
+  },
+  "2411429": {
+    "nome": "Santana Do Seridó",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2111,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 1979,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.101
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 3666,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.027
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 1994,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.05
+    }
+  },
+  "2411502": {
+    "nome": "Santo Antônio",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 14579,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 14003,
+      "candidatos": {
+        "Dário Barbosa": 3
+      },
+      "percentual": 0.021
+    },
+    "SENADOR": {
+      "total": 22,
+      "total_municipio": 25033,
+      "candidatos": {
+        "Rosália Fernandes": 13,
+        "Luciana Mandu": 9
+      },
+      "percentual": 0.088
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 10,
+      "total_municipio": 13522,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.074
+    }
+  },
+  "2413102": {
+    "nome": "Senador Elói De Souza",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 4526,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.044
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4403,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 8061,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 2
+      },
+      "percentual": 0.025
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 4300,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.023
+    }
+  },
+  "2413201": {
+    "nome": "Senador Georgino Avelino",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2870,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.035
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 2829,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.035
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 4964,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.02
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 2782,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.036
+    }
+  },
+  "2410306": {
+    "nome": "Serra Caiada",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 6999,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.029
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 6822,
+      "candidatos": {
+        "Dário Barbosa": 3
+      },
+      "percentual": 0.044
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 12764,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 3
+      },
+      "percentual": 0.031
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 6649,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2413300": {
+    "nome": "Serra De São Bento",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 4807,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 4618,
+      "candidatos": {
+        "Dário Barbosa": 3
+      },
+      "percentual": 0.065
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 8586,
+      "candidatos": {
+        "Rosália Fernandes": 2,
+        "Luciana Mandu": 3
+      },
+      "percentual": 0.058
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 4631,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2413359": {
+    "nome": "Serra Do Mel",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 10919,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 10705,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.019
+    },
+    "SENADOR": {
+      "total": 15,
+      "total_municipio": 19476,
+      "candidatos": {
+        "Rosália Fernandes": 12,
+        "Luciana Mandu": 3
+      },
+      "percentual": 0.077
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 10868,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.018
+    }
+  },
+  "2413409": {
+    "nome": "Serra Negra Do Norte",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 4872,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 4668,
+      "candidatos": {
+        "Dário Barbosa": 3
+      },
+      "percentual": 0.064
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 8691,
+      "candidatos": {
+        "Rosália Fernandes": 4,
+        "Luciana Mandu": 3
+      },
+      "percentual": 0.081
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 4606,
+      "candidatos": {
+        "Professora Ana Celia": 1,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.022
+    }
+  },
+  "2413508": {
+    "nome": "Serrinha",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5441,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5303,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 9481,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 4
+      },
+      "percentual": 0.042
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5039,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2413557": {
+    "nome": "Serrinha Dos Pintos",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3390,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 3288,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.03
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 5943,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.034
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3184,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2413607": {
+    "nome": "Severiano Melo",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5434,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5256,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 9490,
+      "candidatos": {
+        "Rosália Fernandes": 6,
+        "Luciana Mandu": 3
+      },
+      "percentual": 0.095
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5155,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2411601": {
+    "nome": "São Bento Do Norte",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3224,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3144,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 5806,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.017
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3085,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2411700": {
+    "nome": "São Bento Do Trairí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3339,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 3282,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.061
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6028,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3183,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2411809": {
+    "nome": "São Fernando",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3058,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.033
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2951,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 5464,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 2933,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.034
+    }
+  },
+  "2411908": {
+    "nome": "São Francisco Do Oeste",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3146,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.032
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2992,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 55,
+      "total_municipio": 5231,
+      "candidatos": {
+        "Rosália Fernandes": 54,
+        "Luciana Mandu": 1
+      },
+      "percentual": 1.051
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 2903,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.207
+    }
+  },
+  "2412005": {
+    "nome": "São Gonçalo Do Amarante",
+    "PRESIDENTE": {
+      "total": 22,
+      "total_municipio": 62004,
+      "candidatos": {
+        "Hertz Dias": 22
+      },
+      "percentual": 0.035
+    },
+    "GOVERNADOR": {
+      "total": 46,
+      "total_municipio": 59498,
+      "candidatos": {
+        "Dário Barbosa": 46
+      },
+      "percentual": 0.077
+    },
+    "SENADOR": {
+      "total": 166,
+      "total_municipio": 109374,
+      "candidatos": {
+        "Rosália Fernandes": 79,
+        "Luciana Mandu": 87
+      },
+      "percentual": 0.152
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 24,
+      "total_municipio": 57972,
+      "candidatos": {
+        "Professora Ana Celia": 12,
+        "Tiago Silva": 2
+      },
+      "percentual": 0.041
+    }
+  },
+  "2412203": {
+    "nome": "São José De Mipibu",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 27360,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 10,
+      "total_municipio": 25950,
+      "candidatos": {
+        "Dário Barbosa": 10
+      },
+      "percentual": 0.039
+    },
+    "SENADOR": {
+      "total": 45,
+      "total_municipio": 46213,
+      "candidatos": {
+        "Rosália Fernandes": 19,
+        "Luciana Mandu": 26
+      },
+      "percentual": 0.097
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 25565,
+      "candidatos": {
+        "Professora Ana Celia": 2,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.012
+    }
+  },
+  "2412302": {
+    "nome": "São José Do Campestre",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8136,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 7706,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.026
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 13593,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 7
+      },
+      "percentual": 0.051
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 7598,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "2412401": {
+    "nome": "São José Do Seridó",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3680,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3521,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 6379,
+      "candidatos": {
+        "Rosália Fernandes": 4,
+        "Luciana Mandu": 4
+      },
+      "percentual": 0.125
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3422,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2412104": {
+    "nome": "São João Do Sabugi",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4319,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 4193,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.024
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 7918,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 2
+      },
+      "percentual": 0.025
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 4055,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.025
+    }
+  },
+  "2412500": {
+    "nome": "São Miguel",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 14253,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 12804,
+      "candidatos": {
+        "Dário Barbosa": 5
+      },
+      "percentual": 0.039
+    },
+    "SENADOR": {
+      "total": 17,
+      "total_municipio": 21903,
+      "candidatos": {
+        "Rosália Fernandes": 5,
+        "Luciana Mandu": 12
+      },
+      "percentual": 0.078
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 12592,
+      "candidatos": {
+        "Professora Ana Celia": 1,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2412559": {
+    "nome": "São Miguel Do Gostoso",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7639,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 7439,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 13930,
+      "candidatos": {
+        "Rosália Fernandes": 7,
+        "Luciana Mandu": 3
+      },
+      "percentual": 0.072
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 7326,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2412609": {
+    "nome": "São Paulo Do Potengi",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 11401,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.026
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 11073,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.009
+    },
+    "SENADOR": {
+      "total": 26,
+      "total_municipio": 19857,
+      "candidatos": {
+        "Rosália Fernandes": 4,
+        "Luciana Mandu": 22
+      },
+      "percentual": 0.131
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 10652,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.019
+    }
+  },
+  "2412708": {
+    "nome": "São Pedro",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5106,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 5084,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.039
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 9431,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 2
+      },
+      "percentual": 0.021
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 4931,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.02
+    }
+  },
+  "2412807": {
+    "nome": "São Rafael",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5836,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 5711,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.035
+    },
+    "SENADOR": {
+      "total": 11,
+      "total_municipio": 10365,
+      "candidatos": {
+        "Rosália Fernandes": 2,
+        "Luciana Mandu": 9
+      },
+      "percentual": 0.106
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 5620,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 1
+      },
+      "percentual": 0.018
+    }
+  },
+  "2412906": {
+    "nome": "São Tomé",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7170,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 7112,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.028
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 12952,
+      "candidatos": {
+        "Rosália Fernandes": 5,
+        "Luciana Mandu": 3
+      },
+      "percentual": 0.062
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 6695,
+      "candidatos": {
+        "Professora Ana Celia": 1,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "2413003": {
+    "nome": "São Vicente",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 4284,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.047
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 4049,
+      "candidatos": {
+        "Dário Barbosa": 3
+      },
+      "percentual": 0.074
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 7581,
+      "candidatos": {
+        "Rosália Fernandes": 4,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.066
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 3912,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.026
+    }
+  },
+  "2413706": {
+    "nome": "Sítio Novo",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4034,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 3892,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.051
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 7178,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.014
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3834,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2413805": {
+    "nome": "Taboleiro Grande",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2171,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.046
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 2137,
+      "candidatos": {
+        "Dário Barbosa": 2
+      },
+      "percentual": 0.094
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 4020,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.025
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 2120,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.047
+    }
+  },
+  "2413904": {
+    "nome": "Taipu",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8394,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7999,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.013
+    },
+    "SENADOR": {
+      "total": 14,
+      "total_municipio": 14428,
+      "candidatos": {
+        "Rosália Fernandes": 8,
+        "Luciana Mandu": 6
+      },
+      "percentual": 0.097
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 7,
+      "total_municipio": 7828,
+      "candidatos": {
+        "Professora Ana Celia": 6,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.089
+    }
+  },
+  "2414001": {
+    "nome": "Tangará",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9141,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 8726,
+      "candidatos": {
+        "Dário Barbosa": 4
+      },
+      "percentual": 0.046
+    },
+    "SENADOR": {
+      "total": 12,
+      "total_municipio": 15799,
+      "candidatos": {
+        "Rosália Fernandes": 6,
+        "Luciana Mandu": 6
+      },
+      "percentual": 0.076
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 8624,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 1
+      },
+      "percentual": 0.012
+    }
+  },
+  "2414100": {
+    "nome": "Tenente Ananias",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6648,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6414,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 11348,
+      "candidatos": {
+        "Rosália Fernandes": 3,
+        "Luciana Mandu": 4
+      },
+      "percentual": 0.062
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 6365,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2414159": {
+    "nome": "Tenente Laurentino Cruz",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4374,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 4186,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.024
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 7835,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 4133,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 1
+      },
+      "percentual": 0.024
+    }
+  },
+  "2411056": {
+    "nome": "Tibau",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6710,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6397,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 29,
+      "total_municipio": 11285,
+      "candidatos": {
+        "Rosália Fernandes": 25,
+        "Luciana Mandu": 4
+      },
+      "percentual": 0.257
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 6147,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.016
+    }
+  },
+  "2414209": {
+    "nome": "Tibau Do Sul",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 10564,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 10005,
+      "candidatos": {
+        "Dário Barbosa": 3
+      },
+      "percentual": 0.03
+    },
+    "SENADOR": {
+      "total": 24,
+      "total_municipio": 18528,
+      "candidatos": {
+        "Rosália Fernandes": 9,
+        "Luciana Mandu": 15
+      },
+      "percentual": 0.13
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 9884,
+      "candidatos": {
+        "Professora Ana Celia": 2,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.02
+    }
+  },
+  "2414308": {
+    "nome": "Timbaúba Dos Batistas",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2277,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.044
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2226,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 4206,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.024
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 2212,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2414407": {
+    "nome": "Touros",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 22304,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.022
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 21586,
+      "candidatos": {
+        "Dário Barbosa": 7
+      },
+      "percentual": 0.032
+    },
+    "SENADOR": {
+      "total": 19,
+      "total_municipio": 39887,
+      "candidatos": {
+        "Rosália Fernandes": 7,
+        "Luciana Mandu": 12
+      },
+      "percentual": 0.048
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 21472,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.028
+    }
+  },
+  "2414456": {
+    "nome": "Triunfo Potiguar",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3453,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 3374,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.03
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 6266,
+      "candidatos": {
+        "Rosália Fernandes": 1,
+        "Luciana Mandu": 2
+      },
+      "percentual": 0.048
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3343,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2414506": {
+    "nome": "Umarizal",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6993,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 6735,
+      "candidatos": {
+        "Dário Barbosa": 1
+      },
+      "percentual": 0.015
+    },
+    "SENADOR": {
+      "total": 16,
+      "total_municipio": 12227,
+      "candidatos": {
+        "Rosália Fernandes": 5,
+        "Luciana Mandu": 11
+      },
+      "percentual": 0.131
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 6624,
+      "candidatos": {
+        "Professora Ana Celia": 1,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "2414605": {
+    "nome": "Upanema",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 9639,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 9375,
+      "candidatos": {
+        "Dário Barbosa": 4
+      },
+      "percentual": 0.043
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 16736,
+      "candidatos": {
+        "Rosália Fernandes": 6,
+        "Luciana Mandu": 3
+      },
+      "percentual": 0.054
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 9067,
+      "candidatos": {
+        "Professora Ana Celia": 1,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.022
+    }
+  },
+  "2414753": {
+    "nome": "Venha-Ver",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 2873,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.07
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2754,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 4814,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.021
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 2689,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2414803": {
+    "nome": "Vera Cruz",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 8820,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.034
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 8531,
+      "candidatos": {
+        "Dário Barbosa": 4
+      },
+      "percentual": 0.047
+    },
+    "SENADOR": {
+      "total": 26,
+      "total_municipio": 15389,
+      "candidatos": {
+        "Rosália Fernandes": 5,
+        "Luciana Mandu": 21
+      },
+      "percentual": 0.169
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 8308,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.012
+    }
+  },
+  "2415008": {
+    "nome": "Vila Flor",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2548,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2422,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 4532,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 2486,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2414902": {
+    "nome": "Viçosa",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1488,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 1452,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 2617,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 1405,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2414704": {
+    "nome": "Várzea",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4531,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4428,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8075,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 4353,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2400406": {
+    "nome": "Água Nova",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2401,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2328,
+      "candidatos": {
+        "Dário Barbosa": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 4160,
+      "candidatos": {
+        "Rosália Fernandes": 0,
+        "Luciana Mandu": 1
+      },
+      "percentual": 0.024
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 2238,
+      "candidatos": {
+        "Professora Ana Celia": 0,
+        "Tiago Silva": 0
+      },
+      "percentual": 0.0
+    }
+  }
+}

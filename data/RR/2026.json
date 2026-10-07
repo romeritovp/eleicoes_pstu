@@ -1,0 +1,167 @@
+{
+  "1400050": {
+    "nome": "Alto Alegre",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 11106,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1400027": {
+    "nome": "Amajari",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6343,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1400100": {
+    "nome": "Boa Vista",
+    "PRESIDENTE": {
+      "total": 53,
+      "total_municipio": 195194,
+      "candidatos": {
+        "Hertz Dias": 53
+      },
+      "percentual": 0.027
+    }
+  },
+  "1400159": {
+    "nome": "Bonfim",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9892,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1400175": {
+    "nome": "Cantá",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 14361,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1400209": {
+    "nome": "Caracaraí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 12170,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1400233": {
+    "nome": "Caroebe",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6473,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1400282": {
+    "nome": "Iracema",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 5983,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.033
+    }
+  },
+  "1400308": {
+    "nome": "Mucajaí",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11734,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    }
+  },
+  "1400407": {
+    "nome": "Normandia",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 8247,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.012
+    }
+  },
+  "1400456": {
+    "nome": "Pacaraima",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7941,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1400472": {
+    "nome": "Rorainópolis",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 18594,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.016
+    }
+  },
+  "1400506": {
+    "nome": "São João Da Baliza",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4729,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1400605": {
+    "nome": "São Luiz",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4983,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1400704": {
+    "nome": "Uiramutã",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7795,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  }
+}

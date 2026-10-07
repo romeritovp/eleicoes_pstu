@@ -1,0 +1,860 @@
+{
+  "3200102": {
+    "nome": "Afonso Cláudio",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 18472,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.027
+    }
+  },
+  "3200201": {
+    "nome": "Alegre",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 17078,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.029
+    }
+  },
+  "3200300": {
+    "nome": "Alfredo Chaves",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9603,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3200359": {
+    "nome": "Alto Rio Novo",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 4821,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.021
+    }
+  },
+  "3200409": {
+    "nome": "Anchieta",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 19472,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.026
+    }
+  },
+  "3200508": {
+    "nome": "Apiacá",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4686,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3200607": {
+    "nome": "Aracruz",
+    "PRESIDENTE": {
+      "total": 15,
+      "total_municipio": 55209,
+      "candidatos": {
+        "Hertz Dias": 15
+      },
+      "percentual": 0.027
+    }
+  },
+  "3200706": {
+    "nome": "Atílio Vivácqua",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7313,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.014
+    }
+  },
+  "3200805": {
+    "nome": "Baixo Guandu",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 18410,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.038
+    }
+  },
+  "3200904": {
+    "nome": "Barra De São Francisco",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 24626,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.016
+    }
+  },
+  "3201001": {
+    "nome": "Boa Esperança",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 8621,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.023
+    }
+  },
+  "3201100": {
+    "nome": "Bom Jesus Do Norte",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6388,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3201159": {
+    "nome": "Brejetuba",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7705,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3201209": {
+    "nome": "Cachoeiro De Itapemirim",
+    "PRESIDENTE": {
+      "total": 30,
+      "total_municipio": 105465,
+      "candidatos": {
+        "Hertz Dias": 30
+      },
+      "percentual": 0.028
+    }
+  },
+  "3201308": {
+    "nome": "Cariacica",
+    "PRESIDENTE": {
+      "total": 66,
+      "total_municipio": 204448,
+      "candidatos": {
+        "Hertz Dias": 66
+      },
+      "percentual": 0.032
+    }
+  },
+  "3201407": {
+    "nome": "Castelo",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 22879,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.017
+    }
+  },
+  "3201506": {
+    "nome": "Colatina",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 68118,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.009
+    }
+  },
+  "3201605": {
+    "nome": "Conceição Da Barra",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 17533,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.006
+    }
+  },
+  "3201704": {
+    "nome": "Conceição Do Castelo",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 7261,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.041
+    }
+  },
+  "3201803": {
+    "nome": "Divino De São Lourenço",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3768,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3201902": {
+    "nome": "Domingos Martins",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 22567,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.013
+    }
+  },
+  "3202009": {
+    "nome": "Dores Do Rio Preto",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4684,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3202108": {
+    "nome": "Ecoporanga",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 13731,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.015
+    }
+  },
+  "3202207": {
+    "nome": "Fundão",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11025,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    }
+  },
+  "3202256": {
+    "nome": "Governador Lindenberg",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6695,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.015
+    }
+  },
+  "3202405": {
+    "nome": "Guarapari",
+    "PRESIDENTE": {
+      "total": 18,
+      "total_municipio": 73959,
+      "candidatos": {
+        "Hertz Dias": 18
+      },
+      "percentual": 0.024
+    }
+  },
+  "3202306": {
+    "nome": "Guaçuí",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 16038,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.019
+    }
+  },
+  "3202454": {
+    "nome": "Ibatiba",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 15002,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    }
+  },
+  "3202504": {
+    "nome": "Ibiraçu",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 7247,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.041
+    }
+  },
+  "3202553": {
+    "nome": "Ibitirama",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5857,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.017
+    }
+  },
+  "3202603": {
+    "nome": "Iconha",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 8732,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.011
+    }
+  },
+  "3202652": {
+    "nome": "Irupi",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 8219,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.024
+    }
+  },
+  "3202702": {
+    "nome": "Itaguaçu",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8399,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3202801": {
+    "nome": "Itapemirim",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 28273,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.025
+    }
+  },
+  "3202900": {
+    "nome": "Itarana",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7008,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3203007": {
+    "nome": "Iúna",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 15478,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.019
+    }
+  },
+  "3203056": {
+    "nome": "Jaguaré",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 18269,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.027
+    }
+  },
+  "3203106": {
+    "nome": "Jerônimo Monteiro",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7447,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3203130": {
+    "nome": "João Neiva",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9582,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.01
+    }
+  },
+  "3203163": {
+    "nome": "Laranja Da Terra",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7547,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3203205": {
+    "nome": "Linhares",
+    "PRESIDENTE": {
+      "total": 15,
+      "total_municipio": 87971,
+      "candidatos": {
+        "Hertz Dias": 15
+      },
+      "percentual": 0.017
+    }
+  },
+  "3203304": {
+    "nome": "Mantenópolis",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 7410,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.04
+    }
+  },
+  "3203320": {
+    "nome": "Marataízes",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 26350,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.008
+    }
+  },
+  "3203346": {
+    "nome": "Marechal Floriano",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 10818,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.018
+    }
+  },
+  "3203353": {
+    "nome": "Marilândia",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 8478,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.012
+    }
+  },
+  "3203403": {
+    "nome": "Mimoso Do Sul",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 14756,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.02
+    }
+  },
+  "3203502": {
+    "nome": "Montanha",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11112,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    }
+  },
+  "3203601": {
+    "nome": "Mucurici",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 3867,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.052
+    }
+  },
+  "3203700": {
+    "nome": "Muniz Freire",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 10807,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    }
+  },
+  "3203809": {
+    "nome": "Muqui",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 8486,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.035
+    }
+  },
+  "3203908": {
+    "nome": "Nova Venécia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 30349,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3204005": {
+    "nome": "Pancas",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11123,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    }
+  },
+  "3204054": {
+    "nome": "Pedro Canário",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12897,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    }
+  },
+  "3204104": {
+    "nome": "Pinheiros",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 14104,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.014
+    }
+  },
+  "3204203": {
+    "nome": "Piúma",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 13446,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.022
+    }
+  },
+  "3204252": {
+    "nome": "Ponto Belo",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4776,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3204302": {
+    "nome": "Presidente Kennedy",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 10041,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.01
+    }
+  },
+  "3204351": {
+    "nome": "Rio Bananal",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11444,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    }
+  },
+  "3204401": {
+    "nome": "Rio Novo Do Sul",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 6965,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.029
+    }
+  },
+  "3204500": {
+    "nome": "Santa Leopoldina",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7593,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3204559": {
+    "nome": "Santa Maria De Jetibá",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 24483,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.016
+    }
+  },
+  "3204609": {
+    "nome": "Santa Teresa",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 14629,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.048
+    }
+  },
+  "3205002": {
+    "nome": "Serra",
+    "PRESIDENTE": {
+      "total": 102,
+      "total_municipio": 268840,
+      "candidatos": {
+        "Hertz Dias": 102
+      },
+      "percentual": 0.038
+    }
+  },
+  "3205010": {
+    "nome": "Sooretama",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 14592,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3204658": {
+    "nome": "São Domingos Do Norte",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6498,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3204708": {
+    "nome": "São Gabriel Da Palha",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 19855,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.01
+    }
+  },
+  "3204807": {
+    "nome": "São José Do Calçado",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7223,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3204906": {
+    "nome": "São Mateus",
+    "PRESIDENTE": {
+      "total": 14,
+      "total_municipio": 67110,
+      "candidatos": {
+        "Hertz Dias": 14
+      },
+      "percentual": 0.021
+    }
+  },
+  "3204955": {
+    "nome": "São Roque Do Canaã",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7357,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.014
+    }
+  },
+  "3205036": {
+    "nome": "Vargem Alta",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12328,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    }
+  },
+  "3205069": {
+    "nome": "Venda Nova Do Imigrante",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 14743,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.014
+    }
+  },
+  "3205101": {
+    "nome": "Viana",
+    "PRESIDENTE": {
+      "total": 15,
+      "total_municipio": 42055,
+      "candidatos": {
+        "Hertz Dias": 15
+      },
+      "percentual": 0.036
+    }
+  },
+  "3205150": {
+    "nome": "Vila Pavão",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6340,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3205176": {
+    "nome": "Vila Valério",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 10138,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.02
+    }
+  },
+  "3205200": {
+    "nome": "Vila Velha",
+    "PRESIDENTE": {
+      "total": 127,
+      "total_municipio": 270064,
+      "candidatos": {
+        "Hertz Dias": 127
+      },
+      "percentual": 0.047
+    }
+  },
+  "3205309": {
+    "nome": "Vitória",
+    "PRESIDENTE": {
+      "total": 110,
+      "total_municipio": 209276,
+      "candidatos": {
+        "Hertz Dias": 110
+      },
+      "percentual": 0.053
+    }
+  },
+  "3200169": {
+    "nome": "Água Doce Do Norte",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8169,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3200136": {
+    "nome": "Águia Branca",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6950,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  }
+}

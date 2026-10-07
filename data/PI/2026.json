@@ -1,0 +1,6050 @@
+{
+  "2200053": {
+    "nome": "Acauã",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5443,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4974,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 9231,
+      "candidatos": {
+        "Danniel Rocha": 3
+      },
+      "percentual": 0.0
+    }
+  },
+  "2200103": {
+    "nome": "Agricolândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4325,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4094,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7535,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2200251": {
+    "nome": "Alagoinha Do Piauí",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 5034,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.04
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4744,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8917,
+      "candidatos": {
+        "Danniel Rocha": 3
+      },
+      "percentual": 0.0
+    }
+  },
+  "2200277": {
+    "nome": "Alegrete Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3511,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3364,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6383,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2200301": {
+    "nome": "Alto Longá",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 10756,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 10428,
+      "candidatos": {
+        "Geraldo Carvalho": 4
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 19108,
+      "candidatos": {
+        "Danniel Rocha": 5
+      },
+      "percentual": 0.0
+    }
+  },
+  "2200400": {
+    "nome": "Altos",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 30516,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 28266,
+      "candidatos": {
+        "Geraldo Carvalho": 22
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 49927,
+      "candidatos": {
+        "Danniel Rocha": 22
+      },
+      "percentual": 0.0
+    }
+  },
+  "2200459": {
+    "nome": "Alvorada Do Gurguéia",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3693,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.027
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3507,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6462,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2200509": {
+    "nome": "Amarante",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12338,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 11824,
+      "candidatos": {
+        "Geraldo Carvalho": 4
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 21540,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2200608": {
+    "nome": "Angical Do Piauí",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5233,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.019
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4940,
+      "candidatos": {
+        "Geraldo Carvalho": 3
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 9004,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2200806": {
+    "nome": "Antônio Almeida",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2423,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2297,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 4386,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2200707": {
+    "nome": "Anísio De Abreu",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5853,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5695,
+      "candidatos": {
+        "Geraldo Carvalho": 5
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 10359,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2200905": {
+    "nome": "Aroazes",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 4310,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.023
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4120,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7555,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2200954": {
+    "nome": "Aroeiras Do Itaim",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3781,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.026
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3604,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6639,
+      "candidatos": {
+        "Danniel Rocha": 3
+      },
+      "percentual": 0.0
+    }
+  },
+  "2201002": {
+    "nome": "Arraial",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3526,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3485,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6575,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2201051": {
+    "nome": "Assunção Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5161,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4827,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8996,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2201101": {
+    "nome": "Avelino Lopes",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7205,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6886,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 12725,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2201150": {
+    "nome": "Baixa Grande Do Ribeiro",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9282,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8556,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 16003,
+      "candidatos": {
+        "Danniel Rocha": 4
+      },
+      "percentual": 0.0
+    }
+  },
+  "2201176": {
+    "nome": "Barra D'Alcântara",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2699,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2522,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 4523,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2201200": {
+    "nome": "Barras",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 29626,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 27805,
+      "candidatos": {
+        "Geraldo Carvalho": 9
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 50468,
+      "candidatos": {
+        "Danniel Rocha": 19
+      },
+      "percentual": 0.0
+    }
+  },
+  "2201309": {
+    "nome": "Barreiras Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2534,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2382,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 4437,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2201408": {
+    "nome": "Barro Duro",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5014,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4792,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 9037,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2201507": {
+    "nome": "Batalha",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 16207,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.006
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 15564,
+      "candidatos": {
+        "Geraldo Carvalho": 3
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 28314,
+      "candidatos": {
+        "Danniel Rocha": 9
+      },
+      "percentual": 0.0
+    }
+  },
+  "2201556": {
+    "nome": "Bela Vista Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2917,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2690,
+      "candidatos": {
+        "Geraldo Carvalho": 5
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5071,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2201572": {
+    "nome": "Belém Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2849,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2746,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5268,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2201606": {
+    "nome": "Beneditinos",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7658,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.013
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 7301,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 13220,
+      "candidatos": {
+        "Danniel Rocha": 9
+      },
+      "percentual": 0.0
+    }
+  },
+  "2201705": {
+    "nome": "Bertolínia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3988,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3776,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7071,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2201739": {
+    "nome": "Betânia Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4858,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4645,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8848,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2201770": {
+    "nome": "Boa Hora",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5351,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5122,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 9370,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2201804": {
+    "nome": "Bocaina",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 4654,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.064
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4333,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8118,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2201903": {
+    "nome": "Bom Jesus",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 16107,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.025
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 15096,
+      "candidatos": {
+        "Geraldo Carvalho": 4
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 27458,
+      "candidatos": {
+        "Danniel Rocha": 9
+      },
+      "percentual": 0.0
+    }
+  },
+  "2201919": {
+    "nome": "Bom Princípio Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5471,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5270,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 9840,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2201929": {
+    "nome": "Bonfim Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4000,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3852,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7090,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2201945": {
+    "nome": "Boqueirão Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4590,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4363,
+      "candidatos": {
+        "Geraldo Carvalho": 3
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8111,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2201960": {
+    "nome": "Brasileira",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6436,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6042,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 10974,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2201988": {
+    "nome": "Brejo Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3035,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2946,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5367,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202000": {
+    "nome": "Buriti Dos Lopes",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 14180,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 13719,
+      "candidatos": {
+        "Geraldo Carvalho": 3
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 25858,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202026": {
+    "nome": "Buriti Dos Montes",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 5844,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.051
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5702,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 10605,
+      "candidatos": {
+        "Danniel Rocha": 5
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202059": {
+    "nome": "Cabeceiras Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7403,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 7128,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 12828,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202075": {
+    "nome": "Cajazeiras Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2795,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2724,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5041,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202083": {
+    "nome": "Cajueiro Da Praia",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6227,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5800,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 10540,
+      "candidatos": {
+        "Danniel Rocha": 4
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202091": {
+    "nome": "Caldeirão Grande Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4309,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4087,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7753,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202109": {
+    "nome": "Campinas Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4045,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3764,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6913,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202117": {
+    "nome": "Campo Alegre Do Fidalgo",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3792,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3681,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6872,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202133": {
+    "nome": "Campo Grande Do Piauí",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 4236,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.024
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3969,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7320,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202174": {
+    "nome": "Campo Largo Do Piauí",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 4500,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.044
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4308,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7963,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202208": {
+    "nome": "Campo Maior",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 29058,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 27119,
+      "candidatos": {
+        "Geraldo Carvalho": 29
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 48028,
+      "candidatos": {
+        "Danniel Rocha": 21
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202251": {
+    "nome": "Canavieira",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2630,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.038
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2541,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 4590,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202307": {
+    "nome": "Canto Do Buriti",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 12002,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.033
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 11318,
+      "candidatos": {
+        "Geraldo Carvalho": 5
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 20666,
+      "candidatos": {
+        "Danniel Rocha": 10
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202406": {
+    "nome": "Capitão De Campos",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7956,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 7430,
+      "candidatos": {
+        "Geraldo Carvalho": 9
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 13286,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202455": {
+    "nome": "Capitão Gervásio Oliveira",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3336,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.03
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3211,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5907,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202505": {
+    "nome": "Caracol",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6611,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6335,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 11315,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202539": {
+    "nome": "Caraúbas Do Piauí",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 4170,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.048
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4059,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7439,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202554": {
+    "nome": "Caridade Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4087,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3849,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7082,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202604": {
+    "nome": "Castelo Do Piauí",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 12372,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 11748,
+      "candidatos": {
+        "Geraldo Carvalho": 8
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 21300,
+      "candidatos": {
+        "Danniel Rocha": 5
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202653": {
+    "nome": "Caxingó",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 4720,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.064
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4594,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8510,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202703": {
+    "nome": "Cocal",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 18538,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 17130,
+      "candidatos": {
+        "Geraldo Carvalho": 9
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 30361,
+      "candidatos": {
+        "Danniel Rocha": 14
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202711": {
+    "nome": "Cocal De Telha",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 3370,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.059
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2953,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5258,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202729": {
+    "nome": "Cocal Dos Alves",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 4341,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.046
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4044,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7127,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202737": {
+    "nome": "Coivaras",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 4853,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4670,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8654,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202752": {
+    "nome": "Colônia Do Gurguéia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4284,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4065,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7623,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202778": {
+    "nome": "Colônia Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4626,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4481,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8017,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202802": {
+    "nome": "Conceição Do Canindé",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3967,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3646,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6902,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202851": {
+    "nome": "Coronel José Dias",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 4526,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.022
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4329,
+      "candidatos": {
+        "Geraldo Carvalho": 4
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8070,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2202901": {
+    "nome": "Corrente",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 16049,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.006
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 14884,
+      "candidatos": {
+        "Geraldo Carvalho": 5
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 26860,
+      "candidatos": {
+        "Danniel Rocha": 3
+      },
+      "percentual": 0.0
+    }
+  },
+  "2203008": {
+    "nome": "Cristalândia Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4681,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4485,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8121,
+      "candidatos": {
+        "Danniel Rocha": 5
+      },
+      "percentual": 0.0
+    }
+  },
+  "2203107": {
+    "nome": "Cristino Castro",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6836,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6353,
+      "candidatos": {
+        "Geraldo Carvalho": 4
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 11721,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2203206": {
+    "nome": "Curimatá",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7351,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 7008,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 12844,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2203230": {
+    "nome": "Currais",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5218,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4968,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 9157,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2203271": {
+    "nome": "Curral Novo Do Piauí",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 4496,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.022
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4356,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8347,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2203255": {
+    "nome": "Curralinhos",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4398,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4208,
+      "candidatos": {
+        "Geraldo Carvalho": 3
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7698,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2203305": {
+    "nome": "Demerval Lobão",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 11419,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.044
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 10806,
+      "candidatos": {
+        "Geraldo Carvalho": 8
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 19868,
+      "candidatos": {
+        "Danniel Rocha": 10
+      },
+      "percentual": 0.0
+    }
+  },
+  "2203354": {
+    "nome": "Dirceu Arcoverde",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5389,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5240,
+      "candidatos": {
+        "Geraldo Carvalho": 3
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 9642,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2203404": {
+    "nome": "Dom Expedito Lopes",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 5533,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.036
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5238,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 9532,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2203453": {
+    "nome": "Dom Inocêncio",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6235,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5917,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 10695,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2203420": {
+    "nome": "Domingos Mourão",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3319,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3188,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5780,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2203503": {
+    "nome": "Elesbão Veloso",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 10178,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.02
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 9764,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 17874,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2203602": {
+    "nome": "Eliseu Martins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2945,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2793,
+      "candidatos": {
+        "Geraldo Carvalho": 3
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5068,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2203701": {
+    "nome": "Esperantina",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 24600,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.004
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 22945,
+      "candidatos": {
+        "Geraldo Carvalho": 10
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 42224,
+      "candidatos": {
+        "Danniel Rocha": 9
+      },
+      "percentual": 0.0
+    }
+  },
+  "2203750": {
+    "nome": "Fartura Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3857,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3722,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6937,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2203800": {
+    "nome": "Flores Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3139,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2981,
+      "candidatos": {
+        "Geraldo Carvalho": 3
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5507,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2203859": {
+    "nome": "Floresta Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1948,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 1809,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 3398,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2203909": {
+    "nome": "Floriano",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 35341,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 33286,
+      "candidatos": {
+        "Geraldo Carvalho": 61
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 58020,
+      "candidatos": {
+        "Danniel Rocha": 35
+      },
+      "percentual": 0.0
+    }
+  },
+  "2204006": {
+    "nome": "Francinópolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3522,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3364,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6108,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2204105": {
+    "nome": "Francisco Ayres",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3860,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.026
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3727,
+      "candidatos": {
+        "Geraldo Carvalho": 4
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7017,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2204154": {
+    "nome": "Francisco Macedo",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2330,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2228,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 4232,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2204204": {
+    "nome": "Francisco Santos",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5640,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5466,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 9876,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2204303": {
+    "nome": "Fronteiras",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 7532,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.027
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6827,
+      "candidatos": {
+        "Geraldo Carvalho": 10
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 12463,
+      "candidatos": {
+        "Danniel Rocha": 6
+      },
+      "percentual": 0.0
+    }
+  },
+  "2204352": {
+    "nome": "Geminiano",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5442,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5131,
+      "candidatos": {
+        "Geraldo Carvalho": 4
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 9548,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2204402": {
+    "nome": "Gilbués",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6706,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6384,
+      "candidatos": {
+        "Geraldo Carvalho": 3
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 11662,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2204501": {
+    "nome": "Guadalupe",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 6143,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.049
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5532,
+      "candidatos": {
+        "Geraldo Carvalho": 9
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 9762,
+      "candidatos": {
+        "Danniel Rocha": 17
+      },
+      "percentual": 0.0
+    }
+  },
+  "2204550": {
+    "nome": "Guaribas",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3360,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3315,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6309,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2204600": {
+    "nome": "Hugo Napoleão",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3486,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.029
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3257,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6200,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2204659": {
+    "nome": "Ilha Grande",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7512,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 7087,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 12806,
+      "candidatos": {
+        "Danniel Rocha": 17
+      },
+      "percentual": 0.0
+    }
+  },
+  "2204709": {
+    "nome": "Inhuma",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 10132,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 9589,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 17422,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2204808": {
+    "nome": "Ipiranga Do Piauí",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6200,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5671,
+      "candidatos": {
+        "Geraldo Carvalho": 4
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 10156,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2204907": {
+    "nome": "Isaías Coelho",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5088,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4859,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8805,
+      "candidatos": {
+        "Danniel Rocha": 11
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205003": {
+    "nome": "Itainópolis",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 7535,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.04
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 7126,
+      "candidatos": {
+        "Geraldo Carvalho": 4
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 12782,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205102": {
+    "nome": "Itaueira",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6847,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6416,
+      "candidatos": {
+        "Geraldo Carvalho": 3
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 11510,
+      "candidatos": {
+        "Danniel Rocha": 3
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205151": {
+    "nome": "Jacobina Do Piauí",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 4474,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.022
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4050,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7647,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205201": {
+    "nome": "Jaicós",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 10272,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.019
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 9455,
+      "candidatos": {
+        "Geraldo Carvalho": 6
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 17387,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205250": {
+    "nome": "Jardim Do Mulato",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3710,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3568,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6827,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205276": {
+    "nome": "Jatobá Do Piauí",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5687,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5451,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 9867,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205300": {
+    "nome": "Jerumenha",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3719,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3518,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6397,
+      "candidatos": {
+        "Danniel Rocha": 22
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205409": {
+    "nome": "Joaquim Pires",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 8978,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.022
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8535,
+      "candidatos": {
+        "Geraldo Carvalho": 3
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 15711,
+      "candidatos": {
+        "Danniel Rocha": 3
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205458": {
+    "nome": "Joca Marques",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 4448,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.022
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4334,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8016,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205508": {
+    "nome": "José De Freitas",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 29394,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 27896,
+      "candidatos": {
+        "Geraldo Carvalho": 6
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 49787,
+      "candidatos": {
+        "Danniel Rocha": 25
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205359": {
+    "nome": "João Costa",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3088,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2957,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5368,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205516": {
+    "nome": "Juazeiro Do Piauí",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 4486,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.022
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4236,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7729,
+      "candidatos": {
+        "Danniel Rocha": 4
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205532": {
+    "nome": "Jurema",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4034,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3760,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6788,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205524": {
+    "nome": "Júlio Borges",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3868,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3778,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7064,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205557": {
+    "nome": "Lagoa Alegre",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7193,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6939,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 12628,
+      "candidatos": {
+        "Danniel Rocha": 3
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205573": {
+    "nome": "Lagoa De São Francisco",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4500,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4180,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7588,
+      "candidatos": {
+        "Danniel Rocha": 5
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205565": {
+    "nome": "Lagoa Do Barro Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3768,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3584,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6718,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205581": {
+    "nome": "Lagoa Do Piauí",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 4436,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.045
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4301,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7922,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205599": {
+    "nome": "Lagoa Do Sítio",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 3876,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.052
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3729,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6846,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205540": {
+    "nome": "Lagoinha Do Piauí",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2466,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.041
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2325,
+      "candidatos": {
+        "Geraldo Carvalho": 5
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 4277,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205607": {
+    "nome": "Landri Sales",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3762,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.027
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3606,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6662,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205706": {
+    "nome": "Luis Correia",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 21466,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 20349,
+      "candidatos": {
+        "Geraldo Carvalho": 7
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 36944,
+      "candidatos": {
+        "Danniel Rocha": 23
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205805": {
+    "nome": "Luzilândia",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 15410,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.006
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 14466,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 25846,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205854": {
+    "nome": "Madeiro",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5006,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4889,
+      "candidatos": {
+        "Geraldo Carvalho": 4
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 9175,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205904": {
+    "nome": "Manoel Emídio",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 3933,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.076
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3771,
+      "candidatos": {
+        "Geraldo Carvalho": 3
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6849,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2205953": {
+    "nome": "Marcolândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7097,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6638,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 12658,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2206001": {
+    "nome": "Marcos Parente",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 3380,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.089
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3179,
+      "candidatos": {
+        "Geraldo Carvalho": 4
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5833,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2206050": {
+    "nome": "Massapê Do Piauí",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 4629,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.043
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4354,
+      "candidatos": {
+        "Geraldo Carvalho": 4
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8169,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2206100": {
+    "nome": "Matias Olímpio",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6812,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6477,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 11941,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2206209": {
+    "nome": "Miguel Alves",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 20450,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 19708,
+      "candidatos": {
+        "Geraldo Carvalho": 6
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 35947,
+      "candidatos": {
+        "Danniel Rocha": 5
+      },
+      "percentual": 0.0
+    }
+  },
+  "2206308": {
+    "nome": "Miguel Leão",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1562,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 1516,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 2886,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2206357": {
+    "nome": "Milton Brandão",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 5069,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.059
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4771,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8916,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2206407": {
+    "nome": "Monsenhor Gil",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 8627,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.023
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8197,
+      "candidatos": {
+        "Geraldo Carvalho": 6
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 14961,
+      "candidatos": {
+        "Danniel Rocha": 8
+      },
+      "percentual": 0.0
+    }
+  },
+  "2206506": {
+    "nome": "Monsenhor Hipólito",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6110,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5770,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 10814,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2206605": {
+    "nome": "Monte Alegre Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7195,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6911,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 12867,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2206654": {
+    "nome": "Morro Cabeça No Tempo",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3209,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3112,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5817,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2206670": {
+    "nome": "Morro Do Chapéu Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4505,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4323,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8122,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2206696": {
+    "nome": "Murici Dos Portelas",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 4651,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.043
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4401,
+      "candidatos": {
+        "Geraldo Carvalho": 7
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8118,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2206704": {
+    "nome": "Nazaré Do Piauí",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5196,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.019
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4869,
+      "candidatos": {
+        "Geraldo Carvalho": 3
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8733,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2206720": {
+    "nome": "Nazária",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 9537,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 9096,
+      "candidatos": {
+        "Geraldo Carvalho": 10
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 16266,
+      "candidatos": {
+        "Danniel Rocha": 8
+      },
+      "percentual": 0.0
+    }
+  },
+  "2206753": {
+    "nome": "Nossa Senhora De Nazaré",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 5123,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.059
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4902,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 9257,
+      "candidatos": {
+        "Danniel Rocha": 3
+      },
+      "percentual": 0.0
+    }
+  },
+  "2206803": {
+    "nome": "Nossa Senhora Dos Remédios",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6868,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6629,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 12251,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2207959": {
+    "nome": "Nova Santa Rita",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3419,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.029
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3264,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6052,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2206902": {
+    "nome": "Novo Oriente Do Piauí",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 4004,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.025
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3839,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6904,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2206951": {
+    "nome": "Novo Santo Antônio",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3877,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3748,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6975,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2207009": {
+    "nome": "Oeiras",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 24335,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 23043,
+      "candidatos": {
+        "Geraldo Carvalho": 4
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 41294,
+      "candidatos": {
+        "Danniel Rocha": 9
+      },
+      "percentual": 0.0
+    }
+  },
+  "2207108": {
+    "nome": "Olho D'Água Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2177,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2089,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 3951,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2207207": {
+    "nome": "Padre Marcos",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4735,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4481,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8419,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2207306": {
+    "nome": "Paes Landim",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3365,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3255,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5944,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2207355": {
+    "nome": "Pajeú Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2556,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2474,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 4632,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2207405": {
+    "nome": "Palmeira Do Piauí",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3953,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.025
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3727,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6935,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2207504": {
+    "nome": "Palmeirais",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 10661,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.047
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 10165,
+      "candidatos": {
+        "Geraldo Carvalho": 4
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 18364,
+      "candidatos": {
+        "Danniel Rocha": 3
+      },
+      "percentual": 0.0
+    }
+  },
+  "2207553": {
+    "nome": "Paquetá",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3595,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3470,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6438,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2207603": {
+    "nome": "Parnaguá",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5771,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5500,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 10205,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2207702": {
+    "nome": "Parnaíba",
+    "PRESIDENTE": {
+      "total": 19,
+      "total_municipio": 95945,
+      "candidatos": {
+        "Hertz Dias": 19
+      },
+      "percentual": 0.02
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 88600,
+      "candidatos": {
+        "Geraldo Carvalho": 120
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 157212,
+      "candidatos": {
+        "Danniel Rocha": 320
+      },
+      "percentual": 0.0
+    }
+  },
+  "2207751": {
+    "nome": "Passagem Franca Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2998,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2886,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5397,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2207777": {
+    "nome": "Patos Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4294,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3960,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7531,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2207793": {
+    "nome": "Pau D'Arco Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4534,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4287,
+      "candidatos": {
+        "Geraldo Carvalho": 4
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7743,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2207801": {
+    "nome": "Paulistana",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 13611,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.029
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 12664,
+      "candidatos": {
+        "Geraldo Carvalho": 6
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 23449,
+      "candidatos": {
+        "Danniel Rocha": 9
+      },
+      "percentual": 0.0
+    }
+  },
+  "2207850": {
+    "nome": "Pavussu",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 2994,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.067
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2887,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5399,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2207900": {
+    "nome": "Pedro Ii",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 25886,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 24279,
+      "candidatos": {
+        "Geraldo Carvalho": 14
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 44039,
+      "candidatos": {
+        "Danniel Rocha": 39
+      },
+      "percentual": 0.0
+    }
+  },
+  "2207934": {
+    "nome": "Pedro Laurentino",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2651,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.038
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2544,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 4776,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2208007": {
+    "nome": "Picos",
+    "PRESIDENTE": {
+      "total": 12,
+      "total_municipio": 45412,
+      "candidatos": {
+        "Hertz Dias": 12
+      },
+      "percentual": 0.026
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 42574,
+      "candidatos": {
+        "Geraldo Carvalho": 20
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 77340,
+      "candidatos": {
+        "Danniel Rocha": 29
+      },
+      "percentual": 0.0
+    }
+  },
+  "2208106": {
+    "nome": "Pimenteiras",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7174,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6898,
+      "candidatos": {
+        "Geraldo Carvalho": 5
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 12563,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2208205": {
+    "nome": "Pio Ix",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 12091,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 11337,
+      "candidatos": {
+        "Geraldo Carvalho": 5
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 20918,
+      "candidatos": {
+        "Danniel Rocha": 3
+      },
+      "percentual": 0.0
+    }
+  },
+  "2208304": {
+    "nome": "Piracuruca",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 20013,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.035
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 18823,
+      "candidatos": {
+        "Geraldo Carvalho": 33
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 34276,
+      "candidatos": {
+        "Danniel Rocha": 15
+      },
+      "percentual": 0.0
+    }
+  },
+  "2208403": {
+    "nome": "Piripiri",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 38542,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 34930,
+      "candidatos": {
+        "Geraldo Carvalho": 24
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 60831,
+      "candidatos": {
+        "Danniel Rocha": 62
+      },
+      "percentual": 0.0
+    }
+  },
+  "2208502": {
+    "nome": "Porto",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7525,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.013
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 7224,
+      "candidatos": {
+        "Geraldo Carvalho": 3
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 13237,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2208551": {
+    "nome": "Porto Alegre Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1647,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 1636,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 3101,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2208601": {
+    "nome": "Prata Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2907,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2813,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5247,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2208650": {
+    "nome": "Queimada Nova",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5392,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.019
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5028,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 9116,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2208700": {
+    "nome": "Redenção Do Gurguéia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5492,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5314,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 9983,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2208809": {
+    "nome": "Regeneração",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 10856,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 10302,
+      "candidatos": {
+        "Geraldo Carvalho": 3
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 18852,
+      "candidatos": {
+        "Danniel Rocha": 5
+      },
+      "percentual": 0.0
+    }
+  },
+  "2208858": {
+    "nome": "Riacho Frio",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3546,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3439,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6277,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2208874": {
+    "nome": "Ribeira Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3031,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2969,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5405,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2208908": {
+    "nome": "Ribeiro Gonçalves",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4435,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4157,
+      "candidatos": {
+        "Geraldo Carvalho": 4
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7750,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2209005": {
+    "nome": "Rio Grande Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4224,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3968,
+      "candidatos": {
+        "Geraldo Carvalho": 6
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7241,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2209104": {
+    "nome": "Santa Cruz Do Piauí",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 4985,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.04
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4833,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8850,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2209153": {
+    "nome": "Santa Cruz Dos Milagres",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3193,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3105,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5870,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2209203": {
+    "nome": "Santa Filomena",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 4335,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.023
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4043,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7437,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2209302": {
+    "nome": "Santa Luz",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4328,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4059,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7461,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2209377": {
+    "nome": "Santa Rosa Do Piauí",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3709,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.027
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3593,
+      "candidatos": {
+        "Geraldo Carvalho": 3
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6647,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2209351": {
+    "nome": "Santana Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3498,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3336,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6289,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2209401": {
+    "nome": "Santo Antônio De Lisboa",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5230,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.019
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5009,
+      "candidatos": {
+        "Geraldo Carvalho": 3
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 9376,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2209450": {
+    "nome": "Santo Antônio Dos Milagres",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1568,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 1463,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 2725,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2209500": {
+    "nome": "Santo Inácio Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3011,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2911,
+      "candidatos": {
+        "Geraldo Carvalho": 4
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5477,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2210623": {
+    "nome": "Sebastião Barros",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3673,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3479,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6336,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2210631": {
+    "nome": "Sebastião Leal",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3611,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.028
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3395,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6414,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2210656": {
+    "nome": "Sigefredo Pacheco",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7745,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 7382,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 13715,
+      "candidatos": {
+        "Danniel Rocha": 4
+      },
+      "percentual": 0.0
+    }
+  },
+  "2210805": {
+    "nome": "Simplício Mendes",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 8418,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8036,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 14974,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2210706": {
+    "nome": "Simões",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9700,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8928,
+      "candidatos": {
+        "Geraldo Carvalho": 3
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 16138,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2210904": {
+    "nome": "Socorro Do Piauí",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 3285,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.061
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3185,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5960,
+      "candidatos": {
+        "Danniel Rocha": 3
+      },
+      "percentual": 0.0
+    }
+  },
+  "2210938": {
+    "nome": "Sussuapara",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5624,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5258,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 9526,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2209559": {
+    "nome": "São Braz Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3353,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3183,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5866,
+      "candidatos": {
+        "Danniel Rocha": 4
+      },
+      "percentual": 0.0
+    }
+  },
+  "2209658": {
+    "nome": "São Francisco De Assis Do Piauí",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3853,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.026
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3686,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7093,
+      "candidatos": {
+        "Danniel Rocha": 3
+      },
+      "percentual": 0.0
+    }
+  },
+  "2209708": {
+    "nome": "São Francisco Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4468,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4341,
+      "candidatos": {
+        "Geraldo Carvalho": 3
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7735,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2209609": {
+    "nome": "São Félix Do Piauí",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3163,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.032
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3079,
+      "candidatos": {
+        "Geraldo Carvalho": 3
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5804,
+      "candidatos": {
+        "Danniel Rocha": 7
+      },
+      "percentual": 0.0
+    }
+  },
+  "2209757": {
+    "nome": "São Gonçalo Do Gurguéia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2190,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2134,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 3917,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2209807": {
+    "nome": "São Gonçalo Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4183,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3973,
+      "candidatos": {
+        "Geraldo Carvalho": 4
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7355,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2210052": {
+    "nome": "São José Do Divino",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4087,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3950,
+      "candidatos": {
+        "Geraldo Carvalho": 8
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7472,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2210102": {
+    "nome": "São José Do Peixe",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2428,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2337,
+      "candidatos": {
+        "Geraldo Carvalho": 6
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 4112,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2210201": {
+    "nome": "São José Do Piauí",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 4663,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.043
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4334,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8171,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2209856": {
+    "nome": "São João Da Canabrava",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3611,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3412,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6441,
+      "candidatos": {
+        "Danniel Rocha": 3
+      },
+      "percentual": 0.0
+    }
+  },
+  "2209872": {
+    "nome": "São João Da Fronteira",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4157,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3959,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7297,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2209906": {
+    "nome": "São João Da Serra",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5485,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5284,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 9848,
+      "candidatos": {
+        "Danniel Rocha": 3
+      },
+      "percentual": 0.0
+    }
+  },
+  "2209955": {
+    "nome": "São João Da Varjota",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3313,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3197,
+      "candidatos": {
+        "Geraldo Carvalho": 4
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5761,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2209971": {
+    "nome": "São João Do Arraial",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6043,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5684,
+      "candidatos": {
+        "Geraldo Carvalho": 8
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 10550,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2210003": {
+    "nome": "São João Do Piauí",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 11944,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.042
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 11395,
+      "candidatos": {
+        "Geraldo Carvalho": 8
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 20744,
+      "candidatos": {
+        "Danniel Rocha": 12
+      },
+      "percentual": 0.0
+    }
+  },
+  "2210300": {
+    "nome": "São Julião",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4631,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4473,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8536,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2210359": {
+    "nome": "São Lourenço Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3939,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3762,
+      "candidatos": {
+        "Geraldo Carvalho": 3
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6767,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2210375": {
+    "nome": "São Luis Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2765,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2624,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5065,
+      "candidatos": {
+        "Danniel Rocha": 3
+      },
+      "percentual": 0.0
+    }
+  },
+  "2210383": {
+    "nome": "São Miguel Da Baixa Grande",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2189,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2095,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 3929,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2210391": {
+    "nome": "São Miguel Do Fidalgo",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2314,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2250,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 4101,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2210409": {
+    "nome": "São Miguel Do Tapuio",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 11180,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 10655,
+      "candidatos": {
+        "Geraldo Carvalho": 4
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 19356,
+      "candidatos": {
+        "Danniel Rocha": 13
+      },
+      "percentual": 0.0
+    }
+  },
+  "2210508": {
+    "nome": "São Pedro Do Piauí",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 9178,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.033
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8788,
+      "candidatos": {
+        "Geraldo Carvalho": 6
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 16384,
+      "candidatos": {
+        "Danniel Rocha": 7
+      },
+      "percentual": 0.0
+    }
+  },
+  "2210607": {
+    "nome": "São Raimundo Nonato",
+    "PRESIDENTE": {
+      "total": 10,
+      "total_municipio": 22535,
+      "candidatos": {
+        "Hertz Dias": 10
+      },
+      "percentual": 0.044
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 21048,
+      "candidatos": {
+        "Geraldo Carvalho": 26
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 38034,
+      "candidatos": {
+        "Danniel Rocha": 11
+      },
+      "percentual": 0.0
+    }
+  },
+  "2210953": {
+    "nome": "Tamboril Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2344,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2310,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 4305,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2210979": {
+    "nome": "Tanque Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2160,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2083,
+      "candidatos": {
+        "Geraldo Carvalho": 2
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 3879,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2211001": {
+    "nome": "Teresina",
+    "PRESIDENTE": {
+      "total": 197,
+      "total_municipio": 484190,
+      "candidatos": {
+        "Hertz Dias": 197
+      },
+      "percentual": 0.041
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 450111,
+      "candidatos": {
+        "Geraldo Carvalho": 1014
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 775390,
+      "candidatos": {
+        "Danniel Rocha": 1698
+      },
+      "percentual": 0.0
+    }
+  },
+  "2211100": {
+    "nome": "União",
+    "PRESIDENTE": {
+      "total": 8,
+      "total_municipio": 31253,
+      "candidatos": {
+        "Hertz Dias": 8
+      },
+      "percentual": 0.026
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 29968,
+      "candidatos": {
+        "Geraldo Carvalho": 13
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 54259,
+      "candidatos": {
+        "Danniel Rocha": 22
+      },
+      "percentual": 0.0
+    }
+  },
+  "2211209": {
+    "nome": "Uruçuí",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 15251,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 14330,
+      "candidatos": {
+        "Geraldo Carvalho": 6
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 26405,
+      "candidatos": {
+        "Danniel Rocha": 6
+      },
+      "percentual": 0.0
+    }
+  },
+  "2211308": {
+    "nome": "Valença Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 13911,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 13336,
+      "candidatos": {
+        "Geraldo Carvalho": 5
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 23624,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2211506": {
+    "nome": "Vera Mendes",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2808,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.036
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2636,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 4951,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2211605": {
+    "nome": "Vila Nova Do Piauí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2580,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2489,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 4650,
+      "candidatos": {
+        "Danniel Rocha": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "2211357": {
+    "nome": "Várzea Branca",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3779,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3676,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6578,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2211407": {
+    "nome": "Várzea Grande",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3017,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.033
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2842,
+      "candidatos": {
+        "Geraldo Carvalho": 1
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5216,
+      "candidatos": {
+        "Danniel Rocha": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "2211704": {
+    "nome": "Wall Ferraz",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3691,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3541,
+      "candidatos": {
+        "Geraldo Carvalho": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6605,
+      "candidatos": {
+        "Danniel Rocha": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2200202": {
+    "nome": "Água Branca",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12754,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 11924,
+      "candidatos": {
+        "Geraldo Carvalho": 10
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 22450,
+      "candidatos": {
+        "Danniel Rocha": 5
+      },
+      "percentual": 0.0
+    }
+  }
+}

@@ -1,0 +1,6662 @@
+{
+  "2600054": {
+    "nome": "Abreu E Lima",
+    "PRESIDENTE": {
+      "total": 8,
+      "total_municipio": 64196,
+      "candidatos": {
+        "Hertz Dias": 8
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 17,
+      "total_municipio": 60732,
+      "candidatos": {
+        "Guilherme Fonseca": 17
+      },
+      "percentual": 0.028
+    },
+    "SENADOR": {
+      "total": 31,
+      "total_municipio": 105279,
+      "candidatos": {
+        "Mariano Macedo": 31
+      },
+      "percentual": 0.029
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 13,
+      "total_municipio": 59810,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.022
+    }
+  },
+  "2600104": {
+    "nome": "Afogados Da Ingazeira",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 23059,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.004
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 21781,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 36928,
+      "candidatos": {
+        "Mariano Macedo": 4
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 20856,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2600203": {
+    "nome": "Afrânio",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12892,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 11674,
+      "candidatos": {
+        "Guilherme Fonseca": 3
+      },
+      "percentual": 0.026
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 20842,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 12415,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2600302": {
+    "nome": "Agrestina",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 16241,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 15393,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 26615,
+      "candidatos": {
+        "Mariano Macedo": 4
+      },
+      "percentual": 0.015
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 14976,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "2600609": {
+    "nome": "Alagoinha",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9634,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 9043,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 16198,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 8963,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.022
+    }
+  },
+  "2600708": {
+    "nome": "Aliança",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 21427,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.005
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 20025,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 35111,
+      "candidatos": {
+        "Mariano Macedo": 4
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 20210,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.005
+    }
+  },
+  "2600807": {
+    "nome": "Altinho",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 13456,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 12847,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 21400,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 12433,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2600906": {
+    "nome": "Amaraji",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 13135,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.03
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 12279,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.008
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 21161,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 12192,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2601003": {
+    "nome": "Angelim",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6887,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6510,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 12064,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 6767,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2601102": {
+    "nome": "Araripina",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 45275,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 11,
+      "total_municipio": 41284,
+      "candidatos": {
+        "Guilherme Fonseca": 11
+      },
+      "percentual": 0.027
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 77389,
+      "candidatos": {
+        "Mariano Macedo": 10
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 44324,
+      "candidatos": {
+        "Caio Marx": 1,
+        "Kelly Das Mulheres Socialistas": 1
+      },
+      "percentual": 0.007
+    }
+  },
+  "2601052": {
+    "nome": "Araçoiaba",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 13527,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 12741,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.008
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 23053,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 13053,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2601201": {
+    "nome": "Arcoverde",
+    "PRESIDENTE": {
+      "total": 10,
+      "total_municipio": 40462,
+      "candidatos": {
+        "Hertz Dias": 10
+      },
+      "percentual": 0.025
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 38234,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.005
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 66583,
+      "candidatos": {
+        "Mariano Macedo": 8
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 37290,
+      "candidatos": {
+        "Caio Marx": 2,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "2601300": {
+    "nome": "Barra De Guabiraba",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8094,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 7735,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 13660,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 7543,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "2601409": {
+    "nome": "Barreiros",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 22106,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 20570,
+      "candidatos": {
+        "Guilherme Fonseca": 7
+      },
+      "percentual": 0.034
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 35216,
+      "candidatos": {
+        "Mariano Macedo": 3
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 20401,
+      "candidatos": {
+        "Caio Marx": 1,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.02
+    }
+  },
+  "2601706": {
+    "nome": "Belo Jardim",
+    "PRESIDENTE": {
+      "total": 10,
+      "total_municipio": 46521,
+      "candidatos": {
+        "Hertz Dias": 10
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 9,
+      "total_municipio": 42403,
+      "candidatos": {
+        "Guilherme Fonseca": 9
+      },
+      "percentual": 0.021
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 75471,
+      "candidatos": {
+        "Mariano Macedo": 8
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 41653,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.012
+    }
+  },
+  "2601508": {
+    "nome": "Belém De Maria",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 7325,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.027
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 7017,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 11822,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 6947,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2601607": {
+    "nome": "Belém Do São Francisco",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 11786,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 10974,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.009
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 20574,
+      "candidatos": {
+        "Mariano Macedo": 4
+      },
+      "percentual": 0.019
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 11506,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "2601805": {
+    "nome": "Betânia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7534,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 7019,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.028
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 13174,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 7564,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2601904": {
+    "nome": "Bezerros",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 37941,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 35389,
+      "candidatos": {
+        "Guilherme Fonseca": 5
+      },
+      "percentual": 0.014
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 60460,
+      "candidatos": {
+        "Mariano Macedo": 6
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 34030,
+      "candidatos": {
+        "Caio Marx": 1,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.018
+    }
+  },
+  "2602001": {
+    "nome": "Bodocó",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 21495,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.005
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 19779,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 35941,
+      "candidatos": {
+        "Mariano Macedo": 7
+      },
+      "percentual": 0.019
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 20538,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.01
+    }
+  },
+  "2602100": {
+    "nome": "Bom Conselho",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 25604,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 23477,
+      "candidatos": {
+        "Guilherme Fonseca": 3
+      },
+      "percentual": 0.013
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 43664,
+      "candidatos": {
+        "Mariano Macedo": 8
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 25206,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.004
+    }
+  },
+  "2602209": {
+    "nome": "Bom Jardim",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 23291,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 21520,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.009
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 38290,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 22585,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "2602308": {
+    "nome": "Bonito",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 23139,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 21912,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.009
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 36713,
+      "candidatos": {
+        "Mariano Macedo": 4
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 20991,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.005
+    }
+  },
+  "2602506": {
+    "nome": "Brejinho",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5630,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5043,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8824,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5301,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2602605": {
+    "nome": "Brejo Da Madre De Deus",
+    "PRESIDENTE": {
+      "total": 8,
+      "total_municipio": 26824,
+      "candidatos": {
+        "Hertz Dias": 8
+      },
+      "percentual": 0.03
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 25121,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.008
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 44049,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 25198,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2602407": {
+    "nome": "Brejão",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7649,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7199,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.014
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 12696,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 7136,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "2602704": {
+    "nome": "Buenos Aires",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 9200,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.033
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8663,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 15700,
+      "candidatos": {
+        "Mariano Macedo": 3
+      },
+      "percentual": 0.019
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 8887,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2602803": {
+    "nome": "Buíque",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 29058,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 26595,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.004
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 48754,
+      "candidatos": {
+        "Mariano Macedo": 7
+      },
+      "percentual": 0.014
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 28017,
+      "candidatos": {
+        "Caio Marx": 4,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.021
+    }
+  },
+  "2602902": {
+    "nome": "Cabo De Santo Agostinho",
+    "PRESIDENTE": {
+      "total": 27,
+      "total_municipio": 134037,
+      "candidatos": {
+        "Hertz Dias": 27
+      },
+      "percentual": 0.02
+    },
+    "GOVERNADOR": {
+      "total": 31,
+      "total_municipio": 124107,
+      "candidatos": {
+        "Guilherme Fonseca": 31
+      },
+      "percentual": 0.025
+    },
+    "SENADOR": {
+      "total": 59,
+      "total_municipio": 212689,
+      "candidatos": {
+        "Mariano Macedo": 59
+      },
+      "percentual": 0.028
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 21,
+      "total_municipio": 121821,
+      "candidatos": {
+        "Caio Marx": 3,
+        "Kelly Das Mulheres Socialistas": 4
+      },
+      "percentual": 0.017
+    }
+  },
+  "2603009": {
+    "nome": "Cabrobó",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 20151,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.005
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 18599,
+      "candidatos": {
+        "Guilherme Fonseca": 4
+      },
+      "percentual": 0.022
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 34679,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.006
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 19373,
+      "candidatos": {
+        "Caio Marx": 1,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "2603108": {
+    "nome": "Cachoeirinha",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12547,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 11778,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 20567,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 11710,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2603207": {
+    "nome": "Caetés",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 14594,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 13333,
+      "candidatos": {
+        "Guilherme Fonseca": 3
+      },
+      "percentual": 0.023
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 23709,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 13595,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "2603405": {
+    "nome": "Calumbi",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5774,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 5344,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.019
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 10114,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5632,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2603306": {
+    "nome": "Calçado",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6124,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 5751,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.017
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 10270,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 5606,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.018
+    }
+  },
+  "2603454": {
+    "nome": "Camaragibe",
+    "PRESIDENTE": {
+      "total": 36,
+      "total_municipio": 101980,
+      "candidatos": {
+        "Hertz Dias": 36
+      },
+      "percentual": 0.035
+    },
+    "GOVERNADOR": {
+      "total": 34,
+      "total_municipio": 97033,
+      "candidatos": {
+        "Guilherme Fonseca": 34
+      },
+      "percentual": 0.035
+    },
+    "SENADOR": {
+      "total": 116,
+      "total_municipio": 168581,
+      "candidatos": {
+        "Mariano Macedo": 116
+      },
+      "percentual": 0.069
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 27,
+      "total_municipio": 94920,
+      "candidatos": {
+        "Caio Marx": 4,
+        "Kelly Das Mulheres Socialistas": 9
+      },
+      "percentual": 0.028
+    }
+  },
+  "2603504": {
+    "nome": "Camocim De São Félix",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 12099,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 11178,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.009
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 19489,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 11055,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2603603": {
+    "nome": "Camutanga",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5495,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5126,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8851,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5000,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2603702": {
+    "nome": "Canhotinho",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12907,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 12034,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.008
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 20426,
+      "candidatos": {
+        "Mariano Macedo": 4
+      },
+      "percentual": 0.02
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 12390,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.032
+    }
+  },
+  "2603801": {
+    "nome": "Capoeiras",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 11851,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 11081,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 20069,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 11147,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2603926": {
+    "nome": "Carnaubeira Da Penha",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9654,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 8953,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.022
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 16942,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 9472,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.011
+    }
+  },
+  "2603900": {
+    "nome": "Carnaíba",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 12455,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 11595,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 20856,
+      "candidatos": {
+        "Mariano Macedo": 4
+      },
+      "percentual": 0.019
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 11905,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2604007": {
+    "nome": "Carpina",
+    "PRESIDENTE": {
+      "total": 14,
+      "total_municipio": 47995,
+      "candidatos": {
+        "Hertz Dias": 14
+      },
+      "percentual": 0.029
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 45705,
+      "candidatos": {
+        "Guilherme Fonseca": 4
+      },
+      "percentual": 0.009
+    },
+    "SENADOR": {
+      "total": 25,
+      "total_municipio": 82366,
+      "candidatos": {
+        "Mariano Macedo": 25
+      },
+      "percentual": 0.03
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 46278,
+      "candidatos": {
+        "Caio Marx": 1,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.011
+    }
+  },
+  "2604106": {
+    "nome": "Caruaru",
+    "PRESIDENTE": {
+      "total": 41,
+      "total_municipio": 205714,
+      "candidatos": {
+        "Hertz Dias": 41
+      },
+      "percentual": 0.02
+    },
+    "GOVERNADOR": {
+      "total": 31,
+      "total_municipio": 194870,
+      "candidatos": {
+        "Guilherme Fonseca": 31
+      },
+      "percentual": 0.016
+    },
+    "SENADOR": {
+      "total": 101,
+      "total_municipio": 331242,
+      "candidatos": {
+        "Mariano Macedo": 101
+      },
+      "percentual": 0.03
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 32,
+      "total_municipio": 188074,
+      "candidatos": {
+        "Caio Marx": 9,
+        "Kelly Das Mulheres Socialistas": 5
+      },
+      "percentual": 0.017
+    }
+  },
+  "2604155": {
+    "nome": "Casinhas",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9041,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 8308,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.024
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 15433,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 8697,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2604205": {
+    "nome": "Catende",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 19381,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 18344,
+      "candidatos": {
+        "Guilherme Fonseca": 3
+      },
+      "percentual": 0.016
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 31878,
+      "candidatos": {
+        "Mariano Macedo": 6
+      },
+      "percentual": 0.019
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 18270,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2604304": {
+    "nome": "Cedro",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7354,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6817,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 12689,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 7177,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2604403": {
+    "nome": "Chã De Alegria",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9061,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 8520,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.023
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 14992,
+      "candidatos": {
+        "Mariano Macedo": 3
+      },
+      "percentual": 0.02
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 8310,
+      "candidatos": {
+        "Caio Marx": 2,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.024
+    }
+  },
+  "2604502": {
+    "nome": "Chã Grande",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 14918,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 13834,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.007
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 22937,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.004
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 13071,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.023
+    }
+  },
+  "2604601": {
+    "nome": "Condado",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 15259,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 14355,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.014
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 24705,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.004
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 8,
+      "total_municipio": 14077,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.057
+    }
+  },
+  "2604700": {
+    "nome": "Correntes",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9808,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 9326,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 17158,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 9500,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2604809": {
+    "nome": "Cortês",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 8367,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7892,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.013
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 14167,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 7964,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "2604908": {
+    "nome": "Cumaru",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 11449,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 10838,
+      "candidatos": {
+        "Guilherme Fonseca": 4
+      },
+      "percentual": 0.037
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 19498,
+      "candidatos": {
+        "Mariano Macedo": 3
+      },
+      "percentual": 0.015
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 10937,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2605004": {
+    "nome": "Cupira",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 15389,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.026
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 14688,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 25997,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.004
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 14533,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.007
+    }
+  },
+  "2605103": {
+    "nome": "Custódia",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 21560,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 20065,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.01
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 35175,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.003
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 19876,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.01
+    }
+  },
+  "2605152": {
+    "nome": "Dormentes",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 12587,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 11785,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.017
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 22019,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 12699,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2605202": {
+    "nome": "Escada",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 37632,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 35415,
+      "candidatos": {
+        "Guilherme Fonseca": 5
+      },
+      "percentual": 0.014
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 63273,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.003
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 35530,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.006
+    }
+  },
+  "2605301": {
+    "nome": "Exu",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 21591,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 19588,
+      "candidatos": {
+        "Guilherme Fonseca": 3
+      },
+      "percentual": 0.015
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 36622,
+      "candidatos": {
+        "Mariano Macedo": 6
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 20895,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 1
+      },
+      "percentual": 0.019
+    }
+  },
+  "2605400": {
+    "nome": "Feira Nova",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 14099,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.035
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 13185,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.015
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 23191,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 13079,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.038
+    }
+  },
+  "2605459": {
+    "nome": "Fernando De Noronha",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 2354,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.085
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 2226,
+      "candidatos": {
+        "Guilherme Fonseca": 3
+      },
+      "percentual": 0.135
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 3850,
+      "candidatos": {
+        "Mariano Macedo": 3
+      },
+      "percentual": 0.078
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 2159,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.046
+    }
+  },
+  "2605509": {
+    "nome": "Ferreiros",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7791,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7300,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.014
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 12433,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 7179,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "2605608": {
+    "nome": "Flores",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12042,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 10833,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.009
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 19346,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 11686,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2605707": {
+    "nome": "Floresta",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 18960,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 17739,
+      "candidatos": {
+        "Guilherme Fonseca": 8
+      },
+      "percentual": 0.045
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 33096,
+      "candidatos": {
+        "Mariano Macedo": 5
+      },
+      "percentual": 0.015
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 18367,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.005
+    }
+  },
+  "2605806": {
+    "nome": "Frei Miguelinho",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 10724,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 10191,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.01
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 17883,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 10108,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2605905": {
+    "nome": "Gameleira",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 10831,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 10239,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.01
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 18148,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 10322,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.01
+    }
+  },
+  "2606002": {
+    "nome": "Garanhuns",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 76730,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 13,
+      "total_municipio": 71999,
+      "candidatos": {
+        "Guilherme Fonseca": 13
+      },
+      "percentual": 0.018
+    },
+    "SENADOR": {
+      "total": 30,
+      "total_municipio": 129154,
+      "candidatos": {
+        "Mariano Macedo": 30
+      },
+      "percentual": 0.023
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 8,
+      "total_municipio": 71658,
+      "candidatos": {
+        "Caio Marx": 3,
+        "Kelly Das Mulheres Socialistas": 2
+      },
+      "percentual": 0.011
+    }
+  },
+  "2606101": {
+    "nome": "Glória Do Goitá",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 17986,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.033
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 16861,
+      "candidatos": {
+        "Guilherme Fonseca": 4
+      },
+      "percentual": 0.024
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 28998,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 16428,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2606200": {
+    "nome": "Goiana",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 53874,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.004
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 50191,
+      "candidatos": {
+        "Guilherme Fonseca": 4
+      },
+      "percentual": 0.008
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 86667,
+      "candidatos": {
+        "Mariano Macedo": 4
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 8,
+      "total_municipio": 49138,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.016
+    }
+  },
+  "2606309": {
+    "nome": "Granito",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5576,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5185,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 9923,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5448,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2606408": {
+    "nome": "Gravatá",
+    "PRESIDENTE": {
+      "total": 10,
+      "total_municipio": 52221,
+      "candidatos": {
+        "Hertz Dias": 10
+      },
+      "percentual": 0.019
+    },
+    "GOVERNADOR": {
+      "total": 12,
+      "total_municipio": 47900,
+      "candidatos": {
+        "Guilherme Fonseca": 12
+      },
+      "percentual": 0.025
+    },
+    "SENADOR": {
+      "total": 13,
+      "total_municipio": 79108,
+      "candidatos": {
+        "Mariano Macedo": 13
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 8,
+      "total_municipio": 46330,
+      "candidatos": {
+        "Caio Marx": 1,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.017
+    }
+  },
+  "2606507": {
+    "nome": "Iati",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 10959,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 10188,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.01
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 18906,
+      "candidatos": {
+        "Mariano Macedo": 3
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 10615,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2606606": {
+    "nome": "Ibimirim",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 15976,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 15019,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 28175,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 15613,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2606705": {
+    "nome": "Ibirajuba",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5225,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4900,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8508,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 4856,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2606804": {
+    "nome": "Igarassu",
+    "PRESIDENTE": {
+      "total": 12,
+      "total_municipio": 70636,
+      "candidatos": {
+        "Hertz Dias": 12
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 66227,
+      "candidatos": {
+        "Guilherme Fonseca": 8
+      },
+      "percentual": 0.012
+    },
+    "SENADOR": {
+      "total": 45,
+      "total_municipio": 114738,
+      "candidatos": {
+        "Mariano Macedo": 45
+      },
+      "percentual": 0.039
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 10,
+      "total_municipio": 66206,
+      "candidatos": {
+        "Caio Marx": 1,
+        "Kelly Das Mulheres Socialistas": 2
+      },
+      "percentual": 0.015
+    }
+  },
+  "2606903": {
+    "nome": "Iguaracy",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6898,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 6428,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.016
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 11236,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 6534,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2607604": {
+    "nome": "Ilha De Itamaracá",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 14394,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 13807,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 24194,
+      "candidatos": {
+        "Mariano Macedo": 6
+      },
+      "percentual": 0.025
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 13691,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "2607000": {
+    "nome": "Inajá",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 11874,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 11169,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.018
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 21339,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 11617,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2607109": {
+    "nome": "Ingazeira",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3396,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.029
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3214,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5571,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3227,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2607208": {
+    "nome": "Ipojuca",
+    "PRESIDENTE": {
+      "total": 9,
+      "total_municipio": 69167,
+      "candidatos": {
+        "Hertz Dias": 9
+      },
+      "percentual": 0.013
+    },
+    "GOVERNADOR": {
+      "total": 12,
+      "total_municipio": 63491,
+      "candidatos": {
+        "Guilherme Fonseca": 12
+      },
+      "percentual": 0.019
+    },
+    "SENADOR": {
+      "total": 18,
+      "total_municipio": 112058,
+      "candidatos": {
+        "Mariano Macedo": 18
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 15,
+      "total_municipio": 65216,
+      "candidatos": {
+        "Caio Marx": 5,
+        "Kelly Das Mulheres Socialistas": 1
+      },
+      "percentual": 0.023
+    }
+  },
+  "2607307": {
+    "nome": "Ipubi",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 17472,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 16121,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.012
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 29822,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 16852,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2607406": {
+    "nome": "Itacuruba",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3688,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3499,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6644,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 3620,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.028
+    }
+  },
+  "2607653": {
+    "nome": "Itambé",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 18554,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 17011,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 29508,
+      "candidatos": {
+        "Mariano Macedo": 4
+      },
+      "percentual": 0.014
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 16659,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.018
+    }
+  },
+  "2607703": {
+    "nome": "Itapetim",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9085,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8474,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 15015,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 8639,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2607752": {
+    "nome": "Itapissuma",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 17273,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 16224,
+      "candidatos": {
+        "Guilherme Fonseca": 4
+      },
+      "percentual": 0.025
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 28372,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 16691,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.006
+    }
+  },
+  "2607802": {
+    "nome": "Itaquitinga",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 10256,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 9689,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.01
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 16962,
+      "candidatos": {
+        "Mariano Macedo": 3
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 9813,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.01
+    }
+  },
+  "2607505": {
+    "nome": "Itaíba",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 15596,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.026
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 14335,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.007
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 27303,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 15687,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2607901": {
+    "nome": "Jaboatão Dos Guararapes",
+    "PRESIDENTE": {
+      "total": 75,
+      "total_municipio": 372048,
+      "candidatos": {
+        "Hertz Dias": 75
+      },
+      "percentual": 0.02
+    },
+    "GOVERNADOR": {
+      "total": 94,
+      "total_municipio": 348238,
+      "candidatos": {
+        "Guilherme Fonseca": 94
+      },
+      "percentual": 0.027
+    },
+    "SENADOR": {
+      "total": 215,
+      "total_municipio": 589857,
+      "candidatos": {
+        "Mariano Macedo": 215
+      },
+      "percentual": 0.036
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 103,
+      "total_municipio": 335582,
+      "candidatos": {
+        "Caio Marx": 38,
+        "Kelly Das Mulheres Socialistas": 13
+      },
+      "percentual": 0.031
+    }
+  },
+  "2607950": {
+    "nome": "Jaqueira",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 6782,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.029
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6330,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 11552,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 6471,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.031
+    }
+  },
+  "2608008": {
+    "nome": "Jataúba",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 11692,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 10988,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 19714,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 11003,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "2608057": {
+    "nome": "Jatobá",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8545,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 7938,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 15204,
+      "candidatos": {
+        "Mariano Macedo": 3
+      },
+      "percentual": 0.02
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 7946,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "2608206": {
+    "nome": "Joaquim Nabuco",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 10533,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 10023,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.02
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 17325,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 10145,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2608107": {
+    "nome": "João Alfredo",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 18268,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.005
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 16680,
+      "candidatos": {
+        "Guilherme Fonseca": 4
+      },
+      "percentual": 0.024
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 30514,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.003
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 17634,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.006
+    }
+  },
+  "2608255": {
+    "nome": "Jucati",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7823,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7211,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.014
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 12507,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 7173,
+      "candidatos": {
+        "Caio Marx": 1,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "2608305": {
+    "nome": "Jupi",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 10450,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 9637,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 17401,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.006
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 9771,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2608404": {
+    "nome": "Jurema",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9146,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8500,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 15443,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 8585,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.035
+    }
+  },
+  "2608503": {
+    "nome": "Lagoa De Itaenga",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 14436,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.028
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 13635,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.007
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 23721,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.004
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 13356,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.03
+    }
+  },
+  "2608453": {
+    "nome": "Lagoa Do Carro",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12696,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 12046,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 21391,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 12055,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2608602": {
+    "nome": "Lagoa Do Ouro",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8676,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8013,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 15108,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 8383,
+      "candidatos": {
+        "Caio Marx": 1,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.012
+    }
+  },
+  "2608701": {
+    "nome": "Lagoa Dos Gatos",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8839,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 8409,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.012
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 15171,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 8337,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2608750": {
+    "nome": "Lagoa Grande",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 15773,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 14435,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.014
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 26983,
+      "candidatos": {
+        "Mariano Macedo": 5
+      },
+      "percentual": 0.019
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 15394,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.006
+    }
+  },
+  "2608800": {
+    "nome": "Lajedo",
+    "PRESIDENTE": {
+      "total": 8,
+      "total_municipio": 24765,
+      "candidatos": {
+        "Hertz Dias": 8
+      },
+      "percentual": 0.032
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 23189,
+      "candidatos": {
+        "Guilherme Fonseca": 4
+      },
+      "percentual": 0.017
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 40559,
+      "candidatos": {
+        "Mariano Macedo": 7
+      },
+      "percentual": 0.017
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 22704,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "2608909": {
+    "nome": "Limoeiro",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 36388,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.003
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 34308,
+      "candidatos": {
+        "Guilherme Fonseca": 3
+      },
+      "percentual": 0.009
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 60334,
+      "candidatos": {
+        "Mariano Macedo": 8
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 34081,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.003
+    }
+  },
+  "2609006": {
+    "nome": "Macaparana",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 14743,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 13925,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.014
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 24891,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.004
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 14065,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.007
+    }
+  },
+  "2609105": {
+    "nome": "Machados",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8524,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7928,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.013
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 13939,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.014
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 7927,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2609154": {
+    "nome": "Manari",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 10234,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 9518,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.011
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 18348,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 10203,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2609204": {
+    "nome": "Maraial",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5916,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5512,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 10240,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5697,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2609303": {
+    "nome": "Mirandiba",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 8653,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.023
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7965,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.013
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 14833,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 8359,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.024
+    }
+  },
+  "2614303": {
+    "nome": "Moreilândia",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 7496,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.04
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 6862,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.015
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 12274,
+      "candidatos": {
+        "Mariano Macedo": 3
+      },
+      "percentual": 0.024
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 6947,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.029
+    }
+  },
+  "2609402": {
+    "nome": "Moreno",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 37272,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 34915,
+      "candidatos": {
+        "Guilherme Fonseca": 4
+      },
+      "percentual": 0.011
+    },
+    "SENADOR": {
+      "total": 19,
+      "total_municipio": 60706,
+      "candidatos": {
+        "Mariano Macedo": 19
+      },
+      "percentual": 0.031
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 35641,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2609501": {
+    "nome": "Nazaré Da Mata",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 19849,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.035
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 18980,
+      "candidatos": {
+        "Guilherme Fonseca": 5
+      },
+      "percentual": 0.026
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 31562,
+      "candidatos": {
+        "Mariano Macedo": 3
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 18249,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 2
+      },
+      "percentual": 0.022
+    }
+  },
+  "2609600": {
+    "nome": "Olinda",
+    "PRESIDENTE": {
+      "total": 61,
+      "total_municipio": 243207,
+      "candidatos": {
+        "Hertz Dias": 61
+      },
+      "percentual": 0.025
+    },
+    "GOVERNADOR": {
+      "total": 56,
+      "total_municipio": 231873,
+      "candidatos": {
+        "Guilherme Fonseca": 56
+      },
+      "percentual": 0.024
+    },
+    "SENADOR": {
+      "total": 165,
+      "total_municipio": 401081,
+      "candidatos": {
+        "Mariano Macedo": 165
+      },
+      "percentual": 0.041
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 54,
+      "total_municipio": 226270,
+      "candidatos": {
+        "Caio Marx": 12,
+        "Kelly Das Mulheres Socialistas": 12
+      },
+      "percentual": 0.024
+    }
+  },
+  "2609709": {
+    "nome": "Orobó",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 13973,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 12965,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.015
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 23232,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.004
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 13138,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2609808": {
+    "nome": "Orocó",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 10062,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.03
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 9429,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.011
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 18084,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 10050,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2609907": {
+    "nome": "Ouricuri",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 36944,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 10,
+      "total_municipio": 34034,
+      "candidatos": {
+        "Guilherme Fonseca": 10
+      },
+      "percentual": 0.029
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 63974,
+      "candidatos": {
+        "Mariano Macedo": 10
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 12,
+      "total_municipio": 36128,
+      "candidatos": {
+        "Caio Marx": 1,
+        "Kelly Das Mulheres Socialistas": 1
+      },
+      "percentual": 0.033
+    }
+  },
+  "2610004": {
+    "nome": "Palmares",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 30780,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.013
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 29259,
+      "candidatos": {
+        "Guilherme Fonseca": 3
+      },
+      "percentual": 0.01
+    },
+    "SENADOR": {
+      "total": 13,
+      "total_municipio": 51164,
+      "candidatos": {
+        "Mariano Macedo": 13
+      },
+      "percentual": 0.025
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 28225,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.007
+    }
+  },
+  "2610103": {
+    "nome": "Palmeirina",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4316,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 3996,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.05
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7372,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 4168,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.048
+    }
+  },
+  "2610202": {
+    "nome": "Panelas",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 15124,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.013
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 14343,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.007
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 25751,
+      "candidatos": {
+        "Mariano Macedo": 4
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 14549,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2610301": {
+    "nome": "Paranatama",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9252,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8575,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 15682,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 8998,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2610400": {
+    "nome": "Parnamirim",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 14412,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 13602,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 25697,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 14090,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2610509": {
+    "nome": "Passira",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 20039,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 18703,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.011
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 32837,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.006
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 18670,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2610608": {
+    "nome": "Paudalho",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 36224,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 33996,
+      "candidatos": {
+        "Guilherme Fonseca": 4
+      },
+      "percentual": 0.012
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 61277,
+      "candidatos": {
+        "Mariano Macedo": 7
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 33828,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 2
+      },
+      "percentual": 0.018
+    }
+  },
+  "2610707": {
+    "nome": "Paulista",
+    "PRESIDENTE": {
+      "total": 66,
+      "total_municipio": 189472,
+      "candidatos": {
+        "Hertz Dias": 66
+      },
+      "percentual": 0.035
+    },
+    "GOVERNADOR": {
+      "total": 37,
+      "total_municipio": 180734,
+      "candidatos": {
+        "Guilherme Fonseca": 37
+      },
+      "percentual": 0.02
+    },
+    "SENADOR": {
+      "total": 121,
+      "total_municipio": 313176,
+      "candidatos": {
+        "Mariano Macedo": 121
+      },
+      "percentual": 0.039
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 34,
+      "total_municipio": 174521,
+      "candidatos": {
+        "Caio Marx": 6,
+        "Kelly Das Mulheres Socialistas": 7
+      },
+      "percentual": 0.019
+    }
+  },
+  "2610806": {
+    "nome": "Pedra",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 14223,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 13082,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.015
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 23781,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.004
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 13731,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.022
+    }
+  },
+  "2610905": {
+    "nome": "Pesqueira",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 38647,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 35839,
+      "candidatos": {
+        "Guilherme Fonseca": 3
+      },
+      "percentual": 0.008
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 63744,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.003
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 35700,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2611101": {
+    "nome": "Petrolina",
+    "PRESIDENTE": {
+      "total": 37,
+      "total_municipio": 193929,
+      "candidatos": {
+        "Hertz Dias": 37
+      },
+      "percentual": 0.019
+    },
+    "GOVERNADOR": {
+      "total": 53,
+      "total_municipio": 175252,
+      "candidatos": {
+        "Guilherme Fonseca": 53
+      },
+      "percentual": 0.03
+    },
+    "SENADOR": {
+      "total": 81,
+      "total_municipio": 327531,
+      "candidatos": {
+        "Mariano Macedo": 81
+      },
+      "percentual": 0.025
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 16,
+      "total_municipio": 183245,
+      "candidatos": {
+        "Caio Marx": 2,
+        "Kelly Das Mulheres Socialistas": 4
+      },
+      "percentual": 0.009
+    }
+  },
+  "2611002": {
+    "nome": "Petrolândia",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 19216,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 17765,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 32312,
+      "candidatos": {
+        "Mariano Macedo": 4
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 18490,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.005
+    }
+  },
+  "2611309": {
+    "nome": "Pombos",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 16179,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.006
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 15136,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 25827,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.004
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 14888,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.007
+    }
+  },
+  "2611200": {
+    "nome": "Poção",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 7449,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.027
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 6854,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.029
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 12169,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 6985,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "2611408": {
+    "nome": "Primavera",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 8486,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7996,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.013
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 14093,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 7922,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "2611507": {
+    "nome": "Quipapá",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 10770,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.028
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 9989,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 17272,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 9927,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.02
+    }
+  },
+  "2611533": {
+    "nome": "Quixaba",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5004,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4740,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8598,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 4695,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2611606": {
+    "nome": "Recife",
+    "PRESIDENTE": {
+      "total": 381,
+      "total_municipio": 983138,
+      "candidatos": {
+        "Hertz Dias": 381
+      },
+      "percentual": 0.039
+    },
+    "GOVERNADOR": {
+      "total": 289,
+      "total_municipio": 949215,
+      "candidatos": {
+        "Guilherme Fonseca": 289
+      },
+      "percentual": 0.03
+    },
+    "SENADOR": {
+      "total": 870,
+      "total_municipio": 1663924,
+      "candidatos": {
+        "Mariano Macedo": 870
+      },
+      "percentual": 0.052
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 297,
+      "total_municipio": 925585,
+      "candidatos": {
+        "Caio Marx": 79,
+        "Kelly Das Mulheres Socialistas": 115
+      },
+      "percentual": 0.032
+    }
+  },
+  "2611705": {
+    "nome": "Riacho Das Almas",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 17153,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 16357,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.006
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 27441,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 15654,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2611804": {
+    "nome": "Ribeirão",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 21084,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.005
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 19877,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.005
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 35124,
+      "candidatos": {
+        "Mariano Macedo": 3
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 20035,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "2611903": {
+    "nome": "Rio Formoso",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 12684,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.032
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 12017,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 21444,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 12182,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2612000": {
+    "nome": "Sairé",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8952,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 8260,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.024
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 14034,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.014
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 8080,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.025
+    }
+  },
+  "2612109": {
+    "nome": "Salgadinho",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5255,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4892,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 8997,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 4971,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2612208": {
+    "nome": "Salgueiro",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 33801,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 32266,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.006
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 59582,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.003
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 32308,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "2612307": {
+    "nome": "Saloá",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 9177,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.022
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 8535,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.012
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 15467,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 11,
+      "total_municipio": 8753,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.126
+    }
+  },
+  "2612406": {
+    "nome": "Sanharó",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12296,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 11309,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.018
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 19744,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 11420,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "2612455": {
+    "nome": "Santa Cruz",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 10308,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 9698,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.021
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 18099,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 10065,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 1
+      },
+      "percentual": 0.01
+    }
+  },
+  "2612471": {
+    "nome": "Santa Cruz Da Baixa Verde",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 7728,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.026
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7056,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.014
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 12789,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 7336,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2612505": {
+    "nome": "Santa Cruz Do Capibaribe",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 54721,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 51719,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.004
+    },
+    "SENADOR": {
+      "total": 14,
+      "total_municipio": 93445,
+      "candidatos": {
+        "Mariano Macedo": 14
+      },
+      "percentual": 0.015
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 53286,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2612554": {
+    "nome": "Santa Filomena",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9468,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 8816,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.011
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 17152,
+      "candidatos": {
+        "Mariano Macedo": 4
+      },
+      "percentual": 0.023
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 9539,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2612604": {
+    "nome": "Santa Maria Da Boa Vista",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 24391,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.004
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 22593,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.004
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 43659,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 23886,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "2612703": {
+    "nome": "Santa Maria Do Cambucá",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8847,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8224,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 14197,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 8369,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2612802": {
+    "nome": "Santa Terezinha",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6073,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5646,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 10447,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5815,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2613909": {
+    "nome": "Serra Talhada",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 49485,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 45553,
+      "candidatos": {
+        "Guilherme Fonseca": 3
+      },
+      "percentual": 0.007
+    },
+    "SENADOR": {
+      "total": 19,
+      "total_municipio": 83364,
+      "candidatos": {
+        "Mariano Macedo": 19
+      },
+      "percentual": 0.023
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 10,
+      "total_municipio": 47798,
+      "candidatos": {
+        "Caio Marx": 1,
+        "Kelly Das Mulheres Socialistas": 5
+      },
+      "percentual": 0.021
+    }
+  },
+  "2614006": {
+    "nome": "Serrita",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12287,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 11381,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.018
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 21502,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 12010,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2614105": {
+    "nome": "Sertânia",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 20080,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 19017,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.005
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 33744,
+      "candidatos": {
+        "Mariano Macedo": 3
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 18889,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 1
+      },
+      "percentual": 0.011
+    }
+  },
+  "2614204": {
+    "nome": "Sirinhaém",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 21422,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.019
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 19956,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.01
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 35358,
+      "candidatos": {
+        "Mariano Macedo": 3
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 20415,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.01
+    }
+  },
+  "2614402": {
+    "nome": "Solidão",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4284,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4005,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 7447,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.027
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 4116,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2614501": {
+    "nome": "Surubim",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 38186,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 35502,
+      "candidatos": {
+        "Guilherme Fonseca": 3
+      },
+      "percentual": 0.008
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 63095,
+      "candidatos": {
+        "Mariano Macedo": 7
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 35317,
+      "candidatos": {
+        "Caio Marx": 1,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "2612901": {
+    "nome": "São Benedito Do Sul",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5555,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 5100,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.039
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 9491,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 5217,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.058
+    }
+  },
+  "2613008": {
+    "nome": "São Bento Do Una",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 27446,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 25117,
+      "candidatos": {
+        "Guilherme Fonseca": 3
+      },
+      "percentual": 0.012
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 45591,
+      "candidatos": {
+        "Mariano Macedo": 4
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 26164,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.004
+    }
+  },
+  "2613107": {
+    "nome": "São Caitano",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 24457,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 22489,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.009
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 38070,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 22271,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.027
+    }
+  },
+  "2613305": {
+    "nome": "São Joaquim Do Monte",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 13525,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 12702,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.008
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 22152,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 12957,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2613404": {
+    "nome": "São José Da Coroa Grande",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12660,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 11777,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.017
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 19658,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 11474,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2613503": {
+    "nome": "São José Do Belmonte",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 20566,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.005
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 18819,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.011
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 34218,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 20172,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2613602": {
+    "nome": "São José Do Egito",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 18520,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.005
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 17241,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 30665,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.003
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 17009,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2613206": {
+    "nome": "São João",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 13461,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 12647,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 23064,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 12630,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2613701": {
+    "nome": "São Lourenço Da Mata",
+    "PRESIDENTE": {
+      "total": 21,
+      "total_municipio": 66341,
+      "candidatos": {
+        "Hertz Dias": 21
+      },
+      "percentual": 0.032
+    },
+    "GOVERNADOR": {
+      "total": 19,
+      "total_municipio": 63057,
+      "candidatos": {
+        "Guilherme Fonseca": 19
+      },
+      "percentual": 0.03
+    },
+    "SENADOR": {
+      "total": 49,
+      "total_municipio": 110221,
+      "candidatos": {
+        "Mariano Macedo": 49
+      },
+      "percentual": 0.044
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 22,
+      "total_municipio": 61681,
+      "candidatos": {
+        "Caio Marx": 8,
+        "Kelly Das Mulheres Socialistas": 5
+      },
+      "percentual": 0.036
+    }
+  },
+  "2613800": {
+    "nome": "São Vicente Férrer",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11042,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 10445,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 18583,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 10487,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2614600": {
+    "nome": "Tabira",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 16682,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 15403,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.006
+    },
+    "SENADOR": {
+      "total": 43,
+      "total_municipio": 26024,
+      "candidatos": {
+        "Mariano Macedo": 43
+      },
+      "percentual": 0.165
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 15205,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.02
+    }
+  },
+  "2614709": {
+    "nome": "Tacaimbó",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8455,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 7881,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 14048,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 7927,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.025
+    }
+  },
+  "2614808": {
+    "nome": "Tacaratu",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 13862,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 12755,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.016
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 24444,
+      "candidatos": {
+        "Mariano Macedo": 5
+      },
+      "percentual": 0.02
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 13509,
+      "candidatos": {
+        "Caio Marx": 1,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.007
+    }
+  },
+  "2614857": {
+    "nome": "Tamandaré",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 15248,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 14444,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.007
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 25861,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.004
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 14680,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2615003": {
+    "nome": "Taquaritinga Do Norte",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 18129,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 17073,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.006
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 29860,
+      "candidatos": {
+        "Mariano Macedo": 6
+      },
+      "percentual": 0.02
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 16651,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.012
+    }
+  },
+  "2615102": {
+    "nome": "Terezinha",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5022,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.02
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4655,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8589,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 4983,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2615201": {
+    "nome": "Terra Nova",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7067,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6629,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 12530,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 6880,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2615300": {
+    "nome": "Timbaúba",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 32096,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.019
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 30515,
+      "candidatos": {
+        "Guilherme Fonseca": 3
+      },
+      "percentual": 0.01
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 52005,
+      "candidatos": {
+        "Mariano Macedo": 5
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 29537,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 1
+      },
+      "percentual": 0.007
+    }
+  },
+  "2615409": {
+    "nome": "Toritama",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 29107,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 27429,
+      "candidatos": {
+        "Guilherme Fonseca": 3
+      },
+      "percentual": 0.011
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 48981,
+      "candidatos": {
+        "Mariano Macedo": 8
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 27427,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 1
+      },
+      "percentual": 0.011
+    }
+  },
+  "2615508": {
+    "nome": "Tracunhaém",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9456,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8952,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 15333,
+      "candidatos": {
+        "Mariano Macedo": 4
+      },
+      "percentual": 0.026
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 8812,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2615607": {
+    "nome": "Trindade",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 18100,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.022
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 16587,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.006
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 30439,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.003
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 17366,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.006
+    }
+  },
+  "2615706": {
+    "nome": "Triunfo",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 9607,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 9043,
+      "candidatos": {
+        "Guilherme Fonseca": 2
+      },
+      "percentual": 0.022
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 15859,
+      "candidatos": {
+        "Mariano Macedo": 2
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 9034,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.022
+    }
+  },
+  "2615805": {
+    "nome": "Tupanatinga",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12111,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 11058,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 21051,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 12014,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2615904": {
+    "nome": "Tuparetama",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6303,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5981,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 10784,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 5964,
+      "candidatos": {
+        "Caio Marx": 1,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.017
+    }
+  },
+  "2616001": {
+    "nome": "Venturosa",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11370,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 10551,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.009
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 19697,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 10956,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.018
+    }
+  },
+  "2616100": {
+    "nome": "Verdejante",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6519,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6052,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 11281,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 6367,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2616183": {
+    "nome": "Vertente Do Lério",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6505,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5890,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 10933,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 6168,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.016
+    }
+  },
+  "2616209": {
+    "nome": "Vertentes",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 13758,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 12789,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 22825,
+      "candidatos": {
+        "Mariano Macedo": 3
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 12902,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.023
+    }
+  },
+  "2616308": {
+    "nome": "Vicência",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 16533,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 15701,
+      "candidatos": {
+        "Guilherme Fonseca": 3
+      },
+      "percentual": 0.019
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 27488,
+      "candidatos": {
+        "Mariano Macedo": 1
+      },
+      "percentual": 0.004
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 15738,
+      "candidatos": {
+        "Caio Marx": 1,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.025
+    }
+  },
+  "2616407": {
+    "nome": "Vitória De Santo Antão",
+    "PRESIDENTE": {
+      "total": 11,
+      "total_municipio": 82586,
+      "candidatos": {
+        "Hertz Dias": 11
+      },
+      "percentual": 0.013
+    },
+    "GOVERNADOR": {
+      "total": 22,
+      "total_municipio": 76543,
+      "candidatos": {
+        "Guilherme Fonseca": 22
+      },
+      "percentual": 0.029
+    },
+    "SENADOR": {
+      "total": 21,
+      "total_municipio": 134681,
+      "candidatos": {
+        "Mariano Macedo": 21
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 77596,
+      "candidatos": {
+        "Caio Marx": 2,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2616506": {
+    "nome": "Xexéu",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8074,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7558,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.013
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 13647,
+      "candidatos": {
+        "Mariano Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 7778,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2600401": {
+    "nome": "Água Preta",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 14781,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 13871,
+      "candidatos": {
+        "Guilherme Fonseca": 1
+      },
+      "percentual": 0.007
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 23861,
+      "candidatos": {
+        "Mariano Macedo": 3
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 13604,
+      "candidatos": {
+        "Caio Marx": 0,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "2600500": {
+    "nome": "Águas Belas",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 24199,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 21991,
+      "candidatos": {
+        "Guilherme Fonseca": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 41386,
+      "candidatos": {
+        "Mariano Macedo": 3
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 7,
+      "total_municipio": 23634,
+      "candidatos": {
+        "Caio Marx": 5,
+        "Kelly Das Mulheres Socialistas": 0
+      },
+      "percentual": 0.03
+    }
+  }
+}

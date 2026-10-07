@@ -1,0 +1,1531 @@
+{
+  "1700251": {
+    "nome": "Abreulândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1972,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1700301": {
+    "nome": "Aguiarnópolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3048,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1700350": {
+    "nome": "Aliança Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3292,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1700400": {
+    "nome": "Almas",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4300,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1700707": {
+    "nome": "Alvorada",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5975,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1701002": {
+    "nome": "Ananás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6118,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1701051": {
+    "nome": "Angico",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2212,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1701101": {
+    "nome": "Aparecida Do Rio Negro",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3870,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1701309": {
+    "nome": "Aragominas",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3519,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1701903": {
+    "nome": "Araguacema",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3909,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1702158": {
+    "nome": "Araguanã",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2837,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1702208": {
+    "nome": "Araguatins",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 16965,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.029
+    }
+  },
+  "1702000": {
+    "nome": "Araguaçu",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5052,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1702109": {
+    "nome": "Araguaína",
+    "PRESIDENTE": {
+      "total": 16,
+      "total_municipio": 99518,
+      "candidatos": {
+        "Hertz Dias": 16
+      },
+      "percentual": 0.016
+    }
+  },
+  "1702307": {
+    "nome": "Arapoema",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3461,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1702406": {
+    "nome": "Arraias",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5905,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1702554": {
+    "nome": "Augustinópolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 10464,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1702703": {
+    "nome": "Aurora Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2435,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1702901": {
+    "nome": "Axixá Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7187,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1703008": {
+    "nome": "Babaçulândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5394,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1703057": {
+    "nome": "Bandeirantes Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2329,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1703073": {
+    "nome": "Barra Do Ouro",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3116,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1703107": {
+    "nome": "Barrolândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3930,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1703206": {
+    "nome": "Bernardo Sayão",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2892,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1703305": {
+    "nome": "Bom Jesus Do Tocantins",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2997,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.033
+    }
+  },
+  "1703602": {
+    "nome": "Brasilândia Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1597,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1703701": {
+    "nome": "Brejinho De Nazaré",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3358,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1703800": {
+    "nome": "Buriti Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5314,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1703826": {
+    "nome": "Cachoeirinha",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1618,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1703842": {
+    "nome": "Campos Lindos",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5494,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1703867": {
+    "nome": "Cariri Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2950,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1703883": {
+    "nome": "Carmolândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1899,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1703891": {
+    "nome": "Carrasco Bonito",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2676,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1703909": {
+    "nome": "Caseara",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3136,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1704105": {
+    "nome": "Centenário",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1528,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1705102": {
+    "nome": "Chapada Da Natividade",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2356,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1704600": {
+    "nome": "Chapada De Areia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1963,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1705508": {
+    "nome": "Colinas Do Tocantins",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 19520,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.01
+    }
+  },
+  "1716703": {
+    "nome": "Colméia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5197,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1705557": {
+    "nome": "Combinado",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3125,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1705607": {
+    "nome": "Conceição Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2568,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1706001": {
+    "nome": "Couto Magalhães",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3728,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1706100": {
+    "nome": "Cristalândia",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 4398,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.023
+    }
+  },
+  "1706258": {
+    "nome": "Crixás Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1422,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1706506": {
+    "nome": "Darcinópolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3703,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1707009": {
+    "nome": "Dianópolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 10009,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1707108": {
+    "nome": "Divinópolis Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4465,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1707207": {
+    "nome": "Dois Irmãos Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3933,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1707306": {
+    "nome": "Dueré",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2865,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.035
+    }
+  },
+  "1707405": {
+    "nome": "Esperantina",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5025,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1707652": {
+    "nome": "Figueirópolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3610,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1707702": {
+    "nome": "Filadélfia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4833,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1708205": {
+    "nome": "Formoso Do Araguaia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 10805,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1707553": {
+    "nome": "Fátima",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2619,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1708304": {
+    "nome": "Goianorte",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3640,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1709005": {
+    "nome": "Goiatins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6988,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1709302": {
+    "nome": "Guaraí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 14075,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1709500": {
+    "nome": "Gurupi",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 47419,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.011
+    }
+  },
+  "1709807": {
+    "nome": "Ipueiras",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1557,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1710508": {
+    "nome": "Itacajá",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4451,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1710706": {
+    "nome": "Itaguatins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3743,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1710904": {
+    "nome": "Itapiratins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2749,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1711100": {
+    "nome": "Itaporã Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2174,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1711506": {
+    "nome": "Jaú Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2343,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1711803": {
+    "nome": "Juarina",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 1808,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.055
+    }
+  },
+  "1711902": {
+    "nome": "Lagoa Da Confusão",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8077,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1711951": {
+    "nome": "Lagoa Do Tocantins",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 2651,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.075
+    }
+  },
+  "1712009": {
+    "nome": "Lajeado",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2773,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.036
+    }
+  },
+  "1712157": {
+    "nome": "Lavandeira",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 1577,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.063
+    }
+  },
+  "1712405": {
+    "nome": "Lizarda",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2244,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1712454": {
+    "nome": "Luzinópolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2093,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1712504": {
+    "nome": "Marianópolis Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2925,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1712702": {
+    "nome": "Mateiros",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1523,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1712801": {
+    "nome": "Maurilândia Do Tocantins",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2778,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.036
+    }
+  },
+  "1713205": {
+    "nome": "Miracema Do Tocantins",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11154,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    }
+  },
+  "1713304": {
+    "nome": "Miranorte",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7878,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.013
+    }
+  },
+  "1713601": {
+    "nome": "Monte Do Carmo",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3920,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1713700": {
+    "nome": "Monte Santo Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1989,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1713957": {
+    "nome": "Muricilândia",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2292,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.044
+    }
+  },
+  "1714203": {
+    "nome": "Natividade",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5088,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1714302": {
+    "nome": "Nazaré",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3339,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1714880": {
+    "nome": "Nova Olinda",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6456,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1715002": {
+    "nome": "Nova Rosalândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2333,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1715101": {
+    "nome": "Novo Acordo",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3260,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1715150": {
+    "nome": "Novo Alegre",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1532,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1715259": {
+    "nome": "Novo Jardim",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1745,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1715507": {
+    "nome": "Oliveira De Fátima",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1346,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1721000": {
+    "nome": "Palmas",
+    "PRESIDENTE": {
+      "total": 42,
+      "total_municipio": 177926,
+      "candidatos": {
+        "Hertz Dias": 42
+      },
+      "percentual": 0.024
+    }
+  },
+  "1715705": {
+    "nome": "Palmeirante",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3419,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1713809": {
+    "nome": "Palmeiras Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3319,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1715754": {
+    "nome": "Palmeirópolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4792,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1716208": {
+    "nome": "Paranã",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6059,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1716109": {
+    "nome": "Paraíso Do Tocantins",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 28178,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.018
+    }
+  },
+  "1716307": {
+    "nome": "Pau D'Arco",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2807,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1716505": {
+    "nome": "Pedro Afonso",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 8443,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.036
+    }
+  },
+  "1716604": {
+    "nome": "Peixe",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5533,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.018
+    }
+  },
+  "1716653": {
+    "nome": "Pequizeiro",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3528,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1717008": {
+    "nome": "Pindorama Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2876,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1717206": {
+    "nome": "Piraquê",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1906,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1717503": {
+    "nome": "Pium",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4564,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1717800": {
+    "nome": "Ponte Alta Do Bom Jesus",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2798,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1717909": {
+    "nome": "Ponte Alta Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4326,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1718006": {
+    "nome": "Porto Alegre Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1977,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1718204": {
+    "nome": "Porto Nacional",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 37314,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.011
+    }
+  },
+  "1718303": {
+    "nome": "Praia Norte",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4451,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1718402": {
+    "nome": "Presidente Kennedy",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2243,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1718451": {
+    "nome": "Pugmil",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1870,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1718501": {
+    "nome": "Recursolândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2428,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1718550": {
+    "nome": "Riachinho",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2856,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1718659": {
+    "nome": "Rio Da Conceição",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1519,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1718709": {
+    "nome": "Rio Dos Bois",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 2075,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.048
+    }
+  },
+  "1718758": {
+    "nome": "Rio Sono",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3617,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.028
+    }
+  },
+  "1718808": {
+    "nome": "Sampaio",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2989,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1718840": {
+    "nome": "Sandolândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2672,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1718865": {
+    "nome": "Santa Fé Do Araguaia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4363,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1718881": {
+    "nome": "Santa Maria Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2036,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1718899": {
+    "nome": "Santa Rita Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1636,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1718907": {
+    "nome": "Santa Rosa Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3338,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1719004": {
+    "nome": "Santa Tereza Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2492,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1720002": {
+    "nome": "Santa Terezinha Do Tocantins",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 1639,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.061
+    }
+  },
+  "1720655": {
+    "nome": "Silvanópolis",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3886,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.026
+    }
+  },
+  "1720853": {
+    "nome": "Sucupira",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1412,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1720101": {
+    "nome": "São Bento Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4229,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1720150": {
+    "nome": "São Félix Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1497,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1720200": {
+    "nome": "São Miguel Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8168,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1720259": {
+    "nome": "São Salvador Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1883,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1720309": {
+    "nome": "São Sebastião Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2624,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1720499": {
+    "nome": "São Valério",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3058,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1720804": {
+    "nome": "Sítio Novo Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6504,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1708254": {
+    "nome": "Tabocão",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2382,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1720903": {
+    "nome": "Taguatinga",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8347,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1720937": {
+    "nome": "Taipas Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1405,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1720978": {
+    "nome": "Talismã",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1869,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1721208": {
+    "nome": "Tocantinópolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 12882,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1721109": {
+    "nome": "Tocantínia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4563,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1721257": {
+    "nome": "Tupirama",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 1449,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1721307": {
+    "nome": "Tupiratins",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 1392,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.072
+    }
+  },
+  "1722081": {
+    "nome": "Wanderlândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5716,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1722107": {
+    "nome": "Xambioá",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6861,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.015
+    }
+  }
+}

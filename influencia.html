@@ -25,10 +25,22 @@
   </div>
 </header>
 
+<section id="about">
+  <p>O índice compara a força eleitoral do partido em cada cidade com a força que ele tem, em média, no estado,
+    corrige resultados baseados em poucos votos, limita resultados extremos e combina essa comparação ao longo
+    de várias eleições. Ele não mede influência política diretamente; mede a concentração relativa da força
+    eleitoral do partido em uma cidade ao longo do tempo.</p>
+</section>
+
 <section id="filters">
   <div class="filter-field">
-    <label for="influence-year-select">ano</label>
-    <select id="influence-year-select" class="select-input"></select>
+    <label>anos incluídos</label>
+    <div class="dropdown" id="influence-year-dropdown">
+      <button type="button" id="influence-year-dropdown-toggle" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false">
+        <span id="influence-year-dropdown-label">todos</span><span class="arrow">▾</span>
+      </button>
+      <div id="influence-year-dropdown-menu" class="dropdown-menu" hidden></div>
+    </div>
   </div>
 
   <div class="filter-field">
@@ -43,12 +55,22 @@
 
   <div class="filter-field">
     <label for="min-size-input">votos mínimos no município</label>
-    <input type="number" id="min-size-input" value="50000" min="0" step="1000">
+    <input type="number" id="min-size-input" value="0" min="0" step="1000">
   </div>
 
   <div class="filter-field">
     <label for="top-n-input">top</label>
-    <input type="number" id="top-n-input" value="10" min="1" step="1">
+    <input type="number" id="top-n-input" value="15" min="1" step="1">
+  </div>
+
+  <div class="filter-field">
+    <label for="k-input" title="votos fictícios somados à média do estado: reduz o peso de cidades pequenas">k (encolhimento)</label>
+    <input type="number" id="k-input" value="2000" min="0" step="100">
+  </div>
+
+  <div class="filter-field">
+    <label for="ceiling-input" title="nota máxima que um cargo pode contribuir pro índice do ano">teto por cargo</label>
+    <input type="number" id="ceiling-input" value="5" min="0.1" step="0.5">
   </div>
 
   <button type="button" id="apply-filters-button" class="filter-button">Filtrar</button>
@@ -71,7 +93,7 @@
 
 <footer>
   <span>Malha: API do IBGE (v3) · Votos: TSE — Dados Abertos</span>
-  <span>Índice de influência: desempenho do PSTU no município ÷ média estadual, por cargo</span>
+  <span>Índice de influência: desempenho do PSTU no município vs. média estadual, com encolhimento estatístico e teto por cargo — média entre os anos incluídos</span>
 </footer>
 
 <script type="module" src="js/influence-main.js"></script>

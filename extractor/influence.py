@@ -1,124 +1,203 @@
 """
-Índice de influência eleitoral por município.
+Índice de influência eleitoral — versão 2 (robusta a outliers).
 
-Para cada município, compara o desempenho do partido em cada cargo com a
-média do partido no estado inteiro naquele cargo:
+Modelo:
 
-    índice do cargo = % no município ÷ % médio do partido na UF
+  1. Para cada ano, UF e cargo:
+       média_UF   = votos do partido na UF ÷ total de votos do cargo na UF
+       % ajustado = (votos + K × média_UF) ÷ (total + K)        <- encolhimento
+       nota       = mínimo(% ajustado ÷ média_UF, TETO)          <- teto
 
-    1.0 = igual à média do estado
-    3.0 = três vezes a média
-    0.5 = metade da média
+  2. Índice do ano = média das notas dos cargos disputados na UF.
+     Se a regional não disputou nenhum cargo ESTADUAL na UF naquele ano,
+     o índice do ano é 0 (mesmo que haja voto para presidente).
 
-O índice de influência do município é a média dos índices de todos os
-cargos que o partido disputou naquela UF.
+  3. Índice final = média ponderada dos índices de TODOS os anos.
+
+Leitura: 1.0 = igual à média do estado; 2.0 = o dobro; 0.5 = metade.
+
+Para comparação, o script também roda o "modelo antigo" (K=0, sem teto)
+e mostra em que posição cada cidade estaria nele.
 """
 
+import csv
 import json
-from collections import defaultdict
+import math
 from pathlib import Path
 
 # ---------------------------------------------------------------------------
-# Painel de controle — mude aqui, não na lógica
+# Painel de controle
 # ---------------------------------------------------------------------------
-PASTA_DADOS = Path("../data")      # ajuste para o caminho real da sua pasta
-ANO = 2022
-UFS = None #{"SP"}                     # ex: {"PE", "PB"} — ou None para todas
-UFS_IGNORADAS = {"ZZ"}           # exterior
-MIN_VOTOS_MUNICIPIO = 500_000     # porte mínimo da cidade
-TOP_N = 10
+PASTA_DADOS = Path("../data")
+PESOS_ANOS = {2010: 1,2014: 1, 2018: 1, 2022: 1}   # anos usados e o peso de cada um
+UFS = None #{"SP"}                                # ou None para todas
+UFS_IGNORADAS = {"ZZ"}
+K = 2_000                # votos fictícios na média do estado (encolhimento)
+TETO = 5.0               # nota máxima por cargo
+MIN_VOTOS_MUNICIPIO = 0  # opcional: o K já protege contra cidades pequenas
+TOP_N = 15
+SALVAR_CSV = None #"ranking_influencia.csv"      # ou None
+DETAILS = False  # True = mostra detalhes de cada cargo do último ano
+
+CARGOS_ESTADUAIS = {"GOVERNADOR", "SENADOR", "DEPUTADO FEDERAL", "DEPUTADO ESTADUAL"}
 
 # ---------------------------------------------------------------------------
-# Encontrar os arquivos
+# Carregar todos os arquivos: dados[(uf, ano)] = dicionário do JSON ou None
 # ---------------------------------------------------------------------------
-arquivos = sorted(PASTA_DADOS.glob(f"*/{ANO}.json"))
-print(f"{len(arquivos)} arquivos encontrados para {ANO}")
+ufs_disponiveis = sorted(
+    p.name for p in PASTA_DADOS.iterdir()
+    if p.is_dir() and p.name not in UFS_IGNORADAS
+    and (UFS is None or p.name in UFS)
+)
+
+dados = {}
+for uf in ufs_disponiveis:
+    for ano in PESOS_ANOS:
+        caminho = PASTA_DADOS / uf / f"{ano}.json"
+        if caminho.exists():
+            with open(caminho, encoding="utf-8") as f:
+                dados[(uf, ano)] = json.load(f)
+        else:
+            dados[(uf, ano)] = None
+
+print(f"UFs: {', '.join(ufs_disponiveis)}")
+faltando = [f"{uf}/{ano}" for (uf, ano), d in dados.items() if d is None]
+if faltando:
+    print(f"Arquivos não encontrados (contam como ano sem candidatura): {', '.join(faltando)}")
 
 # ---------------------------------------------------------------------------
-# Passada 1: somar votos e totais por (UF, cargo) para obter a média estadual
+# Informações fixas de cada município (somando todos os anos)
+#   nome: o mais recente; porte: maior total de votos visto em qualquer cargo
 # ---------------------------------------------------------------------------
-soma_votos = defaultdict(int)    # chave: (uf, cargo)
-soma_total = defaultdict(int)
-dados_por_uf = {}
+def cargos_do_municipio(municipio):
+    return {k: v for k, v in municipio.items() if k != "nome"}
 
-for arquivo in arquivos:
-    uf = arquivo.parent.name     # a UF vem do nome da pasta
-    if uf in UFS_IGNORADAS:
+nomes = {}
+porte = {}
+for (uf, ano), d in sorted(dados.items(), key=lambda item: item[0][1]):
+    if d is None:
         continue
-    if UFS is not None and uf not in UFS:
-        continue
-
-    with open(arquivo, encoding="utf-8") as f:
-        dados = json.load(f)
-    dados_por_uf[uf] = dados     # guarda para a passada 2, sem reler o disco
-
-    for municipio in dados.values():
-        for cargo, valores in municipio.items():
-            if cargo == "nome":
-                continue
-            soma_votos[(uf, cargo)] += valores["total"]
-            soma_total[(uf, cargo)] += valores["total_municipio"]
+    for codigo, municipio in d.items():
+        chave = (uf, codigo)
+        nomes[chave] = municipio["nome"]
+        totais = [v["total_municipio"] for v in cargos_do_municipio(municipio).values()]
+        porte[chave] = max([porte.get(chave, 0)] + totais)
 
 # ---------------------------------------------------------------------------
-# Passada 2: índice de cada município
+# Médias estaduais: medias[(uf, ano)] = {cargo: fração}
 # ---------------------------------------------------------------------------
-linhas = []
-
-for uf, dados in dados_por_uf.items():
-    # Cargos que o partido disputou nesta UF, com a média estadual de cada um.
-    # Só entram cargos com voto > 0 no estado (evita divisão por zero).
-    media = {}
-    for (u, cargo), votos in soma_votos.items():
-        if u == uf and votos > 0:
-            media[cargo] = votos / soma_total[(u, cargo)] * 100
-
-    if not media:
+medias = {}
+for (uf, ano), d in dados.items():
+    medias[(uf, ano)] = {}
+    if d is None:
         continue
+    soma_votos, soma_total = {}, {}
+    for municipio in d.values():
+        for cargo, v in cargos_do_municipio(municipio).items():
+            soma_votos[cargo] = soma_votos.get(cargo, 0) + v["total"]
+            soma_total[cargo] = soma_total.get(cargo, 0) + v["total_municipio"]
+    for cargo, votos in soma_votos.items():
+        if votos > 0 and soma_total[cargo] > 0:
+            medias[(uf, ano)][cargo] = votos / soma_total[cargo]
 
-    for codigo, municipio in dados.items():
-        cargos_presentes = {k: v for k, v in municipio.items() if k != "nome"}
 
-        # Porte da cidade: o maior total entre os cargos presentes
-        tamanho = max(
-            (v["total_municipio"] for v in cargos_presentes.values()),
-            default=0,
-        )
-        if tamanho < MIN_VOTOS_MUNICIPIO:
+# ---------------------------------------------------------------------------
+# O modelo, como função: assim podemos rodá-lo com parâmetros diferentes
+# ---------------------------------------------------------------------------
+def calcular(k, teto):
+    resultado = {}
+    soma_pesos = sum(PESOS_ANOS.values())
+
+    for chave in nomes:
+        uf, codigo = chave
+        if porte[chave] < MIN_VOTOS_MUNICIPIO:
             continue
 
-        # Percorremos os cargos da UF (não os do município): se o partido
-        # disputou o cargo e ele está ausente aqui, significa 0 votos.
-        indices = {}
-        for cargo, media_uf in media.items():
-            v = municipio.get(cargo)
-            if v is None or v["total_municipio"] == 0:
-                indices[cargo] = 0.0
-            else:
-                pct = v["total"] / v["total_municipio"] * 100
-                indices[cargo] = pct / media_uf
+        por_ano = {}
+        notas_por_ano = {}
+        for ano in PESOS_ANOS:
+            media = medias[(uf, ano)]
+            regional_ativa = any(c in CARGOS_ESTADUAIS for c in media)
+            if not regional_ativa:
+                por_ano[ano] = 0.0
+                notas_por_ano[ano] = {}
+                continue
 
-        linhas.append({
-            "uf": uf,
-            "codigo": codigo,
-            "nome": municipio["nome"],
-            "tamanho": tamanho,
-            "indice": sum(indices.values()) / len(indices),
-            "por_cargo": indices,
-        })
+            municipio = (dados[(uf, ano)] or {}).get(codigo, {})
+            presentes = cargos_do_municipio(municipio)
+            # porte no ano; se a cidade não aparece no arquivo, usa o porte geral
+            porte_ano = max((v["total_municipio"] for v in presentes.values()),
+                            default=porte[chave])
+
+            notas = {}
+            for cargo, media_uf in media.items():
+                v = presentes.get(cargo)
+                if v and v["total_municipio"] > 0:
+                    votos, total = v["total"], v["total_municipio"]
+                else:
+                    # cargo ausente = 0 votos; total desconhecido -> porte do ano
+                    votos, total = 0, porte_ano
+
+                if total + k == 0:
+                    notas[cargo] = 0.0
+                    continue
+                pct_ajustado = (votos + k * media_uf) / (total + k)
+                notas[cargo] = min(pct_ajustado / media_uf, teto)
+
+            por_ano[ano] = sum(notas.values()) / len(notas)
+            notas_por_ano[ano] = notas
+
+        indice = sum(PESOS_ANOS[a] * por_ano[a] for a in PESOS_ANOS) / soma_pesos
+        resultado[chave] = {"indice": indice, "por_ano": por_ano, "notas": notas_por_ano}
+
+    return resultado
+
+
+novo = calcular(k=K, teto=TETO)
+antigo = calcular(k=0, teto=math.inf)
+
+ordem_nova = sorted(novo, key=lambda c: novo[c]["indice"], reverse=True)
+ordem_antiga = sorted(antigo, key=lambda c: antigo[c]["indice"], reverse=True)
+posicao_antiga = {chave: i for i, chave in enumerate(ordem_antiga, start=1)}
 
 # ---------------------------------------------------------------------------
-# Ranking
+# Saída
 # ---------------------------------------------------------------------------
-ranking = sorted(linhas, key=lambda l: l["indice"], reverse=True)[:TOP_N]
+anos = list(PESOS_ANOS)
+pesos_txt = ", ".join(f"{a}×{p}" for a, p in PESOS_ANOS.items())
+print(f"\nTop {TOP_N} — K={K:,}  teto={TETO}  pesos: {pesos_txt}\n")
+#print(f"{'#':>3}  {'antes':>5}  {'município':<30} {'índice':>6}   "
+#     + "   ".join(f"{a}" for a in anos) + "    porte")
+print(f"{'#':>3}  {'município':<30} {'índice':>6}   "
+      + "   ".join(f"{a}" for a in anos) + "    porte")
 
-print(f"\nTop {TOP_N} — índice de influência ({ANO}, "
-      f"UFs: {'todas' if UFS is None else ', '.join(sorted(UFS))}, "
-      f"mín. {MIN_VOTOS_MUNICIPIO:,} votos)\n")
+for posicao, chave in enumerate(ordem_nova[:TOP_N], start=1):
+    uf, codigo = chave
+    r = novo[chave]
+    anos_txt = "   ".join(f"{r['por_ano'][a]:4.2f}" for a in anos)
+    nome = f"{nomes[chave]} ({uf})"
+#    print(f"{posicao:>3}  {posicao_antiga[chave]:>5}  {nome:<30} {r['indice']:6.2f}   "
+#          f"{anos_txt}   {porte[chave]:>8,}")
+    print(f"{posicao:>3}  {nome:<30} {r['indice']:6.2f}   "
+          f"{anos_txt}   {porte[chave]:>8,}")
 
-for posicao, m in enumerate(ranking, start=1):
-    detalhe = "  ".join(
-        f"{cargo[:4]}={i:.1f}" for cargo, i in sorted(m["por_cargo"].items())
-    )
-    print(f"{posicao:>2}. {m['nome']} ({m['uf']}) — índice {m['indice']:.2f}"
-          f"  [{m['tamanho']:,} votos]")
-    #print(f"      {detalhe}")
+    ultimo = anos[-1]
+    if r["notas"][ultimo]:
+        detalhe = "  ".join(f"{c[:4]}={n:.1f}" for c, n in sorted(r["notas"][ultimo].items()))
+        if DETAILS:
+            print(f"{'':>12}{ultimo}: {detalhe}")
+
+print("\n'antes' = posição da cidade no modelo antigo (sem encolhimento e sem teto).")
+
+if SALVAR_CSV:
+    with open(SALVAR_CSV, "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f)
+        w.writerow(["posicao", "posicao_antiga", "uf", "codigo_ibge", "municipio",
+                    "porte", "indice"] + [f"indice_{a}" for a in anos])
+        for posicao, chave in enumerate(ordem_nova, start=1):
+            uf, codigo = chave
+            r = novo[chave]
+            w.writerow([posicao, posicao_antiga[chave], uf, codigo, nomes[chave],
+                        porte[chave], round(r["indice"], 4)]
+                       + [round(r["por_ano"][a], 4) for a in anos])
+    print(f"Ranking completo salvo em {SALVAR_CSV}")

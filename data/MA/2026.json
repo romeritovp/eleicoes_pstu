@@ -1,0 +1,7814 @@
+{
+  "2100105": {
+    "nome": "Afonso Cunha",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5864,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 5744,
+      "candidatos": {
+        "Saulo Arcangeli": 1
+      },
+      "percentual": 0.017
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 10961,
+      "candidatos": {
+        "Wilson Leite": 1
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 5948,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2100204": {
+    "nome": "Alcântara",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 13943,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 14,
+      "total_municipio": 13482,
+      "candidatos": {
+        "Saulo Arcangeli": 14
+      },
+      "percentual": 0.104
+    },
+    "SENADOR": {
+      "total": 37,
+      "total_municipio": 23507,
+      "candidatos": {
+        "Wilson Leite": 37
+      },
+      "percentual": 0.157
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 13791,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.036
+    }
+  },
+  "2100303": {
+    "nome": "Aldeias Altas",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 13340,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 12725,
+      "candidatos": {
+        "Saulo Arcangeli": 6
+      },
+      "percentual": 0.047
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 24085,
+      "candidatos": {
+        "Wilson Leite": 3
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 13505,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.037
+    }
+  },
+  "2100402": {
+    "nome": "Altamira Do Maranhão",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 4287,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.023
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 4209,
+      "candidatos": {
+        "Saulo Arcangeli": 5
+      },
+      "percentual": 0.119
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8061,
+      "candidatos": {
+        "Wilson Leite": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 4375,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2100436": {
+    "nome": "Alto Alegre Do Maranhão",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 13873,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 13512,
+      "candidatos": {
+        "Saulo Arcangeli": 5
+      },
+      "percentual": 0.037
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 25036,
+      "candidatos": {
+        "Wilson Leite": 8
+      },
+      "percentual": 0.032
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 13882,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.007
+    }
+  },
+  "2100477": {
+    "nome": "Alto Alegre Do Pindaré",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 15068,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.013
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 14550,
+      "candidatos": {
+        "Saulo Arcangeli": 5
+      },
+      "percentual": 0.034
+    },
+    "SENADOR": {
+      "total": 22,
+      "total_municipio": 27778,
+      "candidatos": {
+        "Wilson Leite": 22
+      },
+      "percentual": 0.079
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 15067,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "2100501": {
+    "nome": "Alto Parnaíba",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 6077,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.033
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 5722,
+      "candidatos": {
+        "Saulo Arcangeli": 4
+      },
+      "percentual": 0.07
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 10550,
+      "candidatos": {
+        "Wilson Leite": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 6114,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 3
+      },
+      "percentual": 0.065
+    }
+  },
+  "2100550": {
+    "nome": "Amapá Do Maranhão",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4212,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 4053,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.074
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 7806,
+      "candidatos": {
+        "Wilson Leite": 4
+      },
+      "percentual": 0.051
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 4272,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2100600": {
+    "nome": "Amarante Do Maranhão",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 21911,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 20750,
+      "candidatos": {
+        "Saulo Arcangeli": 5
+      },
+      "percentual": 0.024
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 40522,
+      "candidatos": {
+        "Wilson Leite": 5
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 22236,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.022
+    }
+  },
+  "2100709": {
+    "nome": "Anajatuba",
+    "PRESIDENTE": {
+      "total": 8,
+      "total_municipio": 16004,
+      "candidatos": {
+        "Hertz Dias": 8
+      },
+      "percentual": 0.05
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 15725,
+      "candidatos": {
+        "Saulo Arcangeli": 5
+      },
+      "percentual": 0.032
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 28659,
+      "candidatos": {
+        "Wilson Leite": 9
+      },
+      "percentual": 0.031
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 16003,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.019
+    }
+  },
+  "2100808": {
+    "nome": "Anapurus",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 11184,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 10713,
+      "candidatos": {
+        "Saulo Arcangeli": 7
+      },
+      "percentual": 0.065
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 19578,
+      "candidatos": {
+        "Wilson Leite": 1
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 11259,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.027
+    }
+  },
+  "2100832": {
+    "nome": "Apicum-Açu",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 10640,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 10324,
+      "candidatos": {
+        "Saulo Arcangeli": 6
+      },
+      "percentual": 0.058
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 19183,
+      "candidatos": {
+        "Wilson Leite": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 10499,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.019
+    }
+  },
+  "2100873": {
+    "nome": "Araguanã",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6057,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 5815,
+      "candidatos": {
+        "Saulo Arcangeli": 2
+      },
+      "percentual": 0.034
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 11073,
+      "candidatos": {
+        "Wilson Leite": 1
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 6040,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2100907": {
+    "nome": "Araioses",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 24398,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 34,
+      "total_municipio": 22320,
+      "candidatos": {
+        "Saulo Arcangeli": 34
+      },
+      "percentual": 0.152
+    },
+    "SENADOR": {
+      "total": 24,
+      "total_municipio": 39981,
+      "candidatos": {
+        "Wilson Leite": 24
+      },
+      "percentual": 0.06
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 23965,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.021
+    }
+  },
+  "2100956": {
+    "nome": "Arame",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 16332,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 15744,
+      "candidatos": {
+        "Saulo Arcangeli": 8
+      },
+      "percentual": 0.051
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 30110,
+      "candidatos": {
+        "Wilson Leite": 5
+      },
+      "percentual": 0.017
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 16527,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.006
+    }
+  },
+  "2101004": {
+    "nome": "Arari",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 17767,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 25,
+      "total_municipio": 17223,
+      "candidatos": {
+        "Saulo Arcangeli": 25
+      },
+      "percentual": 0.145
+    },
+    "SENADOR": {
+      "total": 64,
+      "total_municipio": 29858,
+      "candidatos": {
+        "Wilson Leite": 64
+      },
+      "percentual": 0.214
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 17449,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.011
+    }
+  },
+  "2101103": {
+    "nome": "Axixá",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 9276,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.022
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 9222,
+      "candidatos": {
+        "Saulo Arcangeli": 6
+      },
+      "percentual": 0.065
+    },
+    "SENADOR": {
+      "total": 12,
+      "total_municipio": 16637,
+      "candidatos": {
+        "Wilson Leite": 12
+      },
+      "percentual": 0.072
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 6,
+      "total_municipio": 9240,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 5,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.065
+    }
+  },
+  "2100055": {
+    "nome": "Açailândia",
+    "PRESIDENTE": {
+      "total": 15,
+      "total_municipio": 61426,
+      "candidatos": {
+        "Hertz Dias": 15
+      },
+      "percentual": 0.024
+    },
+    "GOVERNADOR": {
+      "total": 50,
+      "total_municipio": 52055,
+      "candidatos": {
+        "Saulo Arcangeli": 50
+      },
+      "percentual": 0.096
+    },
+    "SENADOR": {
+      "total": 92,
+      "total_municipio": 109139,
+      "candidatos": {
+        "Wilson Leite": 92
+      },
+      "percentual": 0.084
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 8,
+      "total_municipio": 60347,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 2,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.013
+    }
+  },
+  "2101202": {
+    "nome": "Bacabal",
+    "PRESIDENTE": {
+      "total": 12,
+      "total_municipio": 56807,
+      "candidatos": {
+        "Hertz Dias": 12
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 33,
+      "total_municipio": 53433,
+      "candidatos": {
+        "Saulo Arcangeli": 33
+      },
+      "percentual": 0.062
+    },
+    "SENADOR": {
+      "total": 96,
+      "total_municipio": 99041,
+      "candidatos": {
+        "Wilson Leite": 96
+      },
+      "percentual": 0.097
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 13,
+      "total_municipio": 55302,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.024
+    }
+  },
+  "2101251": {
+    "nome": "Bacabeira",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 12724,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.031
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 12367,
+      "candidatos": {
+        "Saulo Arcangeli": 2
+      },
+      "percentual": 0.016
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 21760,
+      "candidatos": {
+        "Wilson Leite": 5
+      },
+      "percentual": 0.023
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 12438,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 2
+      },
+      "percentual": 0.016
+    }
+  },
+  "2101301": {
+    "nome": "Bacuri",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 10541,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 10354,
+      "candidatos": {
+        "Saulo Arcangeli": 5
+      },
+      "percentual": 0.048
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 19326,
+      "candidatos": {
+        "Wilson Leite": 4
+      },
+      "percentual": 0.021
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 10538,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2101350": {
+    "nome": "Bacurituba",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3936,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 3886,
+      "candidatos": {
+        "Saulo Arcangeli": 4
+      },
+      "percentual": 0.103
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 6835,
+      "candidatos": {
+        "Wilson Leite": 5
+      },
+      "percentual": 0.073
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 3901,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2101400": {
+    "nome": "Balsas",
+    "PRESIDENTE": {
+      "total": 9,
+      "total_municipio": 55383,
+      "candidatos": {
+        "Hertz Dias": 9
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 34,
+      "total_municipio": 48160,
+      "candidatos": {
+        "Saulo Arcangeli": 34
+      },
+      "percentual": 0.071
+    },
+    "SENADOR": {
+      "total": 39,
+      "total_municipio": 98829,
+      "candidatos": {
+        "Wilson Leite": 39
+      },
+      "percentual": 0.039
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 54664,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.004
+    }
+  },
+  "2101608": {
+    "nome": "Barra Do Corda",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 49502,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.006
+    },
+    "GOVERNADOR": {
+      "total": 21,
+      "total_municipio": 46416,
+      "candidatos": {
+        "Saulo Arcangeli": 21
+      },
+      "percentual": 0.045
+    },
+    "SENADOR": {
+      "total": 40,
+      "total_municipio": 86277,
+      "candidatos": {
+        "Wilson Leite": 40
+      },
+      "percentual": 0.046
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 8,
+      "total_municipio": 48814,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 4,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.016
+    }
+  },
+  "2101707": {
+    "nome": "Barreirinhas",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 42351,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 15,
+      "total_municipio": 41762,
+      "candidatos": {
+        "Saulo Arcangeli": 15
+      },
+      "percentual": 0.036
+    },
+    "SENADOR": {
+      "total": 25,
+      "total_municipio": 78280,
+      "candidatos": {
+        "Wilson Leite": 25
+      },
+      "percentual": 0.032
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 22,
+      "total_municipio": 42656,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 4,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.052
+    }
+  },
+  "2101509": {
+    "nome": "Barão De Grajaú",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12282,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 11497,
+      "candidatos": {
+        "Saulo Arcangeli": 8
+      },
+      "percentual": 0.07
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 20517,
+      "candidatos": {
+        "Wilson Leite": 10
+      },
+      "percentual": 0.049
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 6,
+      "total_municipio": 11785,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.051
+    }
+  },
+  "2101772": {
+    "nome": "Bela Vista Do Maranhão",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7783,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.013
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7586,
+      "candidatos": {
+        "Saulo Arcangeli": 1
+      },
+      "percentual": 0.013
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 14231,
+      "candidatos": {
+        "Wilson Leite": 2
+      },
+      "percentual": 0.014
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 7857,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2101731": {
+    "nome": "Belágua",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6336,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 6314,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.048
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 11788,
+      "candidatos": {
+        "Wilson Leite": 2
+      },
+      "percentual": 0.017
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 6446,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.031
+    }
+  },
+  "2101806": {
+    "nome": "Benedito Leite",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3632,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 3506,
+      "candidatos": {
+        "Saulo Arcangeli": 1
+      },
+      "percentual": 0.029
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 6776,
+      "candidatos": {
+        "Wilson Leite": 5
+      },
+      "percentual": 0.074
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 3665,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2101905": {
+    "nome": "Bequimão",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 14001,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 13,
+      "total_municipio": 13797,
+      "candidatos": {
+        "Saulo Arcangeli": 13
+      },
+      "percentual": 0.094
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 23335,
+      "candidatos": {
+        "Wilson Leite": 10
+      },
+      "percentual": 0.043
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 13605,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.007
+    }
+  },
+  "2101939": {
+    "nome": "Bernardo Do Mearim",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4046,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 3883,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.077
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7407,
+      "candidatos": {
+        "Wilson Leite": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 4111,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.024
+    }
+  },
+  "2101970": {
+    "nome": "Boa Vista Do Gurupi",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5057,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4887,
+      "candidatos": {
+        "Saulo Arcangeli": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 9518,
+      "candidatos": {
+        "Wilson Leite": 9
+      },
+      "percentual": 0.095
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 5123,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.02
+    }
+  },
+  "2102002": {
+    "nome": "Bom Jardim",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 20141,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 15,
+      "total_municipio": 19277,
+      "candidatos": {
+        "Saulo Arcangeli": 15
+      },
+      "percentual": 0.078
+    },
+    "SENADOR": {
+      "total": 18,
+      "total_municipio": 36951,
+      "candidatos": {
+        "Wilson Leite": 18
+      },
+      "percentual": 0.049
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 20171,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.005
+    }
+  },
+  "2102036": {
+    "nome": "Bom Jesus Das Selvas",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 14906,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 14109,
+      "candidatos": {
+        "Saulo Arcangeli": 7
+      },
+      "percentual": 0.05
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 27519,
+      "candidatos": {
+        "Wilson Leite": 7
+      },
+      "percentual": 0.025
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 15033,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.027
+    }
+  },
+  "2102077": {
+    "nome": "Bom Lugar",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9156,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8826,
+      "candidatos": {
+        "Saulo Arcangeli": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 16829,
+      "candidatos": {
+        "Wilson Leite": 3
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 9004,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.011
+    }
+  },
+  "2102101": {
+    "nome": "Brejo",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 20007,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 10,
+      "total_municipio": 19146,
+      "candidatos": {
+        "Saulo Arcangeli": 10
+      },
+      "percentual": 0.052
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 35497,
+      "candidatos": {
+        "Wilson Leite": 5
+      },
+      "percentual": 0.014
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 8,
+      "total_municipio": 19951,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 2
+      },
+      "percentual": 0.04
+    }
+  },
+  "2102150": {
+    "nome": "Brejo De Areia",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 6014,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.033
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 5845,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.051
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 11124,
+      "candidatos": {
+        "Wilson Leite": 2
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 6115,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2102200": {
+    "nome": "Buriti",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 17089,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 10,
+      "total_municipio": 16415,
+      "candidatos": {
+        "Saulo Arcangeli": 10
+      },
+      "percentual": 0.061
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 30554,
+      "candidatos": {
+        "Wilson Leite": 5
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 17074,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.023
+    }
+  },
+  "2102309": {
+    "nome": "Buriti Bravo",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 12902,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 12594,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.024
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 23089,
+      "candidatos": {
+        "Wilson Leite": 1
+      },
+      "percentual": 0.004
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 12908,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.039
+    }
+  },
+  "2102325": {
+    "nome": "Buriticupu",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 32052,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 15,
+      "total_municipio": 29844,
+      "candidatos": {
+        "Saulo Arcangeli": 15
+      },
+      "percentual": 0.05
+    },
+    "SENADOR": {
+      "total": 26,
+      "total_municipio": 58612,
+      "candidatos": {
+        "Wilson Leite": 26
+      },
+      "percentual": 0.044
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 6,
+      "total_municipio": 32090,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 3,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.019
+    }
+  },
+  "2102358": {
+    "nome": "Buritirana",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 8483,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7994,
+      "candidatos": {
+        "Saulo Arcangeli": 1
+      },
+      "percentual": 0.013
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 15470,
+      "candidatos": {
+        "Wilson Leite": 8
+      },
+      "percentual": 0.052
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 8558,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.012
+    }
+  },
+  "2102374": {
+    "nome": "Cachoeira Grande",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 6825,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.029
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 6749,
+      "candidatos": {
+        "Saulo Arcangeli": 1
+      },
+      "percentual": 0.015
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 12779,
+      "candidatos": {
+        "Wilson Leite": 6
+      },
+      "percentual": 0.047
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 6909,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.029
+    }
+  },
+  "2102408": {
+    "nome": "Cajapió",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 7282,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.027
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 7228,
+      "candidatos": {
+        "Saulo Arcangeli": 4
+      },
+      "percentual": 0.055
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 12900,
+      "candidatos": {
+        "Wilson Leite": 8
+      },
+      "percentual": 0.062
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 7363,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "2102507": {
+    "nome": "Cajari",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 12146,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 11881,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.025
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 21538,
+      "candidatos": {
+        "Wilson Leite": 5
+      },
+      "percentual": 0.023
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 12129,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 2
+      },
+      "percentual": 0.041
+    }
+  },
+  "2102556": {
+    "nome": "Campestre Do Maranhão",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7599,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7280,
+      "candidatos": {
+        "Saulo Arcangeli": 1
+      },
+      "percentual": 0.014
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 14021,
+      "candidatos": {
+        "Wilson Leite": 1
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 7579,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2102705": {
+    "nome": "Cantanhede",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 10741,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 10527,
+      "candidatos": {
+        "Saulo Arcangeli": 6
+      },
+      "percentual": 0.057
+    },
+    "SENADOR": {
+      "total": 16,
+      "total_municipio": 19485,
+      "candidatos": {
+        "Wilson Leite": 16
+      },
+      "percentual": 0.082
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 10805,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 2,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.028
+    }
+  },
+  "2102754": {
+    "nome": "Capinzal Do Norte",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6758,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 6481,
+      "candidatos": {
+        "Saulo Arcangeli": 2
+      },
+      "percentual": 0.031
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 12258,
+      "candidatos": {
+        "Wilson Leite": 3
+      },
+      "percentual": 0.024
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 6758,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.03
+    }
+  },
+  "2102804": {
+    "nome": "Carolina",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 13985,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 10,
+      "total_municipio": 12893,
+      "candidatos": {
+        "Saulo Arcangeli": 10
+      },
+      "percentual": 0.078
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 24357,
+      "candidatos": {
+        "Wilson Leite": 10
+      },
+      "percentual": 0.041
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 13574,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 5,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.037
+    }
+  },
+  "2102903": {
+    "nome": "Carutapera",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 14390,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.028
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 13840,
+      "candidatos": {
+        "Saulo Arcangeli": 5
+      },
+      "percentual": 0.036
+    },
+    "SENADOR": {
+      "total": 101,
+      "total_municipio": 25968,
+      "candidatos": {
+        "Wilson Leite": 101
+      },
+      "percentual": 0.389
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 14342,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.021
+    }
+  },
+  "2103000": {
+    "nome": "Caxias",
+    "PRESIDENTE": {
+      "total": 29,
+      "total_municipio": 86605,
+      "candidatos": {
+        "Hertz Dias": 29
+      },
+      "percentual": 0.033
+    },
+    "GOVERNADOR": {
+      "total": 137,
+      "total_municipio": 81297,
+      "candidatos": {
+        "Saulo Arcangeli": 137
+      },
+      "percentual": 0.169
+    },
+    "SENADOR": {
+      "total": 193,
+      "total_municipio": 150028,
+      "candidatos": {
+        "Wilson Leite": 193
+      },
+      "percentual": 0.129
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 49,
+      "total_municipio": 84808,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 33,
+        "Iago Igui - Bancada Hip Hop": 2
+      },
+      "percentual": 0.058
+    }
+  },
+  "2103109": {
+    "nome": "Cedral",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7240,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 7192,
+      "candidatos": {
+        "Saulo Arcangeli": 4
+      },
+      "percentual": 0.056
+    },
+    "SENADOR": {
+      "total": 13,
+      "total_municipio": 12405,
+      "candidatos": {
+        "Wilson Leite": 13
+      },
+      "percentual": 0.105
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 6991,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "2103125": {
+    "nome": "Central Do Maranhão",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5524,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 5520,
+      "candidatos": {
+        "Saulo Arcangeli": 4
+      },
+      "percentual": 0.072
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 9836,
+      "candidatos": {
+        "Wilson Leite": 3
+      },
+      "percentual": 0.031
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 5599,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.018
+    }
+  },
+  "2103158": {
+    "nome": "Centro Do Guilherme",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6502,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6309,
+      "candidatos": {
+        "Saulo Arcangeli": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 12224,
+      "candidatos": {
+        "Wilson Leite": 1
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 6551,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "2103174": {
+    "nome": "Centro Novo Do Maranhão",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 9315,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 8989,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.033
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 16987,
+      "candidatos": {
+        "Wilson Leite": 4
+      },
+      "percentual": 0.024
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 9329,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2103208": {
+    "nome": "Chapadinha",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 46444,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.006
+    },
+    "GOVERNADOR": {
+      "total": 21,
+      "total_municipio": 43973,
+      "candidatos": {
+        "Saulo Arcangeli": 21
+      },
+      "percentual": 0.048
+    },
+    "SENADOR": {
+      "total": 30,
+      "total_municipio": 79835,
+      "candidatos": {
+        "Wilson Leite": 30
+      },
+      "percentual": 0.038
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 11,
+      "total_municipio": 45487,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 2,
+        "Iago Igui - Bancada Hip Hop": 3
+      },
+      "percentual": 0.024
+    }
+  },
+  "2103257": {
+    "nome": "Cidelândia",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 8335,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 7727,
+      "candidatos": {
+        "Saulo Arcangeli": 5
+      },
+      "percentual": 0.065
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 15127,
+      "candidatos": {
+        "Wilson Leite": 8
+      },
+      "percentual": 0.053
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 8375,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.036
+    }
+  },
+  "2103307": {
+    "nome": "Codó",
+    "PRESIDENTE": {
+      "total": 12,
+      "total_municipio": 59034,
+      "candidatos": {
+        "Hertz Dias": 12
+      },
+      "percentual": 0.02
+    },
+    "GOVERNADOR": {
+      "total": 35,
+      "total_municipio": 56361,
+      "candidatos": {
+        "Saulo Arcangeli": 35
+      },
+      "percentual": 0.062
+    },
+    "SENADOR": {
+      "total": 64,
+      "total_municipio": 104116,
+      "candidatos": {
+        "Wilson Leite": 64
+      },
+      "percentual": 0.061
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 18,
+      "total_municipio": 58869,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 5,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.031
+    }
+  },
+  "2103406": {
+    "nome": "Coelho Neto",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 24816,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.028
+    },
+    "GOVERNADOR": {
+      "total": 21,
+      "total_municipio": 23691,
+      "candidatos": {
+        "Saulo Arcangeli": 21
+      },
+      "percentual": 0.089
+    },
+    "SENADOR": {
+      "total": 14,
+      "total_municipio": 44746,
+      "candidatos": {
+        "Wilson Leite": 14
+      },
+      "percentual": 0.031
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 24838,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.012
+    }
+  },
+  "2103505": {
+    "nome": "Colinas",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 21379,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.028
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 21316,
+      "candidatos": {
+        "Saulo Arcangeli": 6
+      },
+      "percentual": 0.028
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 38691,
+      "candidatos": {
+        "Wilson Leite": 10
+      },
+      "percentual": 0.026
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 18,
+      "total_municipio": 21511,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.084
+    }
+  },
+  "2103554": {
+    "nome": "Conceição Do Lago-Açu",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9060,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 8797,
+      "candidatos": {
+        "Saulo Arcangeli": 8
+      },
+      "percentual": 0.091
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 16882,
+      "candidatos": {
+        "Wilson Leite": 1
+      },
+      "percentual": 0.006
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 9150,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.022
+    }
+  },
+  "2103604": {
+    "nome": "Coroatá",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 32876,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 16,
+      "total_municipio": 32222,
+      "candidatos": {
+        "Saulo Arcangeli": 16
+      },
+      "percentual": 0.05
+    },
+    "SENADOR": {
+      "total": 30,
+      "total_municipio": 57868,
+      "candidatos": {
+        "Wilson Leite": 30
+      },
+      "percentual": 0.052
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 9,
+      "total_municipio": 33037,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 2,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.027
+    }
+  },
+  "2103703": {
+    "nome": "Cururupu",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 19442,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 18811,
+      "candidatos": {
+        "Saulo Arcangeli": 6
+      },
+      "percentual": 0.032
+    },
+    "SENADOR": {
+      "total": 70,
+      "total_municipio": 32255,
+      "candidatos": {
+        "Wilson Leite": 70
+      },
+      "percentual": 0.217
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 19297,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.01
+    }
+  },
+  "2102606": {
+    "nome": "Cândido Mendes",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 12475,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 12000,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.025
+    },
+    "SENADOR": {
+      "total": 13,
+      "total_municipio": 22850,
+      "candidatos": {
+        "Wilson Leite": 13
+      },
+      "percentual": 0.057
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 12629,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2103752": {
+    "nome": "Davinópolis",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9651,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 9213,
+      "candidatos": {
+        "Saulo Arcangeli": 5
+      },
+      "percentual": 0.054
+    },
+    "SENADOR": {
+      "total": 18,
+      "total_municipio": 17807,
+      "candidatos": {
+        "Wilson Leite": 18
+      },
+      "percentual": 0.101
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 9547,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.01
+    }
+  },
+  "2103802": {
+    "nome": "Dom Pedro",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 14055,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 13575,
+      "candidatos": {
+        "Saulo Arcangeli": 5
+      },
+      "percentual": 0.037
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 24503,
+      "candidatos": {
+        "Wilson Leite": 7
+      },
+      "percentual": 0.029
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 6,
+      "total_municipio": 13879,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 3,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.043
+    }
+  },
+  "2103901": {
+    "nome": "Duque Bacelar",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7711,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 7389,
+      "candidatos": {
+        "Saulo Arcangeli": 6
+      },
+      "percentual": 0.081
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 14059,
+      "candidatos": {
+        "Wilson Leite": 6
+      },
+      "percentual": 0.043
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 7628,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2104008": {
+    "nome": "Esperantinópolis",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11195,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 10954,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.027
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 20449,
+      "candidatos": {
+        "Wilson Leite": 9
+      },
+      "percentual": 0.044
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 11337,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.026
+    }
+  },
+  "2104057": {
+    "nome": "Estreito",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 18538,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.022
+    },
+    "GOVERNADOR": {
+      "total": 16,
+      "total_municipio": 17333,
+      "candidatos": {
+        "Saulo Arcangeli": 16
+      },
+      "percentual": 0.092
+    },
+    "SENADOR": {
+      "total": 31,
+      "total_municipio": 33587,
+      "candidatos": {
+        "Wilson Leite": 31
+      },
+      "percentual": 0.092
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 18282,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 2,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.022
+    }
+  },
+  "2104073": {
+    "nome": "Feira Nova Do Maranhão",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5020,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.02
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4774,
+      "candidatos": {
+        "Saulo Arcangeli": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 9125,
+      "candidatos": {
+        "Wilson Leite": 6
+      },
+      "percentual": 0.066
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 5081,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2104081": {
+    "nome": "Fernando Falcão",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7742,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7554,
+      "candidatos": {
+        "Saulo Arcangeli": 1
+      },
+      "percentual": 0.013
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 14354,
+      "candidatos": {
+        "Wilson Leite": 1
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 7837,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "2104099": {
+    "nome": "Formosa Da Serra Negra",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11298,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 10833,
+      "candidatos": {
+        "Saulo Arcangeli": 2
+      },
+      "percentual": 0.018
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 20872,
+      "candidatos": {
+        "Wilson Leite": 6
+      },
+      "percentual": 0.029
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 11551,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "2104107": {
+    "nome": "Fortaleza Dos Nogueiras",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8531,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 8243,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.036
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 15742,
+      "candidatos": {
+        "Wilson Leite": 1
+      },
+      "percentual": 0.006
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 8573,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 2,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.047
+    }
+  },
+  "2104206": {
+    "nome": "Fortuna",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 9570,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.031
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 9284,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.032
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 17590,
+      "candidatos": {
+        "Wilson Leite": 2
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 9653,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.031
+    }
+  },
+  "2104305": {
+    "nome": "Godofredo Viana",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 6083,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.033
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 5822,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.052
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 10982,
+      "candidatos": {
+        "Wilson Leite": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 6028,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2104404": {
+    "nome": "Gonçalves Dias",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 10097,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 9972,
+      "candidatos": {
+        "Saulo Arcangeli": 7
+      },
+      "percentual": 0.07
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 18066,
+      "candidatos": {
+        "Wilson Leite": 6
+      },
+      "percentual": 0.033
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 10148,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.01
+    }
+  },
+  "2104503": {
+    "nome": "Governador Archer",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6140,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 6079,
+      "candidatos": {
+        "Saulo Arcangeli": 1
+      },
+      "percentual": 0.016
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 11257,
+      "candidatos": {
+        "Wilson Leite": 2
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 6234,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.016
+    }
+  },
+  "2104552": {
+    "nome": "Governador Edison Lobão",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 12094,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 11318,
+      "candidatos": {
+        "Saulo Arcangeli": 6
+      },
+      "percentual": 0.053
+    },
+    "SENADOR": {
+      "total": 33,
+      "total_municipio": 21782,
+      "candidatos": {
+        "Wilson Leite": 33
+      },
+      "percentual": 0.152
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 11941,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.017
+    }
+  },
+  "2104602": {
+    "nome": "Governador Eugênio Barros",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8212,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 8044,
+      "candidatos": {
+        "Saulo Arcangeli": 6
+      },
+      "percentual": 0.075
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 14997,
+      "candidatos": {
+        "Wilson Leite": 3
+      },
+      "percentual": 0.02
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 8244,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 3,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.061
+    }
+  },
+  "2104628": {
+    "nome": "Governador Luiz Rocha",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 4870,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 4753,
+      "candidatos": {
+        "Saulo Arcangeli": 2
+      },
+      "percentual": 0.042
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 8812,
+      "candidatos": {
+        "Wilson Leite": 1
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 4932,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2104651": {
+    "nome": "Governador Newton Bello",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5991,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 5812,
+      "candidatos": {
+        "Saulo Arcangeli": 1
+      },
+      "percentual": 0.017
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 11054,
+      "candidatos": {
+        "Wilson Leite": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 6024,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2104677": {
+    "nome": "Governador Nunes Freire",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 13528,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 12858,
+      "candidatos": {
+        "Saulo Arcangeli": 1
+      },
+      "percentual": 0.008
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 25097,
+      "candidatos": {
+        "Wilson Leite": 3
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 13498,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2104800": {
+    "nome": "Grajaú",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 41112,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 13,
+      "total_municipio": 38814,
+      "candidatos": {
+        "Saulo Arcangeli": 13
+      },
+      "percentual": 0.033
+    },
+    "SENADOR": {
+      "total": 69,
+      "total_municipio": 74305,
+      "candidatos": {
+        "Wilson Leite": 69
+      },
+      "percentual": 0.093
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 41073,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.007
+    }
+  },
+  "2104701": {
+    "nome": "Graça Aranha",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 4997,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.04
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 4881,
+      "candidatos": {
+        "Saulo Arcangeli": 5
+      },
+      "percentual": 0.102
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 9225,
+      "candidatos": {
+        "Wilson Leite": 3
+      },
+      "percentual": 0.033
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 4960,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 2,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.06
+    }
+  },
+  "2104909": {
+    "nome": "Guimarães",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 7082,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.056
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 6915,
+      "candidatos": {
+        "Saulo Arcangeli": 6
+      },
+      "percentual": 0.087
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 11560,
+      "candidatos": {
+        "Wilson Leite": 9
+      },
+      "percentual": 0.078
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 6995,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "2105005": {
+    "nome": "Humberto De Campos",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 17843,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.022
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 17494,
+      "candidatos": {
+        "Saulo Arcangeli": 4
+      },
+      "percentual": 0.023
+    },
+    "SENADOR": {
+      "total": 12,
+      "total_municipio": 32132,
+      "candidatos": {
+        "Wilson Leite": 12
+      },
+      "percentual": 0.037
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 18142,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.011
+    }
+  },
+  "2105104": {
+    "nome": "Icatu",
+    "PRESIDENTE": {
+      "total": 8,
+      "total_municipio": 18695,
+      "candidatos": {
+        "Hertz Dias": 8
+      },
+      "percentual": 0.043
+    },
+    "GOVERNADOR": {
+      "total": 14,
+      "total_municipio": 18409,
+      "candidatos": {
+        "Saulo Arcangeli": 14
+      },
+      "percentual": 0.076
+    },
+    "SENADOR": {
+      "total": 29,
+      "total_municipio": 33714,
+      "candidatos": {
+        "Wilson Leite": 29
+      },
+      "percentual": 0.086
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 7,
+      "total_municipio": 18879,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 2,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.037
+    }
+  },
+  "2105153": {
+    "nome": "Igarapé Do Meio",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 8283,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7936,
+      "candidatos": {
+        "Saulo Arcangeli": 1
+      },
+      "percentual": 0.013
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 15020,
+      "candidatos": {
+        "Wilson Leite": 8
+      },
+      "percentual": 0.053
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 8279,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.012
+    }
+  },
+  "2105203": {
+    "nome": "Igarapé Grande",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6833,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 6595,
+      "candidatos": {
+        "Saulo Arcangeli": 4
+      },
+      "percentual": 0.061
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 12590,
+      "candidatos": {
+        "Wilson Leite": 5
+      },
+      "percentual": 0.04
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 6977,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.029
+    }
+  },
+  "2105302": {
+    "nome": "Imperatriz",
+    "PRESIDENTE": {
+      "total": 48,
+      "total_municipio": 153763,
+      "candidatos": {
+        "Hertz Dias": 48
+      },
+      "percentual": 0.031
+    },
+    "GOVERNADOR": {
+      "total": 197,
+      "total_municipio": 136034,
+      "candidatos": {
+        "Saulo Arcangeli": 197
+      },
+      "percentual": 0.145
+    },
+    "SENADOR": {
+      "total": 1001,
+      "total_municipio": 275265,
+      "candidatos": {
+        "Wilson Leite": 1001
+      },
+      "percentual": 0.364
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 43,
+      "total_municipio": 149700,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 33,
+        "Iago Igui - Bancada Hip Hop": 6
+      },
+      "percentual": 0.029
+    }
+  },
+  "2105351": {
+    "nome": "Itaipava Do Grajaú",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8342,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 8074,
+      "candidatos": {
+        "Saulo Arcangeli": 7
+      },
+      "percentual": 0.087
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 15420,
+      "candidatos": {
+        "Wilson Leite": 4
+      },
+      "percentual": 0.026
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 8334,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.012
+    }
+  },
+  "2105401": {
+    "nome": "Itapecuru Mirim",
+    "PRESIDENTE": {
+      "total": 11,
+      "total_municipio": 35996,
+      "candidatos": {
+        "Hertz Dias": 11
+      },
+      "percentual": 0.031
+    },
+    "GOVERNADOR": {
+      "total": 40,
+      "total_municipio": 35037,
+      "candidatos": {
+        "Saulo Arcangeli": 40
+      },
+      "percentual": 0.114
+    },
+    "SENADOR": {
+      "total": 75,
+      "total_municipio": 64630,
+      "candidatos": {
+        "Wilson Leite": 75
+      },
+      "percentual": 0.116
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 12,
+      "total_municipio": 35825,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 4,
+        "Iago Igui - Bancada Hip Hop": 2
+      },
+      "percentual": 0.033
+    }
+  },
+  "2105427": {
+    "nome": "Itinga Do Maranhão",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 13776,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.022
+    },
+    "GOVERNADOR": {
+      "total": 14,
+      "total_municipio": 12198,
+      "candidatos": {
+        "Saulo Arcangeli": 14
+      },
+      "percentual": 0.115
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 25216,
+      "candidatos": {
+        "Wilson Leite": 4
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 13799,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.022
+    }
+  },
+  "2105450": {
+    "nome": "Jatobá",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5349,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 5325,
+      "candidatos": {
+        "Saulo Arcangeli": 2
+      },
+      "percentual": 0.038
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 10083,
+      "candidatos": {
+        "Wilson Leite": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 5509,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2105476": {
+    "nome": "Jenipapo Dos Vieiras",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 10210,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.029
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 9927,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.03
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 18854,
+      "candidatos": {
+        "Wilson Leite": 3
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 10326,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2105609": {
+    "nome": "Joselândia",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9597,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 9350,
+      "candidatos": {
+        "Saulo Arcangeli": 2
+      },
+      "percentual": 0.021
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 17166,
+      "candidatos": {
+        "Wilson Leite": 6
+      },
+      "percentual": 0.035
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 9605,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.031
+    }
+  },
+  "2105500": {
+    "nome": "João Lisboa",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 17462,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 10,
+      "total_municipio": 16378,
+      "candidatos": {
+        "Saulo Arcangeli": 10
+      },
+      "percentual": 0.061
+    },
+    "SENADOR": {
+      "total": 20,
+      "total_municipio": 31919,
+      "candidatos": {
+        "Wilson Leite": 20
+      },
+      "percentual": 0.063
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 6,
+      "total_municipio": 17392,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 2,
+        "Iago Igui - Bancada Hip Hop": 2
+      },
+      "percentual": 0.034
+    }
+  },
+  "2105658": {
+    "nome": "Junco Do Maranhão",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3793,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 3649,
+      "candidatos": {
+        "Saulo Arcangeli": 2
+      },
+      "percentual": 0.055
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6920,
+      "candidatos": {
+        "Wilson Leite": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 3761,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.053
+    }
+  },
+  "2105708": {
+    "nome": "Lago Da Pedra",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 26503,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 9,
+      "total_municipio": 24906,
+      "candidatos": {
+        "Saulo Arcangeli": 9
+      },
+      "percentual": 0.036
+    },
+    "SENADOR": {
+      "total": 25,
+      "total_municipio": 47703,
+      "candidatos": {
+        "Wilson Leite": 25
+      },
+      "percentual": 0.052
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 26340,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2105807": {
+    "nome": "Lago Do Junco",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6921,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 6682,
+      "candidatos": {
+        "Saulo Arcangeli": 2
+      },
+      "percentual": 0.03
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 12812,
+      "candidatos": {
+        "Wilson Leite": 5
+      },
+      "percentual": 0.039
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 6878,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.029
+    }
+  },
+  "2105948": {
+    "nome": "Lago Dos Rodrigues",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6815,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 6678,
+      "candidatos": {
+        "Saulo Arcangeli": 6
+      },
+      "percentual": 0.09
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 12590,
+      "candidatos": {
+        "Wilson Leite": 2
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 6877,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "2105906": {
+    "nome": "Lago Verde",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9436,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 9152,
+      "candidatos": {
+        "Saulo Arcangeli": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 17364,
+      "candidatos": {
+        "Wilson Leite": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 9352,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.011
+    }
+  },
+  "2105922": {
+    "nome": "Lagoa Do Mato",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6201,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 6179,
+      "candidatos": {
+        "Saulo Arcangeli": 1
+      },
+      "percentual": 0.016
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 11388,
+      "candidatos": {
+        "Wilson Leite": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 6404,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.031
+    }
+  },
+  "2105963": {
+    "nome": "Lagoa Grande Do Maranhão",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7600,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.013
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 7365,
+      "candidatos": {
+        "Saulo Arcangeli": 2
+      },
+      "percentual": 0.027
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 13927,
+      "candidatos": {
+        "Wilson Leite": 6
+      },
+      "percentual": 0.043
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 7632,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.026
+    }
+  },
+  "2105989": {
+    "nome": "Lajeado Novo",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5411,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5162,
+      "candidatos": {
+        "Saulo Arcangeli": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 9890,
+      "candidatos": {
+        "Wilson Leite": 1
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 5452,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2106003": {
+    "nome": "Lima Campos",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8545,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 8146,
+      "candidatos": {
+        "Saulo Arcangeli": 5
+      },
+      "percentual": 0.061
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 14904,
+      "candidatos": {
+        "Wilson Leite": 10
+      },
+      "percentual": 0.067
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 8492,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.035
+    }
+  },
+  "2106102": {
+    "nome": "Loreto",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6672,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 6464,
+      "candidatos": {
+        "Saulo Arcangeli": 5
+      },
+      "percentual": 0.077
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 12216,
+      "candidatos": {
+        "Wilson Leite": 2
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 6814,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.029
+    }
+  },
+  "2106201": {
+    "nome": "Luís Domingues",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4573,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 4368,
+      "candidatos": {
+        "Saulo Arcangeli": 2
+      },
+      "percentual": 0.046
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 8237,
+      "candidatos": {
+        "Wilson Leite": 3
+      },
+      "percentual": 0.036
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 4556,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2106300": {
+    "nome": "Magalhães De Almeida",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 9424,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 9071,
+      "candidatos": {
+        "Saulo Arcangeli": 4
+      },
+      "percentual": 0.044
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 16426,
+      "candidatos": {
+        "Wilson Leite": 1
+      },
+      "percentual": 0.006
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 9319,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.011
+    }
+  },
+  "2106326": {
+    "nome": "Maracaçumé",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11199,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 10634,
+      "candidatos": {
+        "Saulo Arcangeli": 6
+      },
+      "percentual": 0.056
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 20236,
+      "candidatos": {
+        "Wilson Leite": 6
+      },
+      "percentual": 0.03
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 11125,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.027
+    }
+  },
+  "2106359": {
+    "nome": "Marajá Do Sena",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5020,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.02
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4873,
+      "candidatos": {
+        "Saulo Arcangeli": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 9407,
+      "candidatos": {
+        "Wilson Leite": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 5112,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.059
+    }
+  },
+  "2106375": {
+    "nome": "Maranhãozinho",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6382,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 6079,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.049
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 11678,
+      "candidatos": {
+        "Wilson Leite": 8
+      },
+      "percentual": 0.069
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 6336,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2106409": {
+    "nome": "Mata Roma",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12698,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 12278,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.024
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 22514,
+      "candidatos": {
+        "Wilson Leite": 9
+      },
+      "percentual": 0.04
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 8,
+      "total_municipio": 12774,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.063
+    }
+  },
+  "2106508": {
+    "nome": "Matinha",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 15805,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.019
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 15466,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.019
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 28061,
+      "candidatos": {
+        "Wilson Leite": 5
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 15770,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.006
+    }
+  },
+  "2106607": {
+    "nome": "Matões",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 20129,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.005
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 19486,
+      "candidatos": {
+        "Saulo Arcangeli": 7
+      },
+      "percentual": 0.036
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 37559,
+      "candidatos": {
+        "Wilson Leite": 4
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 20285,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.025
+    }
+  },
+  "2106631": {
+    "nome": "Matões Do Norte",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5537,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 5407,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.055
+    },
+    "SENADOR": {
+      "total": 97,
+      "total_municipio": 10126,
+      "candidatos": {
+        "Wilson Leite": 97
+      },
+      "percentual": 0.958
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 5544,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 2
+      },
+      "percentual": 0.072
+    }
+  },
+  "2106672": {
+    "nome": "Milagres Do Maranhão",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 5226,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.038
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 5142,
+      "candidatos": {
+        "Saulo Arcangeli": 2
+      },
+      "percentual": 0.039
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 9524,
+      "candidatos": {
+        "Wilson Leite": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 5245,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2106706": {
+    "nome": "Mirador",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 12910,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 12746,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.024
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 23556,
+      "candidatos": {
+        "Wilson Leite": 2
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 13012,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "2106755": {
+    "nome": "Miranda Do Norte",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 13036,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 12701,
+      "candidatos": {
+        "Saulo Arcangeli": 7
+      },
+      "percentual": 0.055
+    },
+    "SENADOR": {
+      "total": 27,
+      "total_municipio": 23462,
+      "candidatos": {
+        "Wilson Leite": 27
+      },
+      "percentual": 0.115
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 6,
+      "total_municipio": 12924,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 4
+      },
+      "percentual": 0.046
+    }
+  },
+  "2106805": {
+    "nome": "Mirinzal",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9000,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 8782,
+      "candidatos": {
+        "Saulo Arcangeli": 5
+      },
+      "percentual": 0.057
+    },
+    "SENADOR": {
+      "total": 25,
+      "total_municipio": 15217,
+      "candidatos": {
+        "Wilson Leite": 25
+      },
+      "percentual": 0.164
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 8860,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.023
+    }
+  },
+  "2107001": {
+    "nome": "Montes Altos",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5905,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 5662,
+      "candidatos": {
+        "Saulo Arcangeli": 1
+      },
+      "percentual": 0.018
+    },
+    "SENADOR": {
+      "total": 12,
+      "total_municipio": 10789,
+      "candidatos": {
+        "Wilson Leite": 12
+      },
+      "percentual": 0.111
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 5951,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2106904": {
+    "nome": "Monção",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 15675,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.032
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 15362,
+      "candidatos": {
+        "Saulo Arcangeli": 7
+      },
+      "percentual": 0.046
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 28412,
+      "candidatos": {
+        "Wilson Leite": 4
+      },
+      "percentual": 0.014
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 15706,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.006
+    }
+  },
+  "2107100": {
+    "nome": "Morros",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 13600,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 13338,
+      "candidatos": {
+        "Saulo Arcangeli": 5
+      },
+      "percentual": 0.037
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 24590,
+      "candidatos": {
+        "Wilson Leite": 7
+      },
+      "percentual": 0.028
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 13675,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "2107209": {
+    "nome": "Nina Rodrigues",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7984,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 7873,
+      "candidatos": {
+        "Saulo Arcangeli": 4
+      },
+      "percentual": 0.051
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 14655,
+      "candidatos": {
+        "Wilson Leite": 1
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 6,
+      "total_municipio": 8116,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.074
+    }
+  },
+  "2107258": {
+    "nome": "Nova Colinas",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 3509,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.171
+    },
+    "GOVERNADOR": {
+      "total": 13,
+      "total_municipio": 3378,
+      "candidatos": {
+        "Saulo Arcangeli": 13
+      },
+      "percentual": 0.385
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6439,
+      "candidatos": {
+        "Wilson Leite": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 3597,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2107308": {
+    "nome": "Nova Iorque",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3192,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.031
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 3139,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.096
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 5917,
+      "candidatos": {
+        "Wilson Leite": 10
+      },
+      "percentual": 0.169
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 3211,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2107357": {
+    "nome": "Nova Olinda Do Maranhão",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 9979,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.05
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 9580,
+      "candidatos": {
+        "Saulo Arcangeli": 4
+      },
+      "percentual": 0.042
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 18233,
+      "candidatos": {
+        "Wilson Leite": 5
+      },
+      "percentual": 0.027
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 10075,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2107407": {
+    "nome": "Olho D'Água Das Cunhãs",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 11015,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 10564,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.028
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 19858,
+      "candidatos": {
+        "Wilson Leite": 3
+      },
+      "percentual": 0.015
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 11140,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2107456": {
+    "nome": "Olinda Nova Do Maranhão",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 8219,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.024
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8104,
+      "candidatos": {
+        "Saulo Arcangeli": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 14692,
+      "candidatos": {
+        "Wilson Leite": 7
+      },
+      "percentual": 0.048
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 8241,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2107605": {
+    "nome": "Palmeirândia",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12321,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 9,
+      "total_municipio": 12019,
+      "candidatos": {
+        "Saulo Arcangeli": 9
+      },
+      "percentual": 0.075
+    },
+    "SENADOR": {
+      "total": 25,
+      "total_municipio": 21537,
+      "candidatos": {
+        "Wilson Leite": 25
+      },
+      "percentual": 0.116
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 12205,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2107704": {
+    "nome": "Paraibano",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 10627,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 10517,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.029
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 19215,
+      "candidatos": {
+        "Wilson Leite": 1
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 10724,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.028
+    }
+  },
+  "2107803": {
+    "nome": "Parnarama",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 18895,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 18042,
+      "candidatos": {
+        "Saulo Arcangeli": 4
+      },
+      "percentual": 0.022
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 33802,
+      "candidatos": {
+        "Wilson Leite": 8
+      },
+      "percentual": 0.024
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 6,
+      "total_municipio": 18999,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.032
+    }
+  },
+  "2107902": {
+    "nome": "Passagem Franca",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 10766,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 10491,
+      "candidatos": {
+        "Saulo Arcangeli": 5
+      },
+      "percentual": 0.048
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 19233,
+      "candidatos": {
+        "Wilson Leite": 5
+      },
+      "percentual": 0.026
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 11023,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.027
+    }
+  },
+  "2108009": {
+    "nome": "Pastos Bons",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11508,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 11203,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.027
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 21050,
+      "candidatos": {
+        "Wilson Leite": 5
+      },
+      "percentual": 0.024
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 11576,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.017
+    }
+  },
+  "2108058": {
+    "nome": "Paulino Neves",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 12074,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.025
+    },
+    "GOVERNADOR": {
+      "total": 10,
+      "total_municipio": 11904,
+      "candidatos": {
+        "Saulo Arcangeli": 10
+      },
+      "percentual": 0.084
+    },
+    "SENADOR": {
+      "total": 11,
+      "total_municipio": 22420,
+      "candidatos": {
+        "Wilson Leite": 11
+      },
+      "percentual": 0.049
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 12144,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 3,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.041
+    }
+  },
+  "2108108": {
+    "nome": "Paulo Ramos",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 12441,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.024
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 12009,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.025
+    },
+    "SENADOR": {
+      "total": 76,
+      "total_municipio": 23087,
+      "candidatos": {
+        "Wilson Leite": 76
+      },
+      "percentual": 0.329
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 12495,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.008
+    }
+  },
+  "2107506": {
+    "nome": "Paço Do Lumiar",
+    "PRESIDENTE": {
+      "total": 68,
+      "total_municipio": 74270,
+      "candidatos": {
+        "Hertz Dias": 68
+      },
+      "percentual": 0.092
+    },
+    "GOVERNADOR": {
+      "total": 165,
+      "total_municipio": 72095,
+      "candidatos": {
+        "Saulo Arcangeli": 165
+      },
+      "percentual": 0.229
+    },
+    "SENADOR": {
+      "total": 424,
+      "total_municipio": 127963,
+      "candidatos": {
+        "Wilson Leite": 424
+      },
+      "percentual": 0.331
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 35,
+      "total_municipio": 72535,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 16,
+        "Iago Igui - Bancada Hip Hop": 13
+      },
+      "percentual": 0.048
+    }
+  },
+  "2108207": {
+    "nome": "Pedreiras",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 22399,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 20,
+      "total_municipio": 21252,
+      "candidatos": {
+        "Saulo Arcangeli": 20
+      },
+      "percentual": 0.094
+    },
+    "SENADOR": {
+      "total": 21,
+      "total_municipio": 38995,
+      "candidatos": {
+        "Wilson Leite": 21
+      },
+      "percentual": 0.054
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 21895,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "2108256": {
+    "nome": "Pedro Do Rosário",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 13269,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 12934,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.023
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 24545,
+      "candidatos": {
+        "Wilson Leite": 9
+      },
+      "percentual": 0.037
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 13455,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.022
+    }
+  },
+  "2108306": {
+    "nome": "Penalva",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 18638,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 18361,
+      "candidatos": {
+        "Saulo Arcangeli": 8
+      },
+      "percentual": 0.044
+    },
+    "SENADOR": {
+      "total": 12,
+      "total_municipio": 34111,
+      "candidatos": {
+        "Wilson Leite": 12
+      },
+      "percentual": 0.035
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 18878,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.016
+    }
+  },
+  "2108405": {
+    "nome": "Peri Mirim",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 8705,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.023
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 8465,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.035
+    },
+    "SENADOR": {
+      "total": 11,
+      "total_municipio": 14557,
+      "candidatos": {
+        "Wilson Leite": 11
+      },
+      "percentual": 0.076
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 7,
+      "total_municipio": 8586,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 2,
+        "Iago Igui - Bancada Hip Hop": 2
+      },
+      "percentual": 0.082
+    }
+  },
+  "2108454": {
+    "nome": "Peritoró",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12024,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 11623,
+      "candidatos": {
+        "Saulo Arcangeli": 2
+      },
+      "percentual": 0.017
+    },
+    "SENADOR": {
+      "total": 11,
+      "total_municipio": 21379,
+      "candidatos": {
+        "Wilson Leite": 11
+      },
+      "percentual": 0.051
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 12077,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2108504": {
+    "nome": "Pindaré-Mirim",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 19140,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 10,
+      "total_municipio": 18211,
+      "candidatos": {
+        "Saulo Arcangeli": 10
+      },
+      "percentual": 0.055
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 33344,
+      "candidatos": {
+        "Wilson Leite": 8
+      },
+      "percentual": 0.024
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 18676,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.027
+    }
+  },
+  "2108603": {
+    "nome": "Pinheiro",
+    "PRESIDENTE": {
+      "total": 8,
+      "total_municipio": 46536,
+      "candidatos": {
+        "Hertz Dias": 8
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 39,
+      "total_municipio": 44891,
+      "candidatos": {
+        "Saulo Arcangeli": 39
+      },
+      "percentual": 0.087
+    },
+    "SENADOR": {
+      "total": 118,
+      "total_municipio": 81864,
+      "candidatos": {
+        "Wilson Leite": 118
+      },
+      "percentual": 0.144
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 6,
+      "total_municipio": 45951,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 4,
+        "Iago Igui - Bancada Hip Hop": 2
+      },
+      "percentual": 0.013
+    }
+  },
+  "2108702": {
+    "nome": "Pio Xii",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 14470,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 13910,
+      "candidatos": {
+        "Saulo Arcangeli": 7
+      },
+      "percentual": 0.05
+    },
+    "SENADOR": {
+      "total": 13,
+      "total_municipio": 26655,
+      "candidatos": {
+        "Wilson Leite": 13
+      },
+      "percentual": 0.049
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 14555,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2108801": {
+    "nome": "Pirapemas",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9158,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 8981,
+      "candidatos": {
+        "Saulo Arcangeli": 2
+      },
+      "percentual": 0.022
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 16388,
+      "candidatos": {
+        "Wilson Leite": 8
+      },
+      "percentual": 0.049
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 9201,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2109007": {
+    "nome": "Porto Franco",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 14852,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.02
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 13835,
+      "candidatos": {
+        "Saulo Arcangeli": 8
+      },
+      "percentual": 0.058
+    },
+    "SENADOR": {
+      "total": 11,
+      "total_municipio": 26905,
+      "candidatos": {
+        "Wilson Leite": 11
+      },
+      "percentual": 0.041
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 14606,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2109056": {
+    "nome": "Porto Rico Do Maranhão",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 5188,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.039
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 5080,
+      "candidatos": {
+        "Saulo Arcangeli": 2
+      },
+      "percentual": 0.039
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 8822,
+      "candidatos": {
+        "Wilson Leite": 2
+      },
+      "percentual": 0.023
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 5103,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2108900": {
+    "nome": "Poção De Pedras",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 11191,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 10769,
+      "candidatos": {
+        "Saulo Arcangeli": 7
+      },
+      "percentual": 0.065
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 20095,
+      "candidatos": {
+        "Wilson Leite": 2
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 11312,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.044
+    }
+  },
+  "2109106": {
+    "nome": "Presidente Dutra",
+    "PRESIDENTE": {
+      "total": 8,
+      "total_municipio": 26158,
+      "candidatos": {
+        "Hertz Dias": 8
+      },
+      "percentual": 0.031
+    },
+    "GOVERNADOR": {
+      "total": 19,
+      "total_municipio": 25305,
+      "candidatos": {
+        "Saulo Arcangeli": 19
+      },
+      "percentual": 0.075
+    },
+    "SENADOR": {
+      "total": 35,
+      "total_municipio": 47100,
+      "candidatos": {
+        "Wilson Leite": 35
+      },
+      "percentual": 0.074
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 13,
+      "total_municipio": 25814,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 11,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.05
+    }
+  },
+  "2109205": {
+    "nome": "Presidente Juscelino",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 7604,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.039
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 7477,
+      "candidatos": {
+        "Saulo Arcangeli": 2
+      },
+      "percentual": 0.027
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 14296,
+      "candidatos": {
+        "Wilson Leite": 3
+      },
+      "percentual": 0.021
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 7679,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2109239": {
+    "nome": "Presidente Médici",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 4449,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.045
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 4368,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.069
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 8151,
+      "candidatos": {
+        "Wilson Leite": 4
+      },
+      "percentual": 0.049
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 4502,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.022
+    }
+  },
+  "2109270": {
+    "nome": "Presidente Sarney",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11260,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 10979,
+      "candidatos": {
+        "Saulo Arcangeli": 4
+      },
+      "percentual": 0.036
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 20621,
+      "candidatos": {
+        "Wilson Leite": 4
+      },
+      "percentual": 0.019
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 11277,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.018
+    }
+  },
+  "2109304": {
+    "nome": "Presidente Vargas",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7946,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.013
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 7773,
+      "candidatos": {
+        "Saulo Arcangeli": 7
+      },
+      "percentual": 0.09
+    },
+    "SENADOR": {
+      "total": 12,
+      "total_municipio": 14390,
+      "candidatos": {
+        "Wilson Leite": 12
+      },
+      "percentual": 0.083
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 8004,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.012
+    }
+  },
+  "2109403": {
+    "nome": "Primeira Cruz",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8851,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 8744,
+      "candidatos": {
+        "Saulo Arcangeli": 1
+      },
+      "percentual": 0.011
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 16203,
+      "candidatos": {
+        "Wilson Leite": 3
+      },
+      "percentual": 0.019
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 9007,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.011
+    }
+  },
+  "2109452": {
+    "nome": "Raposa",
+    "PRESIDENTE": {
+      "total": 8,
+      "total_municipio": 19767,
+      "candidatos": {
+        "Hertz Dias": 8
+      },
+      "percentual": 0.04
+    },
+    "GOVERNADOR": {
+      "total": 27,
+      "total_municipio": 19155,
+      "candidatos": {
+        "Saulo Arcangeli": 27
+      },
+      "percentual": 0.141
+    },
+    "SENADOR": {
+      "total": 56,
+      "total_municipio": 34818,
+      "candidatos": {
+        "Wilson Leite": 56
+      },
+      "percentual": 0.161
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 7,
+      "total_municipio": 19415,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 4
+      },
+      "percentual": 0.036
+    }
+  },
+  "2109502": {
+    "nome": "Riachão",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12791,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 12247,
+      "candidatos": {
+        "Saulo Arcangeli": 4
+      },
+      "percentual": 0.033
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 23193,
+      "candidatos": {
+        "Wilson Leite": 2
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 24,
+      "total_municipio": 12888,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 23
+      },
+      "percentual": 0.186
+    }
+  },
+  "2109551": {
+    "nome": "Ribamar Fiquene",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4909,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 4679,
+      "candidatos": {
+        "Saulo Arcangeli": 2
+      },
+      "percentual": 0.043
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 9096,
+      "candidatos": {
+        "Wilson Leite": 3
+      },
+      "percentual": 0.033
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 4914,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2109601": {
+    "nome": "Rosário",
+    "PRESIDENTE": {
+      "total": 8,
+      "total_municipio": 25229,
+      "candidatos": {
+        "Hertz Dias": 8
+      },
+      "percentual": 0.032
+    },
+    "GOVERNADOR": {
+      "total": 15,
+      "total_municipio": 24765,
+      "candidatos": {
+        "Saulo Arcangeli": 15
+      },
+      "percentual": 0.061
+    },
+    "SENADOR": {
+      "total": 33,
+      "total_municipio": 44563,
+      "candidatos": {
+        "Wilson Leite": 33
+      },
+      "percentual": 0.074
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 24908,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2109700": {
+    "nome": "Sambaíba",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4252,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 4116,
+      "candidatos": {
+        "Saulo Arcangeli": 2
+      },
+      "percentual": 0.049
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8044,
+      "candidatos": {
+        "Wilson Leite": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 4328,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2109759": {
+    "nome": "Santa Filomena Do Maranhão",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4867,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4694,
+      "candidatos": {
+        "Saulo Arcangeli": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8745,
+      "candidatos": {
+        "Wilson Leite": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 4818,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.021
+    }
+  },
+  "2109809": {
+    "nome": "Santa Helena",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 17610,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 17252,
+      "candidatos": {
+        "Saulo Arcangeli": 5
+      },
+      "percentual": 0.029
+    },
+    "SENADOR": {
+      "total": 18,
+      "total_municipio": 32042,
+      "candidatos": {
+        "Wilson Leite": 18
+      },
+      "percentual": 0.056
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 17412,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.017
+    }
+  },
+  "2109908": {
+    "nome": "Santa Inês",
+    "PRESIDENTE": {
+      "total": 9,
+      "total_municipio": 49425,
+      "candidatos": {
+        "Hertz Dias": 9
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 48,
+      "total_municipio": 46253,
+      "candidatos": {
+        "Saulo Arcangeli": 48
+      },
+      "percentual": 0.104
+    },
+    "SENADOR": {
+      "total": 93,
+      "total_municipio": 86781,
+      "candidatos": {
+        "Wilson Leite": 93
+      },
+      "percentual": 0.107
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 8,
+      "total_municipio": 47890,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 4,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.017
+    }
+  },
+  "2110005": {
+    "nome": "Santa Luzia",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 33838,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.003
+    },
+    "GOVERNADOR": {
+      "total": 15,
+      "total_municipio": 32200,
+      "candidatos": {
+        "Saulo Arcangeli": 15
+      },
+      "percentual": 0.047
+    },
+    "SENADOR": {
+      "total": 19,
+      "total_municipio": 61969,
+      "candidatos": {
+        "Wilson Leite": 19
+      },
+      "percentual": 0.031
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 33562,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.015
+    }
+  },
+  "2110039": {
+    "nome": "Santa Luzia Do Paruá",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12943,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 12276,
+      "candidatos": {
+        "Saulo Arcangeli": 4
+      },
+      "percentual": 0.033
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 22808,
+      "candidatos": {
+        "Wilson Leite": 3
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 12817,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.039
+    }
+  },
+  "2110104": {
+    "nome": "Santa Quitéria Do Maranhão",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 16072,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.025
+    },
+    "GOVERNADOR": {
+      "total": 12,
+      "total_municipio": 15441,
+      "candidatos": {
+        "Saulo Arcangeli": 12
+      },
+      "percentual": 0.078
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 28006,
+      "candidatos": {
+        "Wilson Leite": 5
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 17,
+      "total_municipio": 15954,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 5,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.107
+    }
+  },
+  "2110203": {
+    "nome": "Santa Rita",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 20667,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 20027,
+      "candidatos": {
+        "Saulo Arcangeli": 6
+      },
+      "percentual": 0.03
+    },
+    "SENADOR": {
+      "total": 23,
+      "total_municipio": 36058,
+      "candidatos": {
+        "Wilson Leite": 23
+      },
+      "percentual": 0.064
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 20457,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.01
+    }
+  },
+  "2110237": {
+    "nome": "Santana Do Maranhão",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6056,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 5873,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.051
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 11238,
+      "candidatos": {
+        "Wilson Leite": 2
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 6112,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 2,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.033
+    }
+  },
+  "2110278": {
+    "nome": "Santo Amaro Do Maranhão",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 10530,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 10321,
+      "candidatos": {
+        "Saulo Arcangeli": 7
+      },
+      "percentual": 0.068
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 18601,
+      "candidatos": {
+        "Wilson Leite": 9
+      },
+      "percentual": 0.048
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 10529,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.047
+    }
+  },
+  "2110302": {
+    "nome": "Santo Antônio Dos Lopes",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 12257,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.041
+    },
+    "GOVERNADOR": {
+      "total": 32,
+      "total_municipio": 11810,
+      "candidatos": {
+        "Saulo Arcangeli": 32
+      },
+      "percentual": 0.271
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 22208,
+      "candidatos": {
+        "Wilson Leite": 10
+      },
+      "percentual": 0.045
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 59,
+      "total_municipio": 12102,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 5,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.488
+    }
+  },
+  "2111722": {
+    "nome": "Satubinha",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5862,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 5636,
+      "candidatos": {
+        "Saulo Arcangeli": 1
+      },
+      "percentual": 0.018
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 10935,
+      "candidatos": {
+        "Wilson Leite": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 5894,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 2
+      },
+      "percentual": 0.034
+    }
+  },
+  "2111748": {
+    "nome": "Senador Alexandre Costa",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6200,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 5940,
+      "candidatos": {
+        "Saulo Arcangeli": 2
+      },
+      "percentual": 0.034
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 11310,
+      "candidatos": {
+        "Wilson Leite": 3
+      },
+      "percentual": 0.027
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 6235,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.016
+    }
+  },
+  "2111763": {
+    "nome": "Senador La Rocque",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9580,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 9092,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.033
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 17669,
+      "candidatos": {
+        "Wilson Leite": 7
+      },
+      "percentual": 0.04
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 9620,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.01
+    }
+  },
+  "2111789": {
+    "nome": "Serrano Do Maranhão",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6817,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 6592,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.046
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 11715,
+      "candidatos": {
+        "Wilson Leite": 2
+      },
+      "percentual": 0.017
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 6671,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.03
+    }
+  },
+  "2111904": {
+    "nome": "Sucupira Do Norte",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6701,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 6658,
+      "candidatos": {
+        "Saulo Arcangeli": 2
+      },
+      "percentual": 0.03
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 12529,
+      "candidatos": {
+        "Wilson Leite": 1
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 6805,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.044
+    }
+  },
+  "2111953": {
+    "nome": "Sucupira Do Riachão",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 3431,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.058
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 3397,
+      "candidatos": {
+        "Saulo Arcangeli": 4
+      },
+      "percentual": 0.118
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6270,
+      "candidatos": {
+        "Wilson Leite": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 3534,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.057
+    }
+  },
+  "2110401": {
+    "nome": "São Benedito Do Rio Preto",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 12834,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 12602,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.024
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 23208,
+      "candidatos": {
+        "Wilson Leite": 4
+      },
+      "percentual": 0.017
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 12883,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2110500": {
+    "nome": "São Bento",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 20757,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.019
+    },
+    "GOVERNADOR": {
+      "total": 9,
+      "total_municipio": 20356,
+      "candidatos": {
+        "Saulo Arcangeli": 9
+      },
+      "percentual": 0.044
+    },
+    "SENADOR": {
+      "total": 19,
+      "total_municipio": 36323,
+      "candidatos": {
+        "Wilson Leite": 19
+      },
+      "percentual": 0.052
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 20691,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.01
+    }
+  },
+  "2110609": {
+    "nome": "São Bernardo",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 16380,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 26,
+      "total_municipio": 15733,
+      "candidatos": {
+        "Saulo Arcangeli": 26
+      },
+      "percentual": 0.165
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 29238,
+      "candidatos": {
+        "Wilson Leite": 8
+      },
+      "percentual": 0.027
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 16229,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.025
+    }
+  },
+  "2110658": {
+    "nome": "São Domingos Do Azeitão",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5423,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5272,
+      "candidatos": {
+        "Saulo Arcangeli": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 9979,
+      "candidatos": {
+        "Wilson Leite": 3
+      },
+      "percentual": 0.03
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 5455,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.037
+    }
+  },
+  "2110708": {
+    "nome": "São Domingos Do Maranhão",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 21925,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 11,
+      "total_municipio": 21054,
+      "candidatos": {
+        "Saulo Arcangeli": 11
+      },
+      "percentual": 0.052
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 39609,
+      "candidatos": {
+        "Wilson Leite": 10
+      },
+      "percentual": 0.025
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 21666,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.005
+    }
+  },
+  "2110856": {
+    "nome": "São Francisco Do Brejão",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6302,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 5800,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.052
+    },
+    "SENADOR": {
+      "total": 15,
+      "total_municipio": 11593,
+      "candidatos": {
+        "Wilson Leite": 15
+      },
+      "percentual": 0.129
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 6292,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.016
+    }
+  },
+  "2110906": {
+    "nome": "São Francisco Do Maranhão",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 6895,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.029
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 6502,
+      "candidatos": {
+        "Saulo Arcangeli": 6
+      },
+      "percentual": 0.092
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 12248,
+      "candidatos": {
+        "Wilson Leite": 7
+      },
+      "percentual": 0.057
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 6826,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2110807": {
+    "nome": "São Félix De Balsas",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3138,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.032
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 3026,
+      "candidatos": {
+        "Saulo Arcangeli": 1
+      },
+      "percentual": 0.033
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5828,
+      "candidatos": {
+        "Wilson Leite": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 3217,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2111201": {
+    "nome": "São José De Ribamar",
+    "PRESIDENTE": {
+      "total": 95,
+      "total_municipio": 105538,
+      "candidatos": {
+        "Hertz Dias": 95
+      },
+      "percentual": 0.09
+    },
+    "GOVERNADOR": {
+      "total": 168,
+      "total_municipio": 102775,
+      "candidatos": {
+        "Saulo Arcangeli": 168
+      },
+      "percentual": 0.163
+    },
+    "SENADOR": {
+      "total": 490,
+      "total_municipio": 179553,
+      "candidatos": {
+        "Wilson Leite": 490
+      },
+      "percentual": 0.273
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 47,
+      "total_municipio": 103065,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 25,
+        "Iago Igui - Bancada Hip Hop": 11
+      },
+      "percentual": 0.046
+    }
+  },
+  "2111250": {
+    "nome": "São José Dos Basílios",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5029,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.02
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 4976,
+      "candidatos": {
+        "Saulo Arcangeli": 2
+      },
+      "percentual": 0.04
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 9450,
+      "candidatos": {
+        "Wilson Leite": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 5070,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.02
+    }
+  },
+  "2111003": {
+    "nome": "São João Batista",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 14635,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 14473,
+      "candidatos": {
+        "Saulo Arcangeli": 8
+      },
+      "percentual": 0.055
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 26115,
+      "candidatos": {
+        "Wilson Leite": 9
+      },
+      "percentual": 0.034
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 14668,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.027
+    }
+  },
+  "2111029": {
+    "nome": "São João Do Carú",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 7211,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.028
+    },
+    "GOVERNADOR": {
+      "total": 11,
+      "total_municipio": 6962,
+      "candidatos": {
+        "Saulo Arcangeli": 11
+      },
+      "percentual": 0.158
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 13354,
+      "candidatos": {
+        "Wilson Leite": 1
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 7250,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "2111052": {
+    "nome": "São João Do Paraíso",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7073,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6696,
+      "candidatos": {
+        "Saulo Arcangeli": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 13178,
+      "candidatos": {
+        "Wilson Leite": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 7100,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2111078": {
+    "nome": "São João Do Soter",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 10607,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 10311,
+      "candidatos": {
+        "Saulo Arcangeli": 5
+      },
+      "percentual": 0.048
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 19571,
+      "candidatos": {
+        "Wilson Leite": 4
+      },
+      "percentual": 0.02
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 10625,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 3,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.038
+    }
+  },
+  "2111102": {
+    "nome": "São João Dos Patos",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 14801,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 14308,
+      "candidatos": {
+        "Saulo Arcangeli": 8
+      },
+      "percentual": 0.056
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 25884,
+      "candidatos": {
+        "Wilson Leite": 8
+      },
+      "percentual": 0.031
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 14217,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.021
+    }
+  },
+  "2111300": {
+    "nome": "São Luís",
+    "PRESIDENTE": {
+      "total": 781,
+      "total_municipio": 619322,
+      "candidatos": {
+        "Hertz Dias": 781
+      },
+      "percentual": 0.126
+    },
+    "GOVERNADOR": {
+      "total": 2373,
+      "total_municipio": 610690,
+      "candidatos": {
+        "Saulo Arcangeli": 2373
+      },
+      "percentual": 0.389
+    },
+    "SENADOR": {
+      "total": 5724,
+      "total_municipio": 1072488,
+      "candidatos": {
+        "Wilson Leite": 5724
+      },
+      "percentual": 0.534
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 744,
+      "total_municipio": 601531,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 537,
+        "Iago Igui - Bancada Hip Hop": 145
+      },
+      "percentual": 0.124
+    }
+  },
+  "2111409": {
+    "nome": "São Luís Gonzaga Do Maranhão",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 12570,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 12052,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.025
+    },
+    "SENADOR": {
+      "total": 22,
+      "total_municipio": 21776,
+      "candidatos": {
+        "Wilson Leite": 22
+      },
+      "percentual": 0.101
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 12337,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.016
+    }
+  },
+  "2111508": {
+    "nome": "São Mateus Do Maranhão",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 21873,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 22,
+      "total_municipio": 21306,
+      "candidatos": {
+        "Saulo Arcangeli": 22
+      },
+      "percentual": 0.103
+    },
+    "SENADOR": {
+      "total": 40,
+      "total_municipio": 38472,
+      "candidatos": {
+        "Wilson Leite": 40
+      },
+      "percentual": 0.104
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 21725,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 2,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.023
+    }
+  },
+  "2111532": {
+    "nome": "São Pedro Da Água Branca",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6982,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 6552,
+      "candidatos": {
+        "Saulo Arcangeli": 1
+      },
+      "percentual": 0.015
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 12837,
+      "candidatos": {
+        "Wilson Leite": 2
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 6949,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2111573": {
+    "nome": "São Pedro Dos Crentes",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3802,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3613,
+      "candidatos": {
+        "Saulo Arcangeli": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 6662,
+      "candidatos": {
+        "Wilson Leite": 1
+      },
+      "percentual": 0.015
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 3808,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.026
+    }
+  },
+  "2111607": {
+    "nome": "São Raimundo Das Mangabeiras",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12177,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 11652,
+      "candidatos": {
+        "Saulo Arcangeli": 5
+      },
+      "percentual": 0.043
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 22280,
+      "candidatos": {
+        "Wilson Leite": 4
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 12233,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2111631": {
+    "nome": "São Raimundo Do Doca Bezerra",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3855,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.026
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 3677,
+      "candidatos": {
+        "Saulo Arcangeli": 2
+      },
+      "percentual": 0.054
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 6902,
+      "candidatos": {
+        "Wilson Leite": 3
+      },
+      "percentual": 0.043
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 3861,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2111672": {
+    "nome": "São Roberto",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 3442,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.029
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 3400,
+      "candidatos": {
+        "Saulo Arcangeli": 1
+      },
+      "percentual": 0.029
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 6440,
+      "candidatos": {
+        "Wilson Leite": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 3504,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2111706": {
+    "nome": "São Vicente Ferrer",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11642,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 11468,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.026
+    },
+    "SENADOR": {
+      "total": 12,
+      "total_municipio": 20310,
+      "candidatos": {
+        "Wilson Leite": 12
+      },
+      "percentual": 0.059
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 11649,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "2111805": {
+    "nome": "Sítio Novo",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 11607,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 11173,
+      "candidatos": {
+        "Saulo Arcangeli": 4
+      },
+      "percentual": 0.036
+    },
+    "SENADOR": {
+      "total": 13,
+      "total_municipio": 21496,
+      "candidatos": {
+        "Wilson Leite": 13
+      },
+      "percentual": 0.06
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 11704,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "2112001": {
+    "nome": "Tasso Fragoso",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5398,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 5065,
+      "candidatos": {
+        "Saulo Arcangeli": 4
+      },
+      "percentual": 0.079
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 9934,
+      "candidatos": {
+        "Wilson Leite": 4
+      },
+      "percentual": 0.04
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 5411,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.018
+    }
+  },
+  "2112100": {
+    "nome": "Timbiras",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 14810,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.02
+    },
+    "GOVERNADOR": {
+      "total": 15,
+      "total_municipio": 14419,
+      "candidatos": {
+        "Saulo Arcangeli": 15
+      },
+      "percentual": 0.104
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 27306,
+      "candidatos": {
+        "Wilson Leite": 2
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 14969,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.02
+    }
+  },
+  "2112209": {
+    "nome": "Timon",
+    "PRESIDENTE": {
+      "total": 24,
+      "total_municipio": 100929,
+      "candidatos": {
+        "Hertz Dias": 24
+      },
+      "percentual": 0.024
+    },
+    "GOVERNADOR": {
+      "total": 96,
+      "total_municipio": 91632,
+      "candidatos": {
+        "Saulo Arcangeli": 96
+      },
+      "percentual": 0.105
+    },
+    "SENADOR": {
+      "total": 194,
+      "total_municipio": 169956,
+      "candidatos": {
+        "Wilson Leite": 194
+      },
+      "percentual": 0.114
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 32,
+      "total_municipio": 98311,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 11,
+        "Iago Igui - Bancada Hip Hop": 2
+      },
+      "percentual": 0.033
+    }
+  },
+  "2112233": {
+    "nome": "Trizidela Do Vale",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 13429,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 13,
+      "total_municipio": 12751,
+      "candidatos": {
+        "Saulo Arcangeli": 13
+      },
+      "percentual": 0.102
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 23316,
+      "candidatos": {
+        "Wilson Leite": 5
+      },
+      "percentual": 0.021
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 13246,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 2,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "2112274": {
+    "nome": "Tufilândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4332,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4169,
+      "candidatos": {
+        "Saulo Arcangeli": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 8066,
+      "candidatos": {
+        "Wilson Leite": 1
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 4393,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "2112308": {
+    "nome": "Tuntum",
+    "PRESIDENTE": {
+      "total": 8,
+      "total_municipio": 21633,
+      "candidatos": {
+        "Hertz Dias": 8
+      },
+      "percentual": 0.037
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 20670,
+      "candidatos": {
+        "Saulo Arcangeli": 7
+      },
+      "percentual": 0.034
+    },
+    "SENADOR": {
+      "total": 12,
+      "total_municipio": 37711,
+      "candidatos": {
+        "Wilson Leite": 12
+      },
+      "percentual": 0.032
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 21523,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "2112407": {
+    "nome": "Turiaçu",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 22096,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 21812,
+      "candidatos": {
+        "Saulo Arcangeli": 4
+      },
+      "percentual": 0.018
+    },
+    "SENADOR": {
+      "total": 72,
+      "total_municipio": 40956,
+      "candidatos": {
+        "Wilson Leite": 72
+      },
+      "percentual": 0.176
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 22386,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.022
+    }
+  },
+  "2112456": {
+    "nome": "Turilândia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 11360,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 11047,
+      "candidatos": {
+        "Saulo Arcangeli": 3
+      },
+      "percentual": 0.027
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 20290,
+      "candidatos": {
+        "Wilson Leite": 7
+      },
+      "percentual": 0.034
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 11342,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 2
+      },
+      "percentual": 0.026
+    }
+  },
+  "2112506": {
+    "nome": "Tutóia",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 32432,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.006
+    },
+    "GOVERNADOR": {
+      "total": 22,
+      "total_municipio": 31134,
+      "candidatos": {
+        "Saulo Arcangeli": 22
+      },
+      "percentual": 0.071
+    },
+    "SENADOR": {
+      "total": 18,
+      "total_municipio": 56310,
+      "candidatos": {
+        "Wilson Leite": 18
+      },
+      "percentual": 0.032
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 9,
+      "total_municipio": 32361,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 2,
+        "Iago Igui - Bancada Hip Hop": 1
+      },
+      "percentual": 0.028
+    }
+  },
+  "2112605": {
+    "nome": "Urbano Santos",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 19491,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.005
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 19149,
+      "candidatos": {
+        "Saulo Arcangeli": 5
+      },
+      "percentual": 0.026
+    },
+    "SENADOR": {
+      "total": 20,
+      "total_municipio": 34457,
+      "candidatos": {
+        "Wilson Leite": 20
+      },
+      "percentual": 0.058
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 19627,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "2112704": {
+    "nome": "Vargem Grande",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 24399,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 28,
+      "total_municipio": 23740,
+      "candidatos": {
+        "Saulo Arcangeli": 28
+      },
+      "percentual": 0.118
+    },
+    "SENADOR": {
+      "total": 36,
+      "total_municipio": 44263,
+      "candidatos": {
+        "Wilson Leite": 36
+      },
+      "percentual": 0.081
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 24783,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 2,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.02
+    }
+  },
+  "2112803": {
+    "nome": "Viana",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 30098,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 30,
+      "total_municipio": 29442,
+      "candidatos": {
+        "Saulo Arcangeli": 30
+      },
+      "percentual": 0.102
+    },
+    "SENADOR": {
+      "total": 16,
+      "total_municipio": 54107,
+      "candidatos": {
+        "Wilson Leite": 16
+      },
+      "percentual": 0.03
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 30321,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "2112852": {
+    "nome": "Vila Nova Dos Martírios",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6485,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 6112,
+      "candidatos": {
+        "Saulo Arcangeli": 1
+      },
+      "percentual": 0.016
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 11717,
+      "candidatos": {
+        "Wilson Leite": 4
+      },
+      "percentual": 0.034
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 6458,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "2113009": {
+    "nome": "Vitorino Freire",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 17791,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 16748,
+      "candidatos": {
+        "Saulo Arcangeli": 4
+      },
+      "percentual": 0.024
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 30988,
+      "candidatos": {
+        "Wilson Leite": 8
+      },
+      "percentual": 0.026
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 17475,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.029
+    }
+  },
+  "2112902": {
+    "nome": "Vitória Do Mearim",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 18779,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 17991,
+      "candidatos": {
+        "Saulo Arcangeli": 8
+      },
+      "percentual": 0.044
+    },
+    "SENADOR": {
+      "total": 48,
+      "total_municipio": 32922,
+      "candidatos": {
+        "Wilson Leite": 48
+      },
+      "percentual": 0.146
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 18515,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 1,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.011
+    }
+  },
+  "2114007": {
+    "nome": "Zé Doca",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 25129,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 10,
+      "total_municipio": 23749,
+      "candidatos": {
+        "Saulo Arcangeli": 10
+      },
+      "percentual": 0.042
+    },
+    "SENADOR": {
+      "total": 41,
+      "total_municipio": 44880,
+      "candidatos": {
+        "Wilson Leite": 41
+      },
+      "percentual": 0.091
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 24784,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "2100154": {
+    "nome": "Água Doce Do Maranhão",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 8341,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.024
+    },
+    "GOVERNADOR": {
+      "total": 10,
+      "total_municipio": 7972,
+      "candidatos": {
+        "Saulo Arcangeli": 10
+      },
+      "percentual": 0.125
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 14770,
+      "candidatos": {
+        "Wilson Leite": 1
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 8317,
+      "candidatos": {
+        "Marina - Coletivo Das Pretas": 0,
+        "Iago Igui - Bancada Hip Hop": 0
+      },
+      "percentual": 0.036
+    }
+  }
+}

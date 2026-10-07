@@ -1,0 +1,5474 @@
+{
+  "1500107": {
+    "nome": "Abaetetuba",
+    "PRESIDENTE": {
+      "total": 17,
+      "total_municipio": 102876,
+      "candidatos": {
+        "Hertz Dias": 17
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 33,
+      "total_municipio": 97447,
+      "candidatos": {
+        "Well Macedo": 33
+      },
+      "percentual": 0.034
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 26,
+      "total_municipio": 103098,
+      "candidatos": {
+        "Acácio Moreira": 11,
+        "Mariza Santos": 3,
+        "Eduardo Rodrigues": 2
+      },
+      "percentual": 0.025
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 21,
+      "total_municipio": 101813,
+      "candidatos": {
+        "Airton Moraes": 1,
+        "Socorro Gomes": 3
+      },
+      "percentual": 0.021
+    }
+  },
+  "1500131": {
+    "nome": "Abel Figueiredo",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 4404,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.091
+    },
+    "GOVERNADOR": {
+      "total": 13,
+      "total_municipio": 4133,
+      "candidatos": {
+        "Well Macedo": 13
+      },
+      "percentual": 0.315
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 43,
+      "total_municipio": 4485,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.959
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 11,
+      "total_municipio": 4467,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.246
+    }
+  },
+  "1500206": {
+    "nome": "Acará",
+    "PRESIDENTE": {
+      "total": 10,
+      "total_municipio": 39198,
+      "candidatos": {
+        "Hertz Dias": 10
+      },
+      "percentual": 0.026
+    },
+    "GOVERNADOR": {
+      "total": 15,
+      "total_municipio": 36681,
+      "candidatos": {
+        "Well Macedo": 15
+      },
+      "percentual": 0.041
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 76,
+      "total_municipio": 39847,
+      "candidatos": {
+        "Acácio Moreira": 71,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 1
+      },
+      "percentual": 0.191
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 17,
+      "total_municipio": 39864,
+      "candidatos": {
+        "Airton Moraes": 5,
+        "Socorro Gomes": 3
+      },
+      "percentual": 0.043
+    }
+  },
+  "1500305": {
+    "nome": "Afuá",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 22243,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.004
+    },
+    "GOVERNADOR": {
+      "total": 13,
+      "total_municipio": 20706,
+      "candidatos": {
+        "Well Macedo": 13
+      },
+      "percentual": 0.063
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 22864,
+      "candidatos": {
+        "Acácio Moreira": 1,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.022
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 8,
+      "total_municipio": 22839,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 2
+      },
+      "percentual": 0.035
+    }
+  },
+  "1500404": {
+    "nome": "Alenquer",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 35847,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.003
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 33522,
+      "candidatos": {
+        "Well Macedo": 8
+      },
+      "percentual": 0.024
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 36381,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.003
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 36394,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.005
+    }
+  },
+  "1500503": {
+    "nome": "Almeirim",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 17208,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 16174,
+      "candidatos": {
+        "Well Macedo": 8
+      },
+      "percentual": 0.049
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 9,
+      "total_municipio": 17194,
+      "candidatos": {
+        "Acácio Moreira": 3,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.052
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 17167,
+      "candidatos": {
+        "Airton Moraes": 1,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.035
+    }
+  },
+  "1500602": {
+    "nome": "Altamira",
+    "PRESIDENTE": {
+      "total": 19,
+      "total_municipio": 64830,
+      "candidatos": {
+        "Hertz Dias": 19
+      },
+      "percentual": 0.029
+    },
+    "GOVERNADOR": {
+      "total": 30,
+      "total_municipio": 59169,
+      "candidatos": {
+        "Well Macedo": 30
+      },
+      "percentual": 0.051
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 7,
+      "total_municipio": 63696,
+      "candidatos": {
+        "Acácio Moreira": 3,
+        "Mariza Santos": 2,
+        "Eduardo Rodrigues": 1
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 7,
+      "total_municipio": 63732,
+      "candidatos": {
+        "Airton Moraes": 2,
+        "Socorro Gomes": 1
+      },
+      "percentual": 0.011
+    }
+  },
+  "1500701": {
+    "nome": "Anajás",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 17041,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 15706,
+      "candidatos": {
+        "Well Macedo": 5
+      },
+      "percentual": 0.032
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 29,
+      "total_municipio": 17616,
+      "candidatos": {
+        "Acácio Moreira": 23,
+        "Mariza Santos": 1,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.165
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 17581,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.028
+    }
+  },
+  "1500800": {
+    "nome": "Ananindeua",
+    "PRESIDENTE": {
+      "total": 126,
+      "total_municipio": 283649,
+      "candidatos": {
+        "Hertz Dias": 126
+      },
+      "percentual": 0.044
+    },
+    "GOVERNADOR": {
+      "total": 249,
+      "total_municipio": 275424,
+      "candidatos": {
+        "Well Macedo": 249
+      },
+      "percentual": 0.09
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 259,
+      "total_municipio": 277825,
+      "candidatos": {
+        "Acácio Moreira": 112,
+        "Mariza Santos": 50,
+        "Eduardo Rodrigues": 61
+      },
+      "percentual": 0.093
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 80,
+      "total_municipio": 275619,
+      "candidatos": {
+        "Airton Moraes": 39,
+        "Socorro Gomes": 27
+      },
+      "percentual": 0.029
+    }
+  },
+  "1500859": {
+    "nome": "Anapu",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 18453,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 16948,
+      "candidatos": {
+        "Well Macedo": 8
+      },
+      "percentual": 0.047
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 32,
+      "total_municipio": 18638,
+      "candidatos": {
+        "Acácio Moreira": 12,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.172
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 18530,
+      "candidatos": {
+        "Airton Moraes": 2,
+        "Socorro Gomes": 4
+      },
+      "percentual": 0.032
+    }
+  },
+  "1500909": {
+    "nome": "Augusto Corrêa",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 29997,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.013
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 27848,
+      "candidatos": {
+        "Well Macedo": 8
+      },
+      "percentual": 0.029
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 30910,
+      "candidatos": {
+        "Acácio Moreira": 1,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 31059,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "1500958": {
+    "nome": "Aurora Do Pará",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 13948,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 13023,
+      "candidatos": {
+        "Well Macedo": 4
+      },
+      "percentual": 0.031
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 9,
+      "total_municipio": 14306,
+      "candidatos": {
+        "Acácio Moreira": 9,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.063
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 14260,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "1501006": {
+    "nome": "Aveiro",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8816,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 8309,
+      "candidatos": {
+        "Well Macedo": 2
+      },
+      "percentual": 0.024
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 8965,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.045
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 8955,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.045
+    }
+  },
+  "1501105": {
+    "nome": "Bagre",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 12625,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 11766,
+      "candidatos": {
+        "Well Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 12932,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.015
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 12944,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1501204": {
+    "nome": "Baião",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 22118,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 20735,
+      "candidatos": {
+        "Well Macedo": 4
+      },
+      "percentual": 0.019
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 22420,
+      "candidatos": {
+        "Acácio Moreira": 1,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 22377,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.022
+    }
+  },
+  "1501253": {
+    "nome": "Bannach",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2322,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2188,
+      "candidatos": {
+        "Well Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 2361,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.042
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 2364,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1501303": {
+    "nome": "Barcarena",
+    "PRESIDENTE": {
+      "total": 8,
+      "total_municipio": 80178,
+      "candidatos": {
+        "Hertz Dias": 8
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 47,
+      "total_municipio": 73953,
+      "candidatos": {
+        "Well Macedo": 47
+      },
+      "percentual": 0.064
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 17,
+      "total_municipio": 78345,
+      "candidatos": {
+        "Acácio Moreira": 7,
+        "Mariza Santos": 6,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.022
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 7,
+      "total_municipio": 77548,
+      "candidatos": {
+        "Airton Moraes": 1,
+        "Socorro Gomes": 1
+      },
+      "percentual": 0.009
+    }
+  },
+  "1501451": {
+    "nome": "Belterra",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 13833,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 12891,
+      "candidatos": {
+        "Well Macedo": 3
+      },
+      "percentual": 0.023
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 13894,
+      "candidatos": {
+        "Acácio Moreira": 1,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 13886,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "1501402": {
+    "nome": "Belém",
+    "PRESIDENTE": {
+      "total": 422,
+      "total_municipio": 826218,
+      "candidatos": {
+        "Hertz Dias": 422
+      },
+      "percentual": 0.051
+    },
+    "GOVERNADOR": {
+      "total": 1226,
+      "total_municipio": 788001,
+      "candidatos": {
+        "Well Macedo": 1226
+      },
+      "percentual": 0.156
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 953,
+      "total_municipio": 798451,
+      "candidatos": {
+        "Acácio Moreira": 444,
+        "Mariza Santos": 271,
+        "Eduardo Rodrigues": 104
+      },
+      "percentual": 0.119
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 334,
+      "total_municipio": 799122,
+      "candidatos": {
+        "Airton Moraes": 184,
+        "Socorro Gomes": 109
+      },
+      "percentual": 0.042
+    }
+  },
+  "1501501": {
+    "nome": "Benevides",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 39461,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 17,
+      "total_municipio": 37740,
+      "candidatos": {
+        "Well Macedo": 17
+      },
+      "percentual": 0.045
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 23,
+      "total_municipio": 39011,
+      "candidatos": {
+        "Acácio Moreira": 10,
+        "Mariza Santos": 4,
+        "Eduardo Rodrigues": 3
+      },
+      "percentual": 0.059
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 8,
+      "total_municipio": 38821,
+      "candidatos": {
+        "Airton Moraes": 1,
+        "Socorro Gomes": 1
+      },
+      "percentual": 0.021
+    }
+  },
+  "1501576": {
+    "nome": "Bom Jesus Do Tocantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9256,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 8651,
+      "candidatos": {
+        "Well Macedo": 3
+      },
+      "percentual": 0.035
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 9402,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.021
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 9334,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.011
+    }
+  },
+  "1501600": {
+    "nome": "Bonito",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 10080,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 9337,
+      "candidatos": {
+        "Well Macedo": 4
+      },
+      "percentual": 0.043
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 7,
+      "total_municipio": 10386,
+      "candidatos": {
+        "Acácio Moreira": 6,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.067
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 10328,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.01
+    }
+  },
+  "1501709": {
+    "nome": "Bragança",
+    "PRESIDENTE": {
+      "total": 14,
+      "total_municipio": 73464,
+      "candidatos": {
+        "Hertz Dias": 14
+      },
+      "percentual": 0.019
+    },
+    "GOVERNADOR": {
+      "total": 30,
+      "total_municipio": 69312,
+      "candidatos": {
+        "Well Macedo": 30
+      },
+      "percentual": 0.043
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 35,
+      "total_municipio": 73657,
+      "candidatos": {
+        "Acácio Moreira": 22,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 2
+      },
+      "percentual": 0.048
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 7,
+      "total_municipio": 74681,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 2
+      },
+      "percentual": 0.009
+    }
+  },
+  "1501725": {
+    "nome": "Brasil Novo",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 13029,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 12048,
+      "candidatos": {
+        "Well Macedo": 1
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 13038,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.023
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 13025,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1501758": {
+    "nome": "Brejo Grande Do Araguaia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5232,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 4895,
+      "candidatos": {
+        "Well Macedo": 2
+      },
+      "percentual": 0.041
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 5312,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.019
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5296,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1501782": {
+    "nome": "Breu Branco",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 23328,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 21855,
+      "candidatos": {
+        "Well Macedo": 5
+      },
+      "percentual": 0.023
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 8,
+      "total_municipio": 23501,
+      "candidatos": {
+        "Acácio Moreira": 4,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.034
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 23333,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.021
+    }
+  },
+  "1501808": {
+    "nome": "Breves",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 59305,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 55397,
+      "candidatos": {
+        "Well Macedo": 8
+      },
+      "percentual": 0.014
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 17,
+      "total_municipio": 60533,
+      "candidatos": {
+        "Acácio Moreira": 3,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.028
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 7,
+      "total_municipio": 60728,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 4
+      },
+      "percentual": 0.012
+    }
+  },
+  "1501907": {
+    "nome": "Bujaru",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 18256,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 17261,
+      "candidatos": {
+        "Well Macedo": 4
+      },
+      "percentual": 0.023
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 22,
+      "total_municipio": 18463,
+      "candidatos": {
+        "Acácio Moreira": 17,
+        "Mariza Santos": 1,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.119
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 18477,
+      "candidatos": {
+        "Airton Moraes": 1,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.027
+    }
+  },
+  "1502004": {
+    "nome": "Cachoeira Do Arari",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 14611,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 13877,
+      "candidatos": {
+        "Well Macedo": 3
+      },
+      "percentual": 0.022
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 11,
+      "total_municipio": 14918,
+      "candidatos": {
+        "Acácio Moreira": 8,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.074
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 14917,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.034
+    }
+  },
+  "1501956": {
+    "nome": "Cachoeira Do Piriá",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 11187,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 10425,
+      "candidatos": {
+        "Well Macedo": 1
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 11457,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 1
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 11430,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1502103": {
+    "nome": "Cametá",
+    "PRESIDENTE": {
+      "total": 12,
+      "total_municipio": 89329,
+      "candidatos": {
+        "Hertz Dias": 12
+      },
+      "percentual": 0.013
+    },
+    "GOVERNADOR": {
+      "total": 17,
+      "total_municipio": 84749,
+      "candidatos": {
+        "Well Macedo": 17
+      },
+      "percentual": 0.02
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 36,
+      "total_municipio": 90306,
+      "candidatos": {
+        "Acácio Moreira": 9,
+        "Mariza Santos": 5,
+        "Eduardo Rodrigues": 3
+      },
+      "percentual": 0.04
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 23,
+      "total_municipio": 90394,
+      "candidatos": {
+        "Airton Moraes": 2,
+        "Socorro Gomes": 2
+      },
+      "percentual": 0.025
+    }
+  },
+  "1502152": {
+    "nome": "Canaã Dos Carajás",
+    "PRESIDENTE": {
+      "total": 12,
+      "total_municipio": 53407,
+      "candidatos": {
+        "Hertz Dias": 12
+      },
+      "percentual": 0.022
+    },
+    "GOVERNADOR": {
+      "total": 18,
+      "total_municipio": 48051,
+      "candidatos": {
+        "Well Macedo": 18
+      },
+      "percentual": 0.037
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 10,
+      "total_municipio": 51009,
+      "candidatos": {
+        "Acácio Moreira": 4,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 2
+      },
+      "percentual": 0.02
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 50952,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.012
+    }
+  },
+  "1502202": {
+    "nome": "Capanema",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 43106,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 22,
+      "total_municipio": 40148,
+      "candidatos": {
+        "Well Macedo": 22
+      },
+      "percentual": 0.055
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 14,
+      "total_municipio": 42616,
+      "candidatos": {
+        "Acácio Moreira": 6,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 2
+      },
+      "percentual": 0.033
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 42600,
+      "candidatos": {
+        "Airton Moraes": 2,
+        "Socorro Gomes": 1
+      },
+      "percentual": 0.014
+    }
+  },
+  "1502301": {
+    "nome": "Capitão Poço",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 34299,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 16,
+      "total_municipio": 31878,
+      "candidatos": {
+        "Well Macedo": 16
+      },
+      "percentual": 0.05
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 24,
+      "total_municipio": 34363,
+      "candidatos": {
+        "Acácio Moreira": 19,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 1
+      },
+      "percentual": 0.07
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 34583,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.003
+    }
+  },
+  "1502400": {
+    "nome": "Castanhal",
+    "PRESIDENTE": {
+      "total": 25,
+      "total_municipio": 115842,
+      "candidatos": {
+        "Hertz Dias": 25
+      },
+      "percentual": 0.022
+    },
+    "GOVERNADOR": {
+      "total": 40,
+      "total_municipio": 108515,
+      "candidatos": {
+        "Well Macedo": 40
+      },
+      "percentual": 0.037
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 221,
+      "total_municipio": 112326,
+      "candidatos": {
+        "Acácio Moreira": 209,
+        "Mariza Santos": 3,
+        "Eduardo Rodrigues": 2
+      },
+      "percentual": 0.197
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 12,
+      "total_municipio": 113911,
+      "candidatos": {
+        "Airton Moraes": 9,
+        "Socorro Gomes": 6
+      },
+      "percentual": 0.011
+    }
+  },
+  "1502509": {
+    "nome": "Chaves",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 10826,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 9979,
+      "candidatos": {
+        "Well Macedo": 3
+      },
+      "percentual": 0.03
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 11323,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 1
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 11293,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.035
+    }
+  },
+  "1502608": {
+    "nome": "Colares",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 10030,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 9543,
+      "candidatos": {
+        "Well Macedo": 3
+      },
+      "percentual": 0.031
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 10123,
+      "candidatos": {
+        "Acácio Moreira": 1,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.04
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 10138,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.02
+    }
+  },
+  "1502707": {
+    "nome": "Conceição Do Araguaia",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 23961,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 9,
+      "total_municipio": 22130,
+      "candidatos": {
+        "Well Macedo": 9
+      },
+      "percentual": 0.041
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 8,
+      "total_municipio": 24016,
+      "candidatos": {
+        "Acácio Moreira": 4,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.033
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 7,
+      "total_municipio": 23488,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.03
+    }
+  },
+  "1502756": {
+    "nome": "Concórdia Do Pará",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 19431,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 18464,
+      "candidatos": {
+        "Well Macedo": 2
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 63,
+      "total_municipio": 19621,
+      "candidatos": {
+        "Acácio Moreira": 63,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.321
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 19638,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "1502764": {
+    "nome": "Cumaru Do Norte",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 5930,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.051
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5569,
+      "candidatos": {
+        "Well Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 6011,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.017
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5997,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1502772": {
+    "nome": "Curionópolis",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 12534,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 11732,
+      "candidatos": {
+        "Well Macedo": 1
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 12493,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 12477,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1502806": {
+    "nome": "Curralinho",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 20650,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 19291,
+      "candidatos": {
+        "Well Macedo": 5
+      },
+      "percentual": 0.026
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 11,
+      "total_municipio": 21164,
+      "candidatos": {
+        "Acácio Moreira": 7,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.052
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 21118,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "1502855": {
+    "nome": "Curuá",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 9308,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8864,
+      "candidatos": {
+        "Well Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 9495,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 9483,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1502905": {
+    "nome": "Curuçá",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 27912,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 26134,
+      "candidatos": {
+        "Well Macedo": 8
+      },
+      "percentual": 0.031
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 12,
+      "total_municipio": 27915,
+      "candidatos": {
+        "Acácio Moreira": 8,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.043
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 9,
+      "total_municipio": 28042,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.032
+    }
+  },
+  "1502939": {
+    "nome": "Dom Eliseu",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 23357,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.004
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 21762,
+      "candidatos": {
+        "Well Macedo": 3
+      },
+      "percentual": 0.014
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 23163,
+      "candidatos": {
+        "Acácio Moreira": 2,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 22996,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "1502954": {
+    "nome": "Eldorado Dos Carajás",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 15621,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 14265,
+      "candidatos": {
+        "Well Macedo": 4
+      },
+      "percentual": 0.028
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 15760,
+      "candidatos": {
+        "Acácio Moreira": 1,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.025
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 15647,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.006
+    }
+  },
+  "1503002": {
+    "nome": "Faro",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5280,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.019
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4988,
+      "candidatos": {
+        "Well Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 5318,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.019
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5298,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1503044": {
+    "nome": "Floresta Do Araguaia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 10417,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 9509,
+      "candidatos": {
+        "Well Macedo": 1
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 10524,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 1
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 10448,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.038
+    }
+  },
+  "1503077": {
+    "nome": "Garrafão Do Norte",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 17166,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 15811,
+      "candidatos": {
+        "Well Macedo": 5
+      },
+      "percentual": 0.032
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 17657,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.006
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 17567,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.006
+    }
+  },
+  "1503093": {
+    "nome": "Goianésia Do Pará",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 16190,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.019
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 15166,
+      "candidatos": {
+        "Well Macedo": 4
+      },
+      "percentual": 0.026
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 16345,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 16289,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.012
+    }
+  },
+  "1503101": {
+    "nome": "Gurupá",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 19963,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.005
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 18821,
+      "candidatos": {
+        "Well Macedo": 3
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 20435,
+      "candidatos": {
+        "Acácio Moreira": 2,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 20401,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1503200": {
+    "nome": "Igarapé-Açu",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 25024,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 9,
+      "total_municipio": 23223,
+      "candidatos": {
+        "Well Macedo": 9
+      },
+      "percentual": 0.039
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 24969,
+      "candidatos": {
+        "Acácio Moreira": 4,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 1
+      },
+      "percentual": 0.02
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 25038,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.02
+    }
+  },
+  "1503309": {
+    "nome": "Igarapé-Miri",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 44218,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 9,
+      "total_municipio": 41439,
+      "candidatos": {
+        "Well Macedo": 9
+      },
+      "percentual": 0.022
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 45038,
+      "candidatos": {
+        "Acácio Moreira": 1,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 1
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 9,
+      "total_municipio": 45002,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 2
+      },
+      "percentual": 0.02
+    }
+  },
+  "1503408": {
+    "nome": "Inhangapi",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7675,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 7177,
+      "candidatos": {
+        "Well Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 8,
+      "total_municipio": 7675,
+      "candidatos": {
+        "Acácio Moreira": 8,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.104
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 7733,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1503457": {
+    "nome": "Ipixuna Do Pará",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 18350,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.005
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 17192,
+      "candidatos": {
+        "Well Macedo": 1
+      },
+      "percentual": 0.006
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 18825,
+      "candidatos": {
+        "Acácio Moreira": 4,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 1
+      },
+      "percentual": 0.027
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 18730,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.011
+    }
+  },
+  "1503507": {
+    "nome": "Irituia",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 21315,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 20089,
+      "candidatos": {
+        "Well Macedo": 6
+      },
+      "percentual": 0.03
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 10,
+      "total_municipio": 21175,
+      "candidatos": {
+        "Acácio Moreira": 8,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.047
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 21192,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.005
+    }
+  },
+  "1503606": {
+    "nome": "Itaituba",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 61244,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 25,
+      "total_municipio": 56729,
+      "candidatos": {
+        "Well Macedo": 25
+      },
+      "percentual": 0.044
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 26,
+      "total_municipio": 60511,
+      "candidatos": {
+        "Acácio Moreira": 7,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.043
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 37,
+      "total_municipio": 60508,
+      "candidatos": {
+        "Airton Moraes": 5,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.061
+    }
+  },
+  "1503705": {
+    "nome": "Itupiranga",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 24645,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 23228,
+      "candidatos": {
+        "Well Macedo": 4
+      },
+      "percentual": 0.017
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 24930,
+      "candidatos": {
+        "Acácio Moreira": 1,
+        "Mariza Santos": 2,
+        "Eduardo Rodrigues": 1
+      },
+      "percentual": 0.02
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 24910,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "1503754": {
+    "nome": "Jacareacanga",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 9708,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 9030,
+      "candidatos": {
+        "Well Macedo": 2
+      },
+      "percentual": 0.022
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 10009,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.02
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 9966,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.03
+    }
+  },
+  "1503804": {
+    "nome": "Jacundá",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 23394,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.026
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 21498,
+      "candidatos": {
+        "Well Macedo": 5
+      },
+      "percentual": 0.023
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 23699,
+      "candidatos": {
+        "Acácio Moreira": 1,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 23650,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "1503903": {
+    "nome": "Juruti",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 30902,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.003
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 29003,
+      "candidatos": {
+        "Well Macedo": 5
+      },
+      "percentual": 0.017
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 31212,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 31002,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1504000": {
+    "nome": "Limoeiro Do Ajuru",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 18840,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.005
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 17703,
+      "candidatos": {
+        "Well Macedo": 2
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 8,
+      "total_municipio": 19037,
+      "candidatos": {
+        "Acácio Moreira": 3,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.042
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 19090,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.005
+    }
+  },
+  "1504109": {
+    "nome": "Magalhães Barata",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6958,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6595,
+      "candidatos": {
+        "Well Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 6,
+      "total_municipio": 7033,
+      "candidatos": {
+        "Acácio Moreira": 5,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.085
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 7009,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1504208": {
+    "nome": "Marabá",
+    "PRESIDENTE": {
+      "total": 32,
+      "total_municipio": 140306,
+      "candidatos": {
+        "Hertz Dias": 32
+      },
+      "percentual": 0.023
+    },
+    "GOVERNADOR": {
+      "total": 46,
+      "total_municipio": 129429,
+      "candidatos": {
+        "Well Macedo": 46
+      },
+      "percentual": 0.036
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 55,
+      "total_municipio": 137749,
+      "candidatos": {
+        "Acácio Moreira": 18,
+        "Mariza Santos": 11,
+        "Eduardo Rodrigues": 9
+      },
+      "percentual": 0.04
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 21,
+      "total_municipio": 137705,
+      "candidatos": {
+        "Airton Moraes": 5,
+        "Socorro Gomes": 2
+      },
+      "percentual": 0.015
+    }
+  },
+  "1504307": {
+    "nome": "Maracanã",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 22225,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 21073,
+      "candidatos": {
+        "Well Macedo": 7
+      },
+      "percentual": 0.033
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 17,
+      "total_municipio": 22429,
+      "candidatos": {
+        "Acácio Moreira": 13,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.076
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 22420,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 1
+      },
+      "percentual": 0.018
+    }
+  },
+  "1504406": {
+    "nome": "Marapanim",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 20004,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.02
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 19203,
+      "candidatos": {
+        "Well Macedo": 6
+      },
+      "percentual": 0.031
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 19,
+      "total_municipio": 20263,
+      "candidatos": {
+        "Acácio Moreira": 12,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 3
+      },
+      "percentual": 0.094
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 20306,
+      "candidatos": {
+        "Airton Moraes": 1,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.02
+    }
+  },
+  "1504422": {
+    "nome": "Marituba",
+    "PRESIDENTE": {
+      "total": 23,
+      "total_municipio": 71727,
+      "candidatos": {
+        "Hertz Dias": 23
+      },
+      "percentual": 0.032
+    },
+    "GOVERNADOR": {
+      "total": 49,
+      "total_municipio": 68263,
+      "candidatos": {
+        "Well Macedo": 49
+      },
+      "percentual": 0.072
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 43,
+      "total_municipio": 71113,
+      "candidatos": {
+        "Acácio Moreira": 25,
+        "Mariza Santos": 4,
+        "Eduardo Rodrigues": 2
+      },
+      "percentual": 0.06
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 13,
+      "total_municipio": 70391,
+      "candidatos": {
+        "Airton Moraes": 5,
+        "Socorro Gomes": 4
+      },
+      "percentual": 0.018
+    }
+  },
+  "1504455": {
+    "nome": "Medicilândia",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 15786,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.025
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 14498,
+      "candidatos": {
+        "Well Macedo": 6
+      },
+      "percentual": 0.041
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 15722,
+      "candidatos": {
+        "Acácio Moreira": 1,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 15778,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.006
+    }
+  },
+  "1504505": {
+    "nome": "Melgaço",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 14648,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 13633,
+      "candidatos": {
+        "Well Macedo": 4
+      },
+      "percentual": 0.029
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 15130,
+      "candidatos": {
+        "Acácio Moreira": 2,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.026
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 15083,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 2
+      },
+      "percentual": 0.0
+    }
+  },
+  "1504604": {
+    "nome": "Mocajuba",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 23360,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 22020,
+      "candidatos": {
+        "Well Macedo": 4
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 23639,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 23522,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "1504703": {
+    "nome": "Moju",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 45457,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 20,
+      "total_municipio": 42923,
+      "candidatos": {
+        "Well Macedo": 20
+      },
+      "percentual": 0.047
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 23,
+      "total_municipio": 46092,
+      "candidatos": {
+        "Acácio Moreira": 14,
+        "Mariza Santos": 1,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.05
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 18,
+      "total_municipio": 46316,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.039
+    }
+  },
+  "1504752": {
+    "nome": "Mojuí Dos Campos",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 18454,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 9,
+      "total_municipio": 17045,
+      "candidatos": {
+        "Well Macedo": 9
+      },
+      "percentual": 0.053
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 18615,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 1,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 18560,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1504802": {
+    "nome": "Monte Alegre",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 41623,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 13,
+      "total_municipio": 39133,
+      "candidatos": {
+        "Well Macedo": 13
+      },
+      "percentual": 0.033
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 7,
+      "total_municipio": 42002,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.017
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 11,
+      "total_municipio": 41972,
+      "candidatos": {
+        "Airton Moraes": 3,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.026
+    }
+  },
+  "1504901": {
+    "nome": "Muaná",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 23803,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 22381,
+      "candidatos": {
+        "Well Macedo": 5
+      },
+      "percentual": 0.022
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 24305,
+      "candidatos": {
+        "Acácio Moreira": 1,
+        "Mariza Santos": 1,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 24225,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "1504059": {
+    "nome": "Mãe Do Rio",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 19958,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 18644,
+      "candidatos": {
+        "Well Macedo": 3
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 8,
+      "total_municipio": 20323,
+      "candidatos": {
+        "Acácio Moreira": 6,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 1
+      },
+      "percentual": 0.039
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 20035,
+      "candidatos": {
+        "Airton Moraes": 2,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "1504950": {
+    "nome": "Nova Esperança Do Piriá",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 11869,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 11004,
+      "candidatos": {
+        "Well Macedo": 1
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 13,
+      "total_municipio": 12172,
+      "candidatos": {
+        "Acácio Moreira": 7,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 1
+      },
+      "percentual": 0.107
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 12159,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.033
+    }
+  },
+  "1504976": {
+    "nome": "Nova Ipixuna",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8741,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 8069,
+      "candidatos": {
+        "Well Macedo": 3
+      },
+      "percentual": 0.037
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 8893,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.022
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 8845,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.011
+    }
+  },
+  "1505007": {
+    "nome": "Nova Timboteua",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9333,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 8663,
+      "candidatos": {
+        "Well Macedo": 1
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 9248,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.032
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 9316,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.032
+    }
+  },
+  "1505031": {
+    "nome": "Novo Progresso",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 17589,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 16125,
+      "candidatos": {
+        "Well Macedo": 8
+      },
+      "percentual": 0.05
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 7,
+      "total_municipio": 17398,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 1
+      },
+      "percentual": 0.04
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 8,
+      "total_municipio": 17334,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.046
+    }
+  },
+  "1505064": {
+    "nome": "Novo Repartimento",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 34663,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.006
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 31974,
+      "candidatos": {
+        "Well Macedo": 5
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 35056,
+      "candidatos": {
+        "Acácio Moreira": 1,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 34851,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.011
+    }
+  },
+  "1505205": {
+    "nome": "Oeiras Do Pará",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 20593,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.005
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 19468,
+      "candidatos": {
+        "Well Macedo": 3
+      },
+      "percentual": 0.015
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 8,
+      "total_municipio": 21123,
+      "candidatos": {
+        "Acácio Moreira": 2,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.038
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 21093,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 2
+      },
+      "percentual": 0.019
+    }
+  },
+  "1505304": {
+    "nome": "Oriximiná",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 37821,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.003
+    },
+    "GOVERNADOR": {
+      "total": 13,
+      "total_municipio": 35342,
+      "candidatos": {
+        "Well Macedo": 13
+      },
+      "percentual": 0.037
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 37992,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 38243,
+      "candidatos": {
+        "Airton Moraes": 3,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.01
+    }
+  },
+  "1505437": {
+    "nome": "Ourilândia Do Norte",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 18908,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 17420,
+      "candidatos": {
+        "Well Macedo": 6
+      },
+      "percentual": 0.034
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 18857,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.021
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 18706,
+      "candidatos": {
+        "Airton Moraes": 2,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.016
+    }
+  },
+  "1505403": {
+    "nome": "Ourém",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12956,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 12216,
+      "candidatos": {
+        "Well Macedo": 6
+      },
+      "percentual": 0.049
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 13,
+      "total_municipio": 13054,
+      "candidatos": {
+        "Acácio Moreira": 10,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.1
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 13009,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 1
+      },
+      "percentual": 0.031
+    }
+  },
+  "1505486": {
+    "nome": "Pacajá",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 22206,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.005
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 20741,
+      "candidatos": {
+        "Well Macedo": 3
+      },
+      "percentual": 0.014
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 22420,
+      "candidatos": {
+        "Acácio Moreira": 2,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 22325,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.004
+    }
+  },
+  "1505494": {
+    "nome": "Palestina Do Pará",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4430,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4154,
+      "candidatos": {
+        "Well Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 4529,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 4523,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1505502": {
+    "nome": "Paragominas",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 58512,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 26,
+      "total_municipio": 54585,
+      "candidatos": {
+        "Well Macedo": 26
+      },
+      "percentual": 0.048
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 29,
+      "total_municipio": 58098,
+      "candidatos": {
+        "Acácio Moreira": 22,
+        "Mariza Santos": 1,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.05
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 11,
+      "total_municipio": 58060,
+      "candidatos": {
+        "Airton Moraes": 1,
+        "Socorro Gomes": 1
+      },
+      "percentual": 0.019
+    }
+  },
+  "1505536": {
+    "nome": "Parauapebas",
+    "PRESIDENTE": {
+      "total": 32,
+      "total_municipio": 151399,
+      "candidatos": {
+        "Hertz Dias": 32
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 73,
+      "total_municipio": 135110,
+      "candidatos": {
+        "Well Macedo": 73
+      },
+      "percentual": 0.054
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 18,
+      "total_municipio": 144252,
+      "candidatos": {
+        "Acácio Moreira": 6,
+        "Mariza Santos": 2,
+        "Eduardo Rodrigues": 5
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 30,
+      "total_municipio": 142891,
+      "candidatos": {
+        "Airton Moraes": 12,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.021
+    }
+  },
+  "1505551": {
+    "nome": "Pau D'Arco",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6460,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6035,
+      "candidatos": {
+        "Well Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 6595,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.015
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 6557,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "1505601": {
+    "nome": "Peixe-Boi",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7510,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 7260,
+      "candidatos": {
+        "Well Macedo": 4
+      },
+      "percentual": 0.055
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 7667,
+      "candidatos": {
+        "Acácio Moreira": 4,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.065
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 7658,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "1505635": {
+    "nome": "Piçarra",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7288,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6888,
+      "candidatos": {
+        "Well Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 7443,
+      "candidatos": {
+        "Acácio Moreira": 1,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 7426,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.054
+    }
+  },
+  "1505650": {
+    "nome": "Placas",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 11501,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 10868,
+      "candidatos": {
+        "Well Macedo": 1
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 11621,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 1,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.017
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 11543,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "1505700": {
+    "nome": "Ponta De Pedras",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 17698,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 16716,
+      "candidatos": {
+        "Well Macedo": 8
+      },
+      "percentual": 0.048
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 18061,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.022
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 9,
+      "total_municipio": 18080,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.05
+    }
+  },
+  "1505809": {
+    "nome": "Portel",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 30457,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.003
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 28623,
+      "candidatos": {
+        "Well Macedo": 6
+      },
+      "percentual": 0.021
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 33,
+      "total_municipio": 31463,
+      "candidatos": {
+        "Acácio Moreira": 28,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.105
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 31398,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "1505908": {
+    "nome": "Porto De Moz",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 17998,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.006
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 17018,
+      "candidatos": {
+        "Well Macedo": 2
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 18280,
+      "candidatos": {
+        "Acácio Moreira": 4,
+        "Mariza Santos": 1,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.027
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 18290,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 1
+      },
+      "percentual": 0.0
+    }
+  },
+  "1506005": {
+    "nome": "Prainha",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 21263,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 19959,
+      "candidatos": {
+        "Well Macedo": 1
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 21617,
+      "candidatos": {
+        "Acácio Moreira": 1,
+        "Mariza Santos": 1,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.019
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 21612,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "1506104": {
+    "nome": "Primavera",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8322,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 7784,
+      "candidatos": {
+        "Well Macedo": 4
+      },
+      "percentual": 0.051
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 8420,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 8409,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1506112": {
+    "nome": "Quatipuru",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7496,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 7099,
+      "candidatos": {
+        "Well Macedo": 4
+      },
+      "percentual": 0.056
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 7624,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.026
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 7622,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1506138": {
+    "nome": "Redenção",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 48610,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 12,
+      "total_municipio": 45134,
+      "candidatos": {
+        "Well Macedo": 12
+      },
+      "percentual": 0.027
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 6,
+      "total_municipio": 48387,
+      "candidatos": {
+        "Acácio Moreira": 1,
+        "Mariza Santos": 1,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 48282,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.01
+    }
+  },
+  "1506161": {
+    "nome": "Rio Maria",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 10333,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.039
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 9592,
+      "candidatos": {
+        "Well Macedo": 1
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 10372,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 3
+      },
+      "percentual": 0.029
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 10319,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.01
+    }
+  },
+  "1506187": {
+    "nome": "Rondon Do Pará",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 20113,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.02
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 18755,
+      "candidatos": {
+        "Well Macedo": 8
+      },
+      "percentual": 0.043
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 7,
+      "total_municipio": 20248,
+      "candidatos": {
+        "Acácio Moreira": 2,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 2
+      },
+      "percentual": 0.035
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 20163,
+      "candidatos": {
+        "Airton Moraes": 1,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.02
+    }
+  },
+  "1506195": {
+    "nome": "Rurópolis",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 15384,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 14338,
+      "candidatos": {
+        "Well Macedo": 6
+      },
+      "percentual": 0.042
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 15442,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 15357,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 1
+      },
+      "percentual": 0.026
+    }
+  },
+  "1506203": {
+    "nome": "Salinópolis",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 29692,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 27946,
+      "candidatos": {
+        "Well Macedo": 6
+      },
+      "percentual": 0.021
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 10,
+      "total_municipio": 29461,
+      "candidatos": {
+        "Acácio Moreira": 6,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 1
+      },
+      "percentual": 0.034
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 29999,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 1
+      },
+      "percentual": 0.003
+    }
+  },
+  "1506302": {
+    "nome": "Salvaterra",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 15805,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.013
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 14925,
+      "candidatos": {
+        "Well Macedo": 3
+      },
+      "percentual": 0.02
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 18,
+      "total_municipio": 15931,
+      "candidatos": {
+        "Acácio Moreira": 7,
+        "Mariza Santos": 7,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.113
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 15859,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.038
+    }
+  },
+  "1506351": {
+    "nome": "Santa Bárbara Do Pará",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 14391,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 9,
+      "total_municipio": 13628,
+      "candidatos": {
+        "Well Macedo": 9
+      },
+      "percentual": 0.066
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 14312,
+      "candidatos": {
+        "Acácio Moreira": 5,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.035
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 14258,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.007
+    }
+  },
+  "1506401": {
+    "nome": "Santa Cruz Do Arari",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4785,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4556,
+      "candidatos": {
+        "Well Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 5002,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 4977,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.06
+    }
+  },
+  "1506500": {
+    "nome": "Santa Izabel Do Pará",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 39749,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.013
+    },
+    "GOVERNADOR": {
+      "total": 10,
+      "total_municipio": 37531,
+      "candidatos": {
+        "Well Macedo": 10
+      },
+      "percentual": 0.027
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 28,
+      "total_municipio": 39326,
+      "candidatos": {
+        "Acácio Moreira": 25,
+        "Mariza Santos": 1,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.071
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 39762,
+      "candidatos": {
+        "Airton Moraes": 2,
+        "Socorro Gomes": 1
+      },
+      "percentual": 0.015
+    }
+  },
+  "1506559": {
+    "nome": "Santa Luzia Do Pará",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 14170,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 13294,
+      "candidatos": {
+        "Well Macedo": 2
+      },
+      "percentual": 0.015
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 14547,
+      "candidatos": {
+        "Acácio Moreira": 2,
+        "Mariza Santos": 1,
+        "Eduardo Rodrigues": 1
+      },
+      "percentual": 0.034
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 14526,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.007
+    }
+  },
+  "1506583": {
+    "nome": "Santa Maria Das Barreiras",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9717,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8945,
+      "candidatos": {
+        "Well Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 9818,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.02
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 9758,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.01
+    }
+  },
+  "1506609": {
+    "nome": "Santa Maria Do Pará",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 17538,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 16402,
+      "candidatos": {
+        "Well Macedo": 2
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 8,
+      "total_municipio": 17602,
+      "candidatos": {
+        "Acácio Moreira": 4,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.045
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 17595,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.011
+    }
+  },
+  "1506708": {
+    "nome": "Santana Do Araguaia",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 18135,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.006
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 16635,
+      "candidatos": {
+        "Well Macedo": 5
+      },
+      "percentual": 0.03
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 18279,
+      "candidatos": {
+        "Acácio Moreira": 2,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.027
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 18172,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.033
+    }
+  },
+  "1506807": {
+    "nome": "Santarém",
+    "PRESIDENTE": {
+      "total": 48,
+      "total_municipio": 198657,
+      "candidatos": {
+        "Hertz Dias": 48
+      },
+      "percentual": 0.024
+    },
+    "GOVERNADOR": {
+      "total": 108,
+      "total_municipio": 185935,
+      "candidatos": {
+        "Well Macedo": 108
+      },
+      "percentual": 0.058
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 35,
+      "total_municipio": 195978,
+      "candidatos": {
+        "Acácio Moreira": 17,
+        "Mariza Santos": 2,
+        "Eduardo Rodrigues": 2
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 19,
+      "total_municipio": 195838,
+      "candidatos": {
+        "Airton Moraes": 9,
+        "Socorro Gomes": 4
+      },
+      "percentual": 0.01
+    }
+  },
+  "1506906": {
+    "nome": "Santarém Novo",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5539,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 5282,
+      "candidatos": {
+        "Well Macedo": 2
+      },
+      "percentual": 0.038
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 5603,
+      "candidatos": {
+        "Acácio Moreira": 1,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 5628,
+      "candidatos": {
+        "Airton Moraes": 1,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.053
+    }
+  },
+  "1507003": {
+    "nome": "Santo Antônio Do Tauá",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 21302,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.023
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 20303,
+      "candidatos": {
+        "Well Macedo": 7
+      },
+      "percentual": 0.034
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 12,
+      "total_municipio": 21451,
+      "candidatos": {
+        "Acácio Moreira": 8,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.056
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 21440,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "1507755": {
+    "nome": "Sapucaia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3863,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3631,
+      "candidatos": {
+        "Well Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 3949,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.076
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 3927,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.051
+    }
+  },
+  "1507805": {
+    "nome": "Senador José Porfírio",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 10973,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 10076,
+      "candidatos": {
+        "Well Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 11134,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 1,
+        "Eduardo Rodrigues": 1
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 11128,
+      "candidatos": {
+        "Airton Moraes": 1,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.018
+    }
+  },
+  "1507904": {
+    "nome": "Soure",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 17403,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.029
+    },
+    "GOVERNADOR": {
+      "total": 9,
+      "total_municipio": 16303,
+      "candidatos": {
+        "Well Macedo": 9
+      },
+      "percentual": 0.055
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 17607,
+      "candidatos": {
+        "Acácio Moreira": 1,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.028
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 14,
+      "total_municipio": 17427,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.08
+    }
+  },
+  "1507102": {
+    "nome": "São Caetano De Odivelas",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12727,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 12081,
+      "candidatos": {
+        "Well Macedo": 2
+      },
+      "percentual": 0.017
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 9,
+      "total_municipio": 12909,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 7
+      },
+      "percentual": 0.07
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 12951,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.031
+    }
+  },
+  "1507151": {
+    "nome": "São Domingos Do Araguaia",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11766,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 10970,
+      "candidatos": {
+        "Well Macedo": 3
+      },
+      "percentual": 0.027
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 11878,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 2,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.034
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 11831,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "1507201": {
+    "nome": "São Domingos Do Capim",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 19832,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 18694,
+      "candidatos": {
+        "Well Macedo": 8
+      },
+      "percentual": 0.043
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 25,
+      "total_municipio": 20149,
+      "candidatos": {
+        "Acácio Moreira": 20,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.124
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 20162,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.005
+    }
+  },
+  "1507409": {
+    "nome": "São Francisco Do Pará",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 13070,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 12346,
+      "candidatos": {
+        "Well Macedo": 1
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 6,
+      "total_municipio": 13087,
+      "candidatos": {
+        "Acácio Moreira": 5,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.046
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 13196,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.023
+    }
+  },
+  "1507300": {
+    "nome": "São Félix Do Xingu",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 31913,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 11,
+      "total_municipio": 29414,
+      "candidatos": {
+        "Well Macedo": 11
+      },
+      "percentual": 0.037
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 32188,
+      "candidatos": {
+        "Acácio Moreira": 1,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 32157,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.006
+    }
+  },
+  "1507458": {
+    "nome": "São Geraldo Do Araguaia",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 15061,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 14016,
+      "candidatos": {
+        "Well Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 15214,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 1
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 15165,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1507466": {
+    "nome": "São João Da Ponta",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4887,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4684,
+      "candidatos": {
+        "Well Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 5012,
+      "candidatos": {
+        "Acácio Moreira": 3,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.06
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5026,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1507474": {
+    "nome": "São João De Pirabas",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 14266,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 13350,
+      "candidatos": {
+        "Well Macedo": 2
+      },
+      "percentual": 0.015
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 14456,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 14545,
+      "candidatos": {
+        "Airton Moraes": 2,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "1507508": {
+    "nome": "São João Do Araguaia",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 9840,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.03
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 9166,
+      "candidatos": {
+        "Well Macedo": 1
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 9998,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 1
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 9971,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.03
+    }
+  },
+  "1507607": {
+    "nome": "São Miguel Do Guamá",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 33895,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 17,
+      "total_municipio": 31970,
+      "candidatos": {
+        "Well Macedo": 17
+      },
+      "percentual": 0.053
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 34,
+      "total_municipio": 33901,
+      "candidatos": {
+        "Acácio Moreira": 26,
+        "Mariza Santos": 1,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.1
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 33615,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 2
+      },
+      "percentual": 0.006
+    }
+  },
+  "1507706": {
+    "nome": "São Sebastião Da Boa Vista",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 18836,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.005
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 17710,
+      "candidatos": {
+        "Well Macedo": 4
+      },
+      "percentual": 0.023
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 19206,
+      "candidatos": {
+        "Acácio Moreira": 2,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 8,
+      "total_municipio": 19169,
+      "candidatos": {
+        "Airton Moraes": 2,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.042
+    }
+  },
+  "1507953": {
+    "nome": "Tailândia",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 41873,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 11,
+      "total_municipio": 38560,
+      "candidatos": {
+        "Well Macedo": 11
+      },
+      "percentual": 0.029
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 6,
+      "total_municipio": 42108,
+      "candidatos": {
+        "Acácio Moreira": 3,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.014
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 13,
+      "total_municipio": 41717,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.031
+    }
+  },
+  "1507961": {
+    "nome": "Terra Alta",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9534,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 9052,
+      "candidatos": {
+        "Well Macedo": 5
+      },
+      "percentual": 0.055
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 11,
+      "total_municipio": 9601,
+      "candidatos": {
+        "Acácio Moreira": 11,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.115
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 9632,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 2
+      },
+      "percentual": 0.042
+    }
+  },
+  "1507979": {
+    "nome": "Terra Santa",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 11925,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 11271,
+      "candidatos": {
+        "Well Macedo": 4
+      },
+      "percentual": 0.035
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 11904,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 11974,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1508001": {
+    "nome": "Tomé-Açu",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 39457,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 12,
+      "total_municipio": 36640,
+      "candidatos": {
+        "Well Macedo": 12
+      },
+      "percentual": 0.033
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 73,
+      "total_municipio": 39462,
+      "candidatos": {
+        "Acácio Moreira": 63,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.185
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 10,
+      "total_municipio": 39712,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.025
+    }
+  },
+  "1508035": {
+    "nome": "Tracuateua",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 20055,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 18804,
+      "candidatos": {
+        "Well Macedo": 3
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 7,
+      "total_municipio": 20466,
+      "candidatos": {
+        "Acácio Moreira": 2,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 1
+      },
+      "percentual": 0.034
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 20482,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "1508050": {
+    "nome": "Trairão",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8880,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 8207,
+      "candidatos": {
+        "Well Macedo": 1
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 8875,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.023
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 8898,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.034
+    }
+  },
+  "1508084": {
+    "nome": "Tucumã",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 20314,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 18789,
+      "candidatos": {
+        "Well Macedo": 4
+      },
+      "percentual": 0.021
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 20151,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 20071,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "1508100": {
+    "nome": "Tucuruí",
+    "PRESIDENTE": {
+      "total": 11,
+      "total_municipio": 53875,
+      "candidatos": {
+        "Hertz Dias": 11
+      },
+      "percentual": 0.02
+    },
+    "GOVERNADOR": {
+      "total": 14,
+      "total_municipio": 50712,
+      "candidatos": {
+        "Well Macedo": 14
+      },
+      "percentual": 0.028
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 13,
+      "total_municipio": 54015,
+      "candidatos": {
+        "Acácio Moreira": 5,
+        "Mariza Santos": 2,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.024
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 10,
+      "total_municipio": 53100,
+      "candidatos": {
+        "Airton Moraes": 3,
+        "Socorro Gomes": 2
+      },
+      "percentual": 0.019
+    }
+  },
+  "1508126": {
+    "nome": "Ulianópolis",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 15550,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.006
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 14488,
+      "candidatos": {
+        "Well Macedo": 5
+      },
+      "percentual": 0.035
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 15648,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.019
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 15553,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.026
+    }
+  },
+  "1508159": {
+    "nome": "Uruará",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 24320,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 22334,
+      "candidatos": {
+        "Well Macedo": 4
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 24226,
+      "candidatos": {
+        "Acácio Moreira": 1,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.004
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 24352,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.008
+    }
+  },
+  "1508209": {
+    "nome": "Vigia",
+    "PRESIDENTE": {
+      "total": 8,
+      "total_municipio": 30492,
+      "candidatos": {
+        "Hertz Dias": 8
+      },
+      "percentual": 0.026
+    },
+    "GOVERNADOR": {
+      "total": 10,
+      "total_municipio": 28847,
+      "candidatos": {
+        "Well Macedo": 10
+      },
+      "percentual": 0.035
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 14,
+      "total_municipio": 30475,
+      "candidatos": {
+        "Acácio Moreira": 7,
+        "Mariza Santos": 1,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.046
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 30435,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 1
+      },
+      "percentual": 0.016
+    }
+  },
+  "1508308": {
+    "nome": "Viseu",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 33417,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.006
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 31123,
+      "candidatos": {
+        "Well Macedo": 8
+      },
+      "percentual": 0.026
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 34401,
+      "candidatos": {
+        "Acácio Moreira": 2,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 34049,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "1508357": {
+    "nome": "Vitória Do Xingu",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12697,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 11726,
+      "candidatos": {
+        "Well Macedo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 12778,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 12765,
+      "candidatos": {
+        "Airton Moraes": 1,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.031
+    }
+  },
+  "1508407": {
+    "nome": "Xinguara",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 26816,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 12,
+      "total_municipio": 24481,
+      "candidatos": {
+        "Well Macedo": 12
+      },
+      "percentual": 0.049
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 26815,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 26792,
+      "candidatos": {
+        "Airton Moraes": 2,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.022
+    }
+  },
+  "1500347": {
+    "nome": "Água Azul Do Norte",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8125,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7494,
+      "candidatos": {
+        "Well Macedo": 1
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 8154,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 8110,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1505106": {
+    "nome": "Óbidos",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 31381,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.013
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 29638,
+      "candidatos": {
+        "Well Macedo": 7
+      },
+      "percentual": 0.024
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 31444,
+      "candidatos": {
+        "Acácio Moreira": 0,
+        "Mariza Santos": 0,
+        "Eduardo Rodrigues": 0
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 31531,
+      "candidatos": {
+        "Airton Moraes": 0,
+        "Socorro Gomes": 0
+      },
+      "percentual": 0.003
+    }
+  }
+}

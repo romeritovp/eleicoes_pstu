@@ -1,0 +1,4142 @@
+{
+  "3300100": {
+    "nome": "Angra Dos Reis",
+    "PRESIDENTE": {
+      "total": 34,
+      "total_municipio": 101009,
+      "candidatos": {
+        "Hertz Dias": 34
+      },
+      "percentual": 0.034
+    },
+    "GOVERNADOR": {
+      "total": 117,
+      "total_municipio": 88733,
+      "candidatos": {
+        "Cyro Garcia": 117
+      },
+      "percentual": 0.132
+    },
+    "SENADOR": {
+      "total": 230,
+      "total_municipio": 170052,
+      "candidatos": {
+        "Paula Falcão": 230
+      },
+      "percentual": 0.135
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 9,
+      "total_municipio": 94796,
+      "candidatos": {
+        "Barbara Sinedino": 2,
+        "Elias Alfredo": 3
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 21,
+      "total_municipio": 86490,
+      "candidatos": {
+        "Lorran Neves": 1,
+        "Jad Avila": 6
+      },
+      "percentual": 0.024
+    }
+  },
+  "3300159": {
+    "nome": "Aperibé",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 7972,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.025
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 7029,
+      "candidatos": {
+        "Cyro Garcia": 7
+      },
+      "percentual": 0.1
+    },
+    "SENADOR": {
+      "total": 15,
+      "total_municipio": 13788,
+      "candidatos": {
+        "Paula Falcão": 15
+      },
+      "percentual": 0.109
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 7747,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 7097,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "3300209": {
+    "nome": "Araruama",
+    "PRESIDENTE": {
+      "total": 25,
+      "total_municipio": 82197,
+      "candidatos": {
+        "Hertz Dias": 25
+      },
+      "percentual": 0.03
+    },
+    "GOVERNADOR": {
+      "total": 93,
+      "total_municipio": 72868,
+      "candidatos": {
+        "Cyro Garcia": 93
+      },
+      "percentual": 0.128
+    },
+    "SENADOR": {
+      "total": 164,
+      "total_municipio": 141207,
+      "candidatos": {
+        "Paula Falcão": 164
+      },
+      "percentual": 0.116
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 13,
+      "total_municipio": 79401,
+      "candidatos": {
+        "Barbara Sinedino": 2,
+        "Elias Alfredo": 5
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 14,
+      "total_municipio": 75496,
+      "candidatos": {
+        "Lorran Neves": 4,
+        "Jad Avila": 1
+      },
+      "percentual": 0.019
+    }
+  },
+  "3300225": {
+    "nome": "Areal",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 7843,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.051
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 7058,
+      "candidatos": {
+        "Cyro Garcia": 2
+      },
+      "percentual": 0.028
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 13544,
+      "candidatos": {
+        "Paula Falcão": 8
+      },
+      "percentual": 0.059
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 7466,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 7332,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3300233": {
+    "nome": "Armação Dos Búzios",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 27336,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.022
+    },
+    "GOVERNADOR": {
+      "total": 29,
+      "total_municipio": 24681,
+      "candidatos": {
+        "Cyro Garcia": 29
+      },
+      "percentual": 0.117
+    },
+    "SENADOR": {
+      "total": 73,
+      "total_municipio": 48294,
+      "candidatos": {
+        "Paula Falcão": 73
+      },
+      "percentual": 0.151
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 26003,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 10,
+      "total_municipio": 25921,
+      "candidatos": {
+        "Lorran Neves": 1,
+        "Jad Avila": 0
+      },
+      "percentual": 0.039
+    }
+  },
+  "3300258": {
+    "nome": "Arraial Do Cabo",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 26435,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 41,
+      "total_municipio": 23938,
+      "candidatos": {
+        "Cyro Garcia": 41
+      },
+      "percentual": 0.171
+    },
+    "SENADOR": {
+      "total": 50,
+      "total_municipio": 45946,
+      "candidatos": {
+        "Paula Falcão": 50
+      },
+      "percentual": 0.109
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 25064,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 1
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 9,
+      "total_municipio": 25401,
+      "candidatos": {
+        "Lorran Neves": 1,
+        "Jad Avila": 1
+      },
+      "percentual": 0.035
+    }
+  },
+  "3300308": {
+    "nome": "Barra Do Piraí",
+    "PRESIDENTE": {
+      "total": 19,
+      "total_municipio": 50432,
+      "candidatos": {
+        "Hertz Dias": 19
+      },
+      "percentual": 0.038
+    },
+    "GOVERNADOR": {
+      "total": 74,
+      "total_municipio": 43923,
+      "candidatos": {
+        "Cyro Garcia": 74
+      },
+      "percentual": 0.168
+    },
+    "SENADOR": {
+      "total": 113,
+      "total_municipio": 85262,
+      "candidatos": {
+        "Paula Falcão": 113
+      },
+      "percentual": 0.133
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 47689,
+      "candidatos": {
+        "Barbara Sinedino": 2,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 8,
+      "total_municipio": 46704,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 5
+      },
+      "percentual": 0.017
+    }
+  },
+  "3300407": {
+    "nome": "Barra Mansa",
+    "PRESIDENTE": {
+      "total": 46,
+      "total_municipio": 99984,
+      "candidatos": {
+        "Hertz Dias": 46
+      },
+      "percentual": 0.046
+    },
+    "GOVERNADOR": {
+      "total": 154,
+      "total_municipio": 86855,
+      "candidatos": {
+        "Cyro Garcia": 154
+      },
+      "percentual": 0.177
+    },
+    "SENADOR": {
+      "total": 270,
+      "total_municipio": 168218,
+      "candidatos": {
+        "Paula Falcão": 270
+      },
+      "percentual": 0.161
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 13,
+      "total_municipio": 93429,
+      "candidatos": {
+        "Barbara Sinedino": 1,
+        "Elias Alfredo": 7
+      },
+      "percentual": 0.014
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 25,
+      "total_municipio": 91586,
+      "candidatos": {
+        "Lorran Neves": 2,
+        "Jad Avila": 9
+      },
+      "percentual": 0.027
+    }
+  },
+  "3300456": {
+    "nome": "Belford Roxo",
+    "PRESIDENTE": {
+      "total": 82,
+      "total_municipio": 252683,
+      "candidatos": {
+        "Hertz Dias": 82
+      },
+      "percentual": 0.032
+    },
+    "GOVERNADOR": {
+      "total": 409,
+      "total_municipio": 215628,
+      "candidatos": {
+        "Cyro Garcia": 409
+      },
+      "percentual": 0.19
+    },
+    "SENADOR": {
+      "total": 495,
+      "total_municipio": 415758,
+      "candidatos": {
+        "Paula Falcão": 495
+      },
+      "percentual": 0.119
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 31,
+      "total_municipio": 238430,
+      "candidatos": {
+        "Barbara Sinedino": 4,
+        "Elias Alfredo": 9
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 34,
+      "total_municipio": 239792,
+      "candidatos": {
+        "Lorran Neves": 14,
+        "Jad Avila": 4
+      },
+      "percentual": 0.014
+    }
+  },
+  "3300506": {
+    "nome": "Bom Jardim",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 16798,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.024
+    },
+    "GOVERNADOR": {
+      "total": 14,
+      "total_municipio": 14708,
+      "candidatos": {
+        "Cyro Garcia": 14
+      },
+      "percentual": 0.095
+    },
+    "SENADOR": {
+      "total": 34,
+      "total_municipio": 27928,
+      "candidatos": {
+        "Paula Falcão": 34
+      },
+      "percentual": 0.122
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 15987,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.006
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 15186,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3300605": {
+    "nome": "Bom Jesus Do Itabapoana",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 21804,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 9,
+      "total_municipio": 18685,
+      "candidatos": {
+        "Cyro Garcia": 9
+      },
+      "percentual": 0.048
+    },
+    "SENADOR": {
+      "total": 42,
+      "total_municipio": 37714,
+      "candidatos": {
+        "Paula Falcão": 42
+      },
+      "percentual": 0.111
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 6,
+      "total_municipio": 21093,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.028
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 20200,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.005
+    }
+  },
+  "3300704": {
+    "nome": "Cabo Frio",
+    "PRESIDENTE": {
+      "total": 47,
+      "total_municipio": 131974,
+      "candidatos": {
+        "Hertz Dias": 47
+      },
+      "percentual": 0.036
+    },
+    "GOVERNADOR": {
+      "total": 142,
+      "total_municipio": 117778,
+      "candidatos": {
+        "Cyro Garcia": 142
+      },
+      "percentual": 0.121
+    },
+    "SENADOR": {
+      "total": 331,
+      "total_municipio": 231642,
+      "candidatos": {
+        "Paula Falcão": 331
+      },
+      "percentual": 0.143
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 22,
+      "total_municipio": 121592,
+      "candidatos": {
+        "Barbara Sinedino": 9,
+        "Elias Alfredo": 5
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 23,
+      "total_municipio": 126216,
+      "candidatos": {
+        "Lorran Neves": 11,
+        "Jad Avila": 3
+      },
+      "percentual": 0.018
+    }
+  },
+  "3300803": {
+    "nome": "Cachoeiras De Macacu",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 34871,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 28,
+      "total_municipio": 31433,
+      "candidatos": {
+        "Cyro Garcia": 28
+      },
+      "percentual": 0.089
+    },
+    "SENADOR": {
+      "total": 52,
+      "total_municipio": 60387,
+      "candidatos": {
+        "Paula Falcão": 52
+      },
+      "percentual": 0.086
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 6,
+      "total_municipio": 33224,
+      "candidatos": {
+        "Barbara Sinedino": 1,
+        "Elias Alfredo": 2
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 32197,
+      "candidatos": {
+        "Lorran Neves": 1,
+        "Jad Avila": 0
+      },
+      "percentual": 0.016
+    }
+  },
+  "3300902": {
+    "nome": "Cambuci",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9620,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 8379,
+      "candidatos": {
+        "Cyro Garcia": 3
+      },
+      "percentual": 0.036
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 17083,
+      "candidatos": {
+        "Paula Falcão": 9
+      },
+      "percentual": 0.053
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 9320,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 9199,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3301009": {
+    "nome": "Campos Dos Goytacazes",
+    "PRESIDENTE": {
+      "total": 63,
+      "total_municipio": 272164,
+      "candidatos": {
+        "Hertz Dias": 63
+      },
+      "percentual": 0.023
+    },
+    "GOVERNADOR": {
+      "total": 278,
+      "total_municipio": 200985,
+      "candidatos": {
+        "Cyro Garcia": 278
+      },
+      "percentual": 0.138
+    },
+    "SENADOR": {
+      "total": 761,
+      "total_municipio": 448163,
+      "candidatos": {
+        "Paula Falcão": 761
+      },
+      "percentual": 0.17
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 28,
+      "total_municipio": 262704,
+      "candidatos": {
+        "Barbara Sinedino": 6,
+        "Elias Alfredo": 3
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 53,
+      "total_municipio": 259142,
+      "candidatos": {
+        "Lorran Neves": 4,
+        "Jad Avila": 4
+      },
+      "percentual": 0.02
+    }
+  },
+  "3301108": {
+    "nome": "Cantagalo",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 11611,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.043
+    },
+    "GOVERNADOR": {
+      "total": 8,
+      "total_municipio": 9881,
+      "candidatos": {
+        "Cyro Garcia": 8
+      },
+      "percentual": 0.081
+    },
+    "SENADOR": {
+      "total": 19,
+      "total_municipio": 19499,
+      "candidatos": {
+        "Paula Falcão": 19
+      },
+      "percentual": 0.097
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 10996,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 10452,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3300936": {
+    "nome": "Carapebus",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 10589,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 9575,
+      "candidatos": {
+        "Cyro Garcia": 6
+      },
+      "percentual": 0.063
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 18624,
+      "candidatos": {
+        "Paula Falcão": 8
+      },
+      "percentual": 0.043
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 10267,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 9451,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 1
+      },
+      "percentual": 0.032
+    }
+  },
+  "3301157": {
+    "nome": "Cardoso Moreira",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9689,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 8366,
+      "candidatos": {
+        "Cyro Garcia": 1
+      },
+      "percentual": 0.012
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 17262,
+      "candidatos": {
+        "Paula Falcão": 2
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 9633,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.031
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 9549,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.021
+    }
+  },
+  "3301207": {
+    "nome": "Carmo",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11260,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 11,
+      "total_municipio": 9962,
+      "candidatos": {
+        "Cyro Garcia": 11
+      },
+      "percentual": 0.11
+    },
+    "SENADOR": {
+      "total": 25,
+      "total_municipio": 19111,
+      "candidatos": {
+        "Paula Falcão": 25
+      },
+      "percentual": 0.131
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 10748,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 9528,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3301306": {
+    "nome": "Casimiro De Abreu",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 26758,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.026
+    },
+    "GOVERNADOR": {
+      "total": 36,
+      "total_municipio": 24234,
+      "candidatos": {
+        "Cyro Garcia": 36
+      },
+      "percentual": 0.149
+    },
+    "SENADOR": {
+      "total": 67,
+      "total_municipio": 47151,
+      "candidatos": {
+        "Paula Falcão": 67
+      },
+      "percentual": 0.142
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 25834,
+      "candidatos": {
+        "Barbara Sinedino": 1,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 25104,
+      "candidatos": {
+        "Lorran Neves": 2,
+        "Jad Avila": 1
+      },
+      "percentual": 0.02
+    }
+  },
+  "3300951": {
+    "nome": "Comendador Levy Gasparian",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6539,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 5689,
+      "candidatos": {
+        "Cyro Garcia": 7
+      },
+      "percentual": 0.123
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 11172,
+      "candidatos": {
+        "Paula Falcão": 9
+      },
+      "percentual": 0.081
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 6242,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 5192,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 1
+      },
+      "percentual": 0.077
+    }
+  },
+  "3301405": {
+    "nome": "Conceição De Macabu",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12864,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 12,
+      "total_municipio": 10980,
+      "candidatos": {
+        "Cyro Garcia": 12
+      },
+      "percentual": 0.109
+    },
+    "SENADOR": {
+      "total": 30,
+      "total_municipio": 21888,
+      "candidatos": {
+        "Paula Falcão": 30
+      },
+      "percentual": 0.137
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 12285,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 12567,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3301504": {
+    "nome": "Cordeiro",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 13491,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 13,
+      "total_municipio": 11745,
+      "candidatos": {
+        "Cyro Garcia": 13
+      },
+      "percentual": 0.111
+    },
+    "SENADOR": {
+      "total": 29,
+      "total_municipio": 22932,
+      "candidatos": {
+        "Paula Falcão": 29
+      },
+      "percentual": 0.126
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 12472,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 1
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 12307,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 4
+      },
+      "percentual": 0.049
+    }
+  },
+  "3301603": {
+    "nome": "Duas Barras",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7810,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 6700,
+      "candidatos": {
+        "Cyro Garcia": 5
+      },
+      "percentual": 0.075
+    },
+    "SENADOR": {
+      "total": 19,
+      "total_municipio": 12849,
+      "candidatos": {
+        "Paula Falcão": 19
+      },
+      "percentual": 0.148
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 7526,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 7137,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.028
+    }
+  },
+  "3301702": {
+    "nome": "Duque De Caxias",
+    "PRESIDENTE": {
+      "total": 212,
+      "total_municipio": 491446,
+      "candidatos": {
+        "Hertz Dias": 212
+      },
+      "percentual": 0.043
+    },
+    "GOVERNADOR": {
+      "total": 904,
+      "total_municipio": 425801,
+      "candidatos": {
+        "Cyro Garcia": 904
+      },
+      "percentual": 0.212
+    },
+    "SENADOR": {
+      "total": 1058,
+      "total_municipio": 802499,
+      "candidatos": {
+        "Paula Falcão": 1058
+      },
+      "percentual": 0.132
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 255,
+      "total_municipio": 456188,
+      "candidatos": {
+        "Barbara Sinedino": 15,
+        "Elias Alfredo": 92
+      },
+      "percentual": 0.056
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 258,
+      "total_municipio": 457271,
+      "candidatos": {
+        "Lorran Neves": 27,
+        "Jad Avila": 115
+      },
+      "percentual": 0.056
+    }
+  },
+  "3301801": {
+    "nome": "Engenheiro Paulo De Frontin",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 8813,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.045
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 7625,
+      "candidatos": {
+        "Cyro Garcia": 6
+      },
+      "percentual": 0.079
+    },
+    "SENADOR": {
+      "total": 18,
+      "total_municipio": 15120,
+      "candidatos": {
+        "Paula Falcão": 18
+      },
+      "percentual": 0.119
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 8519,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 8530,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 1
+      },
+      "percentual": 0.023
+    }
+  },
+  "3301850": {
+    "nome": "Guapimirim",
+    "PRESIDENTE": {
+      "total": 17,
+      "total_municipio": 33772,
+      "candidatos": {
+        "Hertz Dias": 17
+      },
+      "percentual": 0.05
+    },
+    "GOVERNADOR": {
+      "total": 44,
+      "total_municipio": 30238,
+      "candidatos": {
+        "Cyro Garcia": 44
+      },
+      "percentual": 0.146
+    },
+    "SENADOR": {
+      "total": 79,
+      "total_municipio": 58246,
+      "candidatos": {
+        "Paula Falcão": 79
+      },
+      "percentual": 0.136
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 7,
+      "total_municipio": 32181,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 1
+      },
+      "percentual": 0.022
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 8,
+      "total_municipio": 32185,
+      "candidatos": {
+        "Lorran Neves": 1,
+        "Jad Avila": 0
+      },
+      "percentual": 0.025
+    }
+  },
+  "3301876": {
+    "nome": "Iguaba Grande",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 23873,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 30,
+      "total_municipio": 21478,
+      "candidatos": {
+        "Cyro Garcia": 30
+      },
+      "percentual": 0.14
+    },
+    "SENADOR": {
+      "total": 54,
+      "total_municipio": 42315,
+      "candidatos": {
+        "Paula Falcão": 54
+      },
+      "percentual": 0.128
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 22944,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 1
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 22763,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "3301900": {
+    "nome": "Itaboraí",
+    "PRESIDENTE": {
+      "total": 36,
+      "total_municipio": 130817,
+      "candidatos": {
+        "Hertz Dias": 36
+      },
+      "percentual": 0.028
+    },
+    "GOVERNADOR": {
+      "total": 169,
+      "total_municipio": 115547,
+      "candidatos": {
+        "Cyro Garcia": 169
+      },
+      "percentual": 0.146
+    },
+    "SENADOR": {
+      "total": 278,
+      "total_municipio": 223003,
+      "candidatos": {
+        "Paula Falcão": 278
+      },
+      "percentual": 0.125
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 17,
+      "total_municipio": 121275,
+      "candidatos": {
+        "Barbara Sinedino": 4,
+        "Elias Alfredo": 2
+      },
+      "percentual": 0.014
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 22,
+      "total_municipio": 120827,
+      "candidatos": {
+        "Lorran Neves": 4,
+        "Jad Avila": 9
+      },
+      "percentual": 0.018
+    }
+  },
+  "3302007": {
+    "nome": "Itaguaí",
+    "PRESIDENTE": {
+      "total": 21,
+      "total_municipio": 75327,
+      "candidatos": {
+        "Hertz Dias": 21
+      },
+      "percentual": 0.028
+    },
+    "GOVERNADOR": {
+      "total": 77,
+      "total_municipio": 66799,
+      "candidatos": {
+        "Cyro Garcia": 77
+      },
+      "percentual": 0.115
+    },
+    "SENADOR": {
+      "total": 200,
+      "total_municipio": 126176,
+      "candidatos": {
+        "Paula Falcão": 200
+      },
+      "percentual": 0.159
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 6,
+      "total_municipio": 70453,
+      "candidatos": {
+        "Barbara Sinedino": 1,
+        "Elias Alfredo": 2
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 67742,
+      "candidatos": {
+        "Lorran Neves": 2,
+        "Jad Avila": 1
+      },
+      "percentual": 0.009
+    }
+  },
+  "3302056": {
+    "nome": "Italva",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 8847,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.034
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7728,
+      "candidatos": {
+        "Cyro Garcia": 1
+      },
+      "percentual": 0.013
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 15578,
+      "candidatos": {
+        "Paula Falcão": 9
+      },
+      "percentual": 0.058
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 8684,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 8554,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.012
+    }
+  },
+  "3302106": {
+    "nome": "Itaocara",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 14929,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 13055,
+      "candidatos": {
+        "Cyro Garcia": 6
+      },
+      "percentual": 0.046
+    },
+    "SENADOR": {
+      "total": 12,
+      "total_municipio": 25836,
+      "candidatos": {
+        "Paula Falcão": 12
+      },
+      "percentual": 0.046
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 14426,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 13666,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3302205": {
+    "nome": "Itaperuna",
+    "PRESIDENTE": {
+      "total": 21,
+      "total_municipio": 56272,
+      "candidatos": {
+        "Hertz Dias": 21
+      },
+      "percentual": 0.037
+    },
+    "GOVERNADOR": {
+      "total": 33,
+      "total_municipio": 50086,
+      "candidatos": {
+        "Cyro Garcia": 33
+      },
+      "percentual": 0.066
+    },
+    "SENADOR": {
+      "total": 82,
+      "total_municipio": 98796,
+      "candidatos": {
+        "Paula Falcão": 82
+      },
+      "percentual": 0.083
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 53428,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 2
+      },
+      "percentual": 0.006
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 53416,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 2
+      },
+      "percentual": 0.011
+    }
+  },
+  "3302254": {
+    "nome": "Itatiaia",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 20064,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.035
+    },
+    "GOVERNADOR": {
+      "total": 30,
+      "total_municipio": 18074,
+      "candidatos": {
+        "Cyro Garcia": 30
+      },
+      "percentual": 0.166
+    },
+    "SENADOR": {
+      "total": 57,
+      "total_municipio": 34890,
+      "candidatos": {
+        "Paula Falcão": 57
+      },
+      "percentual": 0.163
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 19160,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.021
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 18968,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 1
+      },
+      "percentual": 0.032
+    }
+  },
+  "3302270": {
+    "nome": "Japeri",
+    "PRESIDENTE": {
+      "total": 12,
+      "total_municipio": 56740,
+      "candidatos": {
+        "Hertz Dias": 12
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 63,
+      "total_municipio": 48131,
+      "candidatos": {
+        "Cyro Garcia": 63
+      },
+      "percentual": 0.131
+    },
+    "SENADOR": {
+      "total": 107,
+      "total_municipio": 92860,
+      "candidatos": {
+        "Paula Falcão": 107
+      },
+      "percentual": 0.115
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 6,
+      "total_municipio": 51873,
+      "candidatos": {
+        "Barbara Sinedino": 1,
+        "Elias Alfredo": 1
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 51176,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 3
+      },
+      "percentual": 0.008
+    }
+  },
+  "3302304": {
+    "nome": "Laje Do Muriaé",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5354,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.019
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 4514,
+      "candidatos": {
+        "Cyro Garcia": 5
+      },
+      "percentual": 0.111
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 8959,
+      "candidatos": {
+        "Paula Falcão": 7
+      },
+      "percentual": 0.078
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 5146,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 5042,
+      "candidatos": {
+        "Lorran Neves": 1,
+        "Jad Avila": 0
+      },
+      "percentual": 0.02
+    }
+  },
+  "3302403": {
+    "nome": "Macaé",
+    "PRESIDENTE": {
+      "total": 59,
+      "total_municipio": 138026,
+      "candidatos": {
+        "Hertz Dias": 59
+      },
+      "percentual": 0.043
+    },
+    "GOVERNADOR": {
+      "total": 227,
+      "total_municipio": 120150,
+      "candidatos": {
+        "Cyro Garcia": 227
+      },
+      "percentual": 0.189
+    },
+    "SENADOR": {
+      "total": 357,
+      "total_municipio": 232364,
+      "candidatos": {
+        "Paula Falcão": 357
+      },
+      "percentual": 0.154
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 16,
+      "total_municipio": 129400,
+      "candidatos": {
+        "Barbara Sinedino": 6,
+        "Elias Alfredo": 3
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 19,
+      "total_municipio": 129985,
+      "candidatos": {
+        "Lorran Neves": 4,
+        "Jad Avila": 6
+      },
+      "percentual": 0.015
+    }
+  },
+  "3302452": {
+    "nome": "Macuco",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5811,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 5116,
+      "candidatos": {
+        "Cyro Garcia": 1
+      },
+      "percentual": 0.02
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 10156,
+      "candidatos": {
+        "Paula Falcão": 4
+      },
+      "percentual": 0.039
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 5727,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 1
+      },
+      "percentual": 0.017
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 5736,
+      "candidatos": {
+        "Lorran Neves": 1,
+        "Jad Avila": 0
+      },
+      "percentual": 0.017
+    }
+  },
+  "3302502": {
+    "nome": "Magé",
+    "PRESIDENTE": {
+      "total": 27,
+      "total_municipio": 147580,
+      "candidatos": {
+        "Hertz Dias": 27
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 186,
+      "total_municipio": 128514,
+      "candidatos": {
+        "Cyro Garcia": 186
+      },
+      "percentual": 0.145
+    },
+    "SENADOR": {
+      "total": 289,
+      "total_municipio": 246526,
+      "candidatos": {
+        "Paula Falcão": 289
+      },
+      "percentual": 0.117
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 23,
+      "total_municipio": 140085,
+      "candidatos": {
+        "Barbara Sinedino": 4,
+        "Elias Alfredo": 3
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 31,
+      "total_municipio": 126730,
+      "candidatos": {
+        "Lorran Neves": 2,
+        "Jad Avila": 8
+      },
+      "percentual": 0.024
+    }
+  },
+  "3302601": {
+    "nome": "Mangaratiba",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 32940,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 28,
+      "total_municipio": 30273,
+      "candidatos": {
+        "Cyro Garcia": 28
+      },
+      "percentual": 0.092
+    },
+    "SENADOR": {
+      "total": 75,
+      "total_municipio": 56930,
+      "candidatos": {
+        "Paula Falcão": 75
+      },
+      "percentual": 0.132
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 6,
+      "total_municipio": 31204,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 2
+      },
+      "percentual": 0.019
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 8,
+      "total_municipio": 29433,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.027
+    }
+  },
+  "3302700": {
+    "nome": "Maricá",
+    "PRESIDENTE": {
+      "total": 42,
+      "total_municipio": 138874,
+      "candidatos": {
+        "Hertz Dias": 42
+      },
+      "percentual": 0.03
+    },
+    "GOVERNADOR": {
+      "total": 349,
+      "total_municipio": 122755,
+      "candidatos": {
+        "Cyro Garcia": 349
+      },
+      "percentual": 0.284
+    },
+    "SENADOR": {
+      "total": 406,
+      "total_municipio": 242688,
+      "candidatos": {
+        "Paula Falcão": 406
+      },
+      "percentual": 0.167
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 18,
+      "total_municipio": 136470,
+      "candidatos": {
+        "Barbara Sinedino": 4,
+        "Elias Alfredo": 3
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 35,
+      "total_municipio": 117390,
+      "candidatos": {
+        "Lorran Neves": 5,
+        "Jad Avila": 3
+      },
+      "percentual": 0.03
+    }
+  },
+  "3302809": {
+    "nome": "Mendes",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 11313,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.027
+    },
+    "GOVERNADOR": {
+      "total": 13,
+      "total_municipio": 10095,
+      "candidatos": {
+        "Cyro Garcia": 13
+      },
+      "percentual": 0.129
+    },
+    "SENADOR": {
+      "total": 21,
+      "total_municipio": 19743,
+      "candidatos": {
+        "Paula Falcão": 21
+      },
+      "percentual": 0.106
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 11017,
+      "candidatos": {
+        "Barbara Sinedino": 3,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.027
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 10543,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3302858": {
+    "nome": "Mesquita",
+    "PRESIDENTE": {
+      "total": 46,
+      "total_municipio": 101497,
+      "candidatos": {
+        "Hertz Dias": 46
+      },
+      "percentual": 0.045
+    },
+    "GOVERNADOR": {
+      "total": 138,
+      "total_municipio": 91555,
+      "candidatos": {
+        "Cyro Garcia": 138
+      },
+      "percentual": 0.151
+    },
+    "SENADOR": {
+      "total": 223,
+      "total_municipio": 173322,
+      "candidatos": {
+        "Paula Falcão": 223
+      },
+      "percentual": 0.129
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 10,
+      "total_municipio": 94855,
+      "candidatos": {
+        "Barbara Sinedino": 7,
+        "Elias Alfredo": 1
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 13,
+      "total_municipio": 94101,
+      "candidatos": {
+        "Lorran Neves": 2,
+        "Jad Avila": 3
+      },
+      "percentual": 0.014
+    }
+  },
+  "3302908": {
+    "nome": "Miguel Pereira",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 18462,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.022
+    },
+    "GOVERNADOR": {
+      "total": 28,
+      "total_municipio": 16534,
+      "candidatos": {
+        "Cyro Garcia": 28
+      },
+      "percentual": 0.169
+    },
+    "SENADOR": {
+      "total": 41,
+      "total_municipio": 32299,
+      "candidatos": {
+        "Paula Falcão": 41
+      },
+      "percentual": 0.127
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 17952,
+      "candidatos": {
+        "Barbara Sinedino": 1,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 17323,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 2
+      },
+      "percentual": 0.017
+    }
+  },
+  "3303005": {
+    "nome": "Miracema",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 16273,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 14015,
+      "candidatos": {
+        "Cyro Garcia": 6
+      },
+      "percentual": 0.043
+    },
+    "SENADOR": {
+      "total": 22,
+      "total_municipio": 27518,
+      "candidatos": {
+        "Paula Falcão": 22
+      },
+      "percentual": 0.08
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 15596,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 14662,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.02
+    }
+  },
+  "3303104": {
+    "nome": "Natividade",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9217,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 7743,
+      "candidatos": {
+        "Cyro Garcia": 5
+      },
+      "percentual": 0.065
+    },
+    "SENADOR": {
+      "total": 15,
+      "total_municipio": 15452,
+      "candidatos": {
+        "Paula Falcão": 15
+      },
+      "percentual": 0.097
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 8907,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.022
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 8576,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 1
+      },
+      "percentual": 0.023
+    }
+  },
+  "3303203": {
+    "nome": "Nilópolis",
+    "PRESIDENTE": {
+      "total": 57,
+      "total_municipio": 96014,
+      "candidatos": {
+        "Hertz Dias": 57
+      },
+      "percentual": 0.059
+    },
+    "GOVERNADOR": {
+      "total": 156,
+      "total_municipio": 86614,
+      "candidatos": {
+        "Cyro Garcia": 156
+      },
+      "percentual": 0.18
+    },
+    "SENADOR": {
+      "total": 265,
+      "total_municipio": 164166,
+      "candidatos": {
+        "Paula Falcão": 265
+      },
+      "percentual": 0.161
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 12,
+      "total_municipio": 70996,
+      "candidatos": {
+        "Barbara Sinedino": 4,
+        "Elias Alfredo": 4
+      },
+      "percentual": 0.017
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 10,
+      "total_municipio": 84825,
+      "candidatos": {
+        "Lorran Neves": 3,
+        "Jad Avila": 2
+      },
+      "percentual": 0.012
+    }
+  },
+  "3303302": {
+    "nome": "Niterói",
+    "PRESIDENTE": {
+      "total": 200,
+      "total_municipio": 318715,
+      "candidatos": {
+        "Hertz Dias": 200
+      },
+      "percentual": 0.063
+    },
+    "GOVERNADOR": {
+      "total": 705,
+      "total_municipio": 294202,
+      "candidatos": {
+        "Cyro Garcia": 705
+      },
+      "percentual": 0.24
+    },
+    "SENADOR": {
+      "total": 1082,
+      "total_municipio": 569865,
+      "candidatos": {
+        "Paula Falcão": 1082
+      },
+      "percentual": 0.19
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 107,
+      "total_municipio": 305344,
+      "candidatos": {
+        "Barbara Sinedino": 53,
+        "Elias Alfredo": 29
+      },
+      "percentual": 0.035
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 126,
+      "total_municipio": 298669,
+      "candidatos": {
+        "Lorran Neves": 71,
+        "Jad Avila": 13
+      },
+      "percentual": 0.042
+    }
+  },
+  "3303401": {
+    "nome": "Nova Friburgo",
+    "PRESIDENTE": {
+      "total": 44,
+      "total_municipio": 113416,
+      "candidatos": {
+        "Hertz Dias": 44
+      },
+      "percentual": 0.039
+    },
+    "GOVERNADOR": {
+      "total": 176,
+      "total_municipio": 100127,
+      "candidatos": {
+        "Cyro Garcia": 176
+      },
+      "percentual": 0.176
+    },
+    "SENADOR": {
+      "total": 304,
+      "total_municipio": 190156,
+      "candidatos": {
+        "Paula Falcão": 304
+      },
+      "percentual": 0.16
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 21,
+      "total_municipio": 104781,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 13
+      },
+      "percentual": 0.02
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 36,
+      "total_municipio": 101578,
+      "candidatos": {
+        "Lorran Neves": 17,
+        "Jad Avila": 6
+      },
+      "percentual": 0.035
+    }
+  },
+  "3303500": {
+    "nome": "Nova Iguaçu",
+    "PRESIDENTE": {
+      "total": 149,
+      "total_municipio": 449880,
+      "candidatos": {
+        "Hertz Dias": 149
+      },
+      "percentual": 0.033
+    },
+    "GOVERNADOR": {
+      "total": 704,
+      "total_municipio": 389735,
+      "candidatos": {
+        "Cyro Garcia": 704
+      },
+      "percentual": 0.181
+    },
+    "SENADOR": {
+      "total": 1164,
+      "total_municipio": 736531,
+      "candidatos": {
+        "Paula Falcão": 1164
+      },
+      "percentual": 0.158
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 76,
+      "total_municipio": 408266,
+      "candidatos": {
+        "Barbara Sinedino": 28,
+        "Elias Alfredo": 10
+      },
+      "percentual": 0.019
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 67,
+      "total_municipio": 389232,
+      "candidatos": {
+        "Lorran Neves": 18,
+        "Jad Avila": 12
+      },
+      "percentual": 0.017
+    }
+  },
+  "3303609": {
+    "nome": "Paracambi",
+    "PRESIDENTE": {
+      "total": 9,
+      "total_municipio": 25163,
+      "candidatos": {
+        "Hertz Dias": 9
+      },
+      "percentual": 0.036
+    },
+    "GOVERNADOR": {
+      "total": 37,
+      "total_municipio": 22033,
+      "candidatos": {
+        "Cyro Garcia": 37
+      },
+      "percentual": 0.168
+    },
+    "SENADOR": {
+      "total": 55,
+      "total_municipio": 43057,
+      "candidatos": {
+        "Paula Falcão": 55
+      },
+      "percentual": 0.128
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 24146,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 23913,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.025
+    }
+  },
+  "3303807": {
+    "nome": "Paraty",
+    "PRESIDENTE": {
+      "total": 9,
+      "total_municipio": 26025,
+      "candidatos": {
+        "Hertz Dias": 9
+      },
+      "percentual": 0.035
+    },
+    "GOVERNADOR": {
+      "total": 31,
+      "total_municipio": 23523,
+      "candidatos": {
+        "Cyro Garcia": 31
+      },
+      "percentual": 0.132
+    },
+    "SENADOR": {
+      "total": 58,
+      "total_municipio": 44894,
+      "candidatos": {
+        "Paula Falcão": 58
+      },
+      "percentual": 0.129
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 24745,
+      "candidatos": {
+        "Barbara Sinedino": 1,
+        "Elias Alfredo": 1
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 22406,
+      "candidatos": {
+        "Lorran Neves": 3,
+        "Jad Avila": 1
+      },
+      "percentual": 0.027
+    }
+  },
+  "3303708": {
+    "nome": "Paraíba Do Sul",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 25397,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.024
+    },
+    "GOVERNADOR": {
+      "total": 21,
+      "total_municipio": 21864,
+      "candidatos": {
+        "Cyro Garcia": 21
+      },
+      "percentual": 0.096
+    },
+    "SENADOR": {
+      "total": 53,
+      "total_municipio": 42561,
+      "candidatos": {
+        "Paula Falcão": 53
+      },
+      "percentual": 0.125
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 22484,
+      "candidatos": {
+        "Barbara Sinedino": 2,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 23756,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 3
+      },
+      "percentual": 0.021
+    }
+  },
+  "3303856": {
+    "nome": "Paty Do Alferes",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 18460,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 18,
+      "total_municipio": 16853,
+      "candidatos": {
+        "Cyro Garcia": 18
+      },
+      "percentual": 0.107
+    },
+    "SENADOR": {
+      "total": 22,
+      "total_municipio": 32903,
+      "candidatos": {
+        "Paula Falcão": 22
+      },
+      "percentual": 0.067
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 17881,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 16696,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.012
+    }
+  },
+  "3303906": {
+    "nome": "Petrópolis",
+    "PRESIDENTE": {
+      "total": 75,
+      "total_municipio": 171415,
+      "candidatos": {
+        "Hertz Dias": 75
+      },
+      "percentual": 0.044
+    },
+    "GOVERNADOR": {
+      "total": 309,
+      "total_municipio": 150278,
+      "candidatos": {
+        "Cyro Garcia": 309
+      },
+      "percentual": 0.206
+    },
+    "SENADOR": {
+      "total": 658,
+      "total_municipio": 283420,
+      "candidatos": {
+        "Paula Falcão": 658
+      },
+      "percentual": 0.232
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 29,
+      "total_municipio": 158619,
+      "candidatos": {
+        "Barbara Sinedino": 5,
+        "Elias Alfredo": 7
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 39,
+      "total_municipio": 152428,
+      "candidatos": {
+        "Lorran Neves": 10,
+        "Jad Avila": 2
+      },
+      "percentual": 0.026
+    }
+  },
+  "3303955": {
+    "nome": "Pinheiral",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 14234,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.021
+    },
+    "GOVERNADOR": {
+      "total": 6,
+      "total_municipio": 12563,
+      "candidatos": {
+        "Cyro Garcia": 6
+      },
+      "percentual": 0.048
+    },
+    "SENADOR": {
+      "total": 32,
+      "total_municipio": 24616,
+      "candidatos": {
+        "Paula Falcão": 32
+      },
+      "percentual": 0.13
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 13611,
+      "candidatos": {
+        "Barbara Sinedino": 1,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 13662,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3304003": {
+    "nome": "Piraí",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 17510,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 22,
+      "total_municipio": 15260,
+      "candidatos": {
+        "Cyro Garcia": 22
+      },
+      "percentual": 0.144
+    },
+    "SENADOR": {
+      "total": 43,
+      "total_municipio": 30078,
+      "candidatos": {
+        "Paula Falcão": 43
+      },
+      "percentual": 0.143
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 16730,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 16906,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3304102": {
+    "nome": "Porciúncula",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 9854,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.041
+    },
+    "GOVERNADOR": {
+      "total": 12,
+      "total_municipio": 8018,
+      "candidatos": {
+        "Cyro Garcia": 12
+      },
+      "percentual": 0.15
+    },
+    "SENADOR": {
+      "total": 32,
+      "total_municipio": 16279,
+      "candidatos": {
+        "Paula Falcão": 32
+      },
+      "percentual": 0.197
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 9214,
+      "candidatos": {
+        "Barbara Sinedino": 1,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 9216,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3304110": {
+    "nome": "Porto Real",
+    "PRESIDENTE": {
+      "total": 8,
+      "total_municipio": 14278,
+      "candidatos": {
+        "Hertz Dias": 8
+      },
+      "percentual": 0.056
+    },
+    "GOVERNADOR": {
+      "total": 17,
+      "total_municipio": 12758,
+      "candidatos": {
+        "Cyro Garcia": 17
+      },
+      "percentual": 0.133
+    },
+    "SENADOR": {
+      "total": 34,
+      "total_municipio": 24624,
+      "candidatos": {
+        "Paula Falcão": 34
+      },
+      "percentual": 0.138
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 13384,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 1
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 13198,
+      "candidatos": {
+        "Lorran Neves": 1,
+        "Jad Avila": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "3304128": {
+    "nome": "Quatis",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 8405,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.036
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 7472,
+      "candidatos": {
+        "Cyro Garcia": 5
+      },
+      "percentual": 0.067
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 14745,
+      "candidatos": {
+        "Paula Falcão": 9
+      },
+      "percentual": 0.061
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 7608,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 7863,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "3304144": {
+    "nome": "Queimados",
+    "PRESIDENTE": {
+      "total": 26,
+      "total_municipio": 82800,
+      "candidatos": {
+        "Hertz Dias": 26
+      },
+      "percentual": 0.031
+    },
+    "GOVERNADOR": {
+      "total": 115,
+      "total_municipio": 71370,
+      "candidatos": {
+        "Cyro Garcia": 115
+      },
+      "percentual": 0.161
+    },
+    "SENADOR": {
+      "total": 171,
+      "total_municipio": 139948,
+      "candidatos": {
+        "Paula Falcão": 171
+      },
+      "percentual": 0.122
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 7,
+      "total_municipio": 78112,
+      "candidatos": {
+        "Barbara Sinedino": 2,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 12,
+      "total_municipio": 76786,
+      "candidatos": {
+        "Lorran Neves": 1,
+        "Jad Avila": 1
+      },
+      "percentual": 0.016
+    }
+  },
+  "3304151": {
+    "nome": "Quissamã",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 14478,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.041
+    },
+    "GOVERNADOR": {
+      "total": 23,
+      "total_municipio": 12369,
+      "candidatos": {
+        "Cyro Garcia": 23
+      },
+      "percentual": 0.186
+    },
+    "SENADOR": {
+      "total": 27,
+      "total_municipio": 24805,
+      "candidatos": {
+        "Paula Falcão": 27
+      },
+      "percentual": 0.109
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 13939,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 13867,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.007
+    }
+  },
+  "3304201": {
+    "nome": "Resende",
+    "PRESIDENTE": {
+      "total": 31,
+      "total_municipio": 72277,
+      "candidatos": {
+        "Hertz Dias": 31
+      },
+      "percentual": 0.043
+    },
+    "GOVERNADOR": {
+      "total": 119,
+      "total_municipio": 65288,
+      "candidatos": {
+        "Cyro Garcia": 119
+      },
+      "percentual": 0.182
+    },
+    "SENADOR": {
+      "total": 215,
+      "total_municipio": 126829,
+      "candidatos": {
+        "Paula Falcão": 215
+      },
+      "percentual": 0.17
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 14,
+      "total_municipio": 70750,
+      "candidatos": {
+        "Barbara Sinedino": 1,
+        "Elias Alfredo": 5
+      },
+      "percentual": 0.02
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 38,
+      "total_municipio": 67830,
+      "candidatos": {
+        "Lorran Neves": 1,
+        "Jad Avila": 19
+      },
+      "percentual": 0.056
+    }
+  },
+  "3304300": {
+    "nome": "Rio Bonito",
+    "PRESIDENTE": {
+      "total": 15,
+      "total_municipio": 34809,
+      "candidatos": {
+        "Hertz Dias": 15
+      },
+      "percentual": 0.043
+    },
+    "GOVERNADOR": {
+      "total": 38,
+      "total_municipio": 31581,
+      "candidatos": {
+        "Cyro Garcia": 38
+      },
+      "percentual": 0.12
+    },
+    "SENADOR": {
+      "total": 71,
+      "total_municipio": 60651,
+      "candidatos": {
+        "Paula Falcão": 71
+      },
+      "percentual": 0.117
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 6,
+      "total_municipio": 33707,
+      "candidatos": {
+        "Barbara Sinedino": 3,
+        "Elias Alfredo": 1
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 31892,
+      "candidatos": {
+        "Lorran Neves": 2,
+        "Jad Avila": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "3304409": {
+    "nome": "Rio Claro",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11438,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 9932,
+      "candidatos": {
+        "Cyro Garcia": 4
+      },
+      "percentual": 0.04
+    },
+    "SENADOR": {
+      "total": 20,
+      "total_municipio": 19095,
+      "candidatos": {
+        "Paula Falcão": 20
+      },
+      "percentual": 0.105
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 10852,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 10634,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3304508": {
+    "nome": "Rio Das Flores",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6622,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 5694,
+      "candidatos": {
+        "Cyro Garcia": 1
+      },
+      "percentual": 0.018
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 11538,
+      "candidatos": {
+        "Paula Falcão": 7
+      },
+      "percentual": 0.061
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 6434,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 6282,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3304524": {
+    "nome": "Rio Das Ostras",
+    "PRESIDENTE": {
+      "total": 37,
+      "total_municipio": 79765,
+      "candidatos": {
+        "Hertz Dias": 37
+      },
+      "percentual": 0.046
+    },
+    "GOVERNADOR": {
+      "total": 137,
+      "total_municipio": 71520,
+      "candidatos": {
+        "Cyro Garcia": 137
+      },
+      "percentual": 0.192
+    },
+    "SENADOR": {
+      "total": 298,
+      "total_municipio": 139541,
+      "candidatos": {
+        "Paula Falcão": 298
+      },
+      "percentual": 0.214
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 6,
+      "total_municipio": 74673,
+      "candidatos": {
+        "Barbara Sinedino": 3,
+        "Elias Alfredo": 1
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 14,
+      "total_municipio": 73213,
+      "candidatos": {
+        "Lorran Neves": 1,
+        "Jad Avila": 5
+      },
+      "percentual": 0.019
+    }
+  },
+  "3304557": {
+    "nome": "Rio De Janeiro",
+    "PRESIDENTE": {
+      "total": 1903,
+      "total_municipio": 3471874,
+      "candidatos": {
+        "Hertz Dias": 1903
+      },
+      "percentual": 0.055
+    },
+    "GOVERNADOR": {
+      "total": 6161,
+      "total_municipio": 3235174,
+      "candidatos": {
+        "Cyro Garcia": 6161
+      },
+      "percentual": 0.19
+    },
+    "SENADOR": {
+      "total": 13216,
+      "total_municipio": 5955841,
+      "candidatos": {
+        "Paula Falcão": 13216
+      },
+      "percentual": 0.222
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1011,
+      "total_municipio": 3230528,
+      "candidatos": {
+        "Barbara Sinedino": 423,
+        "Elias Alfredo": 302
+      },
+      "percentual": 0.031
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 984,
+      "total_municipio": 3084960,
+      "candidatos": {
+        "Lorran Neves": 351,
+        "Jad Avila": 176
+      },
+      "percentual": 0.032
+    }
+  },
+  "3304607": {
+    "nome": "Santa Maria Madalena",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 6623,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.045
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 5550,
+      "candidatos": {
+        "Cyro Garcia": 3
+      },
+      "percentual": 0.054
+    },
+    "SENADOR": {
+      "total": 11,
+      "total_municipio": 11427,
+      "candidatos": {
+        "Paula Falcão": 11
+      },
+      "percentual": 0.096
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 6562,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 6384,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.031
+    }
+  },
+  "3304706": {
+    "nome": "Santo Antônio De Pádua",
+    "PRESIDENTE": {
+      "total": 9,
+      "total_municipio": 24689,
+      "candidatos": {
+        "Hertz Dias": 9
+      },
+      "percentual": 0.036
+    },
+    "GOVERNADOR": {
+      "total": 19,
+      "total_municipio": 21746,
+      "candidatos": {
+        "Cyro Garcia": 19
+      },
+      "percentual": 0.087
+    },
+    "SENADOR": {
+      "total": 36,
+      "total_municipio": 42432,
+      "candidatos": {
+        "Paula Falcão": 36
+      },
+      "percentual": 0.085
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 7,
+      "total_municipio": 23914,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 4
+      },
+      "percentual": 0.029
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 12,
+      "total_municipio": 23548,
+      "candidatos": {
+        "Lorran Neves": 2,
+        "Jad Avila": 5
+      },
+      "percentual": 0.051
+    }
+  },
+  "3305406": {
+    "nome": "Sapucaia",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 12023,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 13,
+      "total_municipio": 10597,
+      "candidatos": {
+        "Cyro Garcia": 13
+      },
+      "percentual": 0.123
+    },
+    "SENADOR": {
+      "total": 21,
+      "total_municipio": 20415,
+      "candidatos": {
+        "Paula Falcão": 21
+      },
+      "percentual": 0.103
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 11472,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 10853,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 3
+      },
+      "percentual": 0.037
+    }
+  },
+  "3305505": {
+    "nome": "Saquarema",
+    "PRESIDENTE": {
+      "total": 23,
+      "total_municipio": 68647,
+      "candidatos": {
+        "Hertz Dias": 23
+      },
+      "percentual": 0.034
+    },
+    "GOVERNADOR": {
+      "total": 98,
+      "total_municipio": 62559,
+      "candidatos": {
+        "Cyro Garcia": 98
+      },
+      "percentual": 0.157
+    },
+    "SENADOR": {
+      "total": 157,
+      "total_municipio": 120144,
+      "candidatos": {
+        "Paula Falcão": 157
+      },
+      "percentual": 0.131
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 67819,
+      "candidatos": {
+        "Barbara Sinedino": 1,
+        "Elias Alfredo": 2
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 11,
+      "total_municipio": 58935,
+      "candidatos": {
+        "Lorran Neves": 2,
+        "Jad Avila": 4
+      },
+      "percentual": 0.019
+    }
+  },
+  "3305554": {
+    "nome": "Seropédica",
+    "PRESIDENTE": {
+      "total": 11,
+      "total_municipio": 45259,
+      "candidatos": {
+        "Hertz Dias": 11
+      },
+      "percentual": 0.024
+    },
+    "GOVERNADOR": {
+      "total": 42,
+      "total_municipio": 40187,
+      "candidatos": {
+        "Cyro Garcia": 42
+      },
+      "percentual": 0.105
+    },
+    "SENADOR": {
+      "total": 99,
+      "total_municipio": 76364,
+      "candidatos": {
+        "Paula Falcão": 99
+      },
+      "percentual": 0.13
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 41157,
+      "candidatos": {
+        "Barbara Sinedino": 1,
+        "Elias Alfredo": 1
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 11,
+      "total_municipio": 40796,
+      "candidatos": {
+        "Lorran Neves": 4,
+        "Jad Avila": 2
+      },
+      "percentual": 0.027
+    }
+  },
+  "3305604": {
+    "nome": "Silva Jardim",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 14279,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.035
+    },
+    "GOVERNADOR": {
+      "total": 12,
+      "total_municipio": 12649,
+      "candidatos": {
+        "Cyro Garcia": 12
+      },
+      "percentual": 0.095
+    },
+    "SENADOR": {
+      "total": 35,
+      "total_municipio": 24897,
+      "candidatos": {
+        "Paula Falcão": 35
+      },
+      "percentual": 0.141
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 13650,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 2
+      },
+      "percentual": 0.015
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 13271,
+      "candidatos": {
+        "Lorran Neves": 2,
+        "Jad Avila": 0
+      },
+      "percentual": 0.03
+    }
+  },
+  "3305703": {
+    "nome": "Sumidouro",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11360,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 10129,
+      "candidatos": {
+        "Cyro Garcia": 5
+      },
+      "percentual": 0.049
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 19494,
+      "candidatos": {
+        "Paula Falcão": 8
+      },
+      "percentual": 0.041
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 10647,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.019
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 10976,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "3304805": {
+    "nome": "São Fidélis",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 22803,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.013
+    },
+    "GOVERNADOR": {
+      "total": 14,
+      "total_municipio": 18142,
+      "candidatos": {
+        "Cyro Garcia": 14
+      },
+      "percentual": 0.077
+    },
+    "SENADOR": {
+      "total": 26,
+      "total_municipio": 40319,
+      "candidatos": {
+        "Paula Falcão": 26
+      },
+      "percentual": 0.064
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 17698,
+      "candidatos": {
+        "Barbara Sinedino": 2,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 21274,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "3304755": {
+    "nome": "São Francisco De Itabapoana",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 28320,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.018
+    },
+    "GOVERNADOR": {
+      "total": 12,
+      "total_municipio": 23484,
+      "candidatos": {
+        "Cyro Garcia": 12
+      },
+      "percentual": 0.051
+    },
+    "SENADOR": {
+      "total": 28,
+      "total_municipio": 47771,
+      "candidatos": {
+        "Paula Falcão": 28
+      },
+      "percentual": 0.059
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 26867,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 27618,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 1
+      },
+      "percentual": 0.004
+    }
+  },
+  "3304904": {
+    "nome": "São Gonçalo",
+    "PRESIDENTE": {
+      "total": 180,
+      "total_municipio": 472652,
+      "candidatos": {
+        "Hertz Dias": 180
+      },
+      "percentual": 0.038
+    },
+    "GOVERNADOR": {
+      "total": 591,
+      "total_municipio": 430264,
+      "candidatos": {
+        "Cyro Garcia": 591
+      },
+      "percentual": 0.137
+    },
+    "SENADOR": {
+      "total": 1175,
+      "total_municipio": 802205,
+      "candidatos": {
+        "Paula Falcão": 1175
+      },
+      "percentual": 0.146
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 93,
+      "total_municipio": 438610,
+      "candidatos": {
+        "Barbara Sinedino": 30,
+        "Elias Alfredo": 20
+      },
+      "percentual": 0.021
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 90,
+      "total_municipio": 422198,
+      "candidatos": {
+        "Lorran Neves": 24,
+        "Jad Avila": 11
+      },
+      "percentual": 0.021
+    }
+  },
+  "3305133": {
+    "nome": "São José De Ubá",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 5857,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.034
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 5197,
+      "candidatos": {
+        "Cyro Garcia": 5
+      },
+      "percentual": 0.096
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 10452,
+      "candidatos": {
+        "Paula Falcão": 2
+      },
+      "percentual": 0.019
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 5793,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.017
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5100,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3305158": {
+    "nome": "São José Do Vale Do Rio Preto",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12440,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 17,
+      "total_municipio": 11447,
+      "candidatos": {
+        "Cyro Garcia": 17
+      },
+      "percentual": 0.149
+    },
+    "SENADOR": {
+      "total": 24,
+      "total_municipio": 21683,
+      "candidatos": {
+        "Paula Falcão": 24
+      },
+      "percentual": 0.111
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 11874,
+      "candidatos": {
+        "Barbara Sinedino": 1,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 11678,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.026
+    }
+  },
+  "3305000": {
+    "nome": "São João Da Barra",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 33002,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.012
+    },
+    "GOVERNADOR": {
+      "total": 30,
+      "total_municipio": 27425,
+      "candidatos": {
+        "Cyro Garcia": 30
+      },
+      "percentual": 0.109
+    },
+    "SENADOR": {
+      "total": 62,
+      "total_municipio": 55770,
+      "candidatos": {
+        "Paula Falcão": 62
+      },
+      "percentual": 0.111
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 32479,
+      "candidatos": {
+        "Barbara Sinedino": 1,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.003
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 32402,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.009
+    }
+  },
+  "3305109": {
+    "nome": "São João De Meriti",
+    "PRESIDENTE": {
+      "total": 82,
+      "total_municipio": 261261,
+      "candidatos": {
+        "Hertz Dias": 82
+      },
+      "percentual": 0.031
+    },
+    "GOVERNADOR": {
+      "total": 332,
+      "total_municipio": 226382,
+      "candidatos": {
+        "Cyro Garcia": 332
+      },
+      "percentual": 0.147
+    },
+    "SENADOR": {
+      "total": 546,
+      "total_municipio": 425097,
+      "candidatos": {
+        "Paula Falcão": 546
+      },
+      "percentual": 0.128
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 39,
+      "total_municipio": 241465,
+      "candidatos": {
+        "Barbara Sinedino": 12,
+        "Elias Alfredo": 10
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 42,
+      "total_municipio": 235747,
+      "candidatos": {
+        "Lorran Neves": 11,
+        "Jad Avila": 9
+      },
+      "percentual": 0.018
+    }
+  },
+  "3305208": {
+    "nome": "São Pedro Da Aldeia",
+    "PRESIDENTE": {
+      "total": 9,
+      "total_municipio": 56298,
+      "candidatos": {
+        "Hertz Dias": 9
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 58,
+      "total_municipio": 49796,
+      "candidatos": {
+        "Cyro Garcia": 58
+      },
+      "percentual": 0.116
+    },
+    "SENADOR": {
+      "total": 118,
+      "total_municipio": 99145,
+      "candidatos": {
+        "Paula Falcão": 118
+      },
+      "percentual": 0.119
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 53848,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.006
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 53119,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 1
+      },
+      "percentual": 0.011
+    }
+  },
+  "3305307": {
+    "nome": "São Sebastião Do Alto",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 5721,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.017
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5159,
+      "candidatos": {
+        "Cyro Garcia": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 10122,
+      "candidatos": {
+        "Paula Falcão": 6
+      },
+      "percentual": 0.059
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 5703,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5678,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3305752": {
+    "nome": "Tanguá",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 20342,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.029
+    },
+    "GOVERNADOR": {
+      "total": 36,
+      "total_municipio": 17946,
+      "candidatos": {
+        "Cyro Garcia": 36
+      },
+      "percentual": 0.201
+    },
+    "SENADOR": {
+      "total": 38,
+      "total_municipio": 35083,
+      "candidatos": {
+        "Paula Falcão": 38
+      },
+      "percentual": 0.108
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 19271,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 19404,
+      "candidatos": {
+        "Lorran Neves": 1,
+        "Jad Avila": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "3305802": {
+    "nome": "Teresópolis",
+    "PRESIDENTE": {
+      "total": 37,
+      "total_municipio": 98065,
+      "candidatos": {
+        "Hertz Dias": 37
+      },
+      "percentual": 0.038
+    },
+    "GOVERNADOR": {
+      "total": 147,
+      "total_municipio": 87044,
+      "candidatos": {
+        "Cyro Garcia": 147
+      },
+      "percentual": 0.169
+    },
+    "SENADOR": {
+      "total": 267,
+      "total_municipio": 164073,
+      "candidatos": {
+        "Paula Falcão": 267
+      },
+      "percentual": 0.163
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 8,
+      "total_municipio": 87987,
+      "candidatos": {
+        "Barbara Sinedino": 2,
+        "Elias Alfredo": 3
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 12,
+      "total_municipio": 89013,
+      "candidatos": {
+        "Lorran Neves": 4,
+        "Jad Avila": 2
+      },
+      "percentual": 0.013
+    }
+  },
+  "3305901": {
+    "nome": "Trajano De Moraes",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7110,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 6012,
+      "candidatos": {
+        "Cyro Garcia": 3
+      },
+      "percentual": 0.05
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 12073,
+      "candidatos": {
+        "Paula Falcão": 5
+      },
+      "percentual": 0.041
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 7013,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 6927,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "3306008": {
+    "nome": "Três Rios",
+    "PRESIDENTE": {
+      "total": 17,
+      "total_municipio": 46423,
+      "candidatos": {
+        "Hertz Dias": 17
+      },
+      "percentual": 0.037
+    },
+    "GOVERNADOR": {
+      "total": 73,
+      "total_municipio": 39298,
+      "candidatos": {
+        "Cyro Garcia": 73
+      },
+      "percentual": 0.186
+    },
+    "SENADOR": {
+      "total": 95,
+      "total_municipio": 76140,
+      "candidatos": {
+        "Paula Falcão": 95
+      },
+      "percentual": 0.125
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 38479,
+      "candidatos": {
+        "Barbara Sinedino": 3,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 9,
+      "total_municipio": 41041,
+      "candidatos": {
+        "Lorran Neves": 1,
+        "Jad Avila": 4
+      },
+      "percentual": 0.022
+    }
+  },
+  "3306107": {
+    "nome": "Valença",
+    "PRESIDENTE": {
+      "total": 13,
+      "total_municipio": 39883,
+      "candidatos": {
+        "Hertz Dias": 13
+      },
+      "percentual": 0.033
+    },
+    "GOVERNADOR": {
+      "total": 42,
+      "total_municipio": 34424,
+      "candidatos": {
+        "Cyro Garcia": 42
+      },
+      "percentual": 0.122
+    },
+    "SENADOR": {
+      "total": 103,
+      "total_municipio": 65452,
+      "candidatos": {
+        "Paula Falcão": 103
+      },
+      "percentual": 0.157
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 36825,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 37164,
+      "candidatos": {
+        "Lorran Neves": 1,
+        "Jad Avila": 0
+      },
+      "percentual": 0.011
+    }
+  },
+  "3306156": {
+    "nome": "Varre-Sai",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 6736,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.03
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 5976,
+      "candidatos": {
+        "Cyro Garcia": 3
+      },
+      "percentual": 0.05
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 11221,
+      "candidatos": {
+        "Paula Falcão": 8
+      },
+      "percentual": 0.071
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 6351,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 6096,
+      "candidatos": {
+        "Lorran Neves": 1,
+        "Jad Avila": 0
+      },
+      "percentual": 0.016
+    }
+  },
+  "3306206": {
+    "nome": "Vassouras",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 22140,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 41,
+      "total_municipio": 18745,
+      "candidatos": {
+        "Cyro Garcia": 41
+      },
+      "percentual": 0.219
+    },
+    "SENADOR": {
+      "total": 53,
+      "total_municipio": 36899,
+      "candidatos": {
+        "Paula Falcão": 53
+      },
+      "percentual": 0.144
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 21164,
+      "candidatos": {
+        "Barbara Sinedino": 0,
+        "Elias Alfredo": 0
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 21124,
+      "candidatos": {
+        "Lorran Neves": 0,
+        "Jad Avila": 1
+      },
+      "percentual": 0.009
+    }
+  },
+  "3306305": {
+    "nome": "Volta Redonda",
+    "PRESIDENTE": {
+      "total": 105,
+      "total_municipio": 164958,
+      "candidatos": {
+        "Hertz Dias": 105
+      },
+      "percentual": 0.064
+    },
+    "GOVERNADOR": {
+      "total": 381,
+      "total_municipio": 144602,
+      "candidatos": {
+        "Cyro Garcia": 381
+      },
+      "percentual": 0.263
+    },
+    "SENADOR": {
+      "total": 603,
+      "total_municipio": 282086,
+      "candidatos": {
+        "Paula Falcão": 603
+      },
+      "percentual": 0.214
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 44,
+      "total_municipio": 154863,
+      "candidatos": {
+        "Barbara Sinedino": 12,
+        "Elias Alfredo": 24
+      },
+      "percentual": 0.028
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 64,
+      "total_municipio": 155482,
+      "candidatos": {
+        "Lorran Neves": 14,
+        "Jad Avila": 35
+      },
+      "percentual": 0.041
+    }
+  }
+}

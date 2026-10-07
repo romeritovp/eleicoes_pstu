@@ -2,7 +2,10 @@
 
 export const viewModeToggleEl = document.getElementById('view-mode-toggle');
 
-export const yearSelectEl = document.getElementById('influence-year-select');
+export const yearDropdownEl = document.getElementById('influence-year-dropdown');
+export const yearDropdownToggleEl = document.getElementById('influence-year-dropdown-toggle');
+export const yearDropdownLabelEl = document.getElementById('influence-year-dropdown-label');
+export const yearDropdownMenuEl = document.getElementById('influence-year-dropdown-menu');
 
 export const stateDropdownEl = document.getElementById('influence-state-dropdown');
 export const stateDropdownToggleEl = document.getElementById('influence-state-dropdown-toggle');
@@ -11,6 +14,8 @@ export const stateDropdownMenuEl = document.getElementById('influence-state-drop
 
 export const minSizeInputEl = document.getElementById('min-size-input');
 export const topNInputEl = document.getElementById('top-n-input');
+export const kInputEl = document.getElementById('k-input');
+export const ceilingInputEl = document.getElementById('ceiling-input');
 export const applyFiltersButtonEl = document.getElementById('apply-filters-button');
 
 export const mapWrapEl = document.getElementById('map-wrap');

@@ -1,0 +1,306 @@
+{
+  "1600105": {
+    "nome": "Amapá",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6114,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 5855,
+      "candidatos": {
+        "Carlos Cley": 3
+      },
+      "percentual": 0.051
+    }
+  },
+  "1600204": {
+    "nome": "Calçoene",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6869,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 6546,
+      "candidatos": {
+        "Carlos Cley": 1
+      },
+      "percentual": 0.015
+    }
+  },
+  "1600212": {
+    "nome": "Cutias",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5092,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 4864,
+      "candidatos": {
+        "Carlos Cley": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1600238": {
+    "nome": "Ferreira Gomes",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 6117,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.065
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 5846,
+      "candidatos": {
+        "Carlos Cley": 4
+      },
+      "percentual": 0.068
+    }
+  },
+  "1600253": {
+    "nome": "Itaubal",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7228,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 6913,
+      "candidatos": {
+        "Carlos Cley": 1
+      },
+      "percentual": 0.014
+    }
+  },
+  "1600279": {
+    "nome": "Laranjal Do Jari",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 20556,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 9,
+      "total_municipio": 19448,
+      "candidatos": {
+        "Carlos Cley": 9
+      },
+      "percentual": 0.046
+    }
+  },
+  "1600303": {
+    "nome": "Macapá",
+    "PRESIDENTE": {
+      "total": 108,
+      "total_municipio": 263718,
+      "candidatos": {
+        "Hertz Dias": 108
+      },
+      "percentual": 0.041
+    },
+    "GOVERNADOR": {
+      "total": 464,
+      "total_municipio": 256499,
+      "candidatos": {
+        "Carlos Cley": 464
+      },
+      "percentual": 0.181
+    }
+  },
+  "1600402": {
+    "nome": "Mazagão",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 18653,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 9,
+      "total_municipio": 17861,
+      "candidatos": {
+        "Carlos Cley": 9
+      },
+      "percentual": 0.05
+    }
+  },
+  "1600501": {
+    "nome": "Oiapoque",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 16941,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.006
+    },
+    "GOVERNADOR": {
+      "total": 11,
+      "total_municipio": 16003,
+      "candidatos": {
+        "Carlos Cley": 11
+      },
+      "percentual": 0.069
+    }
+  },
+  "1600154": {
+    "nome": "Pedra Branca Do Amapari",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 6951,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.029
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 6665,
+      "candidatos": {
+        "Carlos Cley": 2
+      },
+      "percentual": 0.03
+    }
+  },
+  "1600535": {
+    "nome": "Porto Grande",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 12013,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.025
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 11347,
+      "candidatos": {
+        "Carlos Cley": 3
+      },
+      "percentual": 0.026
+    }
+  },
+  "1600550": {
+    "nome": "Pracuúba",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3265,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 3141,
+      "candidatos": {
+        "Carlos Cley": 1
+      },
+      "percentual": 0.032
+    }
+  },
+  "1600600": {
+    "nome": "Santana",
+    "PRESIDENTE": {
+      "total": 7,
+      "total_municipio": 71428,
+      "candidatos": {
+        "Hertz Dias": 7
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 49,
+      "total_municipio": 68782,
+      "candidatos": {
+        "Carlos Cley": 49
+      },
+      "percentual": 0.071
+    }
+  },
+  "1600055": {
+    "nome": "Serra Do Navio",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 2971,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.067
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 2869,
+      "candidatos": {
+        "Carlos Cley": 1
+      },
+      "percentual": 0.035
+    }
+  },
+  "1600709": {
+    "nome": "Tartarugalzinho",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9039,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 8561,
+      "candidatos": {
+        "Carlos Cley": 1
+      },
+      "percentual": 0.012
+    }
+  },
+  "1600808": {
+    "nome": "Vitória Do Jari",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7903,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 7547,
+      "candidatos": {
+        "Carlos Cley": 2
+      },
+      "percentual": 0.027
+    }
+  }
+}

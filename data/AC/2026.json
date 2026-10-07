@@ -1,0 +1,508 @@
+{
+  "01120": {
+    "nome": "ACRELÂNDIA",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 7791
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 7372
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 13233
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 7379
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 7855
+    }
+  },
+  "01570": {
+    "nome": "ASSIS BRASIL",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 5521
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5052
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 8420
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 5510
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5649
+    }
+  },
+  "01058": {
+    "nome": "BRASILÉIA",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 15387
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 14189
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 23829
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 15208
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 15448
+    }
+  },
+  "01007": {
+    "nome": "BUJARI",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 8308
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 7675
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 12546
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 8323
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 8397
+    }
+  },
+  "01015": {
+    "nome": "CAPIXABA",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6298
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5879
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 9990
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 6321
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 6402
+    }
+  },
+  "01074": {
+    "nome": "CRUZEIRO DO SUL",
+    "PRESIDENTE": {
+      "total": 8,
+      "total_municipio": 49656
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 47132
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 73264
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 49571
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 50175
+    }
+  },
+  "01112": {
+    "nome": "EPITACIOLÂNDIA",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11282
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 10317
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 17163
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 10526
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 11269
+    }
+  },
+  "01139": {
+    "nome": "FEIJÓ",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 17296
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 16039
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 28680
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 17608
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 17721
+    }
+  },
+  "01104": {
+    "nome": "JORDÃO",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 4299
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3989
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7701
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 4355
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 4458
+    }
+  },
+  "01554": {
+    "nome": "MANOEL URBANO",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6432
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5887
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 10139
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 6533
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 6579
+    }
+  },
+  "01040": {
+    "nome": "MARECHAL THAUMATURGO",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9078
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8561
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 15705
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 9119
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 9247
+    }
+  },
+  "01090": {
+    "nome": "MÂNCIO LIMA",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 11689
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 11106
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 16905
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 11776
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 11883
+    }
+  },
+  "01511": {
+    "nome": "PLÁCIDO DE CASTRO",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 9568
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8875
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 15280
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 9432
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 9722
+    }
+  },
+  "01023": {
+    "nome": "PORTO ACRE",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 11128
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 10181
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 17685
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 11072
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 9024
+    }
+  },
+  "01066": {
+    "nome": "PORTO WALTER",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6296
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 5903
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 10933
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 6425
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 6461
+    }
+  },
+  "01392": {
+    "nome": "RIO BRANCO",
+    "PRESIDENTE": {
+      "total": 46,
+      "total_municipio": 206854
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 195332
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 321179
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 201468
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 206000
+    }
+  },
+  "01082": {
+    "nome": "RODRIGUES ALVES",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9931
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 9422
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 16974
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 9818
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 10118
+    }
+  },
+  "01031": {
+    "nome": "SANTA ROSA DO PURUS",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 2742
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 2551
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 5030
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 2844
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 2837
+    }
+  },
+  "01457": {
+    "nome": "SENA MADUREIRA",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 23642
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 21792
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 37122
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 24037
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 24194
+    }
+  },
+  "01538": {
+    "nome": "SENADOR GUIOMARD",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 14556
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 13719
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 21323
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 14065
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 14652
+    }
+  },
+  "01473": {
+    "nome": "TARAUACÁ",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 21508
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 19720
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 33891
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 21711
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 21870
+    }
+  },
+  "01490": {
+    "nome": "XAPURI",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9804
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8954
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 13066
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 9384
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 10051
+    }
+  }
+}

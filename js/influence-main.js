@@ -1,92 +1,97 @@
 /* Controlador da página de índice de influência: filtros customizados
-   (ano, UFs, porte mínimo, top N), botão "Filtrar" e alternância mapa/tabela. */
+   (anos, UFs, porte mínimo, top N, K, teto), botão "Filtrar" e alternância
+   mapa/tabela. */
 
 import { STATES, YEARS } from './config.js';
-import { calculateInfluence, ALL_YEARS } from './influence-calculator.js';
+import { calculateInfluence } from './influence-calculator.js';
 import { initMap, updateResults } from './influence-map.js';
 import { renderRankingTable } from './influence-table.js';
 import { showStatus, hideStatus, showError } from './status.js';
 import {
-  viewModeToggleEl, yearSelectEl,
+  viewModeToggleEl,
+  yearDropdownEl, yearDropdownToggleEl, yearDropdownLabelEl, yearDropdownMenuEl,
   stateDropdownEl, stateDropdownToggleEl, stateDropdownLabelEl, stateDropdownMenuEl,
-  minSizeInputEl, topNInputEl, applyFiltersButtonEl,
+  minSizeInputEl, topNInputEl, kInputEl, ceilingInputEl, applyFiltersButtonEl,
   mapWrapEl, tableWrapEl,
 } from './influence-dom.js';
 
-let selectedYear = YEARS[0];
+const selectedYears = new Set();    // vazio = todos os anos
 const selectedStates = new Set();   // vazio = todas as UFs
 
-function buildYearSelect() {
-  yearSelectEl.innerHTML = '';
-  YEARS.forEach(year => {
-    const option = document.createElement('option');
-    option.value = year;
-    option.textContent = year;
-    yearSelectEl.appendChild(option);
-  });
-  const allOption = document.createElement('option');
-  allOption.value = ALL_YEARS;
-  allOption.textContent = 'Todos (média histórica)';
-  yearSelectEl.appendChild(allOption);
+// Dropdown de checkboxes com "Todos/Todas": conjunto vazio = sem restrição
+// (mesma convenção usada no dropdown de cargos do mapa de votos, só que lá
+// pra UF/ano "vazio" significa "inclui tudo", não "nada selecionado").
+function buildCheckboxDropdown(menuEl, labelEl, items, selectedSet, { allText, formatItem, formatLabel }) {
+  menuEl.innerHTML = '';
 
-  yearSelectEl.value = selectedYear;
-  yearSelectEl.addEventListener('change', () => {
-    selectedYear = yearSelectEl.value === ALL_YEARS ? ALL_YEARS : Number(yearSelectEl.value);
-  });
-}
-
-// Dropdown de UFs: "Todas" marca/desmarca as demais, igual ao de cargos do mapa de votos.
-function buildStateDropdown() {
-  stateDropdownMenuEl.innerHTML = '';
-
-  const allLabel = document.createElement('label');
-  allLabel.className = 'all-option';
   const allCheckbox = document.createElement('input');
   allCheckbox.type = 'checkbox';
   allCheckbox.checked = true;
-  allCheckbox.addEventListener('change', () => {
-    selectedStates.clear();
-    stateDropdownMenuEl.querySelectorAll('input[data-state]').forEach(cb => { cb.checked = false; });
-    syncStateDropdownLabel();
-  });
-  allLabel.append(allCheckbox, document.createTextNode('Todas'));
-  stateDropdownMenuEl.appendChild(allLabel);
+  const allLabel = document.createElement('label');
+  allLabel.className = 'all-option';
+  allLabel.append(allCheckbox, document.createTextNode(allText));
+  menuEl.appendChild(allLabel);
 
-  Object.keys(STATES).sort().forEach(state => {
-    const label = document.createElement('label');
+  const sync = () => {
+    allCheckbox.checked = selectedSet.size === 0;
+    labelEl.textContent = formatLabel(selectedSet);
+  };
+
+  allCheckbox.addEventListener('change', () => {
+    selectedSet.clear();
+    menuEl.querySelectorAll('input[data-item]').forEach(cb => { cb.checked = false; });
+    sync();
+  });
+
+  items.forEach(item => {
     const checkbox = document.createElement('input');
     checkbox.type = 'checkbox';
-    checkbox.dataset.state = state;
+    checkbox.dataset.item = item;
     checkbox.addEventListener('change', () => {
-      checkbox.checked ? selectedStates.add(state) : selectedStates.delete(state);
-      allCheckbox.checked = selectedStates.size === 0;
-      syncStateDropdownLabel();
+      checkbox.checked ? selectedSet.add(item) : selectedSet.delete(item);
+      sync();
     });
-    label.append(checkbox, document.createTextNode(state));
-    stateDropdownMenuEl.appendChild(label);
+    const label = document.createElement('label');
+    label.append(checkbox, document.createTextNode(formatItem(item)));
+    menuEl.appendChild(label);
+  });
+
+  sync();
+}
+
+function buildYearDropdown() {
+  buildCheckboxDropdown(yearDropdownMenuEl, yearDropdownLabelEl, YEARS, selectedYears, {
+    allText: 'Todos',
+    formatItem: String,
+    formatLabel: s => s.size === 0 ? 'todos' : s.size === 1 ? String([...s][0]) : s.size + ' anos',
   });
 }
 
-function syncStateDropdownLabel() {
-  const n = selectedStates.size;
-  stateDropdownLabelEl.textContent = n === 0 ? 'todas' : n === 1 ? [...selectedStates][0] : n + ' ufs';
+function buildStateDropdown() {
+  buildCheckboxDropdown(stateDropdownMenuEl, stateDropdownLabelEl, Object.keys(STATES).sort(), selectedStates, {
+    allText: 'Todas',
+    formatItem: String,
+    formatLabel: s => s.size === 0 ? 'todas' : s.size === 1 ? [...s][0] : s.size + ' ufs',
+  });
 }
 
-function closeStateDropdown() {
-  stateDropdownMenuEl.hidden = true;
-  stateDropdownToggleEl.setAttribute('aria-expanded', 'false');
-  stateDropdownEl.classList.remove('open');
+function setupDropdownToggle(dropdownEl, toggleEl, menuEl) {
+  toggleEl.addEventListener('click', () => {
+    const willOpen = menuEl.hidden;
+    menuEl.hidden = !willOpen;
+    toggleEl.setAttribute('aria-expanded', String(willOpen));
+    dropdownEl.classList.toggle('open', willOpen);
+  });
+  document.addEventListener('click', e => {
+    if (!menuEl.hidden && !dropdownEl.contains(e.target)) {
+      menuEl.hidden = true;
+      toggleEl.setAttribute('aria-expanded', 'false');
+      dropdownEl.classList.remove('open');
+    }
+  });
 }
-
-stateDropdownToggleEl.addEventListener('click', () => {
-  const willOpen = stateDropdownMenuEl.hidden;
-  stateDropdownMenuEl.hidden = !willOpen;
-  stateDropdownToggleEl.setAttribute('aria-expanded', String(willOpen));
-  stateDropdownEl.classList.toggle('open', willOpen);
-});
-document.addEventListener('click', e => {
-  if (!stateDropdownMenuEl.hidden && !stateDropdownEl.contains(e.target)) closeStateDropdown();
-});
+setupDropdownToggle(yearDropdownEl, yearDropdownToggleEl, yearDropdownMenuEl);
+setupDropdownToggle(stateDropdownEl, stateDropdownToggleEl, stateDropdownMenuEl);
 
 function setView(view) {
   viewModeToggleEl.querySelectorAll('button').forEach(b => b.classList.toggle('active', b.dataset.view === view));
@@ -100,17 +105,21 @@ viewModeToggleEl.querySelectorAll('button').forEach(button => {
 async function applyFilters() {
   const minMunicipalitySize = Math.max(0, Number(minSizeInputEl.value) || 0);
   const topN = Math.max(1, Number(topNInputEl.value) || 1);
+  const k = Math.max(0, Number(kInputEl.value) || 0);
+  const ceiling = Math.max(0.1, Number(ceilingInputEl.value) || 0.1);
 
   showStatus('calculando índice de influência…');
   try {
     const allResults = await calculateInfluence({
-      year: selectedYear,
+      years: [...selectedYears],
       states: [...selectedStates],
       minMunicipalitySize,
+      k,
+      ceiling,
     });
     const topResults = allResults.slice(0, topN);
     updateResults(allResults, topResults);
-    renderRankingTable(topResults);
+    renderRankingTable(topResults, selectedYears.size ? [...selectedYears].sort((a, b) => a - b) : YEARS.slice().sort((a, b) => a - b));
     hideStatus();
   } catch (error) {
     showError(error.message);
@@ -120,7 +129,7 @@ async function applyFilters() {
 applyFiltersButtonEl.addEventListener('click', applyFilters);
 
 async function init() {
-  buildYearSelect();
+  buildYearDropdown();
   buildStateDropdown();
   setView('map');
   await initMap();

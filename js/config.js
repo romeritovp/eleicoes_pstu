@@ -18,7 +18,7 @@ export const STATES = {
   TO: { name: 'Tocantins', ibgeCode: 17 },
 };
 
-export const YEARS = [2022, 2018, 2014, 2010];
+export const YEARS = [2026, 2022, 2018, 2014, 2010];
 
 // "BR" é a visão nacional: junta os dados de todas as UFs num mapa só.
 export const BRAZIL = 'BR';

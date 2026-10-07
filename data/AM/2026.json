@@ -1,0 +1,2792 @@
+{
+  "1300029": {
+    "nome": "Alvarães",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9700,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 9250,
+      "candidatos": {
+        "Gilberto Vasconcelos": 2
+      },
+      "percentual": 0.022
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 18234,
+      "candidatos": {
+        "Evandro De Oliveira": 1
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 9702,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 9653,
+      "candidatos": {
+        "Tarcísio Leão": 0,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.021
+    }
+  },
+  "1300060": {
+    "nome": "Amaturá",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6252,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.016
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 5984,
+      "candidatos": {
+        "Gilberto Vasconcelos": 1
+      },
+      "percentual": 0.017
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 11615,
+      "candidatos": {
+        "Evandro De Oliveira": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 6293,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 6264,
+      "candidatos": {
+        "Tarcísio Leão": 0,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.032
+    }
+  },
+  "1300086": {
+    "nome": "Anamã",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6734,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6442,
+      "candidatos": {
+        "Gilberto Vasconcelos": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 12256,
+      "candidatos": {
+        "Evandro De Oliveira": 4
+      },
+      "percentual": 0.033
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 6758,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.015
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 6717,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1300102": {
+    "nome": "Anori",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8576,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 8244,
+      "candidatos": {
+        "Gilberto Vasconcelos": 2
+      },
+      "percentual": 0.024
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 15993,
+      "candidatos": {
+        "Evandro De Oliveira": 6
+      },
+      "percentual": 0.038
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 8586,
+      "candidatos": {
+        "Alexandre Solorzano": 1,
+        "Auxiliadora Castro": 1
+      },
+      "percentual": 0.023
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 8579,
+      "candidatos": {
+        "Tarcísio Leão": 0,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1300144": {
+    "nome": "Apuí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8306,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 8012,
+      "candidatos": {
+        "Gilberto Vasconcelos": 2
+      },
+      "percentual": 0.025
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 15030,
+      "candidatos": {
+        "Evandro De Oliveira": 10
+      },
+      "percentual": 0.067
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 8142,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 8135,
+      "candidatos": {
+        "Tarcísio Leão": 2,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.037
+    }
+  },
+  "1300201": {
+    "nome": "Atalaia Do Norte",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6815,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6522,
+      "candidatos": {
+        "Gilberto Vasconcelos": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 12335,
+      "candidatos": {
+        "Evandro De Oliveira": 3
+      },
+      "percentual": 0.024
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 6897,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.014
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 6869,
+      "candidatos": {
+        "Tarcísio Leão": 0,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1300300": {
+    "nome": "Autazes",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 23389,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 22470,
+      "candidatos": {
+        "Gilberto Vasconcelos": 4
+      },
+      "percentual": 0.018
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 43412,
+      "candidatos": {
+        "Evandro De Oliveira": 2
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 23465,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 1
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 23392,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.021
+    }
+  },
+  "1300409": {
+    "nome": "Barcelos",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 7771,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.051
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 7438,
+      "candidatos": {
+        "Gilberto Vasconcelos": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 14162,
+      "candidatos": {
+        "Evandro De Oliveira": 3
+      },
+      "percentual": 0.021
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 7857,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 1
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 7755,
+      "candidatos": {
+        "Tarcísio Leão": 0,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "1300508": {
+    "nome": "Barreirinha",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 18105,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.006
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 16923,
+      "candidatos": {
+        "Gilberto Vasconcelos": 1
+      },
+      "percentual": 0.006
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 31148,
+      "candidatos": {
+        "Evandro De Oliveira": 9
+      },
+      "percentual": 0.029
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 18149,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.006
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 18120,
+      "candidatos": {
+        "Tarcísio Leão": 0,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.006
+    }
+  },
+  "1300607": {
+    "nome": "Benjamin Constant",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 19688,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.005
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 18693,
+      "candidatos": {
+        "Gilberto Vasconcelos": 1
+      },
+      "percentual": 0.005
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 36545,
+      "candidatos": {
+        "Evandro De Oliveira": 3
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 19759,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.005
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 19596,
+      "candidatos": {
+        "Tarcísio Leão": 0,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.01
+    }
+  },
+  "1300631": {
+    "nome": "Beruri",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11350,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 10879,
+      "candidatos": {
+        "Gilberto Vasconcelos": 3
+      },
+      "percentual": 0.028
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 21132,
+      "candidatos": {
+        "Evandro De Oliveira": 10
+      },
+      "percentual": 0.047
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 11382,
+      "candidatos": {
+        "Alexandre Solorzano": 3,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.026
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 11383,
+      "candidatos": {
+        "Tarcísio Leão": 0,
+        "Eneida Vasconcelos": 5
+      },
+      "percentual": 0.044
+    }
+  },
+  "1300680": {
+    "nome": "Boa Vista Do Ramos",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 10470,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 9953,
+      "candidatos": {
+        "Gilberto Vasconcelos": 1
+      },
+      "percentual": 0.01
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 19388,
+      "candidatos": {
+        "Evandro De Oliveira": 8
+      },
+      "percentual": 0.041
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 10455,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.038
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 10435,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 1
+      },
+      "percentual": 0.019
+    }
+  },
+  "1300706": {
+    "nome": "Boca Do Acre",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 17058,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.006
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 16417,
+      "candidatos": {
+        "Gilberto Vasconcelos": 7
+      },
+      "percentual": 0.043
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 30540,
+      "candidatos": {
+        "Evandro De Oliveira": 9
+      },
+      "percentual": 0.029
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 16906,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 1
+      },
+      "percentual": 0.006
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 16868,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1300805": {
+    "nome": "Borba",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 18589,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 17846,
+      "candidatos": {
+        "Gilberto Vasconcelos": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 33804,
+      "candidatos": {
+        "Evandro De Oliveira": 8
+      },
+      "percentual": 0.024
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 18660,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.021
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 18666,
+      "candidatos": {
+        "Tarcísio Leão": 1,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.016
+    }
+  },
+  "1300839": {
+    "nome": "Caapiranga",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 6906,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 6620,
+      "candidatos": {
+        "Gilberto Vasconcelos": 1
+      },
+      "percentual": 0.015
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 12881,
+      "candidatos": {
+        "Evandro De Oliveira": 8
+      },
+      "percentual": 0.062
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 6949,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.014
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 6921,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1300904": {
+    "nome": "Canutama",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7728,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 7433,
+      "candidatos": {
+        "Gilberto Vasconcelos": 2
+      },
+      "percentual": 0.027
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 14370,
+      "candidatos": {
+        "Evandro De Oliveira": 4
+      },
+      "percentual": 0.028
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 7756,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 7750,
+      "candidatos": {
+        "Tarcísio Leão": 0,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "1301001": {
+    "nome": "Carauari",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 14456,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 13901,
+      "candidatos": {
+        "Gilberto Vasconcelos": 2
+      },
+      "percentual": 0.014
+    },
+    "SENADOR": {
+      "total": 42,
+      "total_municipio": 27228,
+      "candidatos": {
+        "Evandro De Oliveira": 42
+      },
+      "percentual": 0.154
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 14681,
+      "candidatos": {
+        "Alexandre Solorzano": 1,
+        "Auxiliadora Castro": 1
+      },
+      "percentual": 0.02
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 14592,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "1301100": {
+    "nome": "Careiro",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 19526,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.005
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 18526,
+      "candidatos": {
+        "Gilberto Vasconcelos": 4
+      },
+      "percentual": 0.022
+    },
+    "SENADOR": {
+      "total": 16,
+      "total_municipio": 35484,
+      "candidatos": {
+        "Evandro De Oliveira": 16
+      },
+      "percentual": 0.045
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 8,
+      "total_municipio": 19499,
+      "candidatos": {
+        "Alexandre Solorzano": 1,
+        "Auxiliadora Castro": 2
+      },
+      "percentual": 0.041
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 19374,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.01
+    }
+  },
+  "1301159": {
+    "nome": "Careiro Da Várzea",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 13739,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 13254,
+      "candidatos": {
+        "Gilberto Vasconcelos": 5
+      },
+      "percentual": 0.038
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 25423,
+      "candidatos": {
+        "Evandro De Oliveira": 8
+      },
+      "percentual": 0.031
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 13755,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 1
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 13677,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.007
+    }
+  },
+  "1301209": {
+    "nome": "Coari",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 37373,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.003
+    },
+    "GOVERNADOR": {
+      "total": 10,
+      "total_municipio": 35659,
+      "candidatos": {
+        "Gilberto Vasconcelos": 10
+      },
+      "percentual": 0.028
+    },
+    "SENADOR": {
+      "total": 40,
+      "total_municipio": 67998,
+      "candidatos": {
+        "Evandro De Oliveira": 40
+      },
+      "percentual": 0.059
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 6,
+      "total_municipio": 37213,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 37174,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.005
+    }
+  },
+  "1301308": {
+    "nome": "Codajás",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12868,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 12420,
+      "candidatos": {
+        "Gilberto Vasconcelos": 3
+      },
+      "percentual": 0.024
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 24110,
+      "candidatos": {
+        "Evandro De Oliveira": 7
+      },
+      "percentual": 0.029
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 12930,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.015
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 12845,
+      "candidatos": {
+        "Tarcísio Leão": 0,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1301407": {
+    "nome": "Eirunepé",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 14942,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.013
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 14242,
+      "candidatos": {
+        "Gilberto Vasconcelos": 2
+      },
+      "percentual": 0.014
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 27478,
+      "candidatos": {
+        "Evandro De Oliveira": 2
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 15135,
+      "candidatos": {
+        "Alexandre Solorzano": 2,
+        "Auxiliadora Castro": 1
+      },
+      "percentual": 0.033
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 15056,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "1301506": {
+    "nome": "Envira",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7513,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7226,
+      "candidatos": {
+        "Gilberto Vasconcelos": 1
+      },
+      "percentual": 0.014
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 14113,
+      "candidatos": {
+        "Evandro De Oliveira": 3
+      },
+      "percentual": 0.021
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 7686,
+      "candidatos": {
+        "Alexandre Solorzano": 1,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 7637,
+      "candidatos": {
+        "Tarcísio Leão": 0,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "1301605": {
+    "nome": "Fonte Boa",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 12798,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 12192,
+      "candidatos": {
+        "Gilberto Vasconcelos": 1
+      },
+      "percentual": 0.008
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 23761,
+      "candidatos": {
+        "Evandro De Oliveira": 1
+      },
+      "percentual": 0.004
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 12849,
+      "candidatos": {
+        "Alexandre Solorzano": 1,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.023
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 12776,
+      "candidatos": {
+        "Tarcísio Leão": 0,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.039
+    }
+  },
+  "1301654": {
+    "nome": "Guajará",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8894,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 8657,
+      "candidatos": {
+        "Gilberto Vasconcelos": 1
+      },
+      "percentual": 0.012
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 16170,
+      "candidatos": {
+        "Evandro De Oliveira": 1
+      },
+      "percentual": 0.006
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 8893,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.022
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 8864,
+      "candidatos": {
+        "Tarcísio Leão": 0,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1301704": {
+    "nome": "Humaitá",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 26839,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 13,
+      "total_municipio": 25695,
+      "candidatos": {
+        "Gilberto Vasconcelos": 13
+      },
+      "percentual": 0.051
+    },
+    "SENADOR": {
+      "total": 47,
+      "total_municipio": 48624,
+      "candidatos": {
+        "Evandro De Oliveira": 47
+      },
+      "percentual": 0.097
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 26419,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 36,
+      "total_municipio": 26442,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 36
+      },
+      "percentual": 0.136
+    }
+  },
+  "1301803": {
+    "nome": "Ipixuna",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8135,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 7825,
+      "candidatos": {
+        "Gilberto Vasconcelos": 1
+      },
+      "percentual": 0.013
+    },
+    "SENADOR": {
+      "total": 46,
+      "total_municipio": 14716,
+      "candidatos": {
+        "Evandro De Oliveira": 46
+      },
+      "percentual": 0.313
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 8237,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 8173,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.012
+    }
+  },
+  "1301852": {
+    "nome": "Iranduba",
+    "PRESIDENTE": {
+      "total": 5,
+      "total_municipio": 36777,
+      "candidatos": {
+        "Hertz Dias": 5
+      },
+      "percentual": 0.014
+    },
+    "GOVERNADOR": {
+      "total": 28,
+      "total_municipio": 34986,
+      "candidatos": {
+        "Gilberto Vasconcelos": 28
+      },
+      "percentual": 0.08
+    },
+    "SENADOR": {
+      "total": 72,
+      "total_municipio": 66603,
+      "candidatos": {
+        "Evandro De Oliveira": 72
+      },
+      "percentual": 0.108
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 13,
+      "total_municipio": 36191,
+      "candidatos": {
+        "Alexandre Solorzano": 1,
+        "Auxiliadora Castro": 2
+      },
+      "percentual": 0.036
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 31,
+      "total_municipio": 36284,
+      "candidatos": {
+        "Eneida Vasconcelos": 1,
+        "Tarcísio Leão": 7
+      },
+      "percentual": 0.085
+    }
+  },
+  "1301902": {
+    "nome": "Itacoatiara",
+    "PRESIDENTE": {
+      "total": 6,
+      "total_municipio": 57153,
+      "candidatos": {
+        "Hertz Dias": 6
+      },
+      "percentual": 0.01
+    },
+    "GOVERNADOR": {
+      "total": 41,
+      "total_municipio": 54572,
+      "candidatos": {
+        "Gilberto Vasconcelos": 41
+      },
+      "percentual": 0.075
+    },
+    "SENADOR": {
+      "total": 90,
+      "total_municipio": 104185,
+      "candidatos": {
+        "Evandro De Oliveira": 90
+      },
+      "percentual": 0.086
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 9,
+      "total_municipio": 56950,
+      "candidatos": {
+        "Alexandre Solorzano": 2,
+        "Auxiliadora Castro": 2
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 15,
+      "total_municipio": 56854,
+      "candidatos": {
+        "Tarcísio Leão": 1,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.026
+    }
+  },
+  "1301951": {
+    "nome": "Itamarati",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5375,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 5129,
+      "candidatos": {
+        "Gilberto Vasconcelos": 1
+      },
+      "percentual": 0.019
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 9811,
+      "candidatos": {
+        "Evandro De Oliveira": 1
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 5439,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 5424,
+      "candidatos": {
+        "Tarcísio Leão": 0,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.018
+    }
+  },
+  "1302009": {
+    "nome": "Itapiranga",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7336,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 7036,
+      "candidatos": {
+        "Gilberto Vasconcelos": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 13483,
+      "candidatos": {
+        "Evandro De Oliveira": 10
+      },
+      "percentual": 0.074
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 7291,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 7263,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1302108": {
+    "nome": "Japurá",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 3842,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 3709,
+      "candidatos": {
+        "Gilberto Vasconcelos": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 7186,
+      "candidatos": {
+        "Evandro De Oliveira": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 3863,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 3834,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1302207": {
+    "nome": "Juruá",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5409,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 5257,
+      "candidatos": {
+        "Gilberto Vasconcelos": 1
+      },
+      "percentual": 0.019
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 10117,
+      "candidatos": {
+        "Evandro De Oliveira": 3
+      },
+      "percentual": 0.03
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 5508,
+      "candidatos": {
+        "Alexandre Solorzano": 2,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.054
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5473,
+      "candidatos": {
+        "Tarcísio Leão": 0,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1302306": {
+    "nome": "Jutaí",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 10662,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 10087,
+      "candidatos": {
+        "Gilberto Vasconcelos": 1
+      },
+      "percentual": 0.01
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 19496,
+      "candidatos": {
+        "Evandro De Oliveira": 5
+      },
+      "percentual": 0.026
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 10655,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 10658,
+      "candidatos": {
+        "Eneida Vasconcelos": 1,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.056
+    }
+  },
+  "1302405": {
+    "nome": "Lábrea",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 22007,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.005
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 21104,
+      "candidatos": {
+        "Gilberto Vasconcelos": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 4,
+      "total_municipio": 40184,
+      "candidatos": {
+        "Evandro De Oliveira": 4
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 22033,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 1
+      },
+      "percentual": 0.018
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 22003,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 3
+      },
+      "percentual": 0.014
+    }
+  },
+  "1302504": {
+    "nome": "Manacapuru",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 62561,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.002
+    },
+    "GOVERNADOR": {
+      "total": 11,
+      "total_municipio": 59748,
+      "candidatos": {
+        "Gilberto Vasconcelos": 11
+      },
+      "percentual": 0.018
+    },
+    "SENADOR": {
+      "total": 51,
+      "total_municipio": 114572,
+      "candidatos": {
+        "Evandro De Oliveira": 51
+      },
+      "percentual": 0.045
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 10,
+      "total_municipio": 62347,
+      "candidatos": {
+        "Alexandre Solorzano": 2,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.016
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 10,
+      "total_municipio": 62340,
+      "candidatos": {
+        "Eneida Vasconcelos": 1,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.016
+    }
+  },
+  "1302553": {
+    "nome": "Manaquiri",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 11396,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 10812,
+      "candidatos": {
+        "Gilberto Vasconcelos": 1
+      },
+      "percentual": 0.009
+    },
+    "SENADOR": {
+      "total": 7,
+      "total_municipio": 20897,
+      "candidatos": {
+        "Evandro De Oliveira": 7
+      },
+      "percentual": 0.033
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 11365,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.026
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 11432,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.017
+    }
+  },
+  "1302603": {
+    "nome": "Manaus",
+    "PRESIDENTE": {
+      "total": 397,
+      "total_municipio": 1182539,
+      "candidatos": {
+        "Hertz Dias": 397
+      },
+      "percentual": 0.034
+    },
+    "GOVERNADOR": {
+      "total": 2483,
+      "total_municipio": 1127965,
+      "candidatos": {
+        "Gilberto Vasconcelos": 2483
+      },
+      "percentual": 0.22
+    },
+    "SENADOR": {
+      "total": 4111,
+      "total_municipio": 2032615,
+      "candidatos": {
+        "Evandro De Oliveira": 4111
+      },
+      "percentual": 0.202
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 386,
+      "total_municipio": 1132866,
+      "candidatos": {
+        "Alexandre Solorzano": 157,
+        "Auxiliadora Castro": 122
+      },
+      "percentual": 0.034
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 427,
+      "total_municipio": 1139988,
+      "candidatos": {
+        "Tarcísio Leão": 121,
+        "Eneida Vasconcelos": 120
+      },
+      "percentual": 0.037
+    }
+  },
+  "1302702": {
+    "nome": "Manicoré",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 26326,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 9,
+      "total_municipio": 25444,
+      "candidatos": {
+        "Gilberto Vasconcelos": 9
+      },
+      "percentual": 0.035
+    },
+    "SENADOR": {
+      "total": 10,
+      "total_municipio": 48345,
+      "candidatos": {
+        "Evandro De Oliveira": 10
+      },
+      "percentual": 0.021
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 26304,
+      "candidatos": {
+        "Alexandre Solorzano": 1,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 26240,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.015
+    }
+  },
+  "1302801": {
+    "nome": "Maraã",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6872,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 6602,
+      "candidatos": {
+        "Gilberto Vasconcelos": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 12832,
+      "candidatos": {
+        "Evandro De Oliveira": 1
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 6907,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 6842,
+      "candidatos": {
+        "Tarcísio Leão": 0,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1302900": {
+    "nome": "Maués",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 28189,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 12,
+      "total_municipio": 26741,
+      "candidatos": {
+        "Gilberto Vasconcelos": 12
+      },
+      "percentual": 0.045
+    },
+    "SENADOR": {
+      "total": 24,
+      "total_municipio": 50173,
+      "candidatos": {
+        "Evandro De Oliveira": 24
+      },
+      "percentual": 0.048
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 28250,
+      "candidatos": {
+        "Alexandre Solorzano": 1,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.007
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 28209,
+      "candidatos": {
+        "Tarcísio Leão": 0,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.021
+    }
+  },
+  "1303007": {
+    "nome": "Nhamundá",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 12063,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 5,
+      "total_municipio": 11490,
+      "candidatos": {
+        "Gilberto Vasconcelos": 5
+      },
+      "percentual": 0.044
+    },
+    "SENADOR": {
+      "total": 14,
+      "total_municipio": 22502,
+      "candidatos": {
+        "Evandro De Oliveira": 14
+      },
+      "percentual": 0.062
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 12052,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 1
+      },
+      "percentual": 0.025
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 12039,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.017
+    }
+  },
+  "1303106": {
+    "nome": "Nova Olinda Do Norte",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 15318,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 4,
+      "total_municipio": 14704,
+      "candidatos": {
+        "Gilberto Vasconcelos": 4
+      },
+      "percentual": 0.027
+    },
+    "SENADOR": {
+      "total": 15,
+      "total_municipio": 28174,
+      "candidatos": {
+        "Evandro De Oliveira": 15
+      },
+      "percentual": 0.053
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 15442,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.006
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 15467,
+      "candidatos": {
+        "Tarcísio Leão": 0,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.006
+    }
+  },
+  "1303205": {
+    "nome": "Novo Airão",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9497,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 9120,
+      "candidatos": {
+        "Gilberto Vasconcelos": 3
+      },
+      "percentual": 0.033
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 17339,
+      "candidatos": {
+        "Evandro De Oliveira": 8
+      },
+      "percentual": 0.046
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 3,
+      "total_municipio": 9554,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 3
+      },
+      "percentual": 0.031
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 9562,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.01
+    }
+  },
+  "1303304": {
+    "nome": "Novo Aripuanã",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9702,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 9261,
+      "candidatos": {
+        "Gilberto Vasconcelos": 1
+      },
+      "percentual": 0.011
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 17876,
+      "candidatos": {
+        "Evandro De Oliveira": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 9678,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 9675,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.031
+    }
+  },
+  "1303403": {
+    "nome": "Parintins",
+    "PRESIDENTE": {
+      "total": 4,
+      "total_municipio": 55711,
+      "candidatos": {
+        "Hertz Dias": 4
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 29,
+      "total_municipio": 52663,
+      "candidatos": {
+        "Gilberto Vasconcelos": 29
+      },
+      "percentual": 0.055
+    },
+    "SENADOR": {
+      "total": 97,
+      "total_municipio": 100070,
+      "candidatos": {
+        "Evandro De Oliveira": 97
+      },
+      "percentual": 0.097
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 11,
+      "total_municipio": 54458,
+      "candidatos": {
+        "Alexandre Solorzano": 1,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.02
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 55225,
+      "candidatos": {
+        "Tarcísio Leão": 0,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.011
+    }
+  },
+  "1303502": {
+    "nome": "Pauini",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 8377,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 8120,
+      "candidatos": {
+        "Gilberto Vasconcelos": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 15606,
+      "candidatos": {
+        "Evandro De Oliveira": 2
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 8457,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 8432,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.012
+    }
+  },
+  "1303536": {
+    "nome": "Presidente Figueiredo",
+    "PRESIDENTE": {
+      "total": 3,
+      "total_municipio": 19841,
+      "candidatos": {
+        "Hertz Dias": 3
+      },
+      "percentual": 0.015
+    },
+    "GOVERNADOR": {
+      "total": 23,
+      "total_municipio": 18986,
+      "candidatos": {
+        "Gilberto Vasconcelos": 23
+      },
+      "percentual": 0.121
+    },
+    "SENADOR": {
+      "total": 52,
+      "total_municipio": 35876,
+      "candidatos": {
+        "Evandro De Oliveira": 52
+      },
+      "percentual": 0.145
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 19521,
+      "candidatos": {
+        "Alexandre Solorzano": 3,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.026
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 19660,
+      "candidatos": {
+        "Eneida Vasconcelos": 1,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.02
+    }
+  },
+  "1303569": {
+    "nome": "Rio Preto Da Eva",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 17017,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.006
+    },
+    "GOVERNADOR": {
+      "total": 12,
+      "total_municipio": 16253,
+      "candidatos": {
+        "Gilberto Vasconcelos": 12
+      },
+      "percentual": 0.074
+    },
+    "SENADOR": {
+      "total": 22,
+      "total_municipio": 30720,
+      "candidatos": {
+        "Evandro De Oliveira": 22
+      },
+      "percentual": 0.072
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 16911,
+      "candidatos": {
+        "Alexandre Solorzano": 2,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.012
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 6,
+      "total_municipio": 16866,
+      "candidatos": {
+        "Tarcísio Leão": 1,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.036
+    }
+  },
+  "1303601": {
+    "nome": "Santa Isabel Do Rio Negro",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 6337,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 6061,
+      "candidatos": {
+        "Gilberto Vasconcelos": 1
+      },
+      "percentual": 0.016
+    },
+    "SENADOR": {
+      "total": 5,
+      "total_municipio": 11164,
+      "candidatos": {
+        "Evandro De Oliveira": 5
+      },
+      "percentual": 0.045
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 6478,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 6450,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.031
+    }
+  },
+  "1303700": {
+    "nome": "Santo Antônio Do Içá",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 14685,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.007
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 14053,
+      "candidatos": {
+        "Gilberto Vasconcelos": 1
+      },
+      "percentual": 0.007
+    },
+    "SENADOR": {
+      "total": 3,
+      "total_municipio": 27328,
+      "candidatos": {
+        "Evandro De Oliveira": 3
+      },
+      "percentual": 0.011
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 14722,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 14718,
+      "candidatos": {
+        "Tarcísio Leão": 0,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.014
+    }
+  },
+  "1304005": {
+    "nome": "Silves",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 7415,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 6952,
+      "candidatos": {
+        "Gilberto Vasconcelos": 2
+      },
+      "percentual": 0.029
+    },
+    "SENADOR": {
+      "total": 6,
+      "total_municipio": 13399,
+      "candidatos": {
+        "Evandro De Oliveira": 6
+      },
+      "percentual": 0.045
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 7341,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.014
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 7342,
+      "candidatos": {
+        "Tarcísio Leão": 1,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.027
+    }
+  },
+  "1303809": {
+    "nome": "São Gabriel Da Cachoeira",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 23789,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.008
+    },
+    "GOVERNADOR": {
+      "total": 7,
+      "total_municipio": 22768,
+      "candidatos": {
+        "Gilberto Vasconcelos": 7
+      },
+      "percentual": 0.031
+    },
+    "SENADOR": {
+      "total": 16,
+      "total_municipio": 43642,
+      "candidatos": {
+        "Evandro De Oliveira": 16
+      },
+      "percentual": 0.037
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 23620,
+      "candidatos": {
+        "Alexandre Solorzano": 1,
+        "Auxiliadora Castro": 1
+      },
+      "percentual": 0.008
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 5,
+      "total_municipio": 23683,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 3
+      },
+      "percentual": 0.021
+    }
+  },
+  "1303908": {
+    "nome": "São Paulo De Olivença",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 17612,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 3,
+      "total_municipio": 16868,
+      "candidatos": {
+        "Gilberto Vasconcelos": 3
+      },
+      "percentual": 0.018
+    },
+    "SENADOR": {
+      "total": 1,
+      "total_municipio": 32860,
+      "candidatos": {
+        "Evandro De Oliveira": 1
+      },
+      "percentual": 0.003
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 17651,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 1
+      },
+      "percentual": 0.006
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 3,
+      "total_municipio": 17604,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.017
+    }
+  },
+  "1303957": {
+    "nome": "São Sebastião Do Uatumã",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 5717,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 5508,
+      "candidatos": {
+        "Gilberto Vasconcelos": 2
+      },
+      "percentual": 0.036
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 10544,
+      "candidatos": {
+        "Evandro De Oliveira": 8
+      },
+      "percentual": 0.076
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 5727,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 5711,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1304062": {
+    "nome": "Tabatinga",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 30828,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.003
+    },
+    "GOVERNADOR": {
+      "total": 15,
+      "total_municipio": 29169,
+      "candidatos": {
+        "Gilberto Vasconcelos": 15
+      },
+      "percentual": 0.051
+    },
+    "SENADOR": {
+      "total": 30,
+      "total_municipio": 56083,
+      "candidatos": {
+        "Evandro De Oliveira": 30
+      },
+      "percentual": 0.053
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 4,
+      "total_municipio": 30678,
+      "candidatos": {
+        "Alexandre Solorzano": 1,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 2,
+      "total_municipio": 30661,
+      "candidatos": {
+        "Tarcísio Leão": 0,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.007
+    }
+  },
+  "1304104": {
+    "nome": "Tapauá",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 10501,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 10085,
+      "candidatos": {
+        "Gilberto Vasconcelos": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 2,
+      "total_municipio": 19683,
+      "candidatos": {
+        "Evandro De Oliveira": 2
+      },
+      "percentual": 0.01
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 10627,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 10533,
+      "candidatos": {
+        "Tarcísio Leão": 0,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1304203": {
+    "nome": "Tefé",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 38748,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.003
+    },
+    "GOVERNADOR": {
+      "total": 12,
+      "total_municipio": 37051,
+      "candidatos": {
+        "Gilberto Vasconcelos": 12
+      },
+      "percentual": 0.032
+    },
+    "SENADOR": {
+      "total": 22,
+      "total_municipio": 72665,
+      "candidatos": {
+        "Evandro De Oliveira": 22
+      },
+      "percentual": 0.03
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 5,
+      "total_municipio": 38680,
+      "candidatos": {
+        "Alexandre Solorzano": 1,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.013
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 4,
+      "total_municipio": 38273,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.01
+    }
+  },
+  "1304237": {
+    "nome": "Tonantins",
+    "PRESIDENTE": {
+      "total": 0,
+      "total_municipio": 9254,
+      "candidatos": {
+        "Hertz Dias": 0
+      },
+      "percentual": 0.0
+    },
+    "GOVERNADOR": {
+      "total": 1,
+      "total_municipio": 8812,
+      "candidatos": {
+        "Gilberto Vasconcelos": 1
+      },
+      "percentual": 0.011
+    },
+    "SENADOR": {
+      "total": 8,
+      "total_municipio": 17144,
+      "candidatos": {
+        "Evandro De Oliveira": 8
+      },
+      "percentual": 0.047
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 2,
+      "total_municipio": 9270,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 2
+      },
+      "percentual": 0.022
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 9265,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.011
+    }
+  },
+  "1304260": {
+    "nome": "Uarini",
+    "PRESIDENTE": {
+      "total": 2,
+      "total_municipio": 7616,
+      "candidatos": {
+        "Hertz Dias": 2
+      },
+      "percentual": 0.026
+    },
+    "GOVERNADOR": {
+      "total": 0,
+      "total_municipio": 7303,
+      "candidatos": {
+        "Gilberto Vasconcelos": 0
+      },
+      "percentual": 0.0
+    },
+    "SENADOR": {
+      "total": 0,
+      "total_municipio": 14364,
+      "candidatos": {
+        "Evandro De Oliveira": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 7682,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 7645,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.013
+    }
+  },
+  "1304302": {
+    "nome": "Urucará",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 9178,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.011
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 8775,
+      "candidatos": {
+        "Gilberto Vasconcelos": 2
+      },
+      "percentual": 0.023
+    },
+    "SENADOR": {
+      "total": 12,
+      "total_municipio": 16874,
+      "candidatos": {
+        "Evandro De Oliveira": 12
+      },
+      "percentual": 0.071
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 0,
+      "total_municipio": 9160,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.0
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 0,
+      "total_municipio": 9188,
+      "candidatos": {
+        "Tarcísio Leão": 0,
+        "Eneida Vasconcelos": 0
+      },
+      "percentual": 0.0
+    }
+  },
+  "1304401": {
+    "nome": "Urucurituba",
+    "PRESIDENTE": {
+      "total": 1,
+      "total_municipio": 10593,
+      "candidatos": {
+        "Hertz Dias": 1
+      },
+      "percentual": 0.009
+    },
+    "GOVERNADOR": {
+      "total": 2,
+      "total_municipio": 10068,
+      "candidatos": {
+        "Gilberto Vasconcelos": 2
+      },
+      "percentual": 0.02
+    },
+    "SENADOR": {
+      "total": 9,
+      "total_municipio": 19483,
+      "candidatos": {
+        "Evandro De Oliveira": 9
+      },
+      "percentual": 0.046
+    },
+    "DEPUTADO FEDERAL": {
+      "total": 1,
+      "total_municipio": 10561,
+      "candidatos": {
+        "Alexandre Solorzano": 0,
+        "Auxiliadora Castro": 0
+      },
+      "percentual": 0.009
+    },
+    "DEPUTADO ESTADUAL": {
+      "total": 1,
+      "total_municipio": 10565,
+      "candidatos": {
+        "Eneida Vasconcelos": 0,
+        "Tarcísio Leão": 0
+      },
+      "percentual": 0.009
+    }
+  }
+}
